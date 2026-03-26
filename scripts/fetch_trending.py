@@ -26,7 +26,9 @@ PERIODS = {
     "yearly": 365,
 }
 
-PER_PAGE = 30
+PER_PAGE = 100  # max allowed by GitHub API
+MAX_REPOS_TRENDING = 500  # target repos for trending periods
+MAX_REPOS_TOPIC = 500  # target repos for topic queries
 REQUEST_DELAY = 2  # seconds between API calls to respect rate limits
 
 
@@ -71,33 +73,66 @@ def map_repo(item: dict) -> dict:
     }
 
 
-def fetch_repos(query: str) -> tuple[list[dict], int]:
-    """Fetch repos from GitHub search API. Returns (repos, total_count)."""
-    params = {
-        "q": query,
-        "sort": "stars",
-        "order": "desc",
-        "per_page": PER_PAGE,
-    }
+def fetch_repos_paginated(query: str, max_repos: int) -> tuple[list[dict], int]:
+    """Fetch repos from GitHub search API with pagination. Returns (repos, total_count)."""
     headers = get_headers()
+    all_repos = []
+    total_count = 0
+    page = 1
+    # GitHub search API caps at 1000 results; we stop at max_repos
+    max_pages = (max_repos + PER_PAGE - 1) // PER_PAGE
 
-    print(f"  GET {SEARCH_ENDPOINT}?q={query}")
-    resp = requests.get(SEARCH_ENDPOINT, params=params, headers=headers, timeout=30)
+    while page <= max_pages:
+        params = {
+            "q": query,
+            "sort": "stars",
+            "order": "desc",
+            "per_page": PER_PAGE,
+            "page": page,
+        }
 
-    if resp.status_code == 403:
-        # Rate limited — check for retry-after
-        retry_after = int(resp.headers.get("Retry-After", 60))
-        print(f"  Rate limited. Sleeping {retry_after}s...")
-        time.sleep(retry_after)
+        print(f"  GET page {page}: {SEARCH_ENDPOINT}?q={query}&page={page}")
         resp = requests.get(SEARCH_ENDPOINT, params=params, headers=headers, timeout=30)
 
-    resp.raise_for_status()
-    data = resp.json()
+        if resp.status_code == 403:
+            retry_after = int(resp.headers.get("Retry-After", 60))
+            print(f"  Rate limited. Sleeping {retry_after}s...")
+            time.sleep(retry_after)
+            resp = requests.get(SEARCH_ENDPOINT, params=params, headers=headers, timeout=30)
 
-    repos = [map_repo(item) for item in data.get("items", [])]
-    total_count = data.get("total_count", 0)
-    print(f"  → {len(repos)} repos (total: {total_count})")
-    return repos, total_count
+        if resp.status_code == 422:
+            # GitHub returns 422 when page is beyond available results
+            print(f"  Page {page} beyond results, stopping.")
+            break
+
+        resp.raise_for_status()
+        data = resp.json()
+
+        items = data.get("items", [])
+        if not items:
+            break
+
+        if page == 1:
+            total_count = data.get("total_count", 0)
+
+        all_repos.extend(map_repo(item) for item in items)
+        print(f"  → page {page}: {len(items)} repos (accumulated: {len(all_repos)})")
+
+        # Stop if we got fewer items than requested (last page)
+        if len(items) < PER_PAGE:
+            break
+
+        # Stop if we've reached our target
+        if len(all_repos) >= max_repos:
+            break
+
+        page += 1
+        time.sleep(REQUEST_DELAY)
+
+    # Trim to max
+    all_repos = all_repos[:max_repos]
+    print(f"  Total fetched: {len(all_repos)} repos (API total: {total_count})")
+    return all_repos, total_count
 
 
 def write_json(filepath: str, data: dict):
@@ -116,7 +151,7 @@ def fetch_trending_periods():
         print(f"\nFetching trending-{period_name} (last {days_back} days)...")
         date = since_date(days_back)
         query = f"stars:>5 created:>{date} sort:stars"
-        repos, total_count = fetch_repos(query)
+        repos, total_count = fetch_repos_paginated(query, MAX_REPOS_TRENDING)
 
         write_json(
             os.path.join(DATA_DIR, f"trending-{period_name}.json"),
@@ -138,7 +173,7 @@ def fetch_topic_repos(topics: list[str]):
     for topic in topics:
         print(f"\nFetching topic: {topic}...")
         query = f"topic:{topic} stars:>5 created:>{date} sort:stars"
-        repos, total_count = fetch_repos(query)
+        repos, total_count = fetch_repos_paginated(query, MAX_REPOS_TOPIC)
 
         write_json(
             os.path.join(DATA_DIR, "topics", f"{topic}.json"),
@@ -168,6 +203,7 @@ def write_index(topics: list[str]):
 def main():
     print("=== GitHub Trending Cache Updater ===")
     print(f"Output dir: {DATA_DIR}")
+    print(f"Target: {MAX_REPOS_TRENDING} repos/period, {MAX_REPOS_TOPIC} repos/topic")
 
     # Load topics
     with open(TOPICS_FILE, "r", encoding="utf-8") as f:
