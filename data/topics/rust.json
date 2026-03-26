@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T11:05:48Z",
+  "generatedAt": "2026-03-26T11:38:16Z",
   "topic": "rust",
   "totalCount": 17,
   "repos": [
@@ -10,7 +10,7 @@
       "description": "Hybrid Context Optimizer — Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero dependencies.",
       "url": "https://github.com/yvgude/lean-ctx",
       "stargazerCount": 179,
-      "forkCount": 20,
+      "forkCount": 21,
       "languageName": "Rust",
       "languageColor": null,
       "ownerLogin": "yvgude",
@@ -272,7 +272,7 @@
       "nameWithOwner": "ivov/lisette",
       "description": "A little language inspired by Rust that compiles to Go",
       "url": "https://github.com/ivov/lisette",
-      "stargazerCount": 15,
+      "stargazerCount": 17,
       "forkCount": 0,
       "languageName": "Rust",
       "languageColor": null,
@@ -280,7 +280,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/44588767?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-21T14:02:38Z",
-      "updatedAt": "2026-03-25T19:21:04Z",
+      "updatedAt": "2026-03-26T11:29:00Z",
       "licenseName": "MIT",
       "topics": [
         "compiler",

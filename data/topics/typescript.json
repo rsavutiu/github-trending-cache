@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-26T11:05:48Z",
+  "generatedAt": "2026-03-26T11:38:16Z",
   "topic": "typescript",
-  "totalCount": 29,
+  "totalCount": 30,
   "repos": [
     {
       "id": "1188856123",
@@ -70,7 +70,7 @@
         "voice-messages",
         "whisper"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 2,
       "closedIssuesCount": 0
     },
     {
@@ -491,6 +491,33 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1188641156",
+      "name": "commitmentissues",
+      "nameWithOwner": "dotsystemsdevs/commitmentissues",
+      "description": "Official death certificates for abandoned GitHub repos.",
+      "url": "https://github.com/dotsystemsdevs/commitmentissues",
+      "stargazerCount": 11,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "dotsystemsdevs",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/250529284?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-03-22T11:31:53Z",
+      "updatedAt": "2026-03-26T11:33:00Z",
+      "licenseName": "MIT",
+      "topics": [
+        "github-api",
+        "nextjs",
+        "stripe",
+        "tailwindcss",
+        "typescript",
+        "vercel"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1190312291",
       "name": "agpair",
       "nameWithOwner": "logicrw/agpair",
@@ -590,33 +617,6 @@
         "video-editing",
         "vidu",
         "xiaohongshu"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1188641156",
-      "name": "commitmentissues",
-      "nameWithOwner": "dotsystemsdevs/commitmentissues",
-      "description": "Official death certificates for abandoned GitHub repos.",
-      "url": "https://github.com/dotsystemsdevs/commitmentissues",
-      "stargazerCount": 10,
-      "forkCount": 0,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "dotsystemsdevs",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/250529284?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-03-22T11:31:53Z",
-      "updatedAt": "2026-03-26T11:04:28Z",
-      "licenseName": "MIT",
-      "topics": [
-        "github-api",
-        "nextjs",
-        "stripe",
-        "tailwindcss",
-        "typescript",
-        "vercel"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -794,6 +794,37 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1189287958",
+      "name": "workslocal",
+      "nameWithOwner": "083chandan/workslocal",
+      "description": "Free, open-source localhost tunneling with catch mode and web inspector. ngrok alternative.",
+      "url": "https://github.com/083chandan/workslocal",
+      "stargazerCount": 8,
+      "forkCount": 2,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "083chandan",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/22635624?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-03-23T06:59:17Z",
+      "updatedAt": "2026-03-26T09:07:41Z",
+      "licenseName": "MIT",
+      "topics": [
+        "cli",
+        "cloudflare-workers",
+        "developer-tools",
+        "inspector",
+        "localhost",
+        "ngrok",
+        "open-source",
+        "tunnel",
+        "typescript",
+        "webhook"
+      ],
+      "openIssuesCount": 4,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1186863115",
       "name": "openfused",
       "nameWithOwner": "openfused/openfused",
@@ -827,37 +858,6 @@
         "typescript"
       ],
       "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1189287958",
-      "name": "workslocal",
-      "nameWithOwner": "083chandan/workslocal",
-      "description": "Free, open-source localhost tunneling with catch mode and web inspector. ngrok alternative.",
-      "url": "https://github.com/083chandan/workslocal",
-      "stargazerCount": 8,
-      "forkCount": 2,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "083chandan",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/22635624?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-03-23T06:59:17Z",
-      "updatedAt": "2026-03-26T09:07:41Z",
-      "licenseName": "MIT",
-      "topics": [
-        "cli",
-        "cloudflare-workers",
-        "developer-tools",
-        "inspector",
-        "localhost",
-        "ngrok",
-        "open-source",
-        "tunnel",
-        "typescript",
-        "webhook"
-      ],
-      "openIssuesCount": 4,
       "closedIssuesCount": 0
     },
     {
@@ -929,6 +929,45 @@
         "second-brain",
         "terminal",
         "typescript"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1189016948",
+      "name": "resonant-mind",
+      "nameWithOwner": "codependentai/resonant-mind",
+      "description": "Persistent cognitive infrastructure for AI systems. 27 MCP tools — semantic memory, emotional processing, identity continuity, and a subconscious daemon. Built on Cloudflare Workers.",
+      "url": "https://github.com/codependentai/resonant-mind",
+      "stargazerCount": 6,
+      "forkCount": 2,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "codependentai",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/268370736?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-03-22T22:04:59Z",
+      "updatedAt": "2026-03-26T11:26:53Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "ai-agent",
+        "ai-companion",
+        "ai-identity",
+        "ai-memory",
+        "cloudflare-workers",
+        "cognitive-architecture",
+        "emotional-processing",
+        "gemini",
+        "knowledge-graph",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "open-source",
+        "relational-ai",
+        "self-hosted",
+        "semantic-search",
+        "typescript",
+        "vector-search"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

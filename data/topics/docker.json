@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T11:05:48Z",
+  "generatedAt": "2026-03-26T11:38:16Z",
   "topic": "docker",
   "totalCount": 12,
   "repos": [
@@ -41,15 +41,15 @@
       "nameWithOwner": "CoderLuii/HolyClaude",
       "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
       "url": "https://github.com/CoderLuii/HolyClaude",
-      "stargazerCount": 567,
-      "forkCount": 63,
+      "stargazerCount": 578,
+      "forkCount": 64,
       "languageName": "Dockerfile",
       "languageColor": null,
       "ownerLogin": "CoderLuii",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/203967356?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-22T01:03:18Z",
-      "updatedAt": "2026-03-26T11:02:08Z",
+      "updatedAt": "2026-03-26T11:32:30Z",
       "licenseName": "MIT",
       "topics": [
         "ai",
@@ -85,7 +85,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/270050004?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-03-22T03:39:57Z",
-      "updatedAt": "2026-03-26T11:02:40Z",
+      "updatedAt": "2026-03-26T11:09:30Z",
       "licenseName": "MIT",
       "topics": [
         "ai-chatbot",
@@ -103,7 +103,7 @@
         "wechat-automation",
         "wechat-bot"
       ],
-      "openIssuesCount": 7,
+      "openIssuesCount": 6,
       "closedIssuesCount": 0
     },
     {

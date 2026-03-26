@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-26T11:05:48Z",
+  "generatedAt": "2026-03-26T11:38:16Z",
   "topic": "go",
-  "totalCount": 9,
+  "totalCount": 10,
   "repos": [
     {
       "id": "1188287101",
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/270013658?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-03-21T21:43:49Z",
-      "updatedAt": "2026-03-26T09:51:12Z",
+      "updatedAt": "2026-03-26T11:30:49Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "acme",
@@ -88,7 +88,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4442708?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-20T15:39:20Z",
-      "updatedAt": "2026-03-26T10:29:46Z",
+      "updatedAt": "2026-03-26T11:37:40Z",
       "licenseName": null,
       "topics": [
         "cli",
@@ -140,7 +140,7 @@
       "nameWithOwner": "ivov/lisette",
       "description": "A little language inspired by Rust that compiles to Go",
       "url": "https://github.com/ivov/lisette",
-      "stargazerCount": 15,
+      "stargazerCount": 17,
       "forkCount": 0,
       "languageName": "Rust",
       "languageColor": null,
@@ -148,7 +148,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/44588767?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-21T14:02:38Z",
-      "updatedAt": "2026-03-25T19:21:04Z",
+      "updatedAt": "2026-03-26T11:29:00Z",
       "licenseName": "MIT",
       "topics": [
         "compiler",
@@ -157,6 +157,35 @@
         "rust"
       ],
       "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1188353940",
+      "name": "scrumboy",
+      "nameWithOwner": "markrai/scrumboy",
+      "description": "a self-hosted project management & Kanban solution + Instant shareable boards",
+      "url": "https://github.com/markrai/scrumboy",
+      "stargazerCount": 12,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "markrai",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/28987673?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-03-22T00:37:42Z",
+      "updatedAt": "2026-03-26T11:26:53Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "agile",
+        "go",
+        "golang",
+        "kanban",
+        "project-management",
+        "pwa",
+        "scrum",
+        "sqlite"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T11:05:48Z",
+  "generatedAt": "2026-03-26T11:38:16Z",
   "topic": "machine-learning",
   "totalCount": 8,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "alvinunreal/awesome-opensource-ai",
       "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
       "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-      "stargazerCount": 427,
-      "forkCount": 35,
+      "stargazerCount": 458,
+      "forkCount": 37,
       "languageName": null,
       "languageColor": null,
       "ownerLogin": "alvinunreal",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/204474669?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-24T15:58:22Z",
-      "updatedAt": "2026-03-26T11:05:13Z",
+      "updatedAt": "2026-03-26T11:37:18Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "agents",
@@ -33,7 +33,7 @@
         "open-source-ai",
         "rag"
       ],
-      "openIssuesCount": 2,
+      "openIssuesCount": 3,
       "closedIssuesCount": 0
     },
     {
@@ -155,15 +155,15 @@
       "nameWithOwner": "OnlyTerp/turboquant",
       "description": "First open-source implementation of Google TurboQuant (ICLR 2026) -- near-optimal KV cache compression for LLM inference. 5x compression with near-zero quality loss.",
       "url": "https://github.com/OnlyTerp/turboquant",
-      "stargazerCount": 18,
-      "forkCount": 1,
+      "stargazerCount": 20,
+      "forkCount": 2,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "OnlyTerp",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-25T10:11:04Z",
-      "updatedAt": "2026-03-26T11:04:25Z",
+      "updatedAt": "2026-03-26T11:29:07Z",
       "licenseName": "MIT",
       "topics": [
         "attention",

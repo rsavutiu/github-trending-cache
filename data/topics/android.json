@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T11:05:48Z",
+  "generatedAt": "2026-03-26T11:38:16Z",
   "topic": "android",
   "totalCount": 11,
   "repos": [
@@ -123,6 +123,33 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1187619444",
+      "name": "CloneTTS",
+      "nameWithOwner": "sipeter/CloneTTS",
+      "description": "A lightweight, offline Android Text-to-Speech (TTS) engine enabling seamless system-wide voice cloning and high-fidelity text reading. / 运行在安卓本地的轻量级文字转语音 (TTS) 引擎，支持离线发音人提取、零门槛音色克隆与双擎系统级全局听书。",
+      "url": "https://github.com/sipeter/CloneTTS",
+      "stargazerCount": 37,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "sipeter",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/8326141?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-03-21T00:01:04Z",
+      "updatedAt": "2026-03-26T11:37:27Z",
+      "licenseName": null,
+      "topics": [
+        "android",
+        "offline-tts",
+        "reader",
+        "text-to-speech",
+        "tts",
+        "voice-cloning"
+      ],
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1188370478",
       "name": "proxy-turn-vk-android",
       "nameWithOwner": "amurcanov/proxy-turn-vk-android",
@@ -160,33 +187,6 @@
         "wireguard"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1187619444",
-      "name": "CloneTTS",
-      "nameWithOwner": "sipeter/CloneTTS",
-      "description": "A lightweight, offline Android Text-to-Speech (TTS) engine enabling seamless system-wide voice cloning and high-fidelity text reading. / 运行在安卓本地的轻量级文字转语音 (TTS) 引擎，支持离线发音人提取、零门槛音色克隆与双擎系统级全局听书。",
-      "url": "https://github.com/sipeter/CloneTTS",
-      "stargazerCount": 21,
-      "forkCount": 0,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "sipeter",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/8326141?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-03-21T00:01:04Z",
-      "updatedAt": "2026-03-26T04:17:52Z",
-      "licenseName": null,
-      "topics": [
-        "android",
-        "offline-tts",
-        "reader",
-        "text-to-speech",
-        "tts",
-        "voice-cloning"
-      ],
-      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {

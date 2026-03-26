@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T11:05:48Z",
+  "generatedAt": "2026-03-26T11:38:16Z",
   "topic": "flutter",
   "totalCount": 3,
   "repos": [
@@ -48,7 +48,7 @@
       "nameWithOwner": "mimusic-org/frontend",
       "description": "MiMusic 跨平台客户端 支持 Web/Android/iOS/MacOS/Windows/Linux 6 个平台",
       "url": "https://github.com/mimusic-org/frontend",
-      "stargazerCount": 22,
+      "stargazerCount": 23,
       "forkCount": 2,
       "languageName": "Dart",
       "languageColor": null,
@@ -56,7 +56,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/259799741?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-03-21T06:41:35Z",
-      "updatedAt": "2026-03-26T10:16:00Z",
+      "updatedAt": "2026-03-26T11:38:07Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "apk",

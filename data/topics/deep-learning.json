@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T11:05:48Z",
+  "generatedAt": "2026-03-26T11:38:16Z",
   "topic": "deep-learning",
   "totalCount": 7,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "OnlyTerp/turboquant",
       "description": "First open-source implementation of Google TurboQuant (ICLR 2026) -- near-optimal KV cache compression for LLM inference. 5x compression with near-zero quality loss.",
       "url": "https://github.com/OnlyTerp/turboquant",
-      "stargazerCount": 18,
-      "forkCount": 1,
+      "stargazerCount": 20,
+      "forkCount": 2,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "OnlyTerp",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-25T10:11:04Z",
-      "updatedAt": "2026-03-26T11:04:25Z",
+      "updatedAt": "2026-03-26T11:29:07Z",
       "licenseName": "MIT",
       "topics": [
         "attention",
@@ -46,7 +46,7 @@
       "nameWithOwner": "lucidrains/fast-weight-attention",
       "description": "Implementation of Fast Weight Attention",
       "url": "https://github.com/lucidrains/fast-weight-attention",
-      "stargazerCount": 16,
+      "stargazerCount": 17,
       "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
@@ -54,7 +54,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-25T14:08:20Z",
-      "updatedAt": "2026-03-26T07:48:55Z",
+      "updatedAt": "2026-03-26T11:16:44Z",
       "licenseName": "MIT",
       "topics": [
         "artificial-intelligence",

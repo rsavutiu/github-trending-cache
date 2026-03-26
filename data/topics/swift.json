@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T11:05:48Z",
+  "generatedAt": "2026-03-26T11:38:16Z",
   "topic": "swift",
   "totalCount": 9,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "marswaveai/TypeNo",
       "description": "A free, open source, privacy-first voice input app for macOS.",
       "url": "https://github.com/marswaveai/TypeNo",
-      "stargazerCount": 661,
+      "stargazerCount": 662,
       "forkCount": 50,
       "languageName": "Swift",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/187894162?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-03-24T09:15:02Z",
-      "updatedAt": "2026-03-26T10:57:09Z",
+      "updatedAt": "2026-03-26T11:12:30Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "accessibility",
@@ -123,7 +123,7 @@
       "nameWithOwner": "everettjf/liney",
       "description": "Liney is a native macOS terminal workspace built with AppKit, SwiftUI, and Ghostty, designed for multi-repo workflows, worktree switching, and focused vibe coding.",
       "url": "https://github.com/everettjf/liney",
-      "stargazerCount": 51,
+      "stargazerCount": 52,
       "forkCount": 6,
       "languageName": "Swift",
       "languageColor": null,
@@ -131,7 +131,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1665109?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-21T06:20:26Z",
-      "updatedAt": "2026-03-26T10:50:36Z",
+      "updatedAt": "2026-03-26T11:15:12Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ghostty",
@@ -156,7 +156,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/258112064?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-24T19:07:22Z",
-      "updatedAt": "2026-03-26T08:46:54Z",
+      "updatedAt": "2026-03-26T11:14:48Z",
       "licenseName": "MIT",
       "topics": [
         "apple-intelligence",
@@ -169,7 +169,7 @@
         "on-device",
         "swift"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -238,7 +238,7 @@
         "swift",
         "web-automation"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
