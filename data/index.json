@@ -1,0 +1,31 @@
+{
+  "lastUpdated": "2026-03-26T11:06:41Z",
+  "availableTopics": [
+    "kotlin",
+    "android",
+    "java",
+    "python",
+    "javascript",
+    "typescript",
+    "rust",
+    "go",
+    "swift",
+    "flutter",
+    "react",
+    "vue",
+    "nextjs",
+    "machine-learning",
+    "deep-learning",
+    "data-science",
+    "docker",
+    "kubernetes",
+    "devops",
+    "web"
+  ],
+  "periods": [
+    "daily",
+    "weekly",
+    "monthly",
+    "yearly"
+  ]
+}
