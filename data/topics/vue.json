@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T11:38:16Z",
+  "generatedAt": "2026-03-27T05:51:07Z",
   "topic": "vue",
   "totalCount": 3,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "liyupi/free-video-downloader",
       "description": "2026 年编程导航 AI 编程实战新项目，基于 Vue 3 + FastAPI + yt-dlp + DeepSeek + Stripe 的 AI 万能视频下载总结器，支持 1800+ 平台视频下载、AI 视频总结摘要、思维导图生成、AI 问答、字幕导出、Stripe 国际支付。覆盖 SSE 流式传输、JWT 认证、SEO/GEO 优化。用一套教程掌握 AI 编程全流程，从需求分析到商业变现，不到一周学完，给你的简历增加竞争力",
       "url": "https://github.com/liyupi/free-video-downloader",
-      "stargazerCount": 48,
-      "forkCount": 8,
+      "stargazerCount": 53,
+      "forkCount": 10,
       "languageName": "Vue",
       "languageColor": null,
       "ownerLogin": "liyupi",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/26037703?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-23T06:19:11Z",
-      "updatedAt": "2026-03-26T08:09:08Z",
+      "updatedAt": "2026-03-27T03:08:38Z",
       "licenseName": null,
       "topics": [
         "ai",
@@ -77,7 +77,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/56796338?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-23T11:46:14Z",
-      "updatedAt": "2026-03-26T05:23:23Z",
+      "updatedAt": "2026-03-27T05:23:08Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "agent",

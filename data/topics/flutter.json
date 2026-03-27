@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T11:38:16Z",
+  "generatedAt": "2026-03-27T05:51:07Z",
   "topic": "flutter",
   "totalCount": 3,
   "repos": [
@@ -10,7 +10,7 @@
       "description": "CLI for App Store review checks on iOS, Flutter, and React Native apps.",
       "url": "https://github.com/yunusemreyakisan/preflight",
       "stargazerCount": 39,
-      "forkCount": 6,
+      "forkCount": 7,
       "languageName": "TypeScript",
       "languageColor": null,
       "ownerLogin": "yunusemreyakisan",
@@ -48,15 +48,15 @@
       "nameWithOwner": "mimusic-org/frontend",
       "description": "MiMusic 跨平台客户端 支持 Web/Android/iOS/MacOS/Windows/Linux 6 个平台",
       "url": "https://github.com/mimusic-org/frontend",
-      "stargazerCount": 23,
-      "forkCount": 2,
+      "stargazerCount": 31,
+      "forkCount": 4,
       "languageName": "Dart",
       "languageColor": null,
       "ownerLogin": "mimusic-org",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/259799741?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-03-21T06:41:35Z",
-      "updatedAt": "2026-03-26T11:38:07Z",
+      "updatedAt": "2026-03-27T05:00:32Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "apk",
@@ -68,7 +68,7 @@
         "music",
         "xiaomusic"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 2,
       "closedIssuesCount": 0
     },
     {
@@ -77,7 +77,7 @@
       "nameWithOwner": "HassamSheikh/dynos-sync",
       "description": "🛡️ Production-hardened, high-performance sync engine for Dart & Flutter. Built for 50k+ writes/sec, delta-pulls, and zero-jank offline-first reliability.",
       "url": "https://github.com/HassamSheikh/dynos-sync",
-      "stargazerCount": 9,
+      "stargazerCount": 13,
       "forkCount": 0,
       "languageName": "Dart",
       "languageColor": null,
@@ -85,7 +85,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14977009?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-21T03:35:32Z",
-      "updatedAt": "2026-03-25T12:15:20Z",
+      "updatedAt": "2026-03-27T02:34:24Z",
       "licenseName": "MIT",
       "topics": [
         "dart",

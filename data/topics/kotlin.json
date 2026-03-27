@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-26T11:38:16Z",
+  "generatedAt": "2026-03-27T05:51:07Z",
   "topic": "kotlin",
-  "totalCount": 5,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1188370478",
@@ -9,7 +9,7 @@
       "nameWithOwner": "amurcanov/proxy-turn-vk-android",
       "description": "WireGuard‑туннель через DTLS‑медиарелей ВК TURN‑серверов: трафик проходит от клиента к вашему личному VPS‑серверу через промежуточные медиарелей‑серверы ВК.",
       "url": "https://github.com/amurcanov/proxy-turn-vk-android",
-      "stargazerCount": 28,
+      "stargazerCount": 30,
       "forkCount": 1,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/222097921?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-22T01:23:43Z",
-      "updatedAt": "2026-03-26T06:11:41Z",
+      "updatedAt": "2026-03-26T18:46:27Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "android",
@@ -57,7 +57,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5742579?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-22T11:09:41Z",
-      "updatedAt": "2026-03-26T08:32:56Z",
+      "updatedAt": "2026-03-26T15:30:15Z",
       "licenseName": "MIT",
       "topics": [
         "android",
@@ -66,33 +66,6 @@
         "kotlin-library",
         "material-design",
         "material-ui"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1187018728",
-      "name": "javable",
-      "nameWithOwner": "kpavlov/javable",
-      "description": "Kotlin-Java interoperability wrapper generators",
-      "url": "https://github.com/kpavlov/javable",
-      "stargazerCount": 8,
-      "forkCount": 0,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "kpavlov",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1517853?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-03-20T08:48:00Z",
-      "updatedAt": "2026-03-22T02:46:24Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "interop",
-        "interoperability",
-        "kotlin",
-        "kotlin-java",
-        "ksp",
-        "ksp2"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -137,7 +110,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9083456?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-21T13:27:11Z",
-      "updatedAt": "2026-03-26T09:14:33Z",
+      "updatedAt": "2026-03-26T23:23:49Z",
       "licenseName": "MIT",
       "topics": [
         "gradle",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T11:38:16Z",
+  "generatedAt": "2026-03-27T05:51:07Z",
   "topic": "kubernetes",
   "totalCount": 2,
   "repos": [
@@ -50,7 +50,7 @@
       "nameWithOwner": "kubewaf-io/kubewaf",
       "description": "Protect your Kubernetes workloads with ModSecurity-compatible rules and OWASP Core Rule Set (CRS) using native Kubernetes CRDs.",
       "url": "https://github.com/kubewaf-io/kubewaf",
-      "stargazerCount": 7,
+      "stargazerCount": 9,
       "forkCount": 1,
       "languageName": "Go",
       "languageColor": null,
@@ -58,7 +58,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/269678461?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-03-24T08:19:33Z",
-      "updatedAt": "2026-03-25T16:35:29Z",
+      "updatedAt": "2026-03-26T20:43:35Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "coraza",
