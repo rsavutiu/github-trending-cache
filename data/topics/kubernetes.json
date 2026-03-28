@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-03-27T05:51:07Z",
+  "generatedAt": "2026-03-28T05:35:46Z",
   "topic": "kubernetes",
-  "totalCount": 2,
+  "totalCount": 3,
   "repos": [
+    {
+      "id": "1190377205",
+      "name": "kubewaf",
+      "nameWithOwner": "kubewaf-io/kubewaf",
+      "description": "Protect your Kubernetes workloads with ModSecurity-compatible rules and OWASP Core Rule Set (CRS) using native Kubernetes CRDs.",
+      "url": "https://github.com/kubewaf-io/kubewaf",
+      "stargazerCount": 10,
+      "forkCount": 1,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "kubewaf-io",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/269678461?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-03-24T08:19:33Z",
+      "updatedAt": "2026-03-28T01:15:15Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "coraza",
+        "envoy",
+        "gateway-api",
+        "kubernetes",
+        "modsecurity",
+        "waf"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1188842640",
       "name": "k8s-staying-current",
@@ -45,30 +72,32 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1190377205",
-      "name": "kubewaf",
-      "nameWithOwner": "kubewaf-io/kubewaf",
-      "description": "Protect your Kubernetes workloads with ModSecurity-compatible rules and OWASP Core Rule Set (CRS) using native Kubernetes CRDs.",
-      "url": "https://github.com/kubewaf-io/kubewaf",
-      "stargazerCount": 9,
-      "forkCount": 1,
+      "id": "1188491960",
+      "name": "kwatch",
+      "nameWithOwner": "tituscarl/kwatch",
+      "description": "A terminal UI for monitoring Kubernetes services.  Get instant visibility into your K8s pods, deployments, and more - right in your terminal.",
+      "url": "https://github.com/tituscarl/kwatch",
+      "stargazerCount": 7,
+      "forkCount": 0,
       "languageName": "Go",
       "languageColor": null,
-      "ownerLogin": "kubewaf-io",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/269678461?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-03-24T08:19:33Z",
-      "updatedAt": "2026-03-26T20:43:35Z",
+      "ownerLogin": "tituscarl",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/60377979?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-03-22T06:33:31Z",
+      "updatedAt": "2026-03-28T03:29:16Z",
       "licenseName": "Apache-2.0",
       "topics": [
-        "coraza",
-        "envoy",
-        "gateway-api",
+        "cli",
+        "gke",
+        "k8s",
+        "kubectl",
         "kubernetes",
-        "modsecurity",
-        "waf"
+        "monitoring",
+        "observability",
+        "tui"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]
