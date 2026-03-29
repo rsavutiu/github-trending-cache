@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-28T05:35:46Z",
+  "generatedAt": "2026-03-29T05:51:31Z",
   "topic": "vue",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1189261387",
@@ -10,14 +10,14 @@
       "description": "2026 年编程导航 AI 编程实战新项目，基于 Vue 3 + FastAPI + yt-dlp + DeepSeek + Stripe 的 AI 万能视频下载总结器，支持 1800+ 平台视频下载、AI 视频总结摘要、思维导图生成、AI 问答、字幕导出、Stripe 国际支付。覆盖 SSE 流式传输、JWT 认证、SEO/GEO 优化。用一套教程掌握 AI 编程全流程，从需求分析到商业变现，不到一周学完，给你的简历增加竞争力",
       "url": "https://github.com/liyupi/free-video-downloader",
       "stargazerCount": 57,
-      "forkCount": 10,
+      "forkCount": 12,
       "languageName": "Vue",
       "languageColor": null,
       "ownerLogin": "liyupi",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/26037703?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-23T06:19:11Z",
-      "updatedAt": "2026-03-28T04:25:48Z",
+      "updatedAt": "2026-03-29T02:51:44Z",
       "licenseName": null,
       "topics": [
         "ai",
@@ -42,7 +42,7 @@
       "nameWithOwner": "Haruhiyuki/DesignCode",
       "description": "Agent-powered graphic design workbench that uses HTML/CSS/SVG as the design medium, supporting vector-quality output, editable elements, multi-layer PSD export, lossless text rendering, and other production-grade features.",
       "url": "https://github.com/Haruhiyuki/DesignCode",
-      "stargazerCount": 14,
+      "stargazerCount": 17,
       "forkCount": 0,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -50,7 +50,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/56796338?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-23T11:46:14Z",
-      "updatedAt": "2026-03-28T03:02:41Z",
+      "updatedAt": "2026-03-28T17:19:38Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "agent",
@@ -74,33 +74,6 @@
         "windows"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1189062813",
-      "name": "laravel-blade-islands",
-      "nameWithOwner": "eznix86/laravel-blade-islands",
-      "description": "🏝️ of React/Vue/Svelte in Your Laravel Blade",
-      "url": "https://github.com/eznix86/laravel-blade-islands",
-      "stargazerCount": 13,
-      "forkCount": 1,
-      "languageName": "PHP",
-      "languageColor": null,
-      "ownerLogin": "eznix86",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/26553194?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-03-22T23:52:22Z",
-      "updatedAt": "2026-03-25T12:43:26Z",
-      "licenseName": "MIT",
-      "topics": [
-        "blade",
-        "islands",
-        "laravel",
-        "react",
-        "svelte",
-        "vue"
-      ],
-      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]

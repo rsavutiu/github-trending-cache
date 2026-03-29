@@ -1,41 +1,6 @@
 {
-  "generatedAt": "2026-03-28T05:35:46Z",
+  "generatedAt": "2026-03-29T05:51:31Z",
   "topic": "java",
-  "totalCount": 1,
-  "repos": [
-    {
-      "id": "1188833097",
-      "name": "tinyapk-lab",
-      "nameWithOwner": "Promastergame/tinyapk-lab",
-      "description": "Build ultra-small Android APKs (12–50KB) without Gradle. Learn how Android works under the hood.",
-      "url": "https://github.com/Promastergame/tinyapk-lab",
-      "stargazerCount": 16,
-      "forkCount": 2,
-      "languageName": "Java",
-      "languageColor": null,
-      "ownerLogin": "Promastergame",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/233104676?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-03-22T16:40:32Z",
-      "updatedAt": "2026-03-27T06:59:05Z",
-      "licenseName": "MIT",
-      "topics": [
-        "aapt2",
-        "android",
-        "apk",
-        "d8",
-        "gamedev",
-        "java",
-        "low-level",
-        "minimal",
-        "no-gradle",
-        "r8",
-        "sandbox",
-        "tetris",
-        "tiny"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    }
-  ]
+  "totalCount": 0,
+  "repos": []
 }

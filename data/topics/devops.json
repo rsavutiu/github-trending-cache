@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-28T05:35:46Z",
+  "generatedAt": "2026-03-29T05:51:31Z",
   "topic": "devops",
-  "totalCount": 7,
+  "totalCount": 6,
   "repos": [
     {
       "id": "1190117234",
@@ -9,7 +9,7 @@
       "nameWithOwner": "papadopouloskyriakos/agentic-chatops",
       "description": "3-tier agentic ChatOps (n8n + GPT-4o + Claude Code) implementing all 21 patterns from \"Agentic Design Patterns\" — solo operator managing 137 devices",
       "url": "https://github.com/papadopouloskyriakos/agentic-chatops",
-      "stargazerCount": 78,
+      "stargazerCount": 83,
       "forkCount": 18,
       "languageName": "Shell",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/37277364?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-24T01:32:04Z",
-      "updatedAt": "2026-03-28T04:01:21Z",
+      "updatedAt": "2026-03-29T04:27:10Z",
       "licenseName": null,
       "topics": [
         "agentic-ai",
@@ -66,45 +66,12 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1188897444",
-      "name": "specter",
-      "nameWithOwner": "ghostwright/specter",
-      "description": "Deploy AI agents to dedicated VMs in 90 seconds. Interactive TUI. Automatic DNS and TLS. You own the infrastructure.",
-      "url": "https://github.com/ghostwright/specter",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "ghostwright",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/262488619?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-03-22T18:21:17Z",
-      "updatedAt": "2026-03-28T05:33:21Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "ai-agents",
-        "ai-deployment",
-        "automation",
-        "bubbletea",
-        "cli",
-        "deployment",
-        "devops",
-        "go",
-        "hetzner",
-        "infrastructure",
-        "terminal-ui",
-        "vm-provisioning"
-      ],
-      "openIssuesCount": 8,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1193648808",
       "name": "antrieb-mcp-server",
       "nameWithOwner": "jade-pico/antrieb-mcp-server",
       "description": "MCP server that validates AI-generated infra code on real VMs and self-corrects until it works. ",
       "url": "https://github.com/jade-pico/antrieb-mcp-server",
-      "stargazerCount": 7,
+      "stargazerCount": 10,
       "forkCount": 1,
       "languageName": null,
       "languageColor": null,
@@ -112,9 +79,11 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/271523263?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-27T12:54:38Z",
-      "updatedAt": "2026-03-28T03:28:28Z",
+      "updatedAt": "2026-03-28T21:33:43Z",
       "licenseName": "Apache-2.0",
       "topics": [
+        "ai-agents",
+        "ai-safety",
         "ansible",
         "devops",
         "infrastructure",
@@ -157,6 +126,39 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1192147333",
+      "name": "dockscope",
+      "nameWithOwner": "ManuelR-T/dockscope",
+      "description": "Visual, interactive Docker infrastructure debugger — 3D dependency graph with live health, logs, and metrics",
+      "url": "https://github.com/ManuelR-T/dockscope",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Svelte",
+      "languageColor": null,
+      "ownerLogin": "ManuelR-T",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/105550975?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-03-25T23:56:07Z",
+      "updatedAt": "2026-03-29T04:01:30Z",
+      "licenseName": "MIT",
+      "topics": [
+        "3d",
+        "cli",
+        "containers",
+        "debugging",
+        "devops",
+        "docker",
+        "docker-compose",
+        "infrastructure",
+        "monitoring",
+        "svelte",
+        "threejs",
+        "visualization"
+      ],
+      "openIssuesCount": 22,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1190433886",
       "name": "terraclaim",
       "nameWithOwner": "andrewbakercloudscale/terraclaim",
@@ -180,35 +182,6 @@
         "terraform-import"
       ],
       "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1188349759",
-      "name": "pleng",
-      "nameWithOwner": "mutonby/pleng",
-      "description": "Your AI Platform Engineer. Self-hosted cloud built for AI agents — deploy, monitor, and operate your infrastructure through natural language. One VPS. One command.",
-      "url": "https://github.com/mutonby/pleng",
-      "stargazerCount": 6,
-      "forkCount": 2,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "mutonby",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/30499505?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-03-22T00:25:39Z",
-      "updatedAt": "2026-03-28T04:16:46Z",
-      "licenseName": "AGPL-3.0",
-      "topics": [
-        "ai-agents",
-        "devops",
-        "docker-compose",
-        "open-source",
-        "paas",
-        "platform-engineering",
-        "self-hosted",
-        "telegrambot"
-      ],
-      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]
