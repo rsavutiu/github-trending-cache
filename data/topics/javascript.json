@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T06:07:10Z",
+  "generatedAt": "2026-03-31T05:53:47Z",
   "topic": "javascript",
   "totalCount": 9,
   "repos": [
@@ -44,7 +44,7 @@
       "nameWithOwner": "djdevil/AlertTicker-Card",
       "description": "A custom Lovelace card to display alerts and notifications based on entity states.",
       "url": "https://github.com/djdevil/AlertTicker-Card",
-      "stargazerCount": 35,
+      "stargazerCount": 47,
       "forkCount": 2,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -52,7 +52,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/859508?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-28T21:36:30Z",
-      "updatedAt": "2026-03-29T16:37:15Z",
+      "updatedAt": "2026-03-31T03:52:27Z",
       "licenseName": "MIT",
       "topics": [
         "alert",
@@ -69,41 +69,7 @@
         "notification",
         "ticker"
       ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1190670448",
-      "name": "LicensePulse",
-      "nameWithOwner": "diegosantdev/LicensePulse",
-      "description": "OSS license watchdog. Monitors GitHub repos you depend on and alerts you when a license changes, explaining exactly what you can no longer do.",
-      "url": "https://github.com/diegosantdev/LicensePulse",
-      "stargazerCount": 28,
-      "forkCount": 0,
-      "languageName": "JavaScript",
-      "languageColor": null,
-      "ownerLogin": "diegosantdev",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/205955889?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-03-24T14:04:06Z",
-      "updatedAt": "2026-03-30T04:33:30Z",
-      "licenseName": "MIT",
-      "topics": [
-        "cli",
-        "compliance-automation",
-        "dependency-management",
-        "developer-tools",
-        "devtools",
-        "github-actions",
-        "javascript",
-        "license-checker",
-        "license-compliance",
-        "nodejs",
-        "open-source",
-        "security",
-        "spdx"
-      ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 5,
       "closedIssuesCount": 0
     },
     {
@@ -112,7 +78,7 @@
       "nameWithOwner": "AnnaVi11arrea1/job_seeker",
       "description": "To make job hunting more fun and less horrendous.",
       "url": "https://github.com/AnnaVi11arrea1/job_seeker",
-      "stargazerCount": 26,
+      "stargazerCount": 31,
       "forkCount": 2,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -120,7 +86,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/154029176?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-25T20:56:51Z",
-      "updatedAt": "2026-03-29T22:34:16Z",
+      "updatedAt": "2026-03-31T05:27:31Z",
       "licenseName": null,
       "topics": [
         "extension",
@@ -201,7 +167,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/212081418?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-29T15:37:02Z",
-      "updatedAt": "2026-03-30T05:48:17Z",
+      "updatedAt": "2026-03-30T07:33:05Z",
       "licenseName": null,
       "topics": [
         "ai",
@@ -215,6 +181,7 @@
         "javascript",
         "productivity-tool",
         "productivity-tools",
+        "uploader",
         "vuejs"
       ],
       "openIssuesCount": 0,
@@ -226,7 +193,7 @@
       "nameWithOwner": "Ali-dev11/devforge",
       "description": "Production-focused AI-native project scaffolding CLI for JavaScript and TypeScript teams.",
       "url": "https://github.com/Ali-dev11/devforge",
-      "stargazerCount": 10,
+      "stargazerCount": 11,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -234,7 +201,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76833976?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-25T13:29:19Z",
-      "updatedAt": "2026-03-27T17:45:49Z",
+      "updatedAt": "2026-03-30T12:15:54Z",
       "licenseName": "MIT",
       "topics": [
         "ai",
@@ -257,7 +224,38 @@
         "typescript",
         "vite"
       ],
-      "openIssuesCount": 3,
+      "openIssuesCount": 2,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1194754463",
+      "name": "BurpJSReconRadar",
+      "nameWithOwner": "ab2pentest/BurpJSReconRadar",
+      "description": "Burp Suite extension for passive JS reconnaissance - detects 1,600+ secret patterns, API keys, endpoints, and security misconfigurations in HTTP responses in real-time.",
+      "url": "https://github.com/ab2pentest/BurpJSReconRadar",
+      "stargazerCount": 8,
+      "forkCount": 2,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "ab2pentest",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/84577967?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-03-28T19:12:07Z",
+      "updatedAt": "2026-03-31T05:32:11Z",
+      "licenseName": null,
+      "topics": [
+        "api-keys",
+        "bug-bounty",
+        "burp-extension",
+        "burp-suite",
+        "javascript",
+        "passive-scanner",
+        "penetration-testing",
+        "recon",
+        "secret-detection",
+        "security-tools"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {

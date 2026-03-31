@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-30T06:07:10Z",
+  "generatedAt": "2026-03-31T05:53:47Z",
   "topic": "vue",
-  "totalCount": 1,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1193239504",
@@ -9,7 +9,7 @@
       "nameWithOwner": "Stanshy/AgentHub",
       "description": "One person, one software company. Manage 47 AI agents from a single      Electron app — with Harness Engineering (Skills + Hooks +   FileWatchers) for disciplined, traceable AI workflows.",
       "url": "https://github.com/Stanshy/AgentHub",
-      "stargazerCount": 40,
+      "stargazerCount": 44,
       "forkCount": 2,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/214780029?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-27T02:35:14Z",
-      "updatedAt": "2026-03-30T04:59:02Z",
+      "updatedAt": "2026-03-31T05:22:19Z",
       "licenseName": "MIT",
       "topics": [
         "ai-agents",
@@ -32,6 +32,60 @@
         "vue"
       ],
       "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1195706635",
+      "name": "jit-pdf-sdk",
+      "nameWithOwner": "jitOffice/jit-pdf-sdk",
+      "description": "一款可在线预览/编辑/批注PDF文件的SDK",
+      "url": "https://github.com/jitOffice/jit-pdf-sdk",
+      "stargazerCount": 9,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "jitOffice",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/266520924?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-03-30T01:31:11Z",
+      "updatedAt": "2026-03-30T16:20:41Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "pdf",
+        "pdf-editor",
+        "pdf-extractor",
+        "pdf-viewer",
+        "pdfjs",
+        "vue",
+        "vue3"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1193014965",
+      "name": "vite-plugin-vue-middleware",
+      "nameWithOwner": "awdr74100/vite-plugin-vue-middleware",
+      "description": "File-based navigation guards for Vue Router",
+      "url": "https://github.com/awdr74100/vite-plugin-vue-middleware",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "awdr74100",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/47501692?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-03-26T19:38:21Z",
+      "updatedAt": "2026-03-31T02:57:10Z",
+      "licenseName": "MIT",
+      "topics": [
+        "middleware",
+        "vite",
+        "vite-plugin",
+        "vue",
+        "vue-router"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

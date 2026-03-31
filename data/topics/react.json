@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-30T06:07:10Z",
+  "generatedAt": "2026-03-31T05:53:47Z",
   "topic": "react",
-  "totalCount": 10,
+  "totalCount": 9,
   "repos": [
     {
       "id": "1191240966",
@@ -9,7 +9,7 @@
       "nameWithOwner": "veyliss/ai-localbase",
       "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）类型",
       "url": "https://github.com/veyliss/ai-localbase",
-      "stargazerCount": 126,
+      "stargazerCount": 129,
       "forkCount": 18,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/105643199?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-25T03:42:43Z",
-      "updatedAt": "2026-03-30T03:51:02Z",
+      "updatedAt": "2026-03-31T04:52:41Z",
       "licenseName": "MIT",
       "topics": [
         "ai",
@@ -37,15 +37,15 @@
       "nameWithOwner": "Hainrixz/editor-pro-max",
       "description": "AI-powered video editor by @soyenriquerocha — built with Remotion + Claude Code. Describe videos in natural language, get professional MP4s. 25 components, 9 templates, 7 skills.",
       "url": "https://github.com/Hainrixz/editor-pro-max",
-      "stargazerCount": 28,
-      "forkCount": 7,
+      "stargazerCount": 32,
+      "forkCount": 8,
       "languageName": "TypeScript",
       "languageColor": null,
       "ownerLogin": "Hainrixz",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/121574818?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-25T19:28:42Z",
-      "updatedAt": "2026-03-29T22:09:28Z",
+      "updatedAt": "2026-03-31T00:27:30Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "ai",
@@ -55,6 +55,34 @@
         "remotion",
         "typescript",
         "video-editor"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1195420328",
+      "name": "sonos-controller",
+      "nameWithOwner": "tonypest0/sonos-controller",
+      "description": "Local web app to control Sonos speakers with audio profiles, scheduling, and session detection",
+      "url": "https://github.com/tonypest0/sonos-controller",
+      "stargazerCount": 22,
+      "forkCount": 1,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "tonypest0",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/261205187?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-03-29T16:49:11Z",
+      "updatedAt": "2026-03-31T04:49:08Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "audio-profiles",
+        "home-audio",
+        "node-sonos-http-api",
+        "react",
+        "smart-home",
+        "sonos",
+        "vite"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -73,7 +101,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/260180333?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-25T01:48:40Z",
-      "updatedAt": "2026-03-30T00:53:54Z",
+      "updatedAt": "2026-03-30T10:56:06Z",
       "licenseName": "MIT",
       "topics": [
         "ai-gateway",
@@ -88,104 +116,12 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1191052193",
-      "name": "locally-uncensored",
-      "nameWithOwner": "PurpleDoubleD/locally-uncensored",
-      "description": "All-in-one local AI app. Uncensored chat, image generation, and video creation — offline, private, beautiful. Powered by Ollama & ComfyUI.",
-      "url": "https://github.com/PurpleDoubleD/locally-uncensored",
-      "stargazerCount": 11,
-      "forkCount": 2,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "PurpleDoubleD",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/224399100?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-03-24T21:52:47Z",
-      "updatedAt": "2026-03-29T23:26:49Z",
-      "licenseName": "MIT",
-      "topics": [
-        "abliterated",
-        "ai",
-        "ai-chat",
-        "comfyui",
-        "image-generation",
-        "llm",
-        "local-ai",
-        "local-llm",
-        "offline",
-        "ollama",
-        "open-source",
-        "privacy",
-        "react",
-        "self-hosted",
-        "stable-diffusion",
-        "typescript",
-        "uncensored",
-        "video-generation"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1190840383",
-      "name": "react-headless-carousel",
-      "nameWithOwner": "daformat/react-headless-carousel",
-      "description": "A react headless carousel component: scrollable, and swipeable carousel, even on desktop, complete with snapping, friction, rubber-banding and overscroll.",
-      "url": "https://github.com/daformat/react-headless-carousel",
-      "stargazerCount": 11,
-      "forkCount": 0,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "daformat",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1694893?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-03-24T17:08:24Z",
-      "updatedAt": "2026-03-28T13:27:57Z",
-      "licenseName": "MIT",
-      "topics": [
-        "carousel",
-        "carousel-component",
-        "headless",
-        "momentum",
-        "react",
-        "rubberband",
-        "snapping"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1190803936",
-      "name": "react-native-diffs",
-      "nameWithOwner": "vercel-labs/react-native-diffs",
-      "description": "Diff library for React Native",
-      "url": "https://github.com/vercel-labs/react-native-diffs",
-      "stargazerCount": 10,
-      "forkCount": 0,
-      "languageName": "Swift",
-      "languageColor": null,
-      "ownerLogin": "vercel-labs",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108547162?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-03-24T16:26:26Z",
-      "updatedAt": "2026-03-29T22:05:53Z",
-      "licenseName": "MIT",
-      "topics": [
-        "diff",
-        "markdown",
-        "react",
-        "react-native"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1191673493",
       "name": "devforge",
       "nameWithOwner": "Ali-dev11/devforge",
       "description": "Production-focused AI-native project scaffolding CLI for JavaScript and TypeScript teams.",
       "url": "https://github.com/Ali-dev11/devforge",
-      "stargazerCount": 10,
+      "stargazerCount": 11,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -193,7 +129,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76833976?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-25T13:29:19Z",
-      "updatedAt": "2026-03-27T17:45:49Z",
+      "updatedAt": "2026-03-30T12:15:54Z",
       "licenseName": "MIT",
       "topics": [
         "ai",
@@ -216,7 +152,30 @@
         "typescript",
         "vite"
       ],
-      "openIssuesCount": 3,
+      "openIssuesCount": 2,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1194659671",
+      "name": "holystitch",
+      "nameWithOwner": "BaselAshraf81/holystitch",
+      "description": "Instant Google Stitch → React conversion. Zero AI tokens.",
+      "url": "https://github.com/BaselAshraf81/holystitch",
+      "stargazerCount": 9,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "BaselAshraf81",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/129132034?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-03-28T16:44:33Z",
+      "updatedAt": "2026-03-30T17:43:31Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "react",
+        "stitch"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -251,29 +210,6 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1194659671",
-      "name": "holystitch",
-      "nameWithOwner": "BaselAshraf81/holystitch",
-      "description": "Instant Google Stitch → React conversion. Zero AI tokens.",
-      "url": "https://github.com/BaselAshraf81/holystitch",
-      "stargazerCount": 8,
-      "forkCount": 0,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "BaselAshraf81",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/129132034?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-03-28T16:44:33Z",
-      "updatedAt": "2026-03-29T22:20:41Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "react",
-        "stitch"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1192621782",
       "name": "20260327-cli-demo",
       "nameWithOwner": "ogadra/20260327-cli-demo",
@@ -296,6 +232,30 @@
         "terraform"
       ],
       "openIssuesCount": 7,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1195282838",
+      "name": "a11yer",
+      "nameWithOwner": "EdamAme-x/a11yer",
+      "description": "Wrap your React app in <A11yer> and accessibility is automatically handled.",
+      "url": "https://github.com/EdamAme-x/a11yer",
+      "stargazerCount": 6,
+      "forkCount": 1,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "EdamAme-x",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/121654029?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-03-29T13:30:54Z",
+      "updatedAt": "2026-03-31T05:43:49Z",
+      "licenseName": "MIT",
+      "topics": [
+        "a11y",
+        "accessibility",
+        "react"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]
