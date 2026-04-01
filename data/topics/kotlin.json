@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T05:53:47Z",
+  "generatedAt": "2026-04-01T06:04:30Z",
   "topic": "kotlin",
   "totalCount": 1,
   "repos": [
@@ -11,13 +11,13 @@
       "url": "https://github.com/YuriTheCoder/TrueShot",
       "stargazerCount": 6,
       "forkCount": 0,
-      "languageName": "Java",
+      "languageName": "Kotlin",
       "languageColor": null,
       "ownerLogin": "YuriTheCoder",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/167485995?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-30T18:26:46Z",
-      "updatedAt": "2026-03-31T03:06:39Z",
+      "updatedAt": "2026-03-31T21:22:30Z",
       "licenseName": "MIT",
       "topics": [
         "android",

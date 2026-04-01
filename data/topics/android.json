@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T05:53:47Z",
+  "generatedAt": "2026-04-01T06:04:30Z",
   "topic": "android",
   "totalCount": 3,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "Enginex0/UsbMassStorage",
       "description": "💾 Turn your phone into a USB drive · USB Mass Storage gadget controller · KernelSU / Magisk / APatch",
       "url": "https://github.com/Enginex0/UsbMassStorage",
-      "stargazerCount": 20,
+      "stargazerCount": 22,
       "forkCount": 1,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/176248111?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-27T03:51:14Z",
-      "updatedAt": "2026-03-31T03:10:38Z",
+      "updatedAt": "2026-04-01T05:02:08Z",
       "licenseName": null,
       "topics": [
         "android",
@@ -66,13 +66,13 @@
       "url": "https://github.com/YuriTheCoder/TrueShot",
       "stargazerCount": 6,
       "forkCount": 0,
-      "languageName": "Java",
+      "languageName": "Kotlin",
       "languageColor": null,
       "ownerLogin": "YuriTheCoder",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/167485995?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-30T18:26:46Z",
-      "updatedAt": "2026-03-31T03:06:39Z",
+      "updatedAt": "2026-03-31T21:22:30Z",
       "licenseName": "MIT",
       "topics": [
         "android",

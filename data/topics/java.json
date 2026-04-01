@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T05:53:47Z",
+  "generatedAt": "2026-04-01T06:04:30Z",
   "topic": "java",
   "totalCount": 1,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "shivrajcodez/CampusConnect",
       "description": "🎓 Student Management System — Full Stack Java Web App (JSP + Servlet + JDBC + MySQL) | SPPU Third Year Project | Live on Railway",
       "url": "https://github.com/shivrajcodez/CampusConnect",
-      "stargazerCount": 13,
+      "stargazerCount": 15,
       "forkCount": 0,
       "languageName": "Dockerfile",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/262516429?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-27T19:08:31Z",
-      "updatedAt": "2026-03-31T04:51:31Z",
+      "updatedAt": "2026-04-01T03:36:05Z",
       "licenseName": "MIT",
       "topics": [
         "full-stack",

@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-31T05:53:47Z",
+  "generatedAt": "2026-04-01T06:04:30Z",
   "topic": "data-science",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 1,
+  "repos": [
+    {
+      "id": "1194878898",
+      "name": "nbaide",
+      "nameWithOwner": "igerber/nbaide",
+      "description": "The agent-readability standard for Jupyter notebooks. Lint, score, and fix notebooks for AI agents.",
+      "url": "https://github.com/igerber/nbaide",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "igerber",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/107073927?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-03-28T23:40:08Z",
+      "updatedAt": "2026-03-31T18:53:34Z",
+      "licenseName": "MIT",
+      "topics": [
+        "agent",
+        "ai",
+        "data-science",
+        "jupyter",
+        "linter",
+        "llm",
+        "notebook",
+        "python"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    }
+  ]
 }

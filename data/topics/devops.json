@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-31T05:53:47Z",
+  "generatedAt": "2026-04-01T06:04:30Z",
   "topic": "devops",
-  "totalCount": 5,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1195094712",
@@ -9,15 +9,15 @@
       "nameWithOwner": "initMAX/zabbix-mcp-server",
       "description": "MCP server for the complete Zabbix API — 220 tools, multi-server support, bearer auth, systemd ready. Works with ChatGPT, Claude, VS Code, Codex, JetBrains and any MCP client.",
       "url": "https://github.com/initMAX/zabbix-mcp-server",
-      "stargazerCount": 24,
-      "forkCount": 7,
+      "stargazerCount": 32,
+      "forkCount": 8,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "initMAX",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/141839768?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-03-29T07:57:29Z",
-      "updatedAt": "2026-03-31T02:03:21Z",
+      "updatedAt": "2026-04-01T05:21:46Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "ai-agent",
@@ -76,39 +76,6 @@
         "web-development-tools"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1192147333",
-      "name": "dockscope",
-      "nameWithOwner": "ManuelR-T/dockscope",
-      "description": "Visual, interactive Docker infrastructure debugger — 3D dependency graph with live health, logs, and metrics",
-      "url": "https://github.com/ManuelR-T/dockscope",
-      "stargazerCount": 13,
-      "forkCount": 0,
-      "languageName": "Svelte",
-      "languageColor": null,
-      "ownerLogin": "ManuelR-T",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/105550975?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-03-25T23:56:07Z",
-      "updatedAt": "2026-03-31T04:39:20Z",
-      "licenseName": "MIT",
-      "topics": [
-        "3d",
-        "cli",
-        "containers",
-        "debugging",
-        "devops",
-        "docker",
-        "docker-compose",
-        "infrastructure",
-        "monitoring",
-        "svelte",
-        "threejs",
-        "visualization"
-      ],
-      "openIssuesCount": 21,
       "closedIssuesCount": 0
     },
     {
