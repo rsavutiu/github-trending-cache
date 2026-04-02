@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T06:04:30Z",
+  "generatedAt": "2026-04-02T05:50:00Z",
   "topic": "flutter",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "Ryanditko/flutter-server-driven-ui",
       "description": "Server-driven UI architecture built with Flutter and Dart. Screens, layouts, and navigation are fully described as JSON contracts — the Flutter app dynamically builds the widget tree at runtime based on these definitions. Supports local assets and remote REST APIs as data sources.",
       "url": "https://github.com/Ryanditko/flutter-server-driven-ui",
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "forkCount": 0,
       "languageName": "Dart",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/196965460?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-27T20:08:50Z",
-      "updatedAt": "2026-03-31T22:49:25Z",
+      "updatedAt": "2026-04-01T21:34:23Z",
       "licenseName": "MIT",
       "topics": [
         "api",

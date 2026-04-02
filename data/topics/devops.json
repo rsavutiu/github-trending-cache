@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-01T06:04:30Z",
+  "generatedAt": "2026-04-02T05:50:00Z",
   "topic": "devops",
-  "totalCount": 4,
+  "totalCount": 7,
   "repos": [
     {
       "id": "1195094712",
@@ -9,7 +9,7 @@
       "nameWithOwner": "initMAX/zabbix-mcp-server",
       "description": "MCP server for the complete Zabbix API — 220 tools, multi-server support, bearer auth, systemd ready. Works with ChatGPT, Claude, VS Code, Codex, JetBrains and any MCP client.",
       "url": "https://github.com/initMAX/zabbix-mcp-server",
-      "stargazerCount": 32,
+      "stargazerCount": 33,
       "forkCount": 8,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/141839768?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-03-29T07:57:29Z",
-      "updatedAt": "2026-04-01T05:21:46Z",
+      "updatedAt": "2026-04-02T05:03:13Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "ai-agent",
@@ -41,7 +41,7 @@
         "zabbix",
         "zabbix-api"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -58,7 +58,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/121974333?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-30T01:48:39Z",
-      "updatedAt": "2026-03-30T16:56:50Z",
+      "updatedAt": "2026-04-01T17:37:01Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "coding",
@@ -84,15 +84,15 @@
       "nameWithOwner": "jade-pico/antrieb-mcp-server",
       "description": "MCP server that validates AI-generated infra code on real VMs and self-corrects until it works. ",
       "url": "https://github.com/jade-pico/antrieb-mcp-server",
-      "stargazerCount": 10,
-      "forkCount": 1,
+      "stargazerCount": 11,
+      "forkCount": 2,
       "languageName": null,
       "languageColor": null,
       "ownerLogin": "jade-pico",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/271523263?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-27T12:54:38Z",
-      "updatedAt": "2026-03-29T15:27:37Z",
+      "updatedAt": "2026-04-01T16:38:39Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ai-agents",
@@ -138,6 +138,93 @@
         "tui"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1196529261",
+      "name": "build-your-own-cloud",
+      "nameWithOwner": "KRMed/build-your-own-cloud",
+      "description": "A complete guide to building a self-hosted Kubernetes cloud on bare hardware",
+      "url": "https://github.com/KRMed/build-your-own-cloud",
+      "stargazerCount": 8,
+      "forkCount": 1,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "KRMed",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/181370181?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-03-30T19:37:48Z",
+      "updatedAt": "2026-04-01T22:40:58Z",
+      "licenseName": "MIT",
+      "topics": [
+        "argocd",
+        "build-your-own",
+        "build-your-own-x",
+        "cloudflare",
+        "devops",
+        "helm",
+        "infrastructure",
+        "k3s-cluster",
+        "kubernetes",
+        "kubernetes-cluster",
+        "nginx",
+        "raspberry-pi",
+        "self-hosted"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1197516878",
+      "name": "Latch",
+      "nameWithOwner": "S4tyendra/Latch",
+      "description": "A zero-config, real-time Web Operating System that drops onto your local machine and securely exposes a full desktop/terminal experience over the web.",
+      "url": "https://github.com/S4tyendra/Latch",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Vue",
+      "languageColor": null,
+      "ownerLogin": "S4tyendra",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/118092154?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-03-31T16:38:42Z",
+      "updatedAt": "2026-04-02T01:02:42Z",
+      "licenseName": "MIT",
+      "topics": [
+        "devops",
+        "ssh"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1193572722",
+      "name": "relay",
+      "nameWithOwner": "DhanushNehru/relay",
+      "description": "A single-layer, lightning-fast reverse proxy built in Zig",
+      "url": "https://github.com/DhanushNehru/relay",
+      "stargazerCount": 6,
+      "forkCount": 3,
+      "languageName": "Zig",
+      "languageColor": null,
+      "ownerLogin": "DhanushNehru",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/22955675?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-03-27T11:16:34Z",
+      "updatedAt": "2026-04-01T12:30:34Z",
+      "licenseName": "BSD-3-Clause",
+      "topics": [
+        "devops",
+        "devops-tools",
+        "nginx",
+        "nginx-proxy",
+        "reverse",
+        "server",
+        "zig",
+        "zig-package",
+        "ziglang"
+      ],
+      "openIssuesCount": 10,
       "closedIssuesCount": 0
     }
   ]

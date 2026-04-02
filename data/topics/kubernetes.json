@@ -1,6 +1,41 @@
 {
-  "generatedAt": "2026-04-01T06:04:30Z",
+  "generatedAt": "2026-04-02T05:50:00Z",
   "topic": "kubernetes",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 1,
+  "repos": [
+    {
+      "id": "1196529261",
+      "name": "build-your-own-cloud",
+      "nameWithOwner": "KRMed/build-your-own-cloud",
+      "description": "A complete guide to building a self-hosted Kubernetes cloud on bare hardware",
+      "url": "https://github.com/KRMed/build-your-own-cloud",
+      "stargazerCount": 8,
+      "forkCount": 1,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "KRMed",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/181370181?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-03-30T19:37:48Z",
+      "updatedAt": "2026-04-01T22:40:58Z",
+      "licenseName": "MIT",
+      "topics": [
+        "argocd",
+        "build-your-own",
+        "build-your-own-x",
+        "cloudflare",
+        "devops",
+        "helm",
+        "infrastructure",
+        "k3s-cluster",
+        "kubernetes",
+        "kubernetes-cluster",
+        "nginx",
+        "raspberry-pi",
+        "self-hosted"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    }
+  ]
 }
