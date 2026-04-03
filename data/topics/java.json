@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-02T05:50:00Z",
+  "generatedAt": "2026-04-03T05:50:22Z",
   "topic": "java",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1196525859",
@@ -9,7 +9,7 @@
       "nameWithOwner": "unludoj/api-testing-qa",
       "description": "Testes automatizados de API REST com Java, RestAssured e JUnit 5",
       "url": "https://github.com/unludoj/api-testing-qa",
-      "stargazerCount": 18,
+      "stargazerCount": 21,
       "forkCount": 0,
       "languageName": "Java",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/167812761?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-30T19:33:20Z",
-      "updatedAt": "2026-04-02T05:11:55Z",
+      "updatedAt": "2026-04-02T19:37:01Z",
       "licenseName": null,
       "topics": [
         "api-testing",
@@ -27,37 +27,6 @@
         "qa-automation",
         "rest-assured",
         "test-automation"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1193960538",
-      "name": "CampusConnect",
-      "nameWithOwner": "shivrajcodez/CampusConnect",
-      "description": "🎓 Student Management System — Full Stack Java Web App (JSP + Servlet + JDBC + MySQL) | SPPU Third Year Project | Live on Railway",
-      "url": "https://github.com/shivrajcodez/CampusConnect",
-      "stargazerCount": 15,
-      "forkCount": 0,
-      "languageName": "Dockerfile",
-      "languageColor": null,
-      "ownerLogin": "shivrajcodez",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/262516429?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-03-27T19:08:31Z",
-      "updatedAt": "2026-04-01T03:36:05Z",
-      "licenseName": "MIT",
-      "topics": [
-        "full-stack",
-        "java",
-        "jdbc",
-        "jsp",
-        "maven",
-        "mysql",
-        "servlet",
-        "sppu",
-        "studentmanagementsystem",
-        "tomcat"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

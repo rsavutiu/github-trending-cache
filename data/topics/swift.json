@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-02T05:50:00Z",
+  "generatedAt": "2026-04-03T05:50:22Z",
   "topic": "swift",
-  "totalCount": 5,
+  "totalCount": 6,
   "repos": [
     {
       "id": "1194811304",
@@ -9,15 +9,15 @@
       "nameWithOwner": "antigluten/amgi",
       "description": "An open-source, offline-first Anki-compatible iOS flashcard client with sync server support, powered by the official Anki Rust backend via C FFI.",
       "url": "https://github.com/antigluten/amgi",
-      "stargazerCount": 81,
-      "forkCount": 8,
+      "stargazerCount": 87,
+      "forkCount": 9,
       "languageName": "Swift",
       "languageColor": null,
       "ownerLogin": "antigluten",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/53124465?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-28T21:01:46Z",
-      "updatedAt": "2026-04-01T18:25:53Z",
+      "updatedAt": "2026-04-03T03:37:08Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "anki",
@@ -38,7 +38,7 @@
       "nameWithOwner": "awizemann/scarf",
       "description": "Native macOS GUI companion for the Hermes AI agent — dashboard, session browser, activity feed, embedded terminal chat, memory editor, and more",
       "url": "https://github.com/awizemann/scarf",
-      "stargazerCount": 34,
+      "stargazerCount": 45,
       "forkCount": 1,
       "languageName": "Swift",
       "languageColor": null,
@@ -46,7 +46,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/319078?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-31T06:30:27Z",
-      "updatedAt": "2026-04-02T05:39:04Z",
+      "updatedAt": "2026-04-03T03:21:56Z",
       "licenseName": "MIT",
       "topics": [
         "ai-agent",
@@ -58,7 +58,7 @@
         "swiftui",
         "terminal"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 2,
       "closedIssuesCount": 0
     },
     {
@@ -67,15 +67,15 @@
       "nameWithOwner": "ryyansafar/MacMonitor",
       "description": "Real-time Apple Silicon system monitor — menu bar app + desktop widget for macOS",
       "url": "https://github.com/ryyansafar/MacMonitor",
-      "stargazerCount": 26,
-      "forkCount": 0,
+      "stargazerCount": 31,
+      "forkCount": 1,
       "languageName": "Swift",
       "languageColor": null,
       "ownerLogin": "ryyansafar",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/130504175?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-28T07:29:36Z",
-      "updatedAt": "2026-04-02T03:23:38Z",
+      "updatedAt": "2026-04-02T15:27:46Z",
       "licenseName": "MIT",
       "topics": [
         "apple-silicon",
@@ -89,34 +89,67 @@
         "system-monitor",
         "widgetkit"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
-      "id": "1193520146",
-      "name": "FixedPoint",
-      "nameWithOwner": "ordo-one/FixedPoint",
-      "description": "High performance FixedPointDecimal",
-      "url": "https://github.com/ordo-one/FixedPoint",
-      "stargazerCount": 15,
+      "id": "1198576418",
+      "name": "openpaste",
+      "nameWithOwner": "openpaste/openpaste",
+      "description": "Open-source, privacy-first clipboard manager for macOS — encrypted by default, blazing fast search, paste stack, and keyboard-driven. Built natively with Swift 6 & SwiftUI.",
+      "url": "https://github.com/openpaste/openpaste",
+      "stargazerCount": 18,
       "forkCount": 0,
       "languageName": "Swift",
       "languageColor": null,
-      "ownerLogin": "ordo-one",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/103501056?v=4",
+      "ownerLogin": "openpaste",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/272856667?v=4",
       "ownerType": "Organization",
-      "createdAt": "2026-03-27T10:08:41Z",
-      "updatedAt": "2026-04-02T05:17:23Z",
-      "licenseName": "Apache-2.0",
+      "createdAt": "2026-04-01T14:54:42Z",
+      "updatedAt": "2026-04-02T17:00:38Z",
+      "licenseName": "AGPL-3.0",
       "topics": [
-        "decimal",
-        "decimal-numbers",
-        "high-performance",
-        "swift",
-        "swift-server-side",
-        "swiftui"
+        "clipboard",
+        "clipboard-manager",
+        "macos",
+        "paste",
+        "productivity",
+        "swift"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1196979498",
+      "name": "codex-switcher",
+      "nameWithOwner": "senoldogann/codex-switcher",
+      "description": "A macOS menu bar app that manages multiple OpenAI Codex accounts and automatically switches between them when usage limits are reached — no manual login/logout needed.",
+      "url": "https://github.com/senoldogann/codex-switcher",
+      "stargazerCount": 7,
+      "forkCount": 1,
+      "languageName": "Swift",
+      "languageColor": null,
+      "ownerLogin": "senoldogann",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/45736551?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-03-31T08:09:38Z",
+      "updatedAt": "2026-04-03T01:00:13Z",
+      "licenseName": "MIT",
+      "topics": [
+        "account-switcher",
+        "codex",
+        "codex-limit",
+        "macos",
+        "menu-bar-app",
+        "open-source",
+        "open-source-project",
+        "openai",
+        "rate-limit",
+        "swift",
+        "usage-limits",
+        "usage-limits-watcher"
+      ],
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -133,7 +166,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/137104974?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-29T20:42:56Z",
-      "updatedAt": "2026-03-31T21:08:27Z",
+      "updatedAt": "2026-04-02T16:38:49Z",
       "licenseName": "MIT",
       "topics": [
         "bun",
@@ -157,7 +190,7 @@
         "swift",
         "testing"
       ],
-      "openIssuesCount": 2,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

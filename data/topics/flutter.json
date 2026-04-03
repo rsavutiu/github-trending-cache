@@ -1,43 +1,8 @@
 {
-  "generatedAt": "2026-04-02T05:50:00Z",
+  "generatedAt": "2026-04-03T05:50:22Z",
   "topic": "flutter",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
-    {
-      "id": "1194000803",
-      "name": "flutter-server-driven-ui",
-      "nameWithOwner": "Ryanditko/flutter-server-driven-ui",
-      "description": "Server-driven UI architecture built with Flutter and Dart. Screens, layouts, and navigation are fully described as JSON contracts — the Flutter app dynamically builds the widget tree at runtime based on these definitions. Supports local assets and remote REST APIs as data sources.",
-      "url": "https://github.com/Ryanditko/flutter-server-driven-ui",
-      "stargazerCount": 8,
-      "forkCount": 0,
-      "languageName": "Dart",
-      "languageColor": null,
-      "ownerLogin": "Ryanditko",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/196965460?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-03-27T20:08:50Z",
-      "updatedAt": "2026-04-01T21:34:23Z",
-      "licenseName": "MIT",
-      "topics": [
-        "api",
-        "app",
-        "architecture",
-        "bdc",
-        "dart",
-        "flutter",
-        "flutter-app",
-        "flutter-dart",
-        "json",
-        "layout",
-        "rest",
-        "rest-api",
-        "screens",
-        "ui"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1195582103",
       "name": "affected",
@@ -52,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/137104974?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-29T20:42:56Z",
-      "updatedAt": "2026-03-31T21:08:27Z",
+      "updatedAt": "2026-04-02T16:38:49Z",
       "licenseName": "MIT",
       "topics": [
         "bun",
@@ -76,7 +41,7 @@
         "swift",
         "testing"
       ],
-      "openIssuesCount": 2,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

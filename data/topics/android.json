@@ -1,39 +1,8 @@
 {
-  "generatedAt": "2026-04-02T05:50:00Z",
+  "generatedAt": "2026-04-03T05:50:22Z",
   "topic": "android",
-  "totalCount": 4,
+  "totalCount": 2,
   "repos": [
-    {
-      "id": "1193278898",
-      "name": "UsbMassStorage",
-      "nameWithOwner": "Enginex0/UsbMassStorage",
-      "description": "💾 Turn your phone into a USB drive · USB Mass Storage gadget controller · KernelSU / Magisk / APatch",
-      "url": "https://github.com/Enginex0/UsbMassStorage",
-      "stargazerCount": 22,
-      "forkCount": 1,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "Enginex0",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/176248111?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-03-27T03:51:14Z",
-      "updatedAt": "2026-04-01T05:02:08Z",
-      "licenseName": null,
-      "topics": [
-        "android",
-        "apatch",
-        "configfs",
-        "kernelsu",
-        "magisk",
-        "mass-storage",
-        "root",
-        "rust",
-        "usb",
-        "usb-gadget"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1194666610",
       "name": "osmoControl",
@@ -81,40 +50,6 @@
         "scroll"
       ],
       "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1196473553",
-      "name": "TrueShot",
-      "nameWithOwner": "YuriTheCoder/TrueShot",
-      "description": "Cryptographic proof of photo authenticity for any Android device. ECDSA P-256 signed. SHA-256 hashed. 14-sensor fingerprinted.",
-      "url": "https://github.com/YuriTheCoder/TrueShot",
-      "stargazerCount": 8,
-      "forkCount": 0,
-      "languageName": "HTML",
-      "languageColor": null,
-      "ownerLogin": "YuriTheCoder",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/167485995?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-03-30T18:26:46Z",
-      "updatedAt": "2026-04-01T19:26:29Z",
-      "licenseName": "MIT",
-      "topics": [
-        "android",
-        "c2pa",
-        "content-credentials",
-        "cryptography",
-        "deepfake-detection",
-        "ecdsa",
-        "jetpack-compose",
-        "kotlin",
-        "open-source",
-        "photo-verification",
-        "privacy",
-        "sensor-fingerprinting",
-        "sha256"
-      ],
-      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]
