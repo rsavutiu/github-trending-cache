@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-03T05:50:22Z",
+  "generatedAt": "2026-04-04T05:35:38Z",
   "topic": "web",
-  "totalCount": 2,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1196320674",
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/24815689?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-30T15:29:19Z",
-      "updatedAt": "2026-04-02T18:59:30Z",
+      "updatedAt": "2026-04-03T12:03:26Z",
       "licenseName": null,
       "topics": [
         "client",
@@ -55,6 +55,38 @@
         "typography",
         "web",
         "zero-allocation"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1196246366",
+      "name": "FastIP.js",
+      "nameWithOwner": "DosX-dev/FastIP.js",
+      "description": "Multi-source client-side public IP detection library for your website!",
+      "url": "https://github.com/DosX-dev/FastIP.js",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "DosX-dev",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/117774904?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-03-30T14:09:39Z",
+      "updatedAt": "2026-04-03T14:01:53Z",
+      "licenseName": "MIT",
+      "topics": [
+        "detection",
+        "frontend",
+        "ip",
+        "ipv4",
+        "ipv6",
+        "network",
+        "security",
+        "tracking",
+        "vanilla-javascript",
+        "web",
+        "www"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

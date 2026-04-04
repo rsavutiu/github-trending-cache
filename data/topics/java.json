@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-03T05:50:22Z",
+  "generatedAt": "2026-04-04T05:35:38Z",
   "topic": "java",
-  "totalCount": 1,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1196525859",
@@ -9,7 +9,7 @@
       "nameWithOwner": "unludoj/api-testing-qa",
       "description": "Testes automatizados de API REST com Java, RestAssured e JUnit 5",
       "url": "https://github.com/unludoj/api-testing-qa",
-      "stargazerCount": 21,
+      "stargazerCount": 26,
       "forkCount": 0,
       "languageName": "Java",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/167812761?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-30T19:33:20Z",
-      "updatedAt": "2026-04-02T19:37:01Z",
+      "updatedAt": "2026-04-03T17:28:52Z",
       "licenseName": null,
       "topics": [
         "api-testing",
@@ -27,6 +27,63 @@
         "qa-automation",
         "rest-assured",
         "test-automation"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1198040350",
+      "name": "enterprisifier-example",
+      "nameWithOwner": "AdamBien/enterprisifier-example",
+      "description": "EnterpriseGreetingFramework™ — A production-grade, hexagonally-architected, event-sourced, CQRS-enabled, saga-orchestrated solution for printing \"hello,   world\". Features 73 classes, 19 packages, a factory-of-factories, and an Anti-Corruption Layer. Because IO.println was a monolith.",
+      "url": "https://github.com/AdamBien/enterprisifier-example",
+      "stargazerCount": 10,
+      "forkCount": 0,
+      "languageName": "Java",
+      "languageColor": null,
+      "ownerLogin": "AdamBien",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/891845?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-01T04:29:45Z",
+      "updatedAt": "2026-04-04T04:56:04Z",
+      "licenseName": "MIT",
+      "topics": [
+        "airails",
+        "airhacks",
+        "bce-design",
+        "java",
+        "llm"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1200161766",
+      "name": "claude-java-plugins",
+      "nameWithOwner": "ducpm2303/claude-java-plugins",
+      "description": "  Java developer toolkit for Claude Code — skills, agents, hooks, and coding standards for Java 8+ projects",
+      "url": "https://github.com/ducpm2303/claude-java-plugins",
+      "stargazerCount": 9,
+      "forkCount": 0,
+      "languageName": "Shell",
+      "languageColor": null,
+      "ownerLogin": "ducpm2303",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/43582788?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-03T05:20:04Z",
+      "updatedAt": "2026-04-04T04:37:20Z",
+      "licenseName": null,
+      "topics": [
+        "anthropic",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-code-plugins",
+        "claude-java-plugins",
+        "claude-plugins",
+        "claude-plugins-marketplace",
+        "claude-skills",
+        "java",
+        "spring-boot"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

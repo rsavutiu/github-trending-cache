@@ -1,6 +1,92 @@
 {
-  "generatedAt": "2026-04-03T05:50:22Z",
+  "generatedAt": "2026-04-04T05:35:38Z",
   "topic": "kotlin",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 3,
+  "repos": [
+    {
+      "id": "1199580792",
+      "name": "HearoPilot-App",
+      "nameWithOwner": "Helldez/HearoPilot-App",
+      "description": "On-device AI meeting assistant — real-time transcription & LLM insights, 100% offline",
+      "url": "https://github.com/Helldez/HearoPilot-App",
+      "stargazerCount": 8,
+      "forkCount": 1,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "Helldez",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/74499579?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-02T13:47:32Z",
+      "updatedAt": "2026-04-04T05:28:09Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "android",
+        "jetpack-compose",
+        "kotlin",
+        "llama-cpp",
+        "llm",
+        "offline-ai",
+        "on-device-ai",
+        "speech-to-text"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1195388369",
+      "name": "EmuCoreX",
+      "nameWithOwner": "sashkinbro/EmuCoreX",
+      "description": "PlayStation 2 emulator for Android with a ARMSX2-based core, modern game library, live overlay controls, and a handheld-focused experience.",
+      "url": "https://github.com/sashkinbro/EmuCoreX",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "C++",
+      "languageColor": null,
+      "ownerLogin": "sashkinbro",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/95984785?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-03-29T16:02:39Z",
+      "updatedAt": "2026-04-03T15:05:57Z",
+      "licenseName": "GPL-3.0",
+      "topics": [
+        "android",
+        "emulator",
+        "frontend",
+        "gaming",
+        "handheld",
+        "jetpack-compose",
+        "kotlin",
+        "pcsx2",
+        "playstation2",
+        "ps2"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1196924680",
+      "name": "vaydns-vpn",
+      "nameWithOwner": "Starling226/vaydns-vpn",
+      "description": "Android VPN client for vaydns",
+      "url": "https://github.com/Starling226/vaydns-vpn",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "Starling226",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/253446630?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-03-31T07:02:28Z",
+      "updatedAt": "2026-04-04T05:08:29Z",
+      "licenseName": null,
+      "topics": [
+        "android",
+        "kotlin",
+        "tunneling",
+        "vaydns"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    }
+  ]
 }
