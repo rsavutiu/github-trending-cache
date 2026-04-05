@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-04T05:35:38Z",
+  "generatedAt": "2026-04-05T05:53:13Z",
   "topic": "java",
-  "totalCount": 3,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1196525859",
@@ -32,12 +32,37 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1197154663",
+      "name": "fastJava",
+      "nameWithOwner": "tanoaks14/fastJava",
+      "description": "webserver",
+      "url": "https://github.com/tanoaks14/fastJava",
+      "stargazerCount": 14,
+      "forkCount": 0,
+      "languageName": "Java",
+      "languageColor": null,
+      "ownerLogin": "tanoaks14",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/194384901?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-03-31T11:21:03Z",
+      "updatedAt": "2026-04-05T04:17:29Z",
+      "licenseName": null,
+      "topics": [
+        "java",
+        "light-server",
+        "smid",
+        "webserver"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1198040350",
       "name": "enterprisifier-example",
       "nameWithOwner": "AdamBien/enterprisifier-example",
       "description": "EnterpriseGreetingFramework™ — A production-grade, hexagonally-architected, event-sourced, CQRS-enabled, saga-orchestrated solution for printing \"hello,   world\". Features 73 classes, 19 packages, a factory-of-factories, and an Anti-Corruption Layer. Because IO.println was a monolith.",
       "url": "https://github.com/AdamBien/enterprisifier-example",
-      "stargazerCount": 10,
+      "stargazerCount": 11,
       "forkCount": 0,
       "languageName": "Java",
       "languageColor": null,
@@ -45,7 +70,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/891845?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-01T04:29:45Z",
-      "updatedAt": "2026-04-04T04:56:04Z",
+      "updatedAt": "2026-04-04T08:31:22Z",
       "licenseName": "MIT",
       "topics": [
         "airails",

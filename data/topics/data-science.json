@@ -1,6 +1,71 @@
 {
-  "generatedAt": "2026-04-04T05:35:38Z",
+  "generatedAt": "2026-04-05T05:53:13Z",
   "topic": "data-science",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 2,
+  "repos": [
+    {
+      "id": "1201368235",
+      "name": "Artificial-Intelligence-Learning-Resources-Collection",
+      "nameWithOwner": "fs0ci5ty/Artificial-Intelligence-Learning-Resources-Collection",
+      "description": "Open-source compilation of free AI/ML learning materials from universities, companies, and industry experts.",
+      "url": "https://github.com/fs0ci5ty/Artificial-Intelligence-Learning-Resources-Collection",
+      "stargazerCount": 7,
+      "forkCount": 3,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "fs0ci5ty",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/273186448?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-04T15:29:48Z",
+      "updatedAt": "2026-04-05T04:43:14Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "aijobs",
+        "ailearning",
+        "artificial-intelligence",
+        "data",
+        "data-science",
+        "datascience-machinelearning",
+        "datascienceproject",
+        "deep-learning",
+        "machine-learning",
+        "netural-network",
+        "research",
+        "resources"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1197307265",
+      "name": "sunbears",
+      "nameWithOwner": "AstraBert/sunbears",
+      "description": "A CSV data loader for TypeScript with an API similar to Polars and Pandas, written in pure Rust.",
+      "url": "https://github.com/AstraBert/sunbears",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "AstraBert",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/133636879?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-03-31T13:34:35Z",
+      "updatedAt": "2026-04-04T11:30:09Z",
+      "licenseName": "MIT",
+      "topics": [
+        "csv",
+        "data-science",
+        "dataframe",
+        "napi-rs",
+        "pandas",
+        "polars",
+        "rust",
+        "typescript"
+      ],
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    }
+  ]
 }
