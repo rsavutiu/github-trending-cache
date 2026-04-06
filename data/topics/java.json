@@ -1,43 +1,15 @@
 {
-  "generatedAt": "2026-04-05T05:53:13Z",
+  "generatedAt": "2026-04-06T06:07:27Z",
   "topic": "java",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
-    {
-      "id": "1196525859",
-      "name": "api-testing-qa",
-      "nameWithOwner": "unludoj/api-testing-qa",
-      "description": "Testes automatizados de API REST com Java, RestAssured e JUnit 5",
-      "url": "https://github.com/unludoj/api-testing-qa",
-      "stargazerCount": 26,
-      "forkCount": 0,
-      "languageName": "Java",
-      "languageColor": null,
-      "ownerLogin": "unludoj",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/167812761?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-03-30T19:33:20Z",
-      "updatedAt": "2026-04-03T17:28:52Z",
-      "licenseName": null,
-      "topics": [
-        "api-testing",
-        "java",
-        "junit5",
-        "qa",
-        "qa-automation",
-        "rest-assured",
-        "test-automation"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1197154663",
       "name": "fastJava",
       "nameWithOwner": "tanoaks14/fastJava",
       "description": "webserver",
       "url": "https://github.com/tanoaks14/fastJava",
-      "stargazerCount": 14,
+      "stargazerCount": 16,
       "forkCount": 0,
       "languageName": "Java",
       "languageColor": null,
@@ -45,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/194384901?v=4",
       "ownerType": "User",
       "createdAt": "2026-03-31T11:21:03Z",
-      "updatedAt": "2026-04-05T04:17:29Z",
+      "updatedAt": "2026-04-06T01:49:48Z",
       "licenseName": null,
       "topics": [
         "java",
@@ -96,7 +68,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/43582788?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-03T05:20:04Z",
-      "updatedAt": "2026-04-04T04:37:20Z",
+      "updatedAt": "2026-04-06T03:38:14Z",
       "licenseName": null,
       "topics": [
         "anthropic",
@@ -110,7 +82,7 @@
         "java",
         "spring-boot"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]
