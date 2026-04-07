@@ -1,37 +1,8 @@
 {
-  "generatedAt": "2026-04-06T06:07:27Z",
+  "generatedAt": "2026-04-07T05:56:40Z",
   "topic": "flutter",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
-    {
-      "id": "1196991730",
-      "name": "meow",
-      "nameWithOwner": "madeye/meow",
-      "description": "Meow - A Clash/mihomo Android client with Flutter UI, powered by mihomo-rust and netstack-smoltcp tun2socks",
-      "url": "https://github.com/madeye/meow",
-      "stargazerCount": 10,
-      "forkCount": 0,
-      "languageName": "Rust",
-      "languageColor": null,
-      "ownerLogin": "madeye",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/627917?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-03-31T08:24:22Z",
-      "updatedAt": "2026-04-05T03:20:26Z",
-      "licenseName": "MIT",
-      "topics": [
-        "android",
-        "clash",
-        "flutter",
-        "mihomo",
-        "proxy",
-        "rust",
-        "tun2socks",
-        "vpn"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1201423899",
       "name": "fast_build_runner",

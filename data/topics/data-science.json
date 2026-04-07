@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-06T06:07:27Z",
+  "generatedAt": "2026-04-07T05:56:40Z",
   "topic": "data-science",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1201368235",
@@ -34,35 +34,6 @@
         "netural-network",
         "research",
         "resources"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1197307265",
-      "name": "sunbears",
-      "nameWithOwner": "AstraBert/sunbears",
-      "description": "A CSV data loader for TypeScript with an API similar to Polars and Pandas, written in pure Rust.",
-      "url": "https://github.com/AstraBert/sunbears",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "AstraBert",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/133636879?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-03-31T13:34:35Z",
-      "updatedAt": "2026-04-05T21:00:20Z",
-      "licenseName": "MIT",
-      "topics": [
-        "csv",
-        "data-science",
-        "dataframe",
-        "napi-rs",
-        "pandas",
-        "polars",
-        "rust",
-        "typescript"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

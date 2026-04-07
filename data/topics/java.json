@@ -1,33 +1,8 @@
 {
-  "generatedAt": "2026-04-06T06:07:27Z",
+  "generatedAt": "2026-04-07T05:56:40Z",
   "topic": "java",
   "totalCount": 3,
   "repos": [
-    {
-      "id": "1197154663",
-      "name": "fastJava",
-      "nameWithOwner": "tanoaks14/fastJava",
-      "description": "webserver",
-      "url": "https://github.com/tanoaks14/fastJava",
-      "stargazerCount": 16,
-      "forkCount": 0,
-      "languageName": "Java",
-      "languageColor": null,
-      "ownerLogin": "tanoaks14",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/194384901?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-03-31T11:21:03Z",
-      "updatedAt": "2026-04-06T01:49:48Z",
-      "licenseName": null,
-      "topics": [
-        "java",
-        "light-server",
-        "smid",
-        "webserver"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1198040350",
       "name": "enterprisifier-example",
@@ -68,7 +43,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/43582788?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-03T05:20:04Z",
-      "updatedAt": "2026-04-06T03:38:14Z",
+      "updatedAt": "2026-04-06T07:21:01Z",
       "licenseName": null,
       "topics": [
         "anthropic",
@@ -82,7 +57,37 @@
         "java",
         "spring-boot"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 2,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1202840400",
+      "name": "thundering-herd-challenge",
+      "nameWithOwner": "Gianguyen1234/thundering-herd-challenge",
+      "description": "🚨 Backend Challenge: Solve the Thundering Herd Problem under high concurrency. Explain your thinking, not just your code.",
+      "url": "https://github.com/Gianguyen1234/thundering-herd-challenge",
+      "stargazerCount": 7,
+      "forkCount": 2,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "Gianguyen1234",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/112406680?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-06T13:06:30Z",
+      "updatedAt": "2026-04-07T04:11:14Z",
+      "licenseName": null,
+      "topics": [
+        "backend",
+        "cache-stampede",
+        "caching",
+        "coding-challenge",
+        "concurrency",
+        "distributed-systems-challenges",
+        "java",
+        "system-design",
+        "thundering-herd"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

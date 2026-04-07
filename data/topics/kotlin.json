@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-06T06:07:27Z",
+  "generatedAt": "2026-04-07T05:56:40Z",
   "topic": "kotlin",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1199580792",
@@ -9,7 +9,7 @@
       "nameWithOwner": "Helldez/HearoPilot-App",
       "description": "On-device AI meeting assistant — real-time transcription & LLM insights, 100% offline",
       "url": "https://github.com/Helldez/HearoPilot-App",
-      "stargazerCount": 36,
+      "stargazerCount": 39,
       "forkCount": 18,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/74499579?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-02T13:47:32Z",
-      "updatedAt": "2026-04-05T07:58:17Z",
+      "updatedAt": "2026-04-07T01:29:24Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "android",
@@ -28,31 +28,6 @@
         "offline-ai",
         "on-device-ai",
         "speech-to-text"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1196924680",
-      "name": "vaydns-vpn",
-      "nameWithOwner": "Starling226/vaydns-vpn",
-      "description": "Android VPN client for vaydns",
-      "url": "https://github.com/Starling226/vaydns-vpn",
-      "stargazerCount": 8,
-      "forkCount": 0,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "Starling226",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/253446630?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-03-31T07:02:28Z",
-      "updatedAt": "2026-04-04T16:45:27Z",
-      "licenseName": null,
-      "topics": [
-        "android",
-        "kotlin",
-        "tunneling",
-        "vaydns"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
