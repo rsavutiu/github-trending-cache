@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T05:56:40Z",
+  "generatedAt": "2026-04-08T05:57:31Z",
   "topic": "kotlin",
   "totalCount": 1,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "Helldez/HearoPilot-App",
       "description": "On-device AI meeting assistant — real-time transcription & LLM insights, 100% offline",
       "url": "https://github.com/Helldez/HearoPilot-App",
-      "stargazerCount": 39,
+      "stargazerCount": 40,
       "forkCount": 18,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/74499579?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-02T13:47:32Z",
-      "updatedAt": "2026-04-07T01:29:24Z",
+      "updatedAt": "2026-04-07T13:08:21Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "android",

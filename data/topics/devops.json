@@ -1,15 +1,41 @@
 {
-  "generatedAt": "2026-04-07T05:56:40Z",
+  "generatedAt": "2026-04-08T05:57:31Z",
   "topic": "devops",
-  "totalCount": 3,
+  "totalCount": 4,
   "repos": [
+    {
+      "id": "1204276881",
+      "name": "envradar",
+      "nameWithOwner": "CodMughees/envradar",
+      "description": "Catch undocumented, unused, and drifting environment variables in your repo",
+      "url": "https://github.com/CodMughees/envradar",
+      "stargazerCount": 237,
+      "forkCount": 1,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "CodMughees",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/207321946?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-07T21:27:39Z",
+      "updatedAt": "2026-04-08T05:54:35Z",
+      "licenseName": "MIT",
+      "topics": [
+        "cli",
+        "developer-tools",
+        "devops",
+        "productivity",
+        "python"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1200775282",
       "name": "augur",
       "nameWithOwner": "starkross/augur",
       "description": "🇺🇦🇵🇱 A static analysis tool for OpenTelemetry Collector configurations. Built on OPA/Rego, it validates your pipelines, receivers, processors, and exporters against customizable policy rules – catching misconfigurations before they reach production",
       "url": "https://github.com/starkross/augur",
-      "stargazerCount": 32,
+      "stargazerCount": 38,
       "forkCount": 2,
       "languageName": "Open Policy Agent",
       "languageColor": null,
@@ -17,7 +43,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/45356273?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-03T20:13:23Z",
-      "updatedAt": "2026-04-07T03:32:32Z",
+      "updatedAt": "2026-04-08T03:52:27Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ci-cd",
@@ -36,7 +62,7 @@
         "static-analysis",
         "telemetry"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -45,15 +71,15 @@
       "nameWithOwner": "vibraniumlabs/vibe-oncall",
       "description": "AI-native incident response and on-call platform. PagerDuty and Opsgenie alternative for modern SRE and DevOps teams.",
       "url": "https://github.com/vibraniumlabs/vibe-oncall",
-      "stargazerCount": 14,
-      "forkCount": 1,
+      "stargazerCount": 16,
+      "forkCount": 2,
       "languageName": null,
       "languageColor": null,
       "ownerLogin": "vibraniumlabs",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/184889774?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-04-07T01:29:11Z",
-      "updatedAt": "2026-04-07T04:58:34Z",
+      "updatedAt": "2026-04-07T23:43:47Z",
       "licenseName": null,
       "topics": [
         "ai-agents",
