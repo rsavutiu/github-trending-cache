@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-08T05:57:31Z",
+  "generatedAt": "2026-04-09T05:58:08Z",
   "topic": "devops",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1204276881",
@@ -9,15 +9,15 @@
       "nameWithOwner": "CodMughees/envradar",
       "description": "Catch undocumented, unused, and drifting environment variables in your repo",
       "url": "https://github.com/CodMughees/envradar",
-      "stargazerCount": 237,
-      "forkCount": 1,
+      "stargazerCount": 259,
+      "forkCount": 3,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "CodMughees",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/207321946?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-07T21:27:39Z",
-      "updatedAt": "2026-04-08T05:54:35Z",
+      "updatedAt": "2026-04-09T05:46:54Z",
       "licenseName": "MIT",
       "topics": [
         "cli",
@@ -35,7 +35,7 @@
       "nameWithOwner": "starkross/augur",
       "description": "🇺🇦🇵🇱 A static analysis tool for OpenTelemetry Collector configurations. Built on OPA/Rego, it validates your pipelines, receivers, processors, and exporters against customizable policy rules – catching misconfigurations before they reach production",
       "url": "https://github.com/starkross/augur",
-      "stargazerCount": 38,
+      "stargazerCount": 42,
       "forkCount": 2,
       "languageName": "Open Policy Agent",
       "languageColor": null,
@@ -43,7 +43,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/45356273?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-03T20:13:23Z",
-      "updatedAt": "2026-04-08T03:52:27Z",
+      "updatedAt": "2026-04-09T03:26:13Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ci-cd",
@@ -62,7 +62,7 @@
         "static-analysis",
         "telemetry"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 2,
       "closedIssuesCount": 0
     },
     {
@@ -72,7 +72,7 @@
       "description": "AI-native incident response and on-call platform. PagerDuty and Opsgenie alternative for modern SRE and DevOps teams.",
       "url": "https://github.com/vibraniumlabs/vibe-oncall",
       "stargazerCount": 16,
-      "forkCount": 2,
+      "forkCount": 3,
       "languageName": null,
       "languageColor": null,
       "ownerLogin": "vibraniumlabs",
@@ -97,34 +97,6 @@
         "pagerduty-alternative",
         "sre",
         "sre-infra"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1199573331",
-      "name": "preflight-skill",
-      "nameWithOwner": "Shawnchee/preflight-skill",
-      "description": "Ship confidently. An automated production readiness skill for any codebase.",
-      "url": "https://github.com/Shawnchee/preflight-skill",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "Shawnchee",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/116136622?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-02T13:39:19Z",
-      "updatedAt": "2026-04-06T08:37:55Z",
-      "licenseName": "MIT",
-      "topics": [
-        "claude-code",
-        "deployment",
-        "devops",
-        "production-checklist",
-        "security",
-        "skills",
-        "sre"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

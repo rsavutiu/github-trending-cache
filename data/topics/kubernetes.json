@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-04-08T05:57:31Z",
+  "generatedAt": "2026-04-09T05:58:08Z",
   "topic": "kubernetes",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 1,
+  "repos": [
+    {
+      "id": "1203476675",
+      "name": "NetKube",
+      "nameWithOwner": "Voyrox/NetKube",
+      "description": "NetKube is a simple Kubernetes dashboard for viewing cluster health, nodes, pods, deployments, services, and multi-context kubeconfig data.",
+      "url": "https://github.com/Voyrox/NetKube",
+      "stargazerCount": 13,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "Voyrox",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/51778028?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-07T04:29:26Z",
+      "updatedAt": "2026-04-09T05:37:51Z",
+      "licenseName": "MIT",
+      "topics": [
+        "css",
+        "dashbaord",
+        "golang",
+        "html",
+        "kubernetes",
+        "mangement-system"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    }
+  ]
 }

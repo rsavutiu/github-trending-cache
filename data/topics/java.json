@@ -1,8 +1,38 @@
 {
-  "generatedAt": "2026-04-08T05:57:31Z",
+  "generatedAt": "2026-04-09T05:58:08Z",
   "topic": "java",
   "totalCount": 3,
   "repos": [
+    {
+      "id": "1201621581",
+      "name": "gemma4.java",
+      "nameWithOwner": "mukel/gemma4.java",
+      "description": "Fast Gemma 4 inference in pure Java",
+      "url": "https://github.com/mukel/gemma4.java",
+      "stargazerCount": 17,
+      "forkCount": 1,
+      "languageName": "Java",
+      "languageColor": null,
+      "ownerLogin": "mukel",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1896283?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-04T23:33:07Z",
+      "updatedAt": "2026-04-09T03:18:53Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "chatgpt",
+        "gemma",
+        "gemma4",
+        "graalvm",
+        "inference",
+        "java",
+        "jvm",
+        "llm",
+        "llm-inference"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1200161766",
       "name": "claude-java-plugins",
@@ -60,36 +90,6 @@
         "java",
         "system-design",
         "thundering-herd"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1201621581",
-      "name": "gemma4.java",
-      "nameWithOwner": "mukel/gemma4.java",
-      "description": "Fast Gemma 4 inference in pure Java",
-      "url": "https://github.com/mukel/gemma4.java",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Java",
-      "languageColor": null,
-      "ownerLogin": "mukel",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1896283?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-04T23:33:07Z",
-      "updatedAt": "2026-04-07T21:40:55Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "chatgpt",
-        "gemma",
-        "gemma4",
-        "graalvm",
-        "inference",
-        "java",
-        "jvm",
-        "llm",
-        "llm-inference"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
