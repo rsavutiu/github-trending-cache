@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-09T05:58:08Z",
+  "generatedAt": "2026-04-10T06:07:44Z",
   "topic": "deep-learning",
-  "totalCount": 3,
+  "totalCount": 6,
   "repos": [
     {
       "id": "1204520409",
@@ -9,15 +9,15 @@
       "nameWithOwner": "Xiangyue-Zhang/auto-deep-researcher-24x7",
       "description": "🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
       "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
-      "stargazerCount": 148,
-      "forkCount": 8,
+      "stargazerCount": 197,
+      "forkCount": 11,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "Xiangyue-Zhang",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/85532891?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-08T04:48:26Z",
-      "updatedAt": "2026-04-09T05:54:00Z",
+      "updatedAt": "2026-04-10T04:41:54Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ai-agent",
@@ -33,7 +33,7 @@
         "pytorch",
         "research-automation"
       ],
-      "openIssuesCount": 3,
+      "openIssuesCount": 5,
       "closedIssuesCount": 0
     },
     {
@@ -77,6 +77,65 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1204500475",
+      "name": "docker-whisper",
+      "nameWithOwner": "hwdsl2/docker-whisper",
+      "description": "Docker image for a self-hosted Whisper speech-to-text server with an OpenAI-compatible audio transcription API. Powered by faster-whisper. Supports all Whisper models, multiple response formats (JSON, SRT, VTT), offline/air-gapped mode, and multi-arch (amd64/arm64).",
+      "url": "https://github.com/hwdsl2/docker-whisper",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": "Shell",
+      "languageColor": null,
+      "ownerLogin": "hwdsl2",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5104323?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-08T04:13:57Z",
+      "updatedAt": "2026-04-10T03:48:14Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "deep-learning",
+        "inference",
+        "openai",
+        "quantization",
+        "self-hosted",
+        "speech-recognition",
+        "speech-to-text",
+        "transformer",
+        "whisper"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1201332273",
+      "name": "ai-learning-kit",
+      "nameWithOwner": "sadanandpai/ai-learning-kit",
+      "description": "A curated collection of AI learning materials",
+      "url": "https://github.com/sadanandpai/ai-learning-kit",
+      "stargazerCount": 8,
+      "forkCount": 1,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "sadanandpai",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/12962887?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-04T14:34:52Z",
+      "updatedAt": "2026-04-09T19:01:06Z",
+      "licenseName": "MIT",
+      "topics": [
+        "agenetic-ai",
+        "ai",
+        "data-science",
+        "deep-learning",
+        "llm",
+        "machine-learning",
+        "ml",
+        "neural-networks"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1201368235",
       "name": "Artificial-Intelligence-Learning-Resources-Collection",
       "nameWithOwner": "fs0ci5ty/Artificial-Intelligence-Learning-Resources-Collection",
@@ -107,6 +166,31 @@
         "netural-network",
         "research",
         "resources"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1203059980",
+      "name": "env-ssl-wrapper",
+      "nameWithOwner": "lucidrains/env-ssl-wrapper",
+      "description": "Wrappers around environments that will take care of providing representations from self supervised learning automagically",
+      "url": "https://github.com/lucidrains/env-ssl-wrapper",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "lucidrains",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-06T17:21:28Z",
+      "updatedAt": "2026-04-09T17:41:41Z",
+      "licenseName": "MIT",
+      "topics": [
+        "artificial-intelligence",
+        "deep-learning",
+        "reinforcement-learning",
+        "self-supervised-learning"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

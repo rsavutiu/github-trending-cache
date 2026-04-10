@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-09T05:58:08Z",
+  "generatedAt": "2026-04-10T06:07:44Z",
   "topic": "data-science",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1201368235",
@@ -34,6 +34,35 @@
         "netural-network",
         "research",
         "resources"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1201332273",
+      "name": "ai-learning-kit",
+      "nameWithOwner": "sadanandpai/ai-learning-kit",
+      "description": "A curated collection of AI learning materials",
+      "url": "https://github.com/sadanandpai/ai-learning-kit",
+      "stargazerCount": 8,
+      "forkCount": 1,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "sadanandpai",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/12962887?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-04T14:34:52Z",
+      "updatedAt": "2026-04-09T19:01:06Z",
+      "licenseName": "MIT",
+      "topics": [
+        "agenetic-ai",
+        "ai",
+        "data-science",
+        "deep-learning",
+        "llm",
+        "machine-learning",
+        "ml",
+        "neural-networks"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

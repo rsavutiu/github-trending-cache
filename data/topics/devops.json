@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-09T05:58:08Z",
+  "generatedAt": "2026-04-10T06:07:44Z",
   "topic": "devops",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1204276881",
@@ -9,7 +9,7 @@
       "nameWithOwner": "CodMughees/envradar",
       "description": "Catch undocumented, unused, and drifting environment variables in your repo",
       "url": "https://github.com/CodMughees/envradar",
-      "stargazerCount": 259,
+      "stargazerCount": 265,
       "forkCount": 3,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/207321946?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-07T21:27:39Z",
-      "updatedAt": "2026-04-09T05:46:54Z",
+      "updatedAt": "2026-04-10T03:38:54Z",
       "licenseName": "MIT",
       "topics": [
         "cli",
@@ -27,42 +27,6 @@
         "python"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1200775282",
-      "name": "augur",
-      "nameWithOwner": "starkross/augur",
-      "description": "🇺🇦🇵🇱 A static analysis tool for OpenTelemetry Collector configurations. Built on OPA/Rego, it validates your pipelines, receivers, processors, and exporters against customizable policy rules – catching misconfigurations before they reach production",
-      "url": "https://github.com/starkross/augur",
-      "stargazerCount": 42,
-      "forkCount": 2,
-      "languageName": "Open Policy Agent",
-      "languageColor": null,
-      "ownerLogin": "starkross",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/45356273?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-03T20:13:23Z",
-      "updatedAt": "2026-04-09T03:26:13Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "ci-cd",
-        "collector-configuration",
-        "config-linter",
-        "configuration-validation",
-        "devops",
-        "linter",
-        "monitoring",
-        "observability",
-        "opentelemetry",
-        "opentelemetry-collector",
-        "opentelemetry-tools",
-        "otel",
-        "otel-collector",
-        "static-analysis",
-        "telemetry"
-      ],
-      "openIssuesCount": 2,
       "closedIssuesCount": 0
     },
     {
