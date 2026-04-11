@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-10T06:07:44Z",
+  "generatedAt": "2026-04-11T05:40:03Z",
   "topic": "javascript",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1201634739",
@@ -9,7 +9,7 @@
       "nameWithOwner": "KilledByAPixel/stereogram",
       "description": "Browser based tool for generating 3D autostereograms",
       "url": "https://github.com/KilledByAPixel/stereogram",
-      "stargazerCount": 8,
+      "stargazerCount": 9,
       "forkCount": 0,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/16227600?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-05T00:11:18Z",
-      "updatedAt": "2026-04-08T19:06:07Z",
+      "updatedAt": "2026-04-10T20:17:35Z",
       "licenseName": "MIT",
       "topics": [
         "canvas2d",
@@ -25,36 +25,6 @@
         "javascript",
         "stereogram",
         "stereogram-generator"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1201393530",
-      "name": "chronologic-validator",
-      "nameWithOwner": "martinschike/chronologic-validator",
-      "description": "Framework-agnostic TypeScript library for validating ordered date sequences, with adapters for React Hook Form and Zod",
-      "url": "https://github.com/martinschike/chronologic-validator",
-      "stargazerCount": 8,
-      "forkCount": 0,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "martinschike",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/92553942?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-04T16:08:23Z",
-      "updatedAt": "2026-04-08T11:06:08Z",
-      "licenseName": "MIT",
-      "topics": [
-        "date",
-        "form-validation",
-        "javascript",
-        "npm",
-        "open-source",
-        "react-hook-form",
-        "typescript",
-        "validation",
-        "zod"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

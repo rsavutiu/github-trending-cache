@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-10T06:07:44Z",
+  "generatedAt": "2026-04-11T05:40:03Z",
   "topic": "java",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1205759917",
@@ -9,15 +9,15 @@
       "nameWithOwner": "liyupi/yupi-skill",
       "description": "🐟 程序员鱼皮 Agent Skill｜把自己蒸馏成 AI 技能包，用我的思维方式和表达风格回答编程学习、求职面试、AI 编程、简历优化、技术选型、创业经验等问题。支持 Claude Code / Cursor / OpenClaw",
       "url": "https://github.com/liyupi/yupi-skill",
-      "stargazerCount": 48,
-      "forkCount": 4,
+      "stargazerCount": 59,
+      "forkCount": 6,
       "languageName": null,
       "languageColor": null,
       "ownerLogin": "liyupi",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/26037703?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-09T08:54:00Z",
-      "updatedAt": "2026-04-10T06:03:39Z",
+      "updatedAt": "2026-04-11T05:10:28Z",
       "licenseName": "MIT",
       "topics": [
         "agent",
@@ -38,36 +38,6 @@
         "yupi"
       ],
       "openIssuesCount": 2,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1201621581",
-      "name": "gemma4.java",
-      "nameWithOwner": "mukel/gemma4.java",
-      "description": "Fast Gemma 4 inference in pure Java",
-      "url": "https://github.com/mukel/gemma4.java",
-      "stargazerCount": 33,
-      "forkCount": 2,
-      "languageName": "Java",
-      "languageColor": null,
-      "ownerLogin": "mukel",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1896283?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-04T23:33:07Z",
-      "updatedAt": "2026-04-09T22:48:40Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "chatgpt",
-        "gemma",
-        "gemma4",
-        "graalvm",
-        "inference",
-        "java",
-        "jvm",
-        "llm",
-        "llm-inference"
-      ],
-      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {

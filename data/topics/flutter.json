@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-10T06:07:44Z",
+  "generatedAt": "2026-04-11T05:40:03Z",
   "topic": "flutter",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1204472082",
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/259101612?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-04-08T03:24:38Z",
-      "updatedAt": "2026-04-10T05:49:13Z",
+      "updatedAt": "2026-04-10T11:29:39Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "ai-tutor",
@@ -48,15 +48,15 @@
       "nameWithOwner": "chetstriker/LLMtary",
       "description": "Autonomous AI-powered penetration testing platform. LLM-driven recon, vulnerability analysis, and exploit validation for internal & external targets. Supports local AI (Ollama, LM Studio) and cloud models (Claude, GPT-4, Gemini). Linux · macOS · Windows",
       "url": "https://github.com/chetstriker/LLMtary",
-      "stargazerCount": 7,
-      "forkCount": 1,
+      "stargazerCount": 8,
+      "forkCount": 2,
       "languageName": "Dart",
       "languageColor": null,
       "ownerLogin": "chetstriker",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4873992?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-08T01:53:03Z",
-      "updatedAt": "2026-04-10T00:03:27Z",
+      "updatedAt": "2026-04-10T19:02:31Z",
       "licenseName": "MIT",
       "topics": [
         "ai",
@@ -77,31 +77,6 @@
         "recon",
         "red-team",
         "vulnerability-scanner"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1201423899",
-      "name": "fast_build_runner",
-      "nameWithOwner": "777genius/fast_build_runner",
-      "description": "Faster incremental rebuilds for Dart/Flutter projects built on top of build_runner.",
-      "url": "https://github.com/777genius/fast_build_runner",
-      "stargazerCount": 7,
-      "forkCount": 1,
-      "languageName": "Dart",
-      "languageColor": null,
-      "ownerLogin": "777genius",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/13103045?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-04T16:56:10Z",
-      "updatedAt": "2026-04-06T01:44:22Z",
-      "licenseName": "BSD-3-Clause",
-      "topics": [
-        "codegen",
-        "dart",
-        "dartlang",
-        "flutter"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T06:07:44Z",
+  "generatedAt": "2026-04-11T05:40:03Z",
   "topic": "devops",
   "totalCount": 2,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "CodMughees/envradar",
       "description": "Catch undocumented, unused, and drifting environment variables in your repo",
       "url": "https://github.com/CodMughees/envradar",
-      "stargazerCount": 265,
-      "forkCount": 3,
+      "stargazerCount": 269,
+      "forkCount": 4,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "CodMughees",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/207321946?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-07T21:27:39Z",
-      "updatedAt": "2026-04-10T03:38:54Z",
+      "updatedAt": "2026-04-11T04:19:04Z",
       "licenseName": "MIT",
       "topics": [
         "cli",
