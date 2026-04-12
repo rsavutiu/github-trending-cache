@@ -1,45 +1,15 @@
 {
-  "generatedAt": "2026-04-11T05:40:03Z",
+  "generatedAt": "2026-04-12T06:03:13Z",
   "topic": "go",
   "totalCount": 4,
   "repos": [
-    {
-      "id": "1202218029",
-      "name": "wireguide",
-      "nameWithOwner": "korjwl1/wireguide",
-      "description": "Cross-platform WireGuard VPN desktop client — Go + Wails v3 + Svelte",
-      "url": "https://github.com/korjwl1/wireguide",
-      "stargazerCount": 29,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "korjwl1",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/72062804?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-05T18:51:50Z",
-      "updatedAt": "2026-04-09T09:22:25Z",
-      "licenseName": "MIT",
-      "topics": [
-        "desktop-app",
-        "go",
-        "macos",
-        "networking",
-        "svelte",
-        "vpn",
-        "wails",
-        "wireguard",
-        "wireguard-client"
-      ],
-      "openIssuesCount": 4,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1203660859",
       "name": "compiles-to-go",
       "nameWithOwner": "ubavic/compiles-to-go",
       "description": "List of programing languages that compile to Go",
       "url": "https://github.com/ubavic/compiles-to-go",
-      "stargazerCount": 28,
+      "stargazerCount": 35,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -47,14 +17,14 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/53820106?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-07T08:47:20Z",
-      "updatedAt": "2026-04-11T05:07:06Z",
+      "updatedAt": "2026-04-11T19:34:11Z",
       "licenseName": "CC0-1.0",
       "topics": [
         "compiler",
         "go",
         "programing-languagues"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -71,7 +41,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/23504590?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-06T00:07:25Z",
-      "updatedAt": "2026-04-09T22:04:10Z",
+      "updatedAt": "2026-04-11T22:35:03Z",
       "licenseName": "MIT",
       "topics": [
         "ai-safety",
@@ -85,7 +55,7 @@
         "privacy",
         "tokenization"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -94,15 +64,15 @@
       "nameWithOwner": "heartleo/zlib",
       "description": "A CLI for Z-Library. Search, download and send to Kindle.",
       "url": "https://github.com/heartleo/zlib",
-      "stargazerCount": 11,
-      "forkCount": 1,
+      "stargazerCount": 15,
+      "forkCount": 2,
       "languageName": "Go",
       "languageColor": null,
       "ownerLogin": "heartleo",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/37259172?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-10T02:20:43Z",
-      "updatedAt": "2026-04-10T15:21:28Z",
+      "updatedAt": "2026-04-12T04:35:17Z",
       "licenseName": "MIT",
       "topics": [
         "book",
@@ -113,6 +83,30 @@
         "kindle",
         "z-library",
         "zlibrary"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1206808179",
+      "name": "pironman5-go",
+      "nameWithOwner": "l-you/pironman5-go",
+      "description": "Pironman 5 essentials written in Go for Raspberry 5. ~7x less RAM consumption that original Python service https://github.com/sunfounder/pironman5",
+      "url": "https://github.com/l-you/pironman5-go",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "l-you",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/32598874?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-10T09:19:04Z",
+      "updatedAt": "2026-04-12T05:27:14Z",
+      "licenseName": "GPL-2.0",
+      "topics": [
+        "go",
+        "pironman5",
+        "raspberry-pi-5"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

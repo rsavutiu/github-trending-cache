@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-11T05:40:03Z",
+  "generatedAt": "2026-04-12T06:03:13Z",
   "topic": "devops",
-  "totalCount": 2,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1204276881",
@@ -9,7 +9,7 @@
       "nameWithOwner": "CodMughees/envradar",
       "description": "Catch undocumented, unused, and drifting environment variables in your repo",
       "url": "https://github.com/CodMughees/envradar",
-      "stargazerCount": 269,
+      "stargazerCount": 270,
       "forkCount": 4,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/207321946?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-07T21:27:39Z",
-      "updatedAt": "2026-04-11T04:19:04Z",
+      "updatedAt": "2026-04-11T13:55:39Z",
       "licenseName": "MIT",
       "topics": [
         "cli",
@@ -61,6 +61,39 @@
         "pagerduty-alternative",
         "sre",
         "sre-infra"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1203754792",
+      "name": "mycelium",
+      "nameWithOwner": "haabe/mycelium",
+      "description": "38 skills, 12 theory gates, fractal diamonds — product development harness for Claude Code. Discovery to delivery for software, courses, AI tools, and   services.",
+      "url": "https://github.com/haabe/mycelium",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": "Shell",
+      "languageColor": null,
+      "ownerLogin": "haabe",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/2988921?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-07T10:48:02Z",
+      "updatedAt": "2026-04-11T22:25:12Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ai-agent",
+        "claude-code",
+        "claude-code-skills",
+        "delivery",
+        "devops",
+        "discovery",
+        "dora-metrics",
+        "product-development",
+        "product-discovery",
+        "product-management",
+        "spec-driven-development",
+        "wardley-mapping"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

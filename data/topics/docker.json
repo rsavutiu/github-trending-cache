@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-11T05:40:03Z",
+  "generatedAt": "2026-04-12T06:03:13Z",
   "topic": "docker",
-  "totalCount": 5,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1202931408",
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/45936736?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-06T14:49:50Z",
-      "updatedAt": "2026-04-10T15:08:09Z",
+      "updatedAt": "2026-04-12T02:34:27Z",
       "licenseName": "MIT",
       "topics": [
         "ai-agent",
@@ -33,38 +33,6 @@
         "wechat",
         "wechat-article",
         "wechat-official-account"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1201700673",
-      "name": "Libreseerr",
-      "nameWithOwner": "zamnzim/Libreseerr",
-      "description": "Libreseerr is a book request management application for Readarr and Readarr forks like Bookshelf. It provides a simple web interface for users to search for books and request ebook or audiobook downloads similar to how Overseerr and Jellyseerr work for movies and TV shows with Sonarr/Radarr, but for books with Readarr or Bookshelf.",
-      "url": "https://github.com/zamnzim/Libreseerr",
-      "stargazerCount": 28,
-      "forkCount": 1,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "zamnzim",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/24995784?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-05T03:16:05Z",
-      "updatedAt": "2026-04-11T01:03:15Z",
-      "licenseName": "GPL-3.0",
-      "topics": [
-        "arr",
-        "docker",
-        "docker-compose",
-        "docker-container",
-        "docker-image",
-        "jellyseerr",
-        "overseerr",
-        "python",
-        "readarr",
-        "seerr",
-        "servarr"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -93,31 +61,6 @@
         "rss",
         "self-hosted",
         "sqlite"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1202931970",
-      "name": "ledgerbox",
-      "nameWithOwner": "dnokafor/ledgerbox",
-      "description": "Self-hosted family finance app with multi-user support  ",
-      "url": "https://github.com/dnokafor/ledgerbox",
-      "stargazerCount": 9,
-      "forkCount": 0,
-      "languageName": "JavaScript",
-      "languageColor": null,
-      "ownerLogin": "dnokafor",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/274033816?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-06T14:50:28Z",
-      "updatedAt": "2026-04-09T16:06:57Z",
-      "licenseName": "MIT",
-      "topics": [
-        "docker",
-        "express",
-        "personal-finance",
-        "self-hosted"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -158,7 +101,32 @@
         "study-tools",
         "typescript"
       ],
-      "openIssuesCount": 13,
+      "openIssuesCount": 27,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1202931970",
+      "name": "ledgerbox",
+      "nameWithOwner": "dnokafor/ledgerbox",
+      "description": "Self-hosted family finance app with multi-user support  ",
+      "url": "https://github.com/dnokafor/ledgerbox",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "dnokafor",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/274033816?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-06T14:50:28Z",
+      "updatedAt": "2026-04-11T23:50:32Z",
+      "licenseName": "MIT",
+      "topics": [
+        "docker",
+        "express",
+        "personal-finance",
+        "self-hosted"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

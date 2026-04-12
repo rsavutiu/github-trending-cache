@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T05:40:03Z",
+  "generatedAt": "2026-04-12T06:03:13Z",
   "topic": "kubernetes",
   "totalCount": 1,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "sholdee/crd-schema-publisher",
       "description": "Lightweight Go binary that extracts CRD JSON schemas from a Kubernetes cluster and publishes them to Cloudflare Pages. Watches for CRD changes in real-time or runs as a CronJob. ~11MB distroless container with zero runtime dependencies.",
       "url": "https://github.com/sholdee/crd-schema-publisher",
-      "stargazerCount": 7,
+      "stargazerCount": 9,
       "forkCount": 0,
       "languageName": "Go",
       "languageColor": null,
@@ -17,8 +17,8 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/102821812?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-09T04:01:09Z",
-      "updatedAt": "2026-04-11T05:13:46Z",
-      "licenseName": null,
+      "updatedAt": "2026-04-11T19:26:44Z",
+      "licenseName": "MIT",
       "topics": [
         "cloudflare-pages",
         "cronjob",

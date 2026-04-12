@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-04-11T05:40:03Z",
+  "generatedAt": "2026-04-12T06:03:13Z",
   "topic": "kotlin",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 1,
+  "repos": [
+    {
+      "id": "1206063147",
+      "name": "Klarinet",
+      "nameWithOwner": "vectencia/Klarinet",
+      "description": "Open-source Kotlin Multiplatform audio SDK with low-latency playback, recording, 16 real-time effects, and file I/O across Android and Apple platforms.",
+      "url": "https://github.com/vectencia/Klarinet",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "C++",
+      "languageColor": null,
+      "ownerLogin": "vectencia",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/274592915?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-09T14:38:23Z",
+      "updatedAt": "2026-04-11T09:49:13Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "android",
+        "audio",
+        "audio-processing",
+        "avaudioengine",
+        "compose-multiplatform",
+        "dsp",
+        "effects",
+        "ios",
+        "kmp",
+        "kotlin",
+        "kotlin-multiplatform",
+        "low-latency",
+        "oboe",
+        "open-source",
+        "realtime-audio",
+        "reverb",
+        "sdk",
+        "tvos"
+      ],
+      "openIssuesCount": 2,
+      "closedIssuesCount": 0
+    }
+  ]
 }

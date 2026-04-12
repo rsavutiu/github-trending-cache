@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-11T05:40:03Z",
+  "generatedAt": "2026-04-12T06:03:13Z",
   "topic": "data-science",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1206461684",
@@ -9,15 +9,15 @@
       "nameWithOwner": "khedekarpratik0337/featureiq",
       "description": "A knowledge graph and meta-learning framework for context-aware automated feature engineering",
       "url": "https://github.com/khedekarpratik0337/featureiq",
-      "stargazerCount": 6,
-      "forkCount": 0,
+      "stargazerCount": 7,
+      "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "khedekarpratik0337",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/105503399?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-10T00:05:28Z",
-      "updatedAt": "2026-04-10T10:58:32Z",
+      "updatedAt": "2026-04-11T21:50:25Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "automl",
@@ -28,6 +28,33 @@
         "meta-learning",
         "python",
         "scikit-learn"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1204559601",
+      "name": "ai-ds-job-market",
+      "nameWithOwner": "andresvourakis/ai-ds-job-market",
+      "description": "A simple open-source dashboard to analyze how AI is disrupting the Data Science job market",
+      "url": "https://github.com/andresvourakis/ai-ds-job-market",
+      "stargazerCount": 7,
+      "forkCount": 1,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "andresvourakis",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/168167023?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-08T05:49:42Z",
+      "updatedAt": "2026-04-11T14:02:24Z",
+      "licenseName": "MIT",
+      "topics": [
+        "agentic-ai",
+        "agentic-analytics",
+        "data-analysis",
+        "data-science",
+        "generative-ai",
+        "job-market-analysis"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

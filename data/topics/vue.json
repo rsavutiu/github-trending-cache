@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T05:40:03Z",
+  "generatedAt": "2026-04-12T06:03:13Z",
   "topic": "vue",
   "totalCount": 5,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "productdevbook/pencere",
       "description": "Zero-dependency lightbox for images, video, iframes & custom renderers. Native View Transitions morph, WCAG 2.2 AA, hooks + plugins, controlled mode. Pure TypeScript, works everywhere.",
       "url": "https://github.com/productdevbook/pencere",
-      "stargazerCount": 28,
+      "stargazerCount": 30,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/38668796?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-09T12:19:20Z",
-      "updatedAt": "2026-04-11T00:52:07Z",
+      "updatedAt": "2026-04-11T12:40:44Z",
       "licenseName": "MIT",
       "topics": [
         "a11y",
@@ -42,6 +42,39 @@
         "zero-dependencies"
       ],
       "openIssuesCount": 2,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1204406252",
+      "name": "android-agent",
+      "nameWithOwner": "ghost-in-the-droid/android-agent",
+      "description": "Open-source Android device automation framework — control real phones via ADB with Python skills, a Vue dashboard, and LLM-powered tooling",
+      "url": "https://github.com/ghost-in-the-droid/android-agent",
+      "stargazerCount": 9,
+      "forkCount": 3,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "ghost-in-the-droid",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/273162000?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-04-08T01:31:13Z",
+      "updatedAt": "2026-04-11T17:39:46Z",
+      "licenseName": "MIT",
+      "topics": [
+        "adb",
+        "android",
+        "android-automation",
+        "automation",
+        "bot-framework",
+        "fastapi",
+        "mcp",
+        "open-source",
+        "phone-farm",
+        "python",
+        "skill-system",
+        "vue"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -133,39 +166,6 @@
         "vue-forms",
         "vue3",
         "vue3-component"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1204406252",
-      "name": "android-agent",
-      "nameWithOwner": "ghost-in-the-droid/android-agent",
-      "description": "Open-source Android device automation framework — control real phones via ADB with Python skills, a Vue dashboard, and LLM-powered tooling",
-      "url": "https://github.com/ghost-in-the-droid/android-agent",
-      "stargazerCount": 8,
-      "forkCount": 3,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "ghost-in-the-droid",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/273162000?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-04-08T01:31:13Z",
-      "updatedAt": "2026-04-10T13:42:28Z",
-      "licenseName": "MIT",
-      "topics": [
-        "adb",
-        "android",
-        "android-automation",
-        "automation",
-        "bot-framework",
-        "fastapi",
-        "mcp",
-        "open-source",
-        "phone-farm",
-        "python",
-        "skill-system",
-        "vue"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
