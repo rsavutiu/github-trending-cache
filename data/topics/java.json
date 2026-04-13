@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-12T06:03:13Z",
+  "generatedAt": "2026-04-13T06:27:02Z",
   "topic": "java",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1205759917",
@@ -9,15 +9,15 @@
       "nameWithOwner": "liyupi/yupi-skill",
       "description": "🐟 程序员鱼皮 Agent Skill｜把自己蒸馏成 AI 技能包，用我的思维方式和表达风格回答编程学习、求职面试、AI 编程、简历优化、技术选型、创业经验等问题。支持 Claude Code / Cursor / OpenClaw",
       "url": "https://github.com/liyupi/yupi-skill",
-      "stargazerCount": 88,
-      "forkCount": 13,
+      "stargazerCount": 127,
+      "forkCount": 16,
       "languageName": null,
       "languageColor": null,
       "ownerLogin": "liyupi",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/26037703?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-09T08:54:00Z",
-      "updatedAt": "2026-04-12T05:07:04Z",
+      "updatedAt": "2026-04-13T06:25:41Z",
       "licenseName": "MIT",
       "topics": [
         "agent",
@@ -54,7 +54,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/95278277?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-09T17:52:13Z",
-      "updatedAt": "2026-04-11T12:31:36Z",
+      "updatedAt": "2026-04-12T17:44:08Z",
       "licenseName": "MIT",
       "topics": [
         "desing-patterns",
@@ -74,36 +74,6 @@
         "springboot",
         "thymeleaf",
         "website"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1202840400",
-      "name": "thundering-herd-challenge",
-      "nameWithOwner": "Gianguyen1234/thundering-herd-challenge",
-      "description": "🚨 Backend Challenge: Solve the Thundering Herd Problem under high concurrency. Explain your thinking, not just your code.",
-      "url": "https://github.com/Gianguyen1234/thundering-herd-challenge",
-      "stargazerCount": 7,
-      "forkCount": 2,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "Gianguyen1234",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/112406680?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-06T13:06:30Z",
-      "updatedAt": "2026-04-07T04:11:14Z",
-      "licenseName": null,
-      "topics": [
-        "backend",
-        "cache-stampede",
-        "caching",
-        "coding-challenge",
-        "concurrency",
-        "distributed-systems-challenges",
-        "java",
-        "system-design",
-        "thundering-herd"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

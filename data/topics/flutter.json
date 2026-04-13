@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T06:03:13Z",
+  "generatedAt": "2026-04-13T06:27:02Z",
   "topic": "flutter",
   "totalCount": 2,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "chetstriker/LLMtary",
       "description": "Autonomous AI-powered penetration testing platform. LLM-driven recon, vulnerability analysis, and exploit validation for internal & external targets. Supports local AI (Ollama, LM Studio) and cloud models (Claude, GPT-4, Gemini). Linux · macOS · Windows",
       "url": "https://github.com/chetstriker/LLMtary",
-      "stargazerCount": 12,
-      "forkCount": 2,
+      "stargazerCount": 15,
+      "forkCount": 3,
       "languageName": "Dart",
       "languageColor": null,
       "ownerLogin": "chetstriker",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4873992?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-08T01:53:03Z",
-      "updatedAt": "2026-04-11T21:22:29Z",
+      "updatedAt": "2026-04-12T15:08:26Z",
       "licenseName": "MIT",
       "topics": [
         "ai",
@@ -48,15 +48,15 @@
       "nameWithOwner": "studyield/studyield",
       "description": " Open-source AI learning platform with exam cloning, multi-agent problem solving, knowledge graphs, and teach-back evaluation. Self-hosted, 12 languages, web + mobile.",
       "url": "https://github.com/studyield/studyield",
-      "stargazerCount": 8,
-      "forkCount": 4,
+      "stargazerCount": 11,
+      "forkCount": 7,
       "languageName": "TypeScript",
       "languageColor": null,
       "ownerLogin": "studyield",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/259101612?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-04-08T03:24:38Z",
-      "updatedAt": "2026-04-10T11:29:39Z",
+      "updatedAt": "2026-04-13T04:25:41Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "ai-tutor",
@@ -78,7 +78,7 @@
         "study-tools",
         "typescript"
       ],
-      "openIssuesCount": 27,
+      "openIssuesCount": 57,
       "closedIssuesCount": 0
     }
   ]

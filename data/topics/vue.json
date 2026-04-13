@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T06:03:13Z",
+  "generatedAt": "2026-04-13T06:27:02Z",
   "topic": "vue",
   "totalCount": 5,
   "repos": [
@@ -50,7 +50,7 @@
       "nameWithOwner": "ghost-in-the-droid/android-agent",
       "description": "Open-source Android device automation framework — control real phones via ADB with Python skills, a Vue dashboard, and LLM-powered tooling",
       "url": "https://github.com/ghost-in-the-droid/android-agent",
-      "stargazerCount": 9,
+      "stargazerCount": 10,
       "forkCount": 3,
       "languageName": "Python",
       "languageColor": null,
@@ -58,7 +58,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/273162000?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-04-08T01:31:13Z",
-      "updatedAt": "2026-04-11T17:39:46Z",
+      "updatedAt": "2026-04-13T03:07:05Z",
       "licenseName": "MIT",
       "topics": [
         "adb",
