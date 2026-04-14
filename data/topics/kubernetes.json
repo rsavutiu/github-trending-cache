@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T06:27:02Z",
+  "generatedAt": "2026-04-14T06:09:40Z",
   "topic": "kubernetes",
   "totalCount": 2,
   "repos": [
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/102821812?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-09T04:01:09Z",
-      "updatedAt": "2026-04-13T06:19:59Z",
+      "updatedAt": "2026-04-14T05:07:37Z",
       "licenseName": "MIT",
       "topics": [
         "cloudflare-pages",
@@ -40,7 +40,7 @@
       "nameWithOwner": "UseAfterMe/Kubeforge",
       "description": "Build repeatable kubeadm-based Kubernetes clusters on Proxmox with OpenTofu, cloud-init, and Ansible",
       "url": "https://github.com/UseAfterMe/Kubeforge",
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
@@ -48,7 +48,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/441384?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-12T02:24:48Z",
-      "updatedAt": "2026-04-13T05:27:59Z",
+      "updatedAt": "2026-04-13T06:36:44Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ansible",

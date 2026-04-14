@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T06:27:02Z",
+  "generatedAt": "2026-04-14T06:09:40Z",
   "topic": "kotlin",
   "totalCount": 1,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "vectencia/Klarinet",
       "description": "Open-source Kotlin Multiplatform audio SDK with low-latency playback, recording, 16 real-time effects, and file I/O across Android and Apple platforms.",
       "url": "https://github.com/vectencia/Klarinet",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 0,
       "languageName": "C++",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/274592915?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-09T14:38:23Z",
-      "updatedAt": "2026-04-11T09:49:13Z",
+      "updatedAt": "2026-04-13T12:28:48Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "android",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T06:27:02Z",
+  "generatedAt": "2026-04-14T06:09:40Z",
   "topic": "data-science",
   "totalCount": 2,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "khedekarpratik0337/featureiq",
       "description": "A knowledge graph and meta-learning framework for context-aware automated feature engineering",
       "url": "https://github.com/khedekarpratik0337/featureiq",
-      "stargazerCount": 7,
-      "forkCount": 1,
+      "stargazerCount": 8,
+      "forkCount": 2,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "khedekarpratik0337",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/105503399?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-10T00:05:28Z",
-      "updatedAt": "2026-04-11T21:50:25Z",
+      "updatedAt": "2026-04-13T16:23:06Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "automl",
