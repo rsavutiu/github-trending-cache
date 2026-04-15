@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-14T06:09:40Z",
+  "generatedAt": "2026-04-15T06:09:34Z",
   "topic": "data-science",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1206461684",
@@ -28,33 +28,6 @@
         "meta-learning",
         "python",
         "scikit-learn"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1204559601",
-      "name": "ai-ds-job-market",
-      "nameWithOwner": "andresvourakis/ai-ds-job-market",
-      "description": "A simple open-source dashboard to analyze how AI is disrupting the Data Science job market",
-      "url": "https://github.com/andresvourakis/ai-ds-job-market",
-      "stargazerCount": 7,
-      "forkCount": 1,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "andresvourakis",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/168167023?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-08T05:49:42Z",
-      "updatedAt": "2026-04-11T14:02:24Z",
-      "licenseName": "MIT",
-      "topics": [
-        "agentic-ai",
-        "agentic-analytics",
-        "data-analysis",
-        "data-science",
-        "generative-ai",
-        "job-market-analysis"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

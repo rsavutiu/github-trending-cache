@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T06:09:40Z",
+  "generatedAt": "2026-04-15T06:09:34Z",
   "topic": "kubernetes",
   "totalCount": 2,
   "repos": [
@@ -7,7 +7,7 @@
       "id": "1205545100",
       "name": "crd-schema-publisher",
       "nameWithOwner": "sholdee/crd-schema-publisher",
-      "description": "Watches Kubernetes CRD changes and publishes live schema docs to Cloudflare Pages",
+      "description": "Browsable CRD docs and IDE validation schemas, straight from your Kubernetes cluster",
       "url": "https://github.com/sholdee/crd-schema-publisher",
       "stargazerCount": 10,
       "forkCount": 0,
@@ -17,19 +17,16 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/102821812?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-09T04:01:09Z",
-      "updatedAt": "2026-04-14T05:07:37Z",
+      "updatedAt": "2026-04-15T05:19:51Z",
       "licenseName": "MIT",
       "topics": [
         "cloudflare-pages",
-        "cronjob",
         "custom-resource-definitions",
-        "distroless",
-        "gitops",
-        "golang",
+        "helm-chart",
         "json-schema",
         "kubeconform",
         "kubernetes",
-        "kubeval"
+        "kubernetes-controller"
       ],
       "openIssuesCount": 1,
       "closedIssuesCount": 0
@@ -40,15 +37,15 @@
       "nameWithOwner": "UseAfterMe/Kubeforge",
       "description": "Build repeatable kubeadm-based Kubernetes clusters on Proxmox with OpenTofu, cloud-init, and Ansible",
       "url": "https://github.com/UseAfterMe/Kubeforge",
-      "stargazerCount": 8,
+      "stargazerCount": 9,
       "forkCount": 1,
-      "languageName": "Python",
+      "languageName": "Shell",
       "languageColor": null,
       "ownerLogin": "UseAfterMe",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/441384?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-12T02:24:48Z",
-      "updatedAt": "2026-04-13T06:36:44Z",
+      "updatedAt": "2026-04-14T22:30:50Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ansible",
