@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-15T06:09:34Z",
+  "generatedAt": "2026-04-16T06:13:49Z",
   "topic": "data-science",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1206461684",
@@ -9,15 +9,15 @@
       "nameWithOwner": "khedekarpratik0337/featureiq",
       "description": "A knowledge graph and meta-learning framework for context-aware automated feature engineering",
       "url": "https://github.com/khedekarpratik0337/featureiq",
-      "stargazerCount": 8,
-      "forkCount": 2,
+      "stargazerCount": 14,
+      "forkCount": 8,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "khedekarpratik0337",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/105503399?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-10T00:05:28Z",
-      "updatedAt": "2026-04-13T16:23:06Z",
+      "updatedAt": "2026-04-16T04:14:42Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "automl",
@@ -30,6 +30,47 @@
         "scikit-learn"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1211456594",
+      "name": "Jetro",
+      "nameWithOwner": "JetroExtension/Jetro",
+      "description": "An open canvas workspace for AI coding agents",
+      "url": "https://github.com/JetroExtension/Jetro",
+      "stargazerCount": 6,
+      "forkCount": 2,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "JetroExtension",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/276228746?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-04-15T12:13:30Z",
+      "updatedAt": "2026-04-15T21:40:36Z",
+      "licenseName": "MIT",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "antigravity",
+        "beginner-code",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "data-analysis",
+        "data-science",
+        "data-visualization",
+        "financial-analysis",
+        "open-source",
+        "openai",
+        "vibecoding",
+        "vscode",
+        "vscode-extension",
+        "workspace"
+      ],
+      "openIssuesCount": 2,
       "closedIssuesCount": 0
     }
   ]
