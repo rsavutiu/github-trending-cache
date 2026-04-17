@@ -1,6 +1,37 @@
 {
-  "generatedAt": "2026-04-16T06:13:49Z",
+  "generatedAt": "2026-04-17T06:14:20Z",
   "topic": "web",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 1,
+  "repos": [
+    {
+      "id": "1208055351",
+      "name": "bulletproof-rust-web",
+      "nameWithOwner": "gruberb/bulletproof-rust-web",
+      "description": "An opinionated guide to production-grade Rust web applications with Axum, inspired by bulletproof-react",
+      "url": "https://github.com/gruberb/bulletproof-rust-web",
+      "stargazerCount": 6,
+      "forkCount": 1,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "gruberb",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/2135077?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-11T18:56:42Z",
+      "updatedAt": "2026-04-17T04:34:14Z",
+      "licenseName": null,
+      "topics": [
+        "architecture",
+        "axum",
+        "best-practices",
+        "grpc",
+        "production",
+        "rust",
+        "sqlx",
+        "tokio",
+        "web"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    }
+  ]
 }

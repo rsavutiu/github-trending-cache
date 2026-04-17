@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-16T06:13:49Z",
+  "generatedAt": "2026-04-17T06:14:20Z",
   "topic": "flutter",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1209156971",
@@ -9,7 +9,7 @@
       "nameWithOwner": "rudradave1/droidperf",
       "description": "CLI tool to audit and auto-fix Android Gradle performance issues. It detects bottlenecks, suggests optimizations, and supports CI workflows for Android/KMP + Flutter projects.",
       "url": "https://github.com/rudradave1/droidperf",
-      "stargazerCount": 11,
+      "stargazerCount": 12,
       "forkCount": 1,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/35660907?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-13T06:36:15Z",
-      "updatedAt": "2026-04-16T02:56:02Z",
+      "updatedAt": "2026-04-17T02:24:37Z",
       "licenseName": "MIT",
       "topics": [
         "android",
@@ -32,43 +32,6 @@
         "performance"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1206511251",
-      "name": "vasty-shop",
-      "nameWithOwner": "vasty-shop/vasty-shop",
-      "description": null,
-      "url": "https://github.com/vasty-shop/vasty-shop",
-      "stargazerCount": 7,
-      "forkCount": 6,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "vasty-shop",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/274955112?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-04-10T01:44:23Z",
-      "updatedAt": "2026-04-14T11:51:04Z",
-      "licenseName": "MIT",
-      "topics": [
-        "ai",
-        "docker",
-        "ecommerce",
-        "flutter",
-        "i18n",
-        "marketplace",
-        "multi-vendor",
-        "nestjs",
-        "open-source",
-        "pos",
-        "postgresql",
-        "react",
-        "self-hosted",
-        "stripe",
-        "stripe-connect",
-        "typescript"
-      ],
-      "openIssuesCount": 3,
       "closedIssuesCount": 0
     }
   ]
