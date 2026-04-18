@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T06:14:20Z",
+  "generatedAt": "2026-04-18T05:50:38Z",
   "topic": "kubernetes",
   "totalCount": 5,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "xataio/xata",
       "description": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
       "url": "https://github.com/xataio/xata",
-      "stargazerCount": 497,
-      "forkCount": 16,
+      "stargazerCount": 571,
+      "forkCount": 23,
       "languageName": "Go",
       "languageColor": null,
       "ownerLogin": "xataio",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-04-15T08:49:42Z",
-      "updatedAt": "2026-04-17T06:10:44Z",
+      "updatedAt": "2026-04-18T05:48:22Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "branching",
@@ -42,7 +42,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/64063489?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-12T14:00:09Z",
-      "updatedAt": "2026-04-16T14:19:30Z",
+      "updatedAt": "2026-04-17T07:37:45Z",
       "licenseName": "MIT",
       "topics": [
         "claude-code",
@@ -58,7 +58,7 @@
         "skills",
         "sre"
       ],
-      "openIssuesCount": 2,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -96,42 +96,12 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1207595160",
-      "name": "pyck-oss",
-      "nameWithOwner": "pyck-ai/pyck-oss",
-      "description": "An Open-Source warehousing framework, engineered for the AI era ",
-      "url": "https://github.com/pyck-ai/pyck-oss",
-      "stargazerCount": 9,
-      "forkCount": 2,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "pyck-ai",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/161283708?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-04-11T06:13:20Z",
-      "updatedAt": "2026-04-15T11:24:44Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "docker",
-        "golang",
-        "graphql",
-        "intralogistics",
-        "kubernetes",
-        "logistics",
-        "nats",
-        "warehouse-management",
-        "workflows"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1209066512",
       "name": "Talosforge",
       "nameWithOwner": "UseAfterMe/Talosforge",
       "description": "Deploy Talos Linux Kubernetes clusters on Proxmox with OpenTofu, talosctl, VIP-based HA, and optional Cilium, MetalLB, Traefik, and Proxmox CSI.",
       "url": "https://github.com/UseAfterMe/Talosforge",
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -139,7 +109,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/441384?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-13T04:04:32Z",
-      "updatedAt": "2026-04-16T20:26:32Z",
+      "updatedAt": "2026-04-17T13:06:04Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "cloud-init",
@@ -150,6 +120,37 @@
         "terraform"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1212162564",
+      "name": "k-o11y",
+      "nameWithOwner": "Wondermove-Inc/k-o11y",
+      "description": "K-O11y: Kubernetes Observability Platform (SigNoz + OTel + Beyla)",
+      "url": "https://github.com/Wondermove-Inc/k-o11y",
+      "stargazerCount": 6,
+      "forkCount": 1,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "Wondermove-Inc",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/101540012?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-04-16T05:52:47Z",
+      "updatedAt": "2026-04-18T03:59:26Z",
+      "licenseName": "MIT",
+      "topics": [
+        "apm",
+        "beyla",
+        "clickhouse",
+        "ebpf",
+        "kubernetes",
+        "monitoring",
+        "observability",
+        "opentelemetry",
+        "self-hosted",
+        "signoz"
+      ],
+      "openIssuesCount": 2,
       "closedIssuesCount": 0
     }
   ]

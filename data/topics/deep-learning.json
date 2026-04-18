@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T06:14:20Z",
+  "generatedAt": "2026-04-18T05:50:38Z",
   "topic": "deep-learning",
   "totalCount": 3,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "facebookresearch/neuroai",
       "description": "Python suite for neuroscience research across all modalities.",
       "url": "https://github.com/facebookresearch/neuroai",
-      "stargazerCount": 23,
+      "stargazerCount": 26,
       "forkCount": 5,
       "languageName": "Python",
       "languageColor": null,
@@ -17,11 +17,51 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-04-14T12:59:23Z",
-      "updatedAt": "2026-04-17T05:46:10Z",
+      "updatedAt": "2026-04-18T03:09:07Z",
       "licenseName": "MIT",
       "topics": [
         "deep-learning",
         "neuroscience"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1213260734",
+      "name": "Rose",
+      "nameWithOwner": "MatthewK78/Rose",
+      "description": "🌹 Rose: Range-Of-Slice Equilibration PyTorch optimizer. Stateless optimization through range-normalized gradient updates.",
+      "url": "https://github.com/MatthewK78/Rose",
+      "stargazerCount": 9,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "MatthewK78",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/29156922?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-17T07:43:47Z",
+      "updatedAt": "2026-04-18T05:10:42Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "adam-optimizer",
+        "ai",
+        "artificial-intelligence",
+        "deep-learning",
+        "diffusion-models",
+        "fine-tuning",
+        "gpt",
+        "gradient-descent",
+        "large-language-models",
+        "llm",
+        "lora",
+        "machine-learning",
+        "optimizer",
+        "optimizer-algorithms",
+        "optimizers",
+        "pretraining",
+        "pytorch",
+        "sgd",
+        "transformers"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -51,36 +91,6 @@
         "pytorch"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1208109863",
-      "name": "neural-trees",
-      "nameWithOwner": "cgrtml/neural-trees",
-      "description": "sklearn-compatible PyTorch implementations of Soft Decision Trees, HMoE, and classifier comparison tests (5×2cv F-test). pip install neural-trees",
-      "url": "https://github.com/cgrtml/neural-trees",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "cgrtml",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9119933?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-11T20:41:54Z",
-      "updatedAt": "2026-04-16T01:47:10Z",
-      "licenseName": "MIT",
-      "topics": [
-        "decision-trees",
-        "deep-learning",
-        "machine-learning",
-        "mixture-of-experts",
-        "python",
-        "pytorch",
-        "sklearn",
-        "soft-decision-trees",
-        "statistical-tests"
-      ],
-      "openIssuesCount": 3,
       "closedIssuesCount": 0
     }
   ]

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-17T06:14:20Z",
+  "generatedAt": "2026-04-18T05:50:38Z",
   "topic": "vue",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1212149392",
@@ -9,7 +9,7 @@
       "nameWithOwner": "productdevbook/ahize",
       "description": "One unified API for 18 live-chat & customer-support widgets. Zero deps, tree-shakeable, SSR-safe, CSP-aware, strict TypeScript.",
       "url": "https://github.com/productdevbook/ahize",
-      "stargazerCount": 9,
+      "stargazerCount": 10,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/38668796?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-16T05:31:44Z",
-      "updatedAt": "2026-04-16T20:47:02Z",
+      "updatedAt": "2026-04-17T06:53:22Z",
       "licenseName": "MIT",
       "topics": [
         "ahize",
@@ -42,6 +42,41 @@
         "zero-dependency"
       ],
       "openIssuesCount": 4,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1213342299",
+      "name": "vue-grid",
+      "nameWithOwner": "svar-widgets/vue-grid",
+      "description": "Feature-rich Vue data grid component with sorting, filtering, in-cell editing, and virtualization ",
+      "url": "https://github.com/svar-widgets/vue-grid",
+      "stargazerCount": 9,
+      "forkCount": 1,
+      "languageName": "Vue",
+      "languageColor": null,
+      "ownerLogin": "svar-widgets",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/148762960?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-04-17T09:26:09Z",
+      "updatedAt": "2026-04-17T15:24:04Z",
+      "licenseName": "MIT",
+      "topics": [
+        "data-grid",
+        "data-table",
+        "datagrid",
+        "datagrid-component",
+        "vue",
+        "vue-data-grid",
+        "vue-data-table",
+        "vue-datagrid",
+        "vue-datatable",
+        "vue-grid",
+        "vue-gridview",
+        "vue3",
+        "vuejs",
+        "vuejs3"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]
