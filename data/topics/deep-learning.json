@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T05:50:38Z",
+  "generatedAt": "2026-04-19T06:08:00Z",
   "topic": "deep-learning",
   "totalCount": 3,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "facebookresearch/neuroai",
       "description": "Python suite for neuroscience research across all modalities.",
       "url": "https://github.com/facebookresearch/neuroai",
-      "stargazerCount": 26,
+      "stargazerCount": 27,
       "forkCount": 5,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-04-14T12:59:23Z",
-      "updatedAt": "2026-04-18T03:09:07Z",
+      "updatedAt": "2026-04-18T12:51:07Z",
       "licenseName": "MIT",
       "topics": [
         "deep-learning",
@@ -32,7 +32,7 @@
       "nameWithOwner": "MatthewK78/Rose",
       "description": "🌹 Rose: Range-Of-Slice Equilibration PyTorch optimizer. Stateless optimization through range-normalized gradient updates.",
       "url": "https://github.com/MatthewK78/Rose",
-      "stargazerCount": 9,
+      "stargazerCount": 20,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -40,7 +40,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/29156922?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-17T07:43:47Z",
-      "updatedAt": "2026-04-18T05:10:42Z",
+      "updatedAt": "2026-04-19T00:00:04Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "adam-optimizer",
@@ -72,7 +72,7 @@
       "nameWithOwner": "latent-qifan/CPGNet",
       "description": "Official repository for CPGNet: Conditional Polarization Guidance for Camouflaged Object Detection.",
       "url": "https://github.com/latent-qifan/CPGNet",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -80,7 +80,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/224696097?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-13T13:01:09Z",
-      "updatedAt": "2026-04-14T04:10:05Z",
+      "updatedAt": "2026-04-18T09:17:44Z",
       "licenseName": "MIT",
       "topics": [
         "camouflaged-object-detection",

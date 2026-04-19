@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T05:50:38Z",
+  "generatedAt": "2026-04-19T06:08:00Z",
   "topic": "docker",
   "totalCount": 6,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "kitakitsune0x/bigbossbot",
       "description": "Self-hosted live intelligence dashboard for conflict tracking, alerts, markets, and OSINT feeds, with optional guest access and MCP support for authenticated users.",
       "url": "https://github.com/kitakitsune0x/bigbossbot",
-      "stargazerCount": 38,
+      "stargazerCount": 36,
       "forkCount": 1,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108195681?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-15T01:40:52Z",
-      "updatedAt": "2026-04-17T23:35:30Z",
+      "updatedAt": "2026-04-19T02:56:35Z",
       "licenseName": "MIT",
       "topics": [
         "caddy",
@@ -75,31 +75,6 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1208381477",
-      "name": "Smart-Dashboard-For-Financial-Planning",
-      "nameWithOwner": "Suraj-G-Rao/Smart-Dashboard-For-Financial-Planning",
-      "description": "AI-powered personal finance management platform built with Next.js 14, featuring advanced financial tools, intelligent insights, and a beautiful modern interface.",
-      "url": "https://github.com/Suraj-G-Rao/Smart-Dashboard-For-Financial-Planning",
-      "stargazerCount": 15,
-      "forkCount": 0,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "Suraj-G-Rao",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/161227285?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-12T07:40:26Z",
-      "updatedAt": "2026-04-16T04:56:34Z",
-      "licenseName": "MIT",
-      "topics": [
-        "docker",
-        "gemini-api",
-        "supabase-db",
-        "vibe-coding"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1209817119",
       "name": "malware-check",
       "nameWithOwner": "momenbasel/malware-check",
@@ -141,7 +116,7 @@
       "nameWithOwner": "AEON-7/vllm-dflash",
       "description": "DFlash vLLM for DGX Spark — Plug & Play Block-Diffusion Speculative Decoding",
       "url": "https://github.com/AEON-7/vllm-dflash",
-      "stargazerCount": 12,
+      "stargazerCount": 13,
       "forkCount": 2,
       "languageName": "Shell",
       "languageColor": null,
@@ -149,7 +124,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/243217414?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-13T00:05:20Z",
-      "updatedAt": "2026-04-17T15:16:58Z",
+      "updatedAt": "2026-04-18T14:16:30Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "blackwell",
@@ -174,7 +149,7 @@
       "nameWithOwner": "UberDudePL/windrose-dedicated-server-docker",
       "description": "Dockerized Windrose Dedicated Server (SteamCMD + Wine) with persistent saves and 24/7 hosting setup.",
       "url": "https://github.com/UberDudePL/windrose-dedicated-server-docker",
-      "stargazerCount": 12,
+      "stargazerCount": 13,
       "forkCount": 2,
       "languageName": "Shell",
       "languageColor": null,
@@ -182,7 +157,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/91315950?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-14T19:48:21Z",
-      "updatedAt": "2026-04-17T21:12:44Z",
+      "updatedAt": "2026-04-19T01:38:56Z",
       "licenseName": "MIT",
       "topics": [
         "dedicated-server",
@@ -191,6 +166,40 @@
         "steamcmd",
         "windrose",
         "wine"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1214354379",
+      "name": "LingXi",
+      "nameWithOwner": "adrian803/LingXi",
+      "description": "LingXi: multi-agent CTF and pentest framework originated from Tencent Security Hackathon",
+      "url": "https://github.com/adrian803/LingXi",
+      "stargazerCount": 12,
+      "forkCount": 1,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "adrian803",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/69416558?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-18T13:10:24Z",
+      "updatedAt": "2026-04-19T02:46:48Z",
+      "licenseName": "GPL-3.0",
+      "topics": [
+        "ctf",
+        "cybersecurity",
+        "docker",
+        "fastapi",
+        "gplv3",
+        "kali-linux",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "pentesting",
+        "python",
+        "rag",
+        "web-ui"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

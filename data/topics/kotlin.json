@@ -1,8 +1,40 @@
 {
-  "generatedAt": "2026-04-18T05:50:38Z",
+  "generatedAt": "2026-04-19T06:08:00Z",
   "topic": "kotlin",
   "totalCount": 2,
   "repos": [
+    {
+      "id": "1214663448",
+      "name": "EchoTube",
+      "nameWithOwner": "iad1tya/EchoTube",
+      "description": "Open-source YouTube client - enjoy an ad-free experience in a lightweight app, no account required.",
+      "url": "https://github.com/iad1tya/EchoTube",
+      "stargazerCount": 20,
+      "forkCount": 2,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "iad1tya",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/147871321?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-18T22:00:29Z",
+      "updatedAt": "2026-04-19T05:55:35Z",
+      "licenseName": "GPL-3.0",
+      "topics": [
+        "adfree",
+        "kotlin",
+        "kotlin-android",
+        "kotlin-multiplatform",
+        "youtube",
+        "youtube-api",
+        "youtube-dl",
+        "youtube-player",
+        "youtube-playlist",
+        "youtube-video",
+        "ytclient"
+      ],
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1209156971",
       "name": "droidperf",
@@ -32,36 +64,6 @@
         "performance"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1208425226",
-      "name": "Canned-Emotions",
-      "nameWithOwner": "bbblllllocck/Canned-Emotions",
-      "description": "以 Gemini Embedding 2 为核心的本地音乐智能播放工具 | A smart local music player powered by Gemini Embedding 2. [Android, Gemini API, Vector Search, Semantic Retrieval, Smart Roaming, Local Music, 音乐推荐, 向量检索, 语义搜索, 智能漫游]",
-      "url": "https://github.com/bbblllllocck/Canned-Emotions",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "bbblllllocck",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127617278?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-12T09:03:46Z",
-      "updatedAt": "2026-04-14T15:11:01Z",
-      "licenseName": null,
-      "topics": [
-        "android",
-        "audio-search",
-        "gemini-embedding-2",
-        "kotlin",
-        "local-music",
-        "local-music-player",
-        "music",
-        "music-library",
-        "music-suggestor"
-      ],
-      "openIssuesCount": 3,
       "closedIssuesCount": 0
     }
   ]

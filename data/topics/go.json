@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-18T05:50:38Z",
+  "generatedAt": "2026-04-19T06:08:00Z",
   "topic": "go",
-  "totalCount": 9,
+  "totalCount": 10,
   "repos": [
     {
       "id": "1211341525",
@@ -9,7 +9,7 @@
       "nameWithOwner": "programmersd21/kairo",
       "description": "🤩 Kairo is a fast, keyboard-first terminal task manager in Go 🐹 with offline-first SQLite, Git sync 🔁, fuzzy search 🔍 & Lua plugins 🧩",
       "url": "https://github.com/programmersd21/kairo",
-      "stargazerCount": 22,
+      "stargazerCount": 24,
       "forkCount": 0,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-15T09:46:34Z",
-      "updatedAt": "2026-04-18T05:00:22Z",
+      "updatedAt": "2026-04-18T19:56:44Z",
       "licenseName": "MIT",
       "topics": [
         "bubbletea",
@@ -107,12 +107,38 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1209186160",
+      "name": "Fluid-Weiqi",
+      "nameWithOwner": "WangNianyi2001/Fluid-Weiqi",
+      "description": "A Weiqi (Go) variant where the stones are fluid.",
+      "url": "https://github.com/WangNianyi2001/Fluid-Weiqi",
+      "stargazerCount": 10,
+      "forkCount": 0,
+      "languageName": "C#",
+      "languageColor": null,
+      "ownerLogin": "WangNianyi2001",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/19430435?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-13T07:15:10Z",
+      "updatedAt": "2026-04-18T15:27:23Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "baduk",
+        "go",
+        "unity",
+        "variant",
+        "weiqi"
+      ],
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1210507628",
       "name": "awesome-go-practices",
       "nameWithOwner": "quasilyte/awesome-go-practices",
       "description": "A curated set of best Go practices and performance tricks",
       "url": "https://github.com/quasilyte/awesome-go-practices",
-      "stargazerCount": 9,
+      "stargazerCount": 10,
       "forkCount": 0,
       "languageName": "Go",
       "languageColor": null,
@@ -120,7 +146,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6286655?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-14T13:38:15Z",
-      "updatedAt": "2026-04-16T15:19:28Z",
+      "updatedAt": "2026-04-18T14:35:57Z",
       "licenseName": "MIT",
       "topics": [
         "best-practice",
@@ -138,32 +164,6 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1209186160",
-      "name": "Fluid-Weiqi",
-      "nameWithOwner": "WangNianyi2001/Fluid-Weiqi",
-      "description": "A Weiqi (Go) variant where the stones are fluid.",
-      "url": "https://github.com/WangNianyi2001/Fluid-Weiqi",
-      "stargazerCount": 9,
-      "forkCount": 0,
-      "languageName": "C#",
-      "languageColor": null,
-      "ownerLogin": "WangNianyi2001",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/19430435?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-13T07:15:10Z",
-      "updatedAt": "2026-04-17T07:19:34Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "baduk",
-        "go",
-        "unity",
-        "variant",
-        "weiqi"
-      ],
-      "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1211065737",
       "name": "gobspect",
       "nameWithOwner": "codepuke/gobspect",
@@ -177,7 +177,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/274921570?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-04-15T03:13:04Z",
-      "updatedAt": "2026-04-16T19:44:55Z",
+      "updatedAt": "2026-04-19T03:03:19Z",
       "licenseName": "MIT",
       "topics": [
         "encoding",
@@ -187,6 +187,41 @@
         "query"
       ],
       "openIssuesCount": 4,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1213423374",
+      "name": "proxykit",
+      "nameWithOwner": "777genius/proxykit",
+      "description": "Embeddable Go proxy foundation for reverse, forward, CONNECT, WebSocket, and runtime-aware proxy workflows.",
+      "url": "https://github.com/777genius/proxykit",
+      "stargazerCount": 9,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "777genius",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/13103045?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-17T11:12:56Z",
+      "updatedAt": "2026-04-19T04:47:14Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "embedded",
+        "forward-proxy",
+        "go",
+        "golang",
+        "http-proxy",
+        "library",
+        "mitm",
+        "net-http",
+        "observability",
+        "proxy",
+        "reverse-proxy",
+        "socketio",
+        "websocket",
+        "websocket-proxy"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -203,7 +238,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5263153?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-16T14:22:12Z",
-      "updatedAt": "2026-04-18T02:18:08Z",
+      "updatedAt": "2026-04-18T10:11:59Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ai",
@@ -220,7 +255,7 @@
         "model-context-protocol",
         "openapi"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -278,7 +313,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/275884720?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-04-14T04:22:45Z",
-      "updatedAt": "2026-04-17T06:10:51Z",
+      "updatedAt": "2026-04-18T17:36:48Z",
       "licenseName": "LGPL-2.1",
       "topics": [
         "ai",
