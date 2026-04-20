@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-19T06:08:00Z",
+  "generatedAt": "2026-04-20T06:27:26Z",
   "topic": "kubernetes",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1211295602",
@@ -9,15 +9,15 @@
       "nameWithOwner": "xataio/xata",
       "description": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
       "url": "https://github.com/xataio/xata",
-      "stargazerCount": 614,
-      "forkCount": 25,
+      "stargazerCount": 645,
+      "forkCount": 28,
       "languageName": "Go",
       "languageColor": null,
       "ownerLogin": "xataio",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-04-15T08:49:42Z",
-      "updatedAt": "2026-04-19T04:47:32Z",
+      "updatedAt": "2026-04-20T06:24:32Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "branching",
@@ -29,39 +29,12 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1209066512",
-      "name": "Talosforge",
-      "nameWithOwner": "UseAfterMe/Talosforge",
-      "description": "Deploy Talos Linux Kubernetes clusters on Proxmox with OpenTofu, talosctl, VIP-based HA, and optional Cilium, MetalLB, Traefik, and Proxmox CSI.",
-      "url": "https://github.com/UseAfterMe/Talosforge",
-      "stargazerCount": 8,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "UseAfterMe",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/441384?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-13T04:04:32Z",
-      "updatedAt": "2026-04-17T13:06:04Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "cloud-init",
-        "kubernetes",
-        "opentofu",
-        "proxmox",
-        "talos",
-        "terraform"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1212162564",
       "name": "k-o11y",
       "nameWithOwner": "Wondermove-Inc/k-o11y",
       "description": "K-O11y: Kubernetes Observability Platform (SigNoz + OTel + Beyla)",
       "url": "https://github.com/Wondermove-Inc/k-o11y",
-      "stargazerCount": 6,
+      "stargazerCount": 17,
       "forkCount": 1,
       "languageName": null,
       "languageColor": null,
@@ -69,7 +42,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/101540012?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-04-16T05:52:47Z",
-      "updatedAt": "2026-04-18T03:59:26Z",
+      "updatedAt": "2026-04-20T05:17:01Z",
       "licenseName": "MIT",
       "topics": [
         "apm",

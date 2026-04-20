@@ -1,39 +1,8 @@
 {
-  "generatedAt": "2026-04-19T06:08:00Z",
+  "generatedAt": "2026-04-20T06:27:26Z",
   "topic": "devops",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
-    {
-      "id": "1209436519",
-      "name": "jfrog-skills",
-      "nameWithOwner": "jfrog/jfrog-skills",
-      "description": "AI agent skills for the JFrog Platform. Search and download artifacts, query CVEs and exposures, check curation and compliance, trace builds, and more. Install in your AI coding agent and interact with JFrog through natural language.",
-      "url": "https://github.com/jfrog/jfrog-skills",
-      "stargazerCount": 6,
-      "forkCount": 1,
-      "languageName": "Shell",
-      "languageColor": null,
-      "ownerLogin": "jfrog",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/499942?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-04-13T12:31:28Z",
-      "updatedAt": "2026-04-16T14:38:15Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "ai-agent",
-        "ai-skills",
-        "artifact-managment",
-        "artifactory",
-        "cli",
-        "devops",
-        "devsecops",
-        "jfrog",
-        "security",
-        "xray"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1210643384",
       "name": "clawdbot",
@@ -48,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/10514538?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-14T16:04:36Z",
-      "updatedAt": "2026-04-18T19:33:35Z",
+      "updatedAt": "2026-04-19T20:06:38Z",
       "licenseName": "MIT",
       "topics": [
         "ai-agents",
@@ -62,7 +31,7 @@
         "openclaw",
         "pr-automation"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

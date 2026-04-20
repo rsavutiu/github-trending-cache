@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-04-19T06:08:00Z",
+  "generatedAt": "2026-04-20T06:27:26Z",
   "topic": "data-science",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 1,
+  "repos": [
+    {
+      "id": "1213537298",
+      "name": "ex_datalog",
+      "nameWithOwner": "thanos/ex_datalog",
+      "description": "A pure Elixir Datalog engine with semi-naive fixpoint evaluation, stratified negation, provenance tracking, and telemetry.",
+      "url": "https://github.com/thanos/ex_datalog",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": "Elixir",
+      "languageColor": null,
+      "ownerLogin": "thanos",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/38292?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-17T13:40:59Z",
+      "updatedAt": "2026-04-19T19:21:04Z",
+      "licenseName": "MIT",
+      "topics": [
+        "data-science",
+        "database",
+        "elixir",
+        "infrence",
+        "knowledge",
+        "machine-learning"
+      ],
+      "openIssuesCount": 22,
+      "closedIssuesCount": 0
+    }
+  ]
 }
