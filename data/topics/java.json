@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-04-20T06:27:26Z",
+  "generatedAt": "2026-04-21T06:13:58Z",
   "topic": "java",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 1,
+  "repos": [
+    {
+      "id": "1212966615",
+      "name": "apothic-compat",
+      "nameWithOwner": "Nightwielder23/apothic-compat",
+      "description": "Adds Apotheosis loot category compat for Samurai Dynasty, Dread Steel, Tetra, Weapons of Miracles, and Cataclysm Weaponry. Server side only, no config needed.",
+      "url": "https://github.com/Nightwielder23/apothic-compat",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Java",
+      "languageColor": null,
+      "ownerLogin": "Nightwielder23",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/59703198?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-16T23:06:21Z",
+      "updatedAt": "2026-04-21T02:18:07Z",
+      "licenseName": "MIT",
+      "topics": [
+        "apotheosis",
+        "compatability",
+        "forge",
+        "java",
+        "minecraft",
+        "minecraft-1-20-1",
+        "minecraft-mod"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    }
+  ]
 }

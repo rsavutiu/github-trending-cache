@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-20T06:27:26Z",
+  "generatedAt": "2026-04-21T06:13:58Z",
   "topic": "kubernetes",
-  "totalCount": 2,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1211295602",
@@ -9,15 +9,15 @@
       "nameWithOwner": "xataio/xata",
       "description": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
       "url": "https://github.com/xataio/xata",
-      "stargazerCount": 645,
-      "forkCount": 28,
+      "stargazerCount": 692,
+      "forkCount": 32,
       "languageName": "Go",
       "languageColor": null,
       "ownerLogin": "xataio",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-04-15T08:49:42Z",
-      "updatedAt": "2026-04-20T06:24:32Z",
+      "updatedAt": "2026-04-21T05:50:23Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "branching",
@@ -34,7 +34,7 @@
       "nameWithOwner": "Wondermove-Inc/k-o11y",
       "description": "K-O11y: Kubernetes Observability Platform (SigNoz + OTel + Beyla)",
       "url": "https://github.com/Wondermove-Inc/k-o11y",
-      "stargazerCount": 17,
+      "stargazerCount": 23,
       "forkCount": 1,
       "languageName": null,
       "languageColor": null,
@@ -42,7 +42,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/101540012?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-04-16T05:52:47Z",
-      "updatedAt": "2026-04-20T05:17:01Z",
+      "updatedAt": "2026-04-21T04:16:26Z",
       "licenseName": "MIT",
       "topics": [
         "apm",
@@ -57,6 +57,39 @@
         "signoz"
       ],
       "openIssuesCount": 2,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1213143912",
+      "name": "InfraCanvas",
+      "nameWithOwner": "bytestrix/InfraCanvas",
+      "description": "Live Docker & Kubernetes infrastructure visualization — containers, pods, volumes, and networks in one visual map. No VPN, no inbound ports.  ",
+      "url": "https://github.com/bytestrix/InfraCanvas",
+      "stargazerCount": 6,
+      "forkCount": 1,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "bytestrix",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/253025579?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-04-17T04:52:59Z",
+      "updatedAt": "2026-04-20T23:08:53Z",
+      "licenseName": "AGPL-3.0",
+      "topics": [
+        "developer-tools",
+        "devops",
+        "devops-platform",
+        "devops-tools",
+        "docker",
+        "golang",
+        "infrastructure",
+        "kubernetes",
+        "monitoring",
+        "nextjs",
+        "self-hosted",
+        "visualization"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

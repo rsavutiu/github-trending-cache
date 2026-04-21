@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-20T06:27:26Z",
+  "generatedAt": "2026-04-21T06:13:58Z",
   "topic": "data-science",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1213537298",
@@ -9,7 +9,7 @@
       "nameWithOwner": "thanos/ex_datalog",
       "description": "A pure Elixir Datalog engine with semi-naive fixpoint evaluation, stratified negation, provenance tracking, and telemetry.",
       "url": "https://github.com/thanos/ex_datalog",
-      "stargazerCount": 7,
+      "stargazerCount": 9,
       "forkCount": 0,
       "languageName": "Elixir",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/38292?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-17T13:40:59Z",
-      "updatedAt": "2026-04-19T19:21:04Z",
+      "updatedAt": "2026-04-20T19:57:25Z",
       "licenseName": "MIT",
       "topics": [
         "data-science",
@@ -27,7 +27,43 @@
         "knowledge",
         "machine-learning"
       ],
-      "openIssuesCount": 22,
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1212681634",
+      "name": "TrustLens",
+      "nameWithOwner": "Khanz9664/TrustLens",
+      "description": "Open-source Python library to Debug your ML models beyond accuracy. Analyze calibration, bias, and failure patterns.",
+      "url": "https://github.com/Khanz9664/TrustLens",
+      "stargazerCount": 8,
+      "forkCount": 6,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "Khanz9664",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/65996596?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-16T16:12:39Z",
+      "updatedAt": "2026-04-21T04:03:38Z",
+      "licenseName": "MIT",
+      "topics": [
+        "bias-detection",
+        "calibration",
+        "cicd",
+        "data-science",
+        "explainable-ai",
+        "machine-learning",
+        "mlops",
+        "model-evaluation",
+        "model-monitoring",
+        "open-source",
+        "opensource",
+        "pypi-package",
+        "python",
+        "python-package",
+        "trustworthy-ai"
+      ],
+      "openIssuesCount": 16,
       "closedIssuesCount": 0
     }
   ]

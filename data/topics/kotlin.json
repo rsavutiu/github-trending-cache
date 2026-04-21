@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T06:27:26Z",
+  "generatedAt": "2026-04-21T06:13:58Z",
   "topic": "kotlin",
   "totalCount": 1,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "iad1tya/EchoTube",
       "description": "Open-source YouTube client - enjoy an ad-free experience in a lightweight app, no account required.",
       "url": "https://github.com/iad1tya/EchoTube",
-      "stargazerCount": 59,
-      "forkCount": 2,
+      "stargazerCount": 91,
+      "forkCount": 3,
       "languageName": "Kotlin",
       "languageColor": null,
       "ownerLogin": "iad1tya",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/147871321?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-18T22:00:29Z",
-      "updatedAt": "2026-04-20T05:39:12Z",
+      "updatedAt": "2026-04-21T05:39:44Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "adfree",
@@ -33,7 +33,7 @@
         "youtube-video",
         "ytclient"
       ],
-      "openIssuesCount": 3,
+      "openIssuesCount": 8,
       "closedIssuesCount": 0
     }
   ]
