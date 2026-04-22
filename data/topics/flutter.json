@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-04-21T06:13:58Z",
+  "generatedAt": "2026-04-22T06:10:28Z",
   "topic": "flutter",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 2,
+  "repos": [
+    {
+      "id": "1216302704",
+      "name": "flutter-vscode-settings",
+      "nameWithOwner": "aydozy/flutter-vscode-settings",
+      "description": "A clean VS Code setup for Flutter & Dart developers. Drop in and code.",
+      "url": "https://github.com/aydozy/flutter-vscode-settings",
+      "stargazerCount": 12,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "aydozy",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/104395137?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-20T19:14:54Z",
+      "updatedAt": "2026-04-22T05:01:57Z",
+      "licenseName": null,
+      "topics": [
+        "analysis-options",
+        "dart",
+        "developer-productivity",
+        "flutter",
+        "flutter-developer",
+        "vs-code",
+        "vs-code-settings"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1214329508",
+      "name": "popcorn",
+      "nameWithOwner": "aydozy/popcorn",
+      "description": "🍿 Discover your next favorite movie. A Flutter app showcasing Clean Architecture, Bloc, and TMDB API integration.",
+      "url": "https://github.com/aydozy/popcorn",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": "Dart",
+      "languageColor": null,
+      "ownerLogin": "aydozy",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/104395137?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-18T12:29:20Z",
+      "updatedAt": "2026-04-22T05:01:53Z",
+      "licenseName": null,
+      "topics": [
+        "bloc",
+        "clean-architecture",
+        "dart",
+        "dio",
+        "flutter",
+        "go-router",
+        "hive",
+        "movie-app-flutter",
+        "state-management",
+        "tmdb-api"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    }
+  ]
 }

@@ -1,13 +1,37 @@
 {
-  "generatedAt": "2026-04-21T06:13:58Z",
+  "generatedAt": "2026-04-22T06:10:28Z",
   "topic": "java",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
+    {
+      "id": "1214997144",
+      "name": "token-gen",
+      "nameWithOwner": "toolsfitna-source/token-gen",
+      "description": "just another discord account creator",
+      "url": "https://github.com/toolsfitna-source/token-gen",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "toolsfitna-source",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/277444289?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-19T10:42:15Z",
+      "updatedAt": "2026-04-22T00:09:17Z",
+      "licenseName": null,
+      "topics": [
+        "discord",
+        "java",
+        "python"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1212966615",
       "name": "apothic-compat",
       "nameWithOwner": "Nightwielder23/apothic-compat",
-      "description": "Adds Apotheosis loot category compat for Samurai Dynasty, Dread Steel, Tetra, Weapons of Miracles, and Cataclysm Weaponry. Server side only, no config needed.",
+      "description": "Adds Apotheosis loot category compat for Spartan Weaponry, Epic Knights, Simply Swords, L'Ender's Cataclysm, Marium's Soulslike Weaponry, Alex's Mobs, Enigmatic Legacy, and more. Server side only.",
       "url": "https://github.com/Nightwielder23/apothic-compat",
       "stargazerCount": 6,
       "forkCount": 0,
@@ -17,7 +41,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/59703198?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-16T23:06:21Z",
-      "updatedAt": "2026-04-21T02:18:07Z",
+      "updatedAt": "2026-04-22T03:11:53Z",
       "licenseName": "MIT",
       "topics": [
         "apotheosis",

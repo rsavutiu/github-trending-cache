@@ -1,33 +1,8 @@
 {
-  "generatedAt": "2026-04-21T06:13:58Z",
+  "generatedAt": "2026-04-22T06:10:28Z",
   "topic": "kubernetes",
   "totalCount": 3,
   "repos": [
-    {
-      "id": "1211295602",
-      "name": "xata",
-      "nameWithOwner": "xataio/xata",
-      "description": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
-      "url": "https://github.com/xataio/xata",
-      "stargazerCount": 692,
-      "forkCount": 32,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "xataio",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/74420131?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-04-15T08:49:42Z",
-      "updatedAt": "2026-04-21T05:50:23Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "branching",
-        "kubernetes",
-        "postgresql",
-        "scale-to-zero"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1212162564",
       "name": "k-o11y",
@@ -60,6 +35,41 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1215254439",
+      "name": "gpu-telemetry",
+      "nameWithOwner": "last9/gpu-telemetry",
+      "description": "GPU telemetry with workload attribution. One OTLP agent per node ties hardware metrics (NVIDIA, AMD, Intel Gaudi) to the K8s pod or Slurm job burning the GPU — so you know who's paying for that idle H100.",
+      "url": "https://github.com/last9/gpu-telemetry",
+      "stargazerCount": 7,
+      "forkCount": 1,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "last9",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/53378302?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-04-19T17:21:55Z",
+      "updatedAt": "2026-04-22T05:45:02Z",
+      "licenseName": "MIT",
+      "topics": [
+        "amd",
+        "dcgm",
+        "gpu",
+        "gpu-monitoring",
+        "helm",
+        "intel-gaudi-base-operator",
+        "kubernetes",
+        "llm-observability",
+        "mlops",
+        "nvidia",
+        "nvml-monitoring",
+        "opentelemetry",
+        "slurm",
+        "workload-attribution"
+      ],
+      "openIssuesCount": 6,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1213143912",
       "name": "InfraCanvas",
       "nameWithOwner": "bytestrix/InfraCanvas",
@@ -73,7 +83,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/253025579?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-04-17T04:52:59Z",
-      "updatedAt": "2026-04-20T23:08:53Z",
+      "updatedAt": "2026-04-21T14:09:55Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "developer-tools",

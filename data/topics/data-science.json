@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T06:13:58Z",
+  "generatedAt": "2026-04-22T06:10:28Z",
   "topic": "data-science",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "thanos/ex_datalog",
       "description": "A pure Elixir Datalog engine with semi-naive fixpoint evaluation, stratified negation, provenance tracking, and telemetry.",
       "url": "https://github.com/thanos/ex_datalog",
-      "stargazerCount": 9,
+      "stargazerCount": 10,
       "forkCount": 0,
       "languageName": "Elixir",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/38292?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-17T13:40:59Z",
-      "updatedAt": "2026-04-20T19:57:25Z",
+      "updatedAt": "2026-04-22T02:34:08Z",
       "licenseName": "MIT",
       "topics": [
         "data-science",
@@ -37,14 +37,14 @@
       "description": "Open-source Python library to Debug your ML models beyond accuracy. Analyze calibration, bias, and failure patterns.",
       "url": "https://github.com/Khanz9664/TrustLens",
       "stargazerCount": 8,
-      "forkCount": 6,
+      "forkCount": 7,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "Khanz9664",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/65996596?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-16T16:12:39Z",
-      "updatedAt": "2026-04-21T04:03:38Z",
+      "updatedAt": "2026-04-21T08:40:04Z",
       "licenseName": "MIT",
       "topics": [
         "bias-detection",
@@ -63,7 +63,7 @@
         "python-package",
         "trustworthy-ai"
       ],
-      "openIssuesCount": 16,
+      "openIssuesCount": 18,
       "closedIssuesCount": 0
     }
   ]
