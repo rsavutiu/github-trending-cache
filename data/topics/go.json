@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-22T06:10:28Z",
+  "generatedAt": "2026-04-23T06:17:48Z",
   "topic": "go",
-  "totalCount": 5,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1214657105",
@@ -9,7 +9,7 @@
       "nameWithOwner": "archie1602/csharp-looks-like-go",
       "description": "A full ASP.NET Core web API built as a single file-based C# app. No .csproj, no XML, ships as a ~30 MB native binary.",
       "url": "https://github.com/archie1602/csharp-looks-like-go",
-      "stargazerCount": 46,
+      "stargazerCount": 50,
       "forkCount": 4,
       "languageName": "C#",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/57554726?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-18T21:45:54Z",
-      "updatedAt": "2026-04-22T02:59:37Z",
+      "updatedAt": "2026-04-23T02:19:38Z",
       "licenseName": null,
       "topics": [
         "aot-compilation",
@@ -30,38 +30,6 @@
         "minimal-api"
       ],
       "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1212200423",
-      "name": "xnew",
-      "nameWithOwner": "jsmonhq/xnew",
-      "description": "xnew is a fast, low-memory CLI that appends only unique lines to files. Built in Go for large datasets, it streams input efficiently and scales cleanly from thousands to hundreds of millions of lines.",
-      "url": "https://github.com/jsmonhq/xnew",
-      "stargazerCount": 17,
-      "forkCount": 2,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "jsmonhq",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/129114413?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-04-16T06:45:06Z",
-      "updatedAt": "2026-04-18T01:39:12Z",
-      "licenseName": "MIT",
-      "topics": [
-        "bugbounty",
-        "cli",
-        "cybersecurity",
-        "data-analysis",
-        "data-processing",
-        "deduplication",
-        "go",
-        "golang",
-        "infosec",
-        "performance",
-        "security-tools"
-      ],
-      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -105,7 +73,7 @@
       "nameWithOwner": "programmersd21/charm-masterclass",
       "description": "🎓 God-level Charm TUI masterclass — build production-grade, animated, SSH-powered terminal apps in Go with Bubble Tea, Lip Gloss, Bubbles & Wish 🚀",
       "url": "https://github.com/programmersd21/charm-masterclass",
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "forkCount": 0,
       "languageName": "Go",
       "languageColor": null,
@@ -113,7 +81,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-20T13:20:25Z",
-      "updatedAt": "2026-04-21T12:47:12Z",
+      "updatedAt": "2026-04-22T15:30:20Z",
       "licenseName": null,
       "topics": [
         "bubbles",
@@ -136,40 +104,6 @@
         "terminal-ui",
         "tui",
         "wish"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1212584333",
-      "name": "gomcp",
-      "nameWithOwner": "zhangpanda/gomcp",
-      "description": "  The fast, idiomatic way to build MCP servers in Go. Gin-like DX with struct-tag auto schema, middleware, adapters for Gin/OpenAPI/gRPC.",
-      "url": "https://github.com/zhangpanda/gomcp",
-      "stargazerCount": 6,
-      "forkCount": 2,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "zhangpanda",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5263153?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-16T14:22:12Z",
-      "updatedAt": "2026-04-19T12:17:50Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "ai",
-        "claude",
-        "cursor",
-        "framework",
-        "gin",
-        "go",
-        "golang",
-        "grpc",
-        "kiro",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "openapi"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

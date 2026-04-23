@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-22T06:10:28Z",
+  "generatedAt": "2026-04-23T06:17:48Z",
   "topic": "javascript",
-  "totalCount": 3,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1214819770",
@@ -9,7 +9,7 @@
       "nameWithOwner": "BrAtUkA/pdf-dark-mode-converter",
       "description": "Fast Client-side PDF Dark Mode Converter - Instantly apply dark mode to PDFs in your browser, Preserve images, keep text searchable and selectable. No uploads, 100% private. 🚀",
       "url": "https://github.com/BrAtUkA/pdf-dark-mode-converter",
-      "stargazerCount": 27,
+      "stargazerCount": 29,
       "forkCount": 0,
       "languageName": "HTML",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/56762784?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-19T04:59:05Z",
-      "updatedAt": "2026-04-22T05:29:09Z",
+      "updatedAt": "2026-04-22T13:31:10Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "client-side",
@@ -39,7 +39,7 @@
       "nameWithOwner": "error311/vimmonsters-academy",
       "description": "A retro browser game that teaches Vim motions through drills, exploration, and creature battles.",
       "url": "https://github.com/error311/vimmonsters-academy",
-      "stargazerCount": 9,
+      "stargazerCount": 10,
       "forkCount": 0,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -47,7 +47,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5164284?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-18T00:38:09Z",
-      "updatedAt": "2026-04-21T19:14:59Z",
+      "updatedAt": "2026-04-22T21:29:57Z",
       "licenseName": "MIT",
       "topics": [
         "browser-game",
@@ -65,12 +65,40 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1218318653",
+      "name": "BotHandler",
+      "nameWithOwner": "sparokjs/BotHandler",
+      "description": "Discord.js v14 slash command bot template with categorized handlers, stats, and developer eval.",
+      "url": "https://github.com/sparokjs/BotHandler",
+      "stargazerCount": 9,
+      "forkCount": 0,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "sparokjs",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/278483890?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-22T18:53:25Z",
+      "updatedAt": "2026-04-23T04:41:15Z",
+      "licenseName": "MIT",
+      "topics": [
+        "discord",
+        "discord-bot",
+        "discordjs",
+        "javascript",
+        "nodejs",
+        "slash-commands",
+        "template"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1215352760",
       "name": "TikTokDelete",
       "nameWithOwner": "DoingFedTime/TikTokDelete",
       "description": "Bulk delete all your TikTok videos at once via browser console script",
       "url": "https://github.com/DoingFedTime/TikTokDelete",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 1,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -78,7 +106,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/122937706?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-19T20:00:18Z",
-      "updatedAt": "2026-04-21T14:06:10Z",
+      "updatedAt": "2026-04-22T20:32:00Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "browser-automation",
@@ -86,6 +114,32 @@
         "javascript",
         "tiktok",
         "tiktok-tools"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1217071541",
+      "name": "CommitCount",
+      "nameWithOwner": "JohnPaulZer/CommitCount",
+      "description": "This app counts how many commits a GitHub user made in one repository, or across all repositories they own.  It works with public repositories by default, and it also works with private repositories when you input a valid GitHub token.",
+      "url": "https://github.com/JohnPaulZer/CommitCount",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "JohnPaulZer",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/113831470?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-21T14:13:25Z",
+      "updatedAt": "2026-04-22T13:52:30Z",
+      "licenseName": null,
+      "topics": [
+        "commit",
+        "counter",
+        "javascript",
+        "public-user-repos",
+        "readme"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

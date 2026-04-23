@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-22T06:10:28Z",
+  "generatedAt": "2026-04-23T06:17:48Z",
   "topic": "java",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1214997144",
@@ -9,7 +9,7 @@
       "nameWithOwner": "toolsfitna-source/token-gen",
       "description": "just another discord account creator",
       "url": "https://github.com/toolsfitna-source/token-gen",
-      "stargazerCount": 7,
+      "stargazerCount": 6,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -17,40 +17,12 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/277444289?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-19T10:42:15Z",
-      "updatedAt": "2026-04-22T00:09:17Z",
+      "updatedAt": "2026-04-22T13:26:41Z",
       "licenseName": null,
       "topics": [
         "discord",
         "java",
         "python"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1212966615",
-      "name": "apothic-compat",
-      "nameWithOwner": "Nightwielder23/apothic-compat",
-      "description": "Adds Apotheosis loot category compat for Spartan Weaponry, Epic Knights, Simply Swords, L'Ender's Cataclysm, Marium's Soulslike Weaponry, Alex's Mobs, Enigmatic Legacy, and more. Server side only.",
-      "url": "https://github.com/Nightwielder23/apothic-compat",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Java",
-      "languageColor": null,
-      "ownerLogin": "Nightwielder23",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/59703198?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-16T23:06:21Z",
-      "updatedAt": "2026-04-22T03:11:53Z",
-      "licenseName": "MIT",
-      "topics": [
-        "apotheosis",
-        "compatability",
-        "forge",
-        "java",
-        "minecraft",
-        "minecraft-1-20-1",
-        "minecraft-mod"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
