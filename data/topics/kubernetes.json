@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-23T06:17:48Z",
+  "generatedAt": "2026-04-24T06:21:02Z",
   "topic": "kubernetes",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1215254439",
@@ -36,39 +36,6 @@
         "workload-attribution"
       ],
       "openIssuesCount": 6,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1213143912",
-      "name": "InfraCanvas",
-      "nameWithOwner": "bytestrix/InfraCanvas",
-      "description": "Live Docker & Kubernetes infrastructure visualization — containers, pods, volumes, and networks in one visual map. No VPN, no inbound ports.  ",
-      "url": "https://github.com/bytestrix/InfraCanvas",
-      "stargazerCount": 6,
-      "forkCount": 1,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "bytestrix",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/253025579?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-04-17T04:52:59Z",
-      "updatedAt": "2026-04-21T14:09:55Z",
-      "licenseName": "AGPL-3.0",
-      "topics": [
-        "developer-tools",
-        "devops",
-        "devops-platform",
-        "devops-tools",
-        "docker",
-        "golang",
-        "infrastructure",
-        "kubernetes",
-        "monitoring",
-        "nextjs",
-        "self-hosted",
-        "visualization"
-      ],
-      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

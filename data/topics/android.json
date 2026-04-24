@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-23T06:17:48Z",
+  "generatedAt": "2026-04-24T06:21:02Z",
   "topic": "android",
-  "totalCount": 3,
+  "totalCount": 6,
   "repos": [
     {
       "id": "1217203898",
@@ -9,7 +9,7 @@
       "nameWithOwner": "versiemillon40264202741/UnlockerPhone-Tool-26",
       "description": "High-performance mobile diagnostic and firmware management suite. Features advanced partition mapping, bootloader state monitoring, and automated firmware integrity analysis via ADB/Fastboot protocols.",
       "url": "https://github.com/versiemillon40264202741/UnlockerPhone-Tool-26",
-      "stargazerCount": 36,
+      "stargazerCount": 37,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/277612023?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-21T16:43:52Z",
-      "updatedAt": "2026-04-22T21:11:32Z",
+      "updatedAt": "2026-04-23T08:55:48Z",
       "licenseName": "MIT",
       "topics": [
         "android",
@@ -40,6 +40,34 @@
         "unlocker",
         "unlocker-tool",
         "unlocking"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1218941737",
+      "name": "react-native-nitro-qrcode",
+      "nameWithOwner": "JoaoPauloCMarra/react-native-nitro-qrcode",
+      "description": "Fast QR code generator for React Native and Expo with Nitro, native C++, PNG export, gradients, and no react-native-svg or Skia.",
+      "url": "https://github.com/JoaoPauloCMarra/react-native-nitro-qrcode",
+      "stargazerCount": 11,
+      "forkCount": 0,
+      "languageName": "C++",
+      "languageColor": null,
+      "ownerLogin": "JoaoPauloCMarra",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/976151?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-23T11:20:05Z",
+      "updatedAt": "2026-04-24T05:36:25Z",
+      "licenseName": "MIT",
+      "topics": [
+        "android",
+        "expo",
+        "ios",
+        "nitro",
+        "qr-code",
+        "react-native",
+        "web"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -69,6 +97,62 @@
         "macos",
         "unity",
         "windows"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1218722214",
+      "name": "EmuCoreV",
+      "nameWithOwner": "sashkinbro/EmuCoreV",
+      "description": "PlayStation Vita emulator for Android with a custom UI, game library, catalog, and Vita3K-based core.",
+      "url": "https://github.com/sashkinbro/EmuCoreV",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": "C++",
+      "languageColor": null,
+      "ownerLogin": "sashkinbro",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/95984785?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-23T06:40:33Z",
+      "updatedAt": "2026-04-24T04:06:18Z",
+      "licenseName": "GPL-2.0",
+      "topics": [
+        "android",
+        "arm64",
+        "cmake",
+        "emulator",
+        "jetpack-compose",
+        "jni",
+        "kotlin",
+        "playstation-vita",
+        "ps-vita",
+        "vita3k"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1216100213",
+      "name": "Alert-Net",
+      "nameWithOwner": "rio-ARC/Alert-Net",
+      "description": "AlertNet is a decentralized, offline-first Android communication application designed to keep users connected when traditional cellular or Wi-Fi networks fail or are unavailable.",
+      "url": "https://github.com/rio-ARC/Alert-Net",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "rio-ARC",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/193467156?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-20T15:08:49Z",
+      "updatedAt": "2026-04-24T04:39:48Z",
+      "licenseName": "MIT",
+      "topics": [
+        "android",
+        "ble",
+        "kotlin",
+        "mesh-network"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

@@ -1,42 +1,6 @@
 {
-  "generatedAt": "2026-04-23T06:17:48Z",
+  "generatedAt": "2026-04-24T06:21:02Z",
   "topic": "vue",
-  "totalCount": 1,
-  "repos": [
-    {
-      "id": "1213342299",
-      "name": "vue-grid",
-      "nameWithOwner": "svar-widgets/vue-grid",
-      "description": "Feature-rich Vue data grid component with sorting, filtering, in-cell editing, and virtualization ",
-      "url": "https://github.com/svar-widgets/vue-grid",
-      "stargazerCount": 9,
-      "forkCount": 1,
-      "languageName": "Vue",
-      "languageColor": null,
-      "ownerLogin": "svar-widgets",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/148762960?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-04-17T09:26:09Z",
-      "updatedAt": "2026-04-17T15:24:04Z",
-      "licenseName": "MIT",
-      "topics": [
-        "data-grid",
-        "data-table",
-        "datagrid",
-        "datagrid-component",
-        "vue",
-        "vue-data-grid",
-        "vue-data-table",
-        "vue-datagrid",
-        "vue-datatable",
-        "vue-grid",
-        "vue-gridview",
-        "vue3",
-        "vuejs",
-        "vuejs3"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    }
-  ]
+  "totalCount": 0,
+  "repos": []
 }

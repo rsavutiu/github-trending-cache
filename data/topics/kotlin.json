@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-23T06:17:48Z",
+  "generatedAt": "2026-04-24T06:21:02Z",
   "topic": "kotlin",
-  "totalCount": 1,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1214663448",
@@ -9,7 +9,7 @@
       "nameWithOwner": "iad1tya/EchoTube",
       "description": "Open-source YouTube client - enjoy an ad-free experience in a lightweight app, no account required.",
       "url": "https://github.com/iad1tya/EchoTube",
-      "stargazerCount": 149,
+      "stargazerCount": 162,
       "forkCount": 7,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/147871321?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-18T22:00:29Z",
-      "updatedAt": "2026-04-23T05:02:41Z",
+      "updatedAt": "2026-04-24T04:52:06Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "adfree",
@@ -34,6 +34,62 @@
         "ytclient"
       ],
       "openIssuesCount": 9,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1216100213",
+      "name": "Alert-Net",
+      "nameWithOwner": "rio-ARC/Alert-Net",
+      "description": "AlertNet is a decentralized, offline-first Android communication application designed to keep users connected when traditional cellular or Wi-Fi networks fail or are unavailable.",
+      "url": "https://github.com/rio-ARC/Alert-Net",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "rio-ARC",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/193467156?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-20T15:08:49Z",
+      "updatedAt": "2026-04-24T04:39:48Z",
+      "licenseName": "MIT",
+      "topics": [
+        "android",
+        "ble",
+        "kotlin",
+        "mesh-network"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1218722214",
+      "name": "EmuCoreV",
+      "nameWithOwner": "sashkinbro/EmuCoreV",
+      "description": "PlayStation Vita emulator for Android with a custom UI, game library, catalog, and Vita3K-based core.",
+      "url": "https://github.com/sashkinbro/EmuCoreV",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": "C++",
+      "languageColor": null,
+      "ownerLogin": "sashkinbro",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/95984785?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-23T06:40:33Z",
+      "updatedAt": "2026-04-24T04:06:18Z",
+      "licenseName": "GPL-2.0",
+      "topics": [
+        "android",
+        "arm64",
+        "cmake",
+        "emulator",
+        "jetpack-compose",
+        "jni",
+        "kotlin",
+        "playstation-vita",
+        "ps-vita",
+        "vita3k"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

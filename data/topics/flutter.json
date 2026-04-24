@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T06:17:48Z",
+  "generatedAt": "2026-04-24T06:21:02Z",
   "topic": "flutter",
   "totalCount": 3,
   "repos": [
@@ -9,22 +9,22 @@
       "nameWithOwner": "techjarves/Uncensored-Local-AI-Multiplatform",
       "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
       "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
-      "stargazerCount": 77,
-      "forkCount": 18,
+      "stargazerCount": 190,
+      "forkCount": 35,
       "languageName": "Dart",
       "languageColor": null,
       "ownerLogin": "techjarves",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/54399984?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-19T04:46:06Z",
-      "updatedAt": "2026-04-23T06:06:17Z",
+      "updatedAt": "2026-04-24T06:13:13Z",
       "licenseName": null,
       "topics": [
         "flutter",
         "local-ai",
         "uncensored-ai"
       ],
-      "openIssuesCount": 4,
+      "openIssuesCount": 6,
       "closedIssuesCount": 0
     },
     {
@@ -33,7 +33,7 @@
       "nameWithOwner": "aydozy/flutter-vscode-settings",
       "description": "A clean VS Code setup for Flutter & Dart developers. Drop in and code.",
       "url": "https://github.com/aydozy/flutter-vscode-settings",
-      "stargazerCount": 19,
+      "stargazerCount": 23,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -41,7 +41,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/104395137?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-20T19:14:54Z",
-      "updatedAt": "2026-04-23T05:51:21Z",
+      "updatedAt": "2026-04-23T15:37:44Z",
       "licenseName": null,
       "topics": [
         "analysis-options",
@@ -61,7 +61,7 @@
       "nameWithOwner": "aydozy/popcorn",
       "description": "🍿 Discover your next favorite movie. A Flutter app showcasing Clean Architecture, Bloc, and TMDB API integration.",
       "url": "https://github.com/aydozy/popcorn",
-      "stargazerCount": 12,
+      "stargazerCount": 14,
       "forkCount": 0,
       "languageName": "Dart",
       "languageColor": null,
@@ -69,7 +69,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/104395137?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-18T12:29:20Z",
-      "updatedAt": "2026-04-23T05:51:26Z",
+      "updatedAt": "2026-04-23T15:37:59Z",
       "licenseName": null,
       "topics": [
         "bloc",
