@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-24T06:21:02Z",
+  "generatedAt": "2026-04-25T05:58:39Z",
   "topic": "flutter",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1214814133",
@@ -9,22 +9,22 @@
       "nameWithOwner": "techjarves/Uncensored-Local-AI-Multiplatform",
       "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
       "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
-      "stargazerCount": 190,
-      "forkCount": 35,
+      "stargazerCount": 248,
+      "forkCount": 44,
       "languageName": "Dart",
       "languageColor": null,
       "ownerLogin": "techjarves",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/54399984?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-19T04:46:06Z",
-      "updatedAt": "2026-04-24T06:13:13Z",
+      "updatedAt": "2026-04-25T05:22:28Z",
       "licenseName": null,
       "topics": [
         "flutter",
         "local-ai",
         "uncensored-ai"
       ],
-      "openIssuesCount": 6,
+      "openIssuesCount": 14,
       "closedIssuesCount": 0
     },
     {
@@ -33,7 +33,7 @@
       "nameWithOwner": "aydozy/flutter-vscode-settings",
       "description": "A clean VS Code setup for Flutter & Dart developers. Drop in and code.",
       "url": "https://github.com/aydozy/flutter-vscode-settings",
-      "stargazerCount": 23,
+      "stargazerCount": 22,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -41,7 +41,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/104395137?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-20T19:14:54Z",
-      "updatedAt": "2026-04-23T15:37:44Z",
+      "updatedAt": "2026-04-24T20:14:44Z",
       "licenseName": null,
       "topics": [
         "analysis-options",
@@ -51,37 +51,6 @@
         "flutter-developer",
         "vs-code",
         "vs-code-settings"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1214329508",
-      "name": "popcorn",
-      "nameWithOwner": "aydozy/popcorn",
-      "description": "🍿 Discover your next favorite movie. A Flutter app showcasing Clean Architecture, Bloc, and TMDB API integration.",
-      "url": "https://github.com/aydozy/popcorn",
-      "stargazerCount": 14,
-      "forkCount": 0,
-      "languageName": "Dart",
-      "languageColor": null,
-      "ownerLogin": "aydozy",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/104395137?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-18T12:29:20Z",
-      "updatedAt": "2026-04-23T15:37:59Z",
-      "licenseName": null,
-      "topics": [
-        "bloc",
-        "clean-architecture",
-        "dart",
-        "dio",
-        "flutter",
-        "go-router",
-        "hive",
-        "movie-app-flutter",
-        "state-management",
-        "tmdb-api"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

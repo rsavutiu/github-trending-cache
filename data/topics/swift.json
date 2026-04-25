@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-24T06:21:02Z",
+  "generatedAt": "2026-04-25T05:58:39Z",
   "topic": "swift",
-  "totalCount": 9,
+  "totalCount": 10,
   "repos": [
     {
       "id": "1215208259",
@@ -30,39 +30,6 @@
         "swiftui",
         "video-compression",
         "videotoolbox"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1216092642",
-      "name": "window-memory-macos",
-      "nameWithOwner": "fofofo123/window-memory-macos",
-      "description": null,
-      "url": "https://github.com/fofofo123/window-memory-macos",
-      "stargazerCount": 18,
-      "forkCount": 0,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "fofofo123",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/277484611?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-20T15:00:06Z",
-      "updatedAt": "2026-04-20T19:21:12Z",
-      "licenseName": "MIT",
-      "topics": [
-        "apple-silicon",
-        "automation",
-        "display",
-        "macos",
-        "macos-app",
-        "macos-utility",
-        "menubar",
-        "multi-monitor",
-        "productivity",
-        "swift",
-        "utility",
-        "window-management"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -97,6 +64,39 @@
         "productivity",
         "swift",
         "utility"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1216092642",
+      "name": "window-memory-macos",
+      "nameWithOwner": "fofofo123/window-memory-macos",
+      "description": null,
+      "url": "https://github.com/fofofo123/window-memory-macos",
+      "stargazerCount": 18,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "fofofo123",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/277484611?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-20T15:00:06Z",
+      "updatedAt": "2026-04-20T19:21:12Z",
+      "licenseName": "MIT",
+      "topics": [
+        "apple-silicon",
+        "automation",
+        "display",
+        "macos",
+        "macos-app",
+        "macos-utility",
+        "menubar",
+        "multi-monitor",
+        "productivity",
+        "swift",
+        "utility",
+        "window-management"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -199,6 +199,35 @@
         "productivity",
         "swift",
         "utility"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1219825485",
+      "name": "TypelessMLX",
+      "nameWithOwner": "rock74710/TypelessMLX",
+      "description": "macOS 語音聽寫 App — MLX Whisper + Breeze-ASR-25，完全離線，Apple Silicon 最佳化",
+      "url": "https://github.com/rock74710/TypelessMLX",
+      "stargazerCount": 17,
+      "forkCount": 1,
+      "languageName": "Swift",
+      "languageColor": null,
+      "ownerLogin": "rock74710",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/26782257?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-24T08:58:03Z",
+      "updatedAt": "2026-04-25T05:26:27Z",
+      "licenseName": null,
+      "topics": [
+        "apple-silicon",
+        "dictation",
+        "macos",
+        "mlx",
+        "speech-recognition",
+        "swift",
+        "taiwanese-mandarin",
+        "whisper"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T06:21:02Z",
+  "generatedAt": "2026-04-25T05:58:39Z",
   "topic": "web",
   "totalCount": 1,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "JoaoPauloCMarra/react-native-nitro-qrcode",
       "description": "Fast QR code generator for React Native and Expo with Nitro, native C++, PNG export, gradients, and no react-native-svg or Skia.",
       "url": "https://github.com/JoaoPauloCMarra/react-native-nitro-qrcode",
-      "stargazerCount": 11,
+      "stargazerCount": 17,
       "forkCount": 0,
       "languageName": "C++",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/976151?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-23T11:20:05Z",
-      "updatedAt": "2026-04-24T05:36:25Z",
+      "updatedAt": "2026-04-25T04:55:57Z",
       "licenseName": "MIT",
       "topics": [
         "android",

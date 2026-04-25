@@ -1,15 +1,44 @@
 {
-  "generatedAt": "2026-04-24T06:21:02Z",
+  "generatedAt": "2026-04-25T05:58:39Z",
   "topic": "deep-learning",
-  "totalCount": 4,
+  "totalCount": 6,
   "repos": [
+    {
+      "id": "1219882999",
+      "name": "r6s-tool",
+      "nameWithOwner": "DcCahyadi/r6s-tool",
+      "description": "A sophisticated low-level telemetry and network latency inspection system designed for competitive FPS gaming. It includes live packet fluctuation detection, input-to-engine synchronization validation, and frame delivery consistency tools. This kind of tool is essential for eliminating ",
+      "url": "https://github.com/DcCahyadi/r6s-tool",
+      "stargazerCount": 11,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "DcCahyadi",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/220005463?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-24T10:11:15Z",
+      "updatedAt": "2026-04-24T14:56:03Z",
+      "licenseName": null,
+      "topics": [
+        "deep-learning",
+        "hub",
+        "r6-hack-tools",
+        "r6-siege-exploits",
+        "r6s-hacking",
+        "rainbow6",
+        "tracking",
+        "yolo-world"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1218129961",
       "name": "HiLAM",
       "nameWithOwner": "lucidrains/HiLAM",
       "description": "Implementation of the Hierarchical Latent Action Model, proposed by Hanjung Kim et al. of Yonsei University",
       "url": "https://github.com/lucidrains/HiLAM",
-      "stargazerCount": 9,
+      "stargazerCount": 10,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +46,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-22T15:03:48Z",
-      "updatedAt": "2026-04-23T20:11:46Z",
+      "updatedAt": "2026-04-25T03:11:27Z",
       "licenseName": "MIT",
       "topics": [
         "artificial-intelligence",
@@ -65,7 +94,7 @@
       "nameWithOwner": "lucidrains/multiscreen",
       "description": "Implementation of Multiscreen proposed by Ken Nakanishi for \"Screening is Enough\"",
       "url": "https://github.com/lucidrains/multiscreen",
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -73,7 +102,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-22T14:10:42Z",
-      "updatedAt": "2026-04-24T05:45:50Z",
+      "updatedAt": "2026-04-25T03:00:24Z",
       "licenseName": "MIT",
       "topics": [
         "artificial-intelligence",
@@ -105,6 +134,37 @@
         "multigrid"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1216579573",
+      "name": "sparselab",
+      "nameWithOwner": "DarshanFofadiya/sparselab",
+      "description": "Actually-sparse dynamic training for PyTorch. CPU-native, Apple Silicon first. Pluggable routers, drop-in SparseLinear.",
+      "url": "https://github.com/DarshanFofadiya/sparselab",
+      "stargazerCount": 6,
+      "forkCount": 1,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "DarshanFofadiya",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/26476271?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-21T03:29:46Z",
+      "updatedAt": "2026-04-25T04:15:19Z",
+      "licenseName": "MIT",
+      "topics": [
+        "apple-silicon",
+        "cpu-optimization",
+        "deep-learning",
+        "dynamic-sparse-training",
+        "neon-intrinsics",
+        "pybind11",
+        "pytorch",
+        "rigl",
+        "sparse-neural-networks",
+        "sparse-training"
+      ],
+      "openIssuesCount": 16,
       "closedIssuesCount": 0
     }
   ]
