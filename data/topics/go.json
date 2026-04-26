@@ -1,8 +1,31 @@
 {
-  "generatedAt": "2026-04-25T05:58:39Z",
+  "generatedAt": "2026-04-26T06:19:43Z",
   "topic": "go",
   "totalCount": 3,
   "repos": [
+    {
+      "id": "1217802816",
+      "name": "terraform-provider-query",
+      "nameWithOwner": "mattias-fjellstrom/terraform-provider-query",
+      "description": "Terraform Provider Query - TUI to explore Terraform providers.",
+      "url": "https://github.com/mattias-fjellstrom/terraform-provider-query",
+      "stargazerCount": 9,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "mattias-fjellstrom",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/36640518?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-22T08:28:35Z",
+      "updatedAt": "2026-04-25T23:12:01Z",
+      "licenseName": "MIT",
+      "topics": [
+        "go",
+        "terraform"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1218781347",
       "name": "lazypprof",
@@ -65,29 +88,6 @@
         "terminal-ui",
         "tui",
         "wish"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1217802816",
-      "name": "terraform-provider-query",
-      "nameWithOwner": "mattias-fjellstrom/terraform-provider-query",
-      "description": "Terraform Provider Query - TUI to explore Terraform providers.",
-      "url": "https://github.com/mattias-fjellstrom/terraform-provider-query",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "mattias-fjellstrom",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/36640518?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-22T08:28:35Z",
-      "updatedAt": "2026-04-25T02:01:56Z",
-      "licenseName": "MIT",
-      "topics": [
-        "go",
-        "terraform"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

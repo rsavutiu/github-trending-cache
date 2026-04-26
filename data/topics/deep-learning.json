@@ -1,8 +1,46 @@
 {
-  "generatedAt": "2026-04-25T05:58:39Z",
+  "generatedAt": "2026-04-26T06:19:43Z",
   "topic": "deep-learning",
   "totalCount": 6,
   "repos": [
+    {
+      "id": "1220866899",
+      "name": "facex",
+      "nameWithOwner": "facex-engine/facex",
+      "description": "Face verification in the browser. 74 KB WebAssembly. No server, no cloud, no dependencies. Also runs native at 3ms on CPU.",
+      "url": "https://github.com/facex-engine/facex",
+      "stargazerCount": 43,
+      "forkCount": 7,
+      "languageName": "C",
+      "languageColor": null,
+      "ownerLogin": "facex-engine",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/279251688?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-04-25T12:49:25Z",
+      "updatedAt": "2026-04-26T06:05:33Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "avx-512",
+        "avx2",
+        "biometrics",
+        "c99",
+        "computer-vision",
+        "cpu-inference",
+        "deep-learning",
+        "edge-ai",
+        "embedded-ai",
+        "face-embedding",
+        "face-recognition",
+        "face-verification",
+        "low-latency",
+        "onnx-runtime",
+        "production-ready",
+        "simd",
+        "zero-dependencies"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1219882999",
       "name": "r6s-tool",
@@ -38,7 +76,7 @@
       "nameWithOwner": "lucidrains/HiLAM",
       "description": "Implementation of the Hierarchical Latent Action Model, proposed by Hanjung Kim et al. of Yonsei University",
       "url": "https://github.com/lucidrains/HiLAM",
-      "stargazerCount": 10,
+      "stargazerCount": 11,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -46,7 +84,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-22T15:03:48Z",
-      "updatedAt": "2026-04-25T03:11:27Z",
+      "updatedAt": "2026-04-25T23:03:57Z",
       "licenseName": "MIT",
       "topics": [
         "artificial-intelligence",
@@ -113,44 +151,20 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1215185173",
-      "name": "pseudo-projector",
-      "nameWithOwner": "lucidrains/pseudo-projector",
-      "description": "Implementation of the pseudo projector proposed by Vitaly Bulgakov at Mass General Brigham",
-      "url": "https://github.com/lucidrains/pseudo-projector",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "lucidrains",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-19T15:38:27Z",
-      "updatedAt": "2026-04-22T17:26:37Z",
-      "licenseName": "MIT",
-      "topics": [
-        "artificial-intelligence",
-        "deep-learning",
-        "multigrid"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1216579573",
       "name": "sparselab",
       "nameWithOwner": "DarshanFofadiya/sparselab",
       "description": "Actually-sparse dynamic training for PyTorch. CPU-native, Apple Silicon first. Pluggable routers, drop-in SparseLinear.",
       "url": "https://github.com/DarshanFofadiya/sparselab",
       "stargazerCount": 6,
-      "forkCount": 1,
+      "forkCount": 2,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "DarshanFofadiya",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/26476271?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-21T03:29:46Z",
-      "updatedAt": "2026-04-25T04:15:19Z",
+      "updatedAt": "2026-04-25T18:09:47Z",
       "licenseName": "MIT",
       "topics": [
         "apple-silicon",
@@ -164,7 +178,7 @@
         "sparse-neural-networks",
         "sparse-training"
       ],
-      "openIssuesCount": 16,
+      "openIssuesCount": 17,
       "closedIssuesCount": 0
     }
   ]

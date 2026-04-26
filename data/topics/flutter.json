@@ -1,39 +1,15 @@
 {
-  "generatedAt": "2026-04-25T05:58:39Z",
+  "generatedAt": "2026-04-26T06:19:43Z",
   "topic": "flutter",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
-    {
-      "id": "1214814133",
-      "name": "Uncensored-Local-AI-Multiplatform",
-      "nameWithOwner": "techjarves/Uncensored-Local-AI-Multiplatform",
-      "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
-      "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
-      "stargazerCount": 248,
-      "forkCount": 44,
-      "languageName": "Dart",
-      "languageColor": null,
-      "ownerLogin": "techjarves",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/54399984?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-19T04:46:06Z",
-      "updatedAt": "2026-04-25T05:22:28Z",
-      "licenseName": null,
-      "topics": [
-        "flutter",
-        "local-ai",
-        "uncensored-ai"
-      ],
-      "openIssuesCount": 14,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1216302704",
       "name": "flutter-vscode-settings",
       "nameWithOwner": "aydozy/flutter-vscode-settings",
       "description": "A clean VS Code setup for Flutter & Dart developers. Drop in and code.",
       "url": "https://github.com/aydozy/flutter-vscode-settings",
-      "stargazerCount": 22,
+      "stargazerCount": 23,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -41,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/104395137?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-20T19:14:54Z",
-      "updatedAt": "2026-04-24T20:14:44Z",
+      "updatedAt": "2026-04-25T09:14:25Z",
       "licenseName": null,
       "topics": [
         "analysis-options",

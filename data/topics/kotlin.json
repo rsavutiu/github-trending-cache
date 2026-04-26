@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T05:58:39Z",
+  "generatedAt": "2026-04-26T06:19:43Z",
   "topic": "kotlin",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "sashkinbro/EmuCoreV",
       "description": "PlayStation Vita emulator for Android with a custom UI, game library, catalog, and Vita3K-based core.",
       "url": "https://github.com/sashkinbro/EmuCoreV",
-      "stargazerCount": 19,
+      "stargazerCount": 30,
       "forkCount": 0,
       "languageName": "C++",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/95984785?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-23T06:40:33Z",
-      "updatedAt": "2026-04-25T05:43:20Z",
+      "updatedAt": "2026-04-26T05:41:26Z",
       "licenseName": "GPL-2.0",
       "topics": [
         "android",
@@ -31,7 +31,7 @@
         "ps-vita",
         "vita3k"
       ],
-      "openIssuesCount": 2,
+      "openIssuesCount": 4,
       "closedIssuesCount": 0
     },
     {

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-25T05:58:39Z",
+  "generatedAt": "2026-04-26T06:19:43Z",
   "topic": "devops",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1216559990",
@@ -81,42 +81,12 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1214962690",
-      "name": "sh1pt",
-      "nameWithOwner": "profullstack/sh1pt",
-      "description": "build. promote. scale. iterate...",
-      "url": "https://github.com/profullstack/sh1pt",
-      "stargazerCount": 9,
-      "forkCount": 1,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "profullstack",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/44715329?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-04-19T09:40:29Z",
-      "updatedAt": "2026-04-22T16:42:20Z",
-      "licenseName": "MIT",
-      "topics": [
-        "build",
-        "cicd",
-        "deployment",
-        "devops",
-        "distribution",
-        "ops",
-        "promote",
-        "publishing",
-        "scale"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1219988250",
       "name": "finops-agents",
       "nameWithOwner": "Cletrics/finops-agents",
       "description": "34 FinOps specialist AI agents + 6 named-pattern playbooks. Drop into Claude Code, Copilot, Cursor, Windsurf, Aider, Gemini CLI. MIT.",
       "url": "https://github.com/Cletrics/finops-agents",
-      "stargazerCount": 8,
+      "stargazerCount": 14,
       "forkCount": 0,
       "languageName": "Shell",
       "languageColor": null,
@@ -124,7 +94,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/278975697?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-04-24T12:33:15Z",
-      "updatedAt": "2026-04-25T04:48:43Z",
+      "updatedAt": "2026-04-26T04:31:26Z",
       "licenseName": "MIT",
       "topics": [
         "agents",
