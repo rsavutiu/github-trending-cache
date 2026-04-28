@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-27T06:41:34Z",
+  "generatedAt": "2026-04-28T06:43:49Z",
   "topic": "deep-learning",
-  "totalCount": 5,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1220866899",
@@ -9,7 +9,7 @@
       "nameWithOwner": "facex-engine/facex",
       "description": "Face verification in the browser. 74 KB WebAssembly. No server, no cloud, no dependencies. Also runs native at 3ms on CPU.",
       "url": "https://github.com/facex-engine/facex",
-      "stargazerCount": 81,
+      "stargazerCount": 82,
       "forkCount": 9,
       "languageName": "C",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/279251688?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-04-25T12:49:25Z",
-      "updatedAt": "2026-04-27T06:33:38Z",
+      "updatedAt": "2026-04-27T10:22:36Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "avx-512",
@@ -39,35 +39,6 @@
         "zero-dependencies"
       ],
       "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1219882999",
-      "name": "r6s-tool",
-      "nameWithOwner": "DcCahyadi/r6s-tool",
-      "description": "A sophisticated low-level telemetry and network latency inspection system designed for competitive FPS gaming. It includes live packet fluctuation detection, input-to-engine synchronization validation, and frame delivery consistency tools. This kind of tool is essential for eliminating ",
-      "url": "https://github.com/DcCahyadi/r6s-tool",
-      "stargazerCount": 12,
-      "forkCount": 0,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "DcCahyadi",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/220005463?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-24T10:11:15Z",
-      "updatedAt": "2026-04-26T10:22:00Z",
-      "licenseName": null,
-      "topics": [
-        "deep-learning",
-        "hub",
-        "r6-hack-tools",
-        "r6-siege-exploits",
-        "r6s-hacking",
-        "rainbow6",
-        "tracking",
-        "yolo-world"
-      ],
-      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -118,37 +89,6 @@
         "relu-attention"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1216579573",
-      "name": "sparselab",
-      "nameWithOwner": "DarshanFofadiya/sparselab",
-      "description": "Actually-sparse dynamic training for PyTorch. CPU-native, Apple Silicon first. Pluggable routers, drop-in SparseLinear.",
-      "url": "https://github.com/DarshanFofadiya/sparselab",
-      "stargazerCount": 6,
-      "forkCount": 2,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "DarshanFofadiya",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/26476271?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-21T03:29:46Z",
-      "updatedAt": "2026-04-26T19:10:01Z",
-      "licenseName": "MIT",
-      "topics": [
-        "apple-silicon",
-        "cpu-optimization",
-        "deep-learning",
-        "dynamic-sparse-training",
-        "neon-intrinsics",
-        "pybind11",
-        "pytorch",
-        "rigl",
-        "sparse-neural-networks",
-        "sparse-training"
-      ],
-      "openIssuesCount": 15,
       "closedIssuesCount": 0
     }
   ]

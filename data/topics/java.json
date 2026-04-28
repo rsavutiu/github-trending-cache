@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-27T06:41:34Z",
+  "generatedAt": "2026-04-28T06:43:49Z",
   "topic": "java",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1220325255",
@@ -9,15 +9,15 @@
       "nameWithOwner": "techsenger/ceffx",
       "description": "Techsenger CEFFX – A library for integrating the Chromium Embedded Framework into JavaFX.",
       "url": "https://github.com/techsenger/ceffx",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 0,
-      "languageName": "C++",
+      "languageName": "Java",
       "languageColor": null,
       "ownerLogin": "techsenger",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/183504104?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-04-24T19:30:07Z",
-      "updatedAt": "2026-04-25T17:15:47Z",
+      "updatedAt": "2026-04-28T03:03:48Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "browser",
@@ -27,6 +27,37 @@
         "javafx",
         "javafx-component",
         "javafx-library"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1221193610",
+      "name": "java-springboot-tutorial",
+      "nameWithOwner": "Firatasi/java-springboot-tutorial",
+      "description": "Sıfırdan ileri seviyeye, 13 bölümden oluşan kapsamlı Türkçe Spring Boot ve modern Java backend geliştirme rehberi.",
+      "url": "https://github.com/Firatasi/java-springboot-tutorial",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "Firatasi",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/112112161?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-25T21:54:00Z",
+      "updatedAt": "2026-04-27T06:55:51Z",
+      "licenseName": "MIT",
+      "topics": [
+        "docker",
+        "java",
+        "rest-api",
+        "spring-boot",
+        "spring-jpa",
+        "spring-jwt",
+        "spring-security",
+        "testing",
+        "turkish",
+        "tutorial"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

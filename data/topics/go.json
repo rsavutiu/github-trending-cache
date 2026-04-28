@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-27T06:41:34Z",
+  "generatedAt": "2026-04-28T06:43:49Z",
   "topic": "go",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1218871120",
@@ -9,15 +9,15 @@
       "nameWithOwner": "Ritiksuman07/quant-whisper",
       "description": "A hedge fund on your local machine. Terminal-native algo trading engine in Go with local LLM inference (Ollama), Bubble Tea TUI, paper/live trading, and zero cloud dependency. BYOB.",
       "url": "https://github.com/Ritiksuman07/quant-whisper",
-      "stargazerCount": 24,
-      "forkCount": 4,
+      "stargazerCount": 47,
+      "forkCount": 8,
       "languageName": "Go",
       "languageColor": null,
       "ownerLogin": "Ritiksuman07",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/220752263?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-23T09:47:24Z",
-      "updatedAt": "2026-04-27T06:22:16Z",
+      "updatedAt": "2026-04-28T04:30:17Z",
       "licenseName": "MIT",
       "topics": [
         "algorithmic-trading",
@@ -80,38 +80,6 @@
         "terraform"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1217228073",
-      "name": "octoscope",
-      "nameWithOwner": "gfazioli/octoscope",
-      "description": "Terminal dashboard for GitHub — followers, stars, PRs and issues at a glance, auto-refreshed",
-      "url": "https://github.com/gfazioli/octoscope",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "gfazioli",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/432181?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-21T17:12:51Z",
-      "updatedAt": "2026-04-26T16:22:38Z",
-      "licenseName": "MIT",
-      "topics": [
-        "bubbletea",
-        "cli",
-        "dashboard",
-        "github",
-        "github-api",
-        "go",
-        "lipgloss",
-        "monitoring",
-        "stats",
-        "terminal",
-        "tui"
-      ],
-      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]
