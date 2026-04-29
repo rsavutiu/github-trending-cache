@@ -1,8 +1,39 @@
 {
-  "generatedAt": "2026-04-28T06:43:49Z",
+  "generatedAt": "2026-04-29T06:37:25Z",
   "topic": "web",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
+    {
+      "id": "1223258168",
+      "name": "awesome-axum",
+      "nameWithOwner": "szabgab/awesome-axum",
+      "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
+      "url": "https://github.com/szabgab/awesome-axum",
+      "stargazerCount": 22,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "szabgab",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/48833?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-28T06:41:50Z",
+      "updatedAt": "2026-04-29T06:03:31Z",
+      "licenseName": null,
+      "topics": [
+        "api",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "http",
+        "rust",
+        "rust-lang",
+        "rust-language",
+        "web",
+        "webserver"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1218941737",
       "name": "react-native-nitro-qrcode",

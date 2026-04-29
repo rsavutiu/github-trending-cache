@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T06:43:49Z",
+  "generatedAt": "2026-04-29T06:37:25Z",
   "topic": "go",
   "totalCount": 3,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "Ritiksuman07/quant-whisper",
       "description": "A hedge fund on your local machine. Terminal-native algo trading engine in Go with local LLM inference (Ollama), Bubble Tea TUI, paper/live trading, and zero cloud dependency. BYOB.",
       "url": "https://github.com/Ritiksuman07/quant-whisper",
-      "stargazerCount": 47,
-      "forkCount": 8,
+      "stargazerCount": 54,
+      "forkCount": 9,
       "languageName": "Go",
       "languageColor": null,
       "ownerLogin": "Ritiksuman07",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/220752263?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-23T09:47:24Z",
-      "updatedAt": "2026-04-28T04:30:17Z",
+      "updatedAt": "2026-04-28T20:09:14Z",
       "licenseName": "MIT",
       "topics": [
         "algorithmic-trading",
@@ -30,6 +30,32 @@
         "paper-trading",
         "trading-servers",
         "tui"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1219913584",
+      "name": "go-brrr",
+      "nameWithOwner": "molecule-man/go-brrr",
+      "description": "Highly optimized pure go brotli implementation",
+      "url": "https://github.com/molecule-man/go-brrr",
+      "stargazerCount": 12,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "molecule-man",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1415116?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-24T10:53:52Z",
+      "updatedAt": "2026-04-28T21:15:14Z",
+      "licenseName": "MIT",
+      "topics": [
+        "brotli",
+        "compression",
+        "decompression",
+        "go",
+        "golang"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -55,29 +81,6 @@
         "go",
         "profiling-tools",
         "tui"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1217802816",
-      "name": "terraform-provider-query",
-      "nameWithOwner": "mattias-fjellstrom/terraform-provider-query",
-      "description": "Terraform Provider Query - TUI to explore Terraform providers.",
-      "url": "https://github.com/mattias-fjellstrom/terraform-provider-query",
-      "stargazerCount": 9,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "mattias-fjellstrom",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/36640518?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-22T08:28:35Z",
-      "updatedAt": "2026-04-25T23:12:01Z",
-      "licenseName": "MIT",
-      "topics": [
-        "go",
-        "terraform"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

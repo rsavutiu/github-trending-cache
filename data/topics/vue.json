@@ -1,6 +1,71 @@
 {
-  "generatedAt": "2026-04-28T06:43:49Z",
+  "generatedAt": "2026-04-29T06:37:25Z",
   "topic": "vue",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 2,
+  "repos": [
+    {
+      "id": "1222377313",
+      "name": "vue-gantt",
+      "nameWithOwner": "svar-widgets/vue-gantt",
+      "description": "Vue-native Gantt chart component for building interactive project timelines",
+      "url": "https://github.com/svar-widgets/vue-gantt",
+      "stargazerCount": 19,
+      "forkCount": 0,
+      "languageName": "Vue",
+      "languageColor": null,
+      "ownerLogin": "svar-widgets",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/148762960?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-04-27T09:58:43Z",
+      "updatedAt": "2026-04-28T14:47:21Z",
+      "licenseName": "MIT",
+      "topics": [
+        "gantt",
+        "gantt-chart",
+        "gantt-component",
+        "gantt-diagram",
+        "vue",
+        "vue-component",
+        "vue-gantt",
+        "vue-gantt-chart",
+        "vue-library",
+        "vue3",
+        "vuejs"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1223428441",
+      "name": "vue-h5-template",
+      "nameWithOwner": "fonghehe/vue-h5-template",
+      "description": "Mobile H5 starter template with Turborepo monorepo, supporting NutUI / Vant / Varlet — Vue 3 + TypeScript + Vite",
+      "url": "https://github.com/fonghehe/vue-h5-template",
+      "stargazerCount": 6,
+      "forkCount": 2,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "fonghehe",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/35002714?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-28T10:09:15Z",
+      "updatedAt": "2026-04-29T01:54:51Z",
+      "licenseName": "MIT",
+      "topics": [
+        "mobile",
+        "monorepo",
+        "nutui",
+        "starter",
+        "vant",
+        "varlet",
+        "vite",
+        "vue",
+        "vue-i18n",
+        "vue-router",
+        "vue3"
+      ],
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    }
+  ]
 }
