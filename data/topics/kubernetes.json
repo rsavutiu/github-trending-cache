@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T06:37:25Z",
+  "generatedAt": "2026-04-30T06:40:59Z",
   "topic": "kubernetes",
   "totalCount": 3,
   "repos": [
@@ -46,7 +46,7 @@
       "nameWithOwner": "Cletrics/finops-agents",
       "description": "34 FinOps specialist AI agents + 6 named-pattern playbooks. Drop into Claude Code, Copilot, Cursor, Windsurf, Aider, Gemini CLI. MIT.",
       "url": "https://github.com/Cletrics/finops-agents",
-      "stargazerCount": 15,
+      "stargazerCount": 16,
       "forkCount": 0,
       "languageName": "Shell",
       "languageColor": null,
@@ -54,7 +54,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/278975697?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-04-24T12:33:15Z",
-      "updatedAt": "2026-04-28T15:31:59Z",
+      "updatedAt": "2026-04-29T13:32:59Z",
       "licenseName": "MIT",
       "topics": [
         "agents",
