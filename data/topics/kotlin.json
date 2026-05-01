@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T06:40:59Z",
+  "generatedAt": "2026-05-01T06:44:47Z",
   "topic": "kotlin",
   "totalCount": 2,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "skydoves/compose-performance-skills",
       "description": "⚡️ A curated library of Agent Skills focused on Jetpack Compose performance.",
       "url": "https://github.com/skydoves/compose-performance-skills",
-      "stargazerCount": 173,
-      "forkCount": 5,
+      "stargazerCount": 226,
+      "forkCount": 7,
       "languageName": "Shell",
       "languageColor": null,
       "ownerLogin": "skydoves",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/24237865?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-29T08:02:27Z",
-      "updatedAt": "2026-04-30T06:39:30Z",
+      "updatedAt": "2026-05-01T06:32:18Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -32,7 +32,7 @@
         "recomposition",
         "skydoves"
       ],
-      "openIssuesCount": 2,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -41,7 +41,7 @@
       "nameWithOwner": "Maheswara660/Filora",
       "description": "A premium, modern, and high-performance File Explorer for Android built with Jetpack Compose and Material 3.",
       "url": "https://github.com/Maheswara660/Filora",
-      "stargazerCount": 7,
+      "stargazerCount": 9,
       "forkCount": 1,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -49,7 +49,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/153052862?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-25T08:01:30Z",
-      "updatedAt": "2026-04-29T11:22:48Z",
+      "updatedAt": "2026-05-01T02:54:41Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "android",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T06:40:59Z",
+  "generatedAt": "2026-05-01T06:44:47Z",
   "topic": "java",
   "totalCount": 3,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "Firatasi/java-springboot-tutorial",
       "description": "Sıfırdan ileri seviyeye, 13 bölümden oluşan kapsamlı Türkçe Spring Boot ve modern Java backend geliştirme rehberi.",
       "url": "https://github.com/Firatasi/java-springboot-tutorial",
-      "stargazerCount": 12,
+      "stargazerCount": 16,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/112112161?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-25T21:54:00Z",
-      "updatedAt": "2026-04-28T12:04:17Z",
+      "updatedAt": "2026-04-30T22:53:38Z",
       "licenseName": "MIT",
       "topics": [
         "docker",
@@ -40,7 +40,7 @@
       "nameWithOwner": "Glavo/GraalRISCV",
       "description": "A pure Java implementation of a 64-bit user-space RISC-V emulator.",
       "url": "https://github.com/Glavo/GraalRISCV",
-      "stargazerCount": 11,
+      "stargazerCount": 14,
       "forkCount": 0,
       "languageName": "Java",
       "languageColor": null,
@@ -48,7 +48,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/20694662?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-27T12:31:47Z",
-      "updatedAt": "2026-04-30T06:14:21Z",
+      "updatedAt": "2026-05-01T06:38:27Z",
       "licenseName": "MPL-2.0",
       "topics": [
         "graalvm",
@@ -60,31 +60,29 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1220325255",
-      "name": "ceffx",
-      "nameWithOwner": "techsenger/ceffx",
-      "description": "Techsenger CEFFX – A library for integrating the Chromium Embedded Framework into JavaFX.",
-      "url": "https://github.com/techsenger/ceffx",
-      "stargazerCount": 10,
-      "forkCount": 2,
-      "languageName": "C++",
+      "id": "1224591740",
+      "name": "spring-agent-flow",
+      "nameWithOwner": "datallmhub/spring-agent-flow",
+      "description": "Multi-agent orchestration framework on top of Spring AI",
+      "url": "https://github.com/datallmhub/spring-agent-flow",
+      "stargazerCount": 11,
+      "forkCount": 1,
+      "languageName": "Java",
       "languageColor": null,
-      "ownerLogin": "techsenger",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/183504104?v=4",
+      "ownerLogin": "datallmhub",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/240344075?v=4",
       "ownerType": "Organization",
-      "createdAt": "2026-04-24T19:30:07Z",
-      "updatedAt": "2026-04-29T19:14:03Z",
-      "licenseName": "NOASSERTION",
+      "createdAt": "2026-04-29T12:38:27Z",
+      "updatedAt": "2026-04-30T18:15:32Z",
+      "licenseName": "Apache-2.0",
       "topics": [
-        "browser",
-        "cef",
-        "chromium",
+        "agentic-ai",
+        "agentic-workflow",
         "java",
-        "javafx",
-        "javafx-component",
-        "javafx-library"
+        "spring",
+        "spring-boot"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 10,
       "closedIssuesCount": 0
     }
   ]

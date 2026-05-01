@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T06:40:59Z",
+  "generatedAt": "2026-05-01T06:44:47Z",
   "topic": "javascript",
   "totalCount": 4,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "HKUDS-AI/polymarket-ai-trading",
       "description": "AI-assisted paper trading for Polymarket: OpenAI market insight, vector search, Kelly sizing, SQLite, polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ",
       "url": "https://github.com/HKUDS-AI/polymarket-ai-trading",
-      "stargazerCount": 161,
-      "forkCount": 182,
+      "stargazerCount": 146,
+      "forkCount": 276,
       "languageName": "HTML",
       "languageColor": null,
       "ownerLogin": "HKUDS-AI",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/279666583?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-04-27T11:47:30Z",
-      "updatedAt": "2026-04-30T03:48:39Z",
+      "updatedAt": "2026-05-01T03:20:32Z",
       "licenseName": null,
       "topics": [
         "dashboard",
@@ -44,40 +44,6 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1224325224",
-      "name": "prelayout",
-      "nameWithOwner": "cosmiciron/prelayout",
-      "description": "Break the DOM speed barrier and say goodbye to layout thrashing: get text size, flow, shapes, and pages as data before you render. Powered by a smoking-fast, DTP-grade layout engine.",
-      "url": "https://github.com/cosmiciron/prelayout",
-      "stargazerCount": 17,
-      "forkCount": 0,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "cosmiciron",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4078554?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-29T07:08:35Z",
-      "updatedAt": "2026-04-30T05:57:33Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "browser",
-        "canvas",
-        "dom-manipulation",
-        "frontend-development",
-        "javascript",
-        "layout-engine",
-        "multilingual-ui",
-        "pretext",
-        "text-layout",
-        "text-measurement",
-        "text-wrapping",
-        "typography",
-        "ui"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1221376321",
       "name": "archik",
       "nameWithOwner": "bacharSalleh/archik",
@@ -91,7 +57,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/28431751?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-26T05:45:32Z",
-      "updatedAt": "2026-04-30T06:03:14Z",
+      "updatedAt": "2026-04-30T18:02:53Z",
       "licenseName": "MIT",
       "topics": [
         "agent",
@@ -115,7 +81,7 @@
         "typescript",
         "yaml"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -147,6 +113,47 @@
         "sandbox"
       ],
       "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1225709304",
+      "name": "scratch-copilot",
+      "nameWithOwner": "programmersd21/scratch-copilot",
+      "description": " ✨An AI-powered Chrome extension for Scratch 3.0 that acts as your copilot. Seamlessly generate entire games, inject blocks, and automatically load sprites, sounds, and backdrops from the Scratch library using Gemini AI directly within the editor.",
+      "url": "https://github.com/programmersd21/scratch-copilot",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "programmersd21",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/192335465?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-30T14:55:57Z",
+      "updatedAt": "2026-05-01T06:00:39Z",
+      "licenseName": "MIT",
+      "topics": [
+        "agentic-ai",
+        "ai-assistant",
+        "ast-generation",
+        "block-programming",
+        "chrome-extension",
+        "copilot",
+        "creative-coding",
+        "education-tech",
+        "gemini-api",
+        "generative-ai",
+        "javascript",
+        "llm-tools",
+        "scratch",
+        "scratch-3",
+        "scratch-api",
+        "scratch-extension",
+        "scratch-gui",
+        "scratch-vm",
+        "shadow-dom",
+        "visual-programming"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

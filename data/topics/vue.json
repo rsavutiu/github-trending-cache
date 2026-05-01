@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-30T06:40:59Z",
+  "generatedAt": "2026-05-01T06:44:47Z",
   "topic": "vue",
-  "totalCount": 3,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1224172037",
@@ -9,15 +9,15 @@
       "nameWithOwner": "t8y2/dbx",
       "description": "Open-source, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server.",
       "url": "https://github.com/t8y2/dbx",
-      "stargazerCount": 314,
-      "forkCount": 15,
+      "stargazerCount": 410,
+      "forkCount": 21,
       "languageName": "Vue",
       "languageColor": null,
       "ownerLogin": "t8y2",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/77960507?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-29T03:00:36Z",
-      "updatedAt": "2026-04-30T06:40:12Z",
+      "updatedAt": "2026-05-01T06:22:48Z",
       "licenseName": null,
       "topics": [
         "clickhouse",
@@ -36,7 +36,7 @@
         "tauri",
         "vue"
       ],
-      "openIssuesCount": 8,
+      "openIssuesCount": 7,
       "closedIssuesCount": 0
     },
     {
@@ -72,6 +72,47 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1224856077",
+      "name": "seslen",
+      "nameWithOwner": "productdevbook/seslen",
+      "description": "Zero-dep, tree-shakeable Web Audio library with synthesised UI presets, buses + ducking, polyphony cap, throttle, jitter, fades, pan, sprites, OfflineAudioContext render-to-WAV, AnalyserNode tap, prefers-reduced-motion + SSR-safe. Strict TypeScript.",
+      "url": "https://github.com/productdevbook/seslen",
+      "stargazerCount": 11,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "productdevbook",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/38668796?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-29T17:42:51Z",
+      "updatedAt": "2026-05-01T06:37:47Z",
+      "licenseName": "MIT",
+      "topics": [
+        "audiocontext",
+        "ducking",
+        "esm",
+        "feedback",
+        "game-audio",
+        "notification",
+        "polyphony",
+        "preset",
+        "react",
+        "sfx",
+        "sound-effects",
+        "ssr",
+        "synthesis",
+        "tree-shakeable",
+        "typescript",
+        "ui-sounds",
+        "vue",
+        "web-audio",
+        "webaudio",
+        "zero-dependency"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1223428441",
       "name": "vue-h5-template",
       "nameWithOwner": "fonghehe/vue-h5-template",
@@ -85,7 +126,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/35002714?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-28T10:09:15Z",
-      "updatedAt": "2026-04-29T09:07:00Z",
+      "updatedAt": "2026-04-30T18:45:44Z",
       "licenseName": "MIT",
       "topics": [
         "mobile",
