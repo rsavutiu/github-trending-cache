@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T06:44:47Z",
+  "generatedAt": "2026-05-02T06:20:37Z",
   "topic": "web",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "szabgab/awesome-axum",
       "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
       "url": "https://github.com/szabgab/awesome-axum",
-      "stargazerCount": 62,
+      "stargazerCount": 74,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/48833?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-28T06:41:50Z",
-      "updatedAt": "2026-05-01T03:59:08Z",
+      "updatedAt": "2026-05-02T06:17:34Z",
       "licenseName": null,
       "topics": [
         "api",
@@ -40,7 +40,7 @@
       "nameWithOwner": "ns2250225/dj",
       "description": "马仔dj音乐台",
       "url": "https://github.com/ns2250225/dj",
-      "stargazerCount": 9,
+      "stargazerCount": 11,
       "forkCount": 3,
       "languageName": "CSS",
       "languageColor": null,
@@ -48,7 +48,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6628803?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-28T21:07:18Z",
-      "updatedAt": "2026-04-30T18:34:31Z",
+      "updatedAt": "2026-05-01T17:58:21Z",
       "licenseName": null,
       "topics": [
         "dj",

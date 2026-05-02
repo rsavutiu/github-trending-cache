@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-01T06:44:47Z",
+  "generatedAt": "2026-05-02T06:20:37Z",
   "topic": "kubernetes",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1222738733",
@@ -39,41 +39,6 @@
         "swift",
         "swiftui",
         "tunneling"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1220562896",
-      "name": "cronguard",
-      "nameWithOwner": "dmazhukov/cronguard",
-      "description": "SLO-style observability for Kubernetes CronJobs — operator + Prometheus metrics",
-      "url": "https://github.com/dmazhukov/cronguard",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "dmazhukov",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/15608768?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-25T03:29:34Z",
-      "updatedAt": "2026-04-30T08:32:55Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "artifact-hub",
-        "cronjob",
-        "go",
-        "golang",
-        "helm",
-        "helm-chart",
-        "kubernetes",
-        "kubernetes-operator",
-        "observability",
-        "prometheus",
-        "prometheus-metrics",
-        "prometheus-operator",
-        "slo",
-        "sre"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

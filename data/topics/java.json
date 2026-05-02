@@ -1,46 +1,15 @@
 {
-  "generatedAt": "2026-05-01T06:44:47Z",
+  "generatedAt": "2026-05-02T06:20:37Z",
   "topic": "java",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
-    {
-      "id": "1221193610",
-      "name": "java-springboot-tutorial",
-      "nameWithOwner": "Firatasi/java-springboot-tutorial",
-      "description": "Sıfırdan ileri seviyeye, 13 bölümden oluşan kapsamlı Türkçe Spring Boot ve modern Java backend geliştirme rehberi.",
-      "url": "https://github.com/Firatasi/java-springboot-tutorial",
-      "stargazerCount": 16,
-      "forkCount": 0,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "Firatasi",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/112112161?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-25T21:54:00Z",
-      "updatedAt": "2026-04-30T22:53:38Z",
-      "licenseName": "MIT",
-      "topics": [
-        "docker",
-        "java",
-        "rest-api",
-        "spring-boot",
-        "spring-jpa",
-        "spring-jwt",
-        "spring-security",
-        "testing",
-        "turkish",
-        "tutorial"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1222501632",
       "name": "GraalRISCV",
       "nameWithOwner": "Glavo/GraalRISCV",
       "description": "A pure Java implementation of a 64-bit user-space RISC-V emulator.",
       "url": "https://github.com/Glavo/GraalRISCV",
-      "stargazerCount": 14,
+      "stargazerCount": 15,
       "forkCount": 0,
       "languageName": "Java",
       "languageColor": null,
@@ -48,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/20694662?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-27T12:31:47Z",
-      "updatedAt": "2026-05-01T06:38:27Z",
+      "updatedAt": "2026-05-02T05:48:27Z",
       "licenseName": "MPL-2.0",
       "topics": [
         "graalvm",
@@ -65,15 +34,15 @@
       "nameWithOwner": "datallmhub/spring-agent-flow",
       "description": "Multi-agent orchestration framework on top of Spring AI",
       "url": "https://github.com/datallmhub/spring-agent-flow",
-      "stargazerCount": 11,
-      "forkCount": 1,
+      "stargazerCount": 13,
+      "forkCount": 2,
       "languageName": "Java",
       "languageColor": null,
       "ownerLogin": "datallmhub",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/240344075?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-04-29T12:38:27Z",
-      "updatedAt": "2026-04-30T18:15:32Z",
+      "updatedAt": "2026-05-01T23:27:59Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "agentic-ai",
@@ -82,7 +51,7 @@
         "spring",
         "spring-boot"
       ],
-      "openIssuesCount": 10,
+      "openIssuesCount": 15,
       "closedIssuesCount": 0
     }
   ]

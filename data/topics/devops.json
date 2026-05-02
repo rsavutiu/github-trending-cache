@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T06:44:47Z",
+  "generatedAt": "2026-05-02T06:20:37Z",
   "topic": "devops",
   "totalCount": 5,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "Neilblaze/portscope",
       "description": "CLI tool to see & manage what's running on your ports ✨",
       "url": "https://github.com/Neilblaze/portscope",
-      "stargazerCount": 30,
-      "forkCount": 0,
+      "stargazerCount": 34,
+      "forkCount": 1,
       "languageName": "JavaScript",
       "languageColor": null,
       "ownerLogin": "Neilblaze",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/48355572?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-26T09:32:50Z",
-      "updatedAt": "2026-04-30T17:06:39Z",
+      "updatedAt": "2026-05-01T18:06:40Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "cli",
@@ -150,7 +150,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/2394703?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-27T08:50:34Z",
-      "updatedAt": "2026-04-29T15:37:52Z",
+      "updatedAt": "2026-05-02T02:56:58Z",
       "licenseName": "BSD-2-Clause",
       "topics": [
         "apt",

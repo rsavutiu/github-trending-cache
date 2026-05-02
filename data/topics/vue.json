@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T06:44:47Z",
+  "generatedAt": "2026-05-02T06:20:37Z",
   "topic": "vue",
   "totalCount": 4,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "t8y2/dbx",
       "description": "Open-source, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server.",
       "url": "https://github.com/t8y2/dbx",
-      "stargazerCount": 410,
-      "forkCount": 21,
+      "stargazerCount": 632,
+      "forkCount": 30,
       "languageName": "Vue",
       "languageColor": null,
       "ownerLogin": "t8y2",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/77960507?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-29T03:00:36Z",
-      "updatedAt": "2026-05-01T06:22:48Z",
+      "updatedAt": "2026-05-02T06:20:46Z",
       "licenseName": null,
       "topics": [
         "clickhouse",
@@ -36,7 +36,7 @@
         "tauri",
         "vue"
       ],
-      "openIssuesCount": 7,
+      "openIssuesCount": 10,
       "closedIssuesCount": 0
     },
     {
@@ -45,7 +45,7 @@
       "nameWithOwner": "svar-widgets/vue-gantt",
       "description": "Vue-native Gantt chart component for building interactive project timelines",
       "url": "https://github.com/svar-widgets/vue-gantt",
-      "stargazerCount": 20,
+      "stargazerCount": 22,
       "forkCount": 0,
       "languageName": "Vue",
       "languageColor": null,
@@ -53,7 +53,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/148762960?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-04-27T09:58:43Z",
-      "updatedAt": "2026-04-29T15:24:57Z",
+      "updatedAt": "2026-05-01T20:55:57Z",
       "licenseName": "MIT",
       "topics": [
         "gantt",
@@ -77,7 +77,7 @@
       "nameWithOwner": "productdevbook/seslen",
       "description": "Zero-dep, tree-shakeable Web Audio library with synthesised UI presets, buses + ducking, polyphony cap, throttle, jitter, fades, pan, sprites, OfflineAudioContext render-to-WAV, AnalyserNode tap, prefers-reduced-motion + SSR-safe. Strict TypeScript.",
       "url": "https://github.com/productdevbook/seslen",
-      "stargazerCount": 11,
+      "stargazerCount": 18,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -85,7 +85,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/38668796?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-29T17:42:51Z",
-      "updatedAt": "2026-05-01T06:37:47Z",
+      "updatedAt": "2026-05-01T14:32:37Z",
       "licenseName": "MIT",
       "topics": [
         "audiocontext",
