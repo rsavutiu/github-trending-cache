@@ -1,35 +1,8 @@
 {
-  "generatedAt": "2026-05-02T06:20:37Z",
+  "generatedAt": "2026-05-03T06:39:31Z",
   "topic": "devops",
-  "totalCount": 5,
+  "totalCount": 6,
   "repos": [
-    {
-      "id": "1221492073",
-      "name": "portscope",
-      "nameWithOwner": "Neilblaze/portscope",
-      "description": "CLI tool to see & manage what's running on your ports ✨",
-      "url": "https://github.com/Neilblaze/portscope",
-      "stargazerCount": 34,
-      "forkCount": 1,
-      "languageName": "JavaScript",
-      "languageColor": null,
-      "ownerLogin": "Neilblaze",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/48355572?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-26T09:32:50Z",
-      "updatedAt": "2026-05-01T18:06:40Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "cli",
-        "dev-server",
-        "developer-tools",
-        "devops",
-        "mlops",
-        "observability"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1222400893",
       "name": "rn-ci-setup",
@@ -55,6 +28,38 @@
         "fastlane",
         "github-actions",
         "react-native"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1227421344",
+      "name": "blamebot",
+      "nameWithOwner": "huseynovvusal/blamebot",
+      "description": "AI on-call agent that detects deploy failures explains what broke pages the responsible team and rolls back automatically.",
+      "url": "https://github.com/huseynovvusal/blamebot",
+      "stargazerCount": 18,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "huseynovvusal",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/87518350?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-02T16:57:00Z",
+      "updatedAt": "2026-05-02T20:49:34Z",
+      "licenseName": null,
+      "topics": [
+        "ai-agent",
+        "devops",
+        "hackathon",
+        "incident-management",
+        "nextjs",
+        "postmortem",
+        "redis",
+        "slack-bot",
+        "sre",
+        "upstash",
+        "vercel"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -150,7 +155,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/2394703?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-27T08:50:34Z",
-      "updatedAt": "2026-05-02T02:56:58Z",
+      "updatedAt": "2026-05-02T13:27:52Z",
       "licenseName": "BSD-2-Clause",
       "topics": [
         "apt",
@@ -166,6 +171,37 @@
         "pacman",
         "sysadmin",
         "termux"
+      ],
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1226000465",
+      "name": "tailscale-cli",
+      "nameWithOwner": "dimer47/tailscale-cli",
+      "description": "CLI for the Tailscale API v2 — manage devices, ACLs, DNS, keys, users, webhooks & more from the terminal. Includes MCP server (39 tools) for Claude Code / AI assistants.",
+      "url": "https://github.com/dimer47/tailscale-cli",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "dimer47",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/12893613?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-30T21:44:33Z",
+      "updatedAt": "2026-05-03T03:59:55Z",
+      "licenseName": null,
+      "topics": [
+        "claude-code",
+        "cli",
+        "devops",
+        "golang",
+        "mcp",
+        "model-context-protocol",
+        "network",
+        "tailscale",
+        "tailscale-api",
+        "vpn"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

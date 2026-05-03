@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-02T06:20:37Z",
+  "generatedAt": "2026-05-03T06:39:31Z",
   "topic": "kotlin",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1224368231",
@@ -9,15 +9,15 @@
       "nameWithOwner": "skydoves/compose-performance-skills",
       "description": "⚡️ A curated library of Agent Skills focused on Jetpack Compose performance.",
       "url": "https://github.com/skydoves/compose-performance-skills",
-      "stargazerCount": 246,
-      "forkCount": 8,
+      "stargazerCount": 263,
+      "forkCount": 9,
       "languageName": "Shell",
       "languageColor": null,
       "ownerLogin": "skydoves",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/24237865?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-29T08:02:27Z",
-      "updatedAt": "2026-05-02T06:04:28Z",
+      "updatedAt": "2026-05-03T05:08:00Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -31,6 +31,38 @@
         "llm-tools",
         "recomposition",
         "skydoves"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1222400816",
+      "name": "modifier-node-cookbook",
+      "nameWithOwner": "ChristophyBarth/modifier-node-cookbook",
+      "description": "Production-ready Jetpack Compose modifiers, all built on Modifier.Node. No Modifier.composed.",
+      "url": "https://github.com/ChristophyBarth/modifier-node-cookbook",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "ChristophyBarth",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/49325171?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-27T10:28:35Z",
+      "updatedAt": "2026-05-02T14:50:52Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "android",
+        "android-library",
+        "compose",
+        "compose-android",
+        "compose-modifiers",
+        "compose-ui",
+        "jetpack-compose",
+        "kotlin",
+        "modifier",
+        "modifier-node",
+        "ui-library"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

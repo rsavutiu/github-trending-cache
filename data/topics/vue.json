@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-05-02T06:20:37Z",
+  "generatedAt": "2026-05-03T06:39:31Z",
   "topic": "vue",
-  "totalCount": 4,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1224172037",
       "name": "dbx",
       "nameWithOwner": "t8y2/dbx",
-      "description": "Open-source, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server.",
+      "description": "lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.",
       "url": "https://github.com/t8y2/dbx",
-      "stargazerCount": 632,
-      "forkCount": 30,
+      "stargazerCount": 723,
+      "forkCount": 39,
       "languageName": "Vue",
       "languageColor": null,
       "ownerLogin": "t8y2",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/77960507?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-29T03:00:36Z",
-      "updatedAt": "2026-05-02T06:20:46Z",
+      "updatedAt": "2026-05-03T06:36:18Z",
       "licenseName": null,
       "topics": [
         "clickhouse",
@@ -36,7 +36,7 @@
         "tauri",
         "vue"
       ],
-      "openIssuesCount": 10,
+      "openIssuesCount": 5,
       "closedIssuesCount": 0
     },
     {
@@ -77,7 +77,7 @@
       "nameWithOwner": "productdevbook/seslen",
       "description": "Zero-dep, tree-shakeable Web Audio library with synthesised UI presets, buses + ducking, polyphony cap, throttle, jitter, fades, pan, sprites, OfflineAudioContext render-to-WAV, AnalyserNode tap, prefers-reduced-motion + SSR-safe. Strict TypeScript.",
       "url": "https://github.com/productdevbook/seslen",
-      "stargazerCount": 18,
+      "stargazerCount": 20,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -85,7 +85,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/38668796?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-29T17:42:51Z",
-      "updatedAt": "2026-05-01T14:32:37Z",
+      "updatedAt": "2026-05-02T22:19:10Z",
       "licenseName": "MIT",
       "topics": [
         "audiocontext",
@@ -108,6 +108,31 @@
         "web-audio",
         "webaudio",
         "zero-dependency"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1226111561",
+      "name": "wax",
+      "nameWithOwner": "dgadacha/wax",
+      "description": "A modern desktop music player built on yt-dlp. Free, open source, MIT.",
+      "url": "https://github.com/dgadacha/wax",
+      "stargazerCount": 9,
+      "forkCount": 0,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "dgadacha",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/12858979?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-01T01:43:50Z",
+      "updatedAt": "2026-05-03T06:23:58Z",
+      "licenseName": "MIT",
+      "topics": [
+        "electron",
+        "music-player",
+        "vue",
+        "yt-dlp"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

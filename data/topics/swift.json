@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-02T06:20:37Z",
+  "generatedAt": "2026-05-03T06:39:31Z",
   "topic": "swift",
-  "totalCount": 6,
+  "totalCount": 7,
   "repos": [
     {
       "id": "1226286910",
@@ -9,15 +9,15 @@
       "nameWithOwner": "darrylmorley/whatcable",
       "description": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
       "url": "https://github.com/darrylmorley/whatcable",
-      "stargazerCount": 893,
-      "forkCount": 15,
+      "stargazerCount": 1300,
+      "forkCount": 30,
       "languageName": "Swift",
       "languageColor": null,
       "ownerLogin": "darrylmorley",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/20406137?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-01T07:45:10Z",
-      "updatedAt": "2026-05-02T06:20:54Z",
+      "updatedAt": "2026-05-03T06:37:19Z",
       "licenseName": "MIT",
       "topics": [
         "apple-silicon",
@@ -34,7 +34,7 @@
         "usb-power-delivery",
         "utility"
       ],
-      "openIssuesCount": 13,
+      "openIssuesCount": 15,
       "closedIssuesCount": 0
     },
     {
@@ -43,15 +43,15 @@
       "nameWithOwner": "appergb/openless",
       "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)",
       "url": "https://github.com/appergb/openless",
-      "stargazerCount": 239,
-      "forkCount": 20,
+      "stargazerCount": 436,
+      "forkCount": 34,
       "languageName": "HTML",
       "languageColor": null,
       "ownerLogin": "appergb",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/192432815?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-27T07:25:49Z",
-      "updatedAt": "2026-05-02T05:43:04Z",
+      "updatedAt": "2026-05-03T06:39:22Z",
       "licenseName": "MIT",
       "topics": [
         "ai-prompt",
@@ -71,7 +71,7 @@
         "windows",
         "wispr-flow-alternative"
       ],
-      "openIssuesCount": 14,
+      "openIssuesCount": 10,
       "closedIssuesCount": 0
     },
     {
@@ -80,7 +80,7 @@
       "nameWithOwner": "Wholiver/swiftui-design-skill",
       "description": "SwiftUI 前端设计 skill — 反 AI Slop 六条铁律、设计方向顾问、品牌资产协议、五维评审。支持 Claude Code / Cursor / Codex / OpenCode 等全部 AI agent 平台。",
       "url": "https://github.com/Wholiver/swiftui-design-skill",
-      "stargazerCount": 22,
+      "stargazerCount": 29,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -88,7 +88,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/126302682?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-30T03:50:18Z",
-      "updatedAt": "2026-05-02T01:29:12Z",
+      "updatedAt": "2026-05-03T06:29:30Z",
       "licenseName": "MIT",
       "topics": [
         "accessibility",
@@ -156,36 +156,6 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1221939732",
-      "name": "cyberwriter-app",
-      "nameWithOwner": "uncSoft/cyberwriter-app",
-      "description": "cyberWriter - a native macOS Markdown editor. Releases, example vault, and docs.",
-      "url": "https://github.com/uncSoft/cyberwriter-app",
-      "stargazerCount": 11,
-      "forkCount": 0,
-      "languageName": "Rich Text Format",
-      "languageColor": null,
-      "ownerLogin": "uncSoft",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/181050313?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-26T21:47:39Z",
-      "updatedAt": "2026-05-01T06:43:57Z",
-      "licenseName": null,
-      "topics": [
-        "editor",
-        "latex",
-        "macos",
-        "markdown",
-        "mermaid",
-        "note-taking",
-        "obsidian",
-        "swift",
-        "swiftui"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1225454774",
       "name": "CodexPing",
       "nameWithOwner": "KaneTesta/CodexPing",
@@ -213,6 +183,72 @@
         "xcode"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1225199333",
+      "name": "binky",
+      "nameWithOwner": "heyderekj/binky",
+      "description": "Binky sorts your files.",
+      "url": "https://github.com/heyderekj/binky",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Swift",
+      "languageColor": null,
+      "ownerLogin": "heyderekj",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127624400?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-30T03:34:13Z",
+      "updatedAt": "2026-05-03T03:03:00Z",
+      "licenseName": "MIT",
+      "topics": [
+        "appkit",
+        "automation",
+        "downloads",
+        "file-organization",
+        "finder",
+        "macos",
+        "productivity",
+        "shortcuts",
+        "swift",
+        "swiftui"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1226477048",
+      "name": "memorydetective",
+      "nameWithOwner": "carloshpdoc/memorydetective",
+      "description": "MCP server for iOS leak hunting and performance investigation: 27 tools spanning .memgraph + .trace files, retain cycle classification, and CI integration.",
+      "url": "https://github.com/carloshpdoc/memorydetective",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "carloshpdoc",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1216101?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-01T12:58:28Z",
+      "updatedAt": "2026-05-02T11:09:32Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "claude-code",
+        "combine",
+        "instruments",
+        "ios",
+        "mcp",
+        "memgraph",
+        "memory-leak",
+        "model-context-protocol",
+        "performance",
+        "retain-cycle",
+        "swift",
+        "swiftui",
+        "xcode",
+        "xctrace"
+      ],
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]

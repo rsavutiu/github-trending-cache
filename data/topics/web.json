@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T06:20:37Z",
+  "generatedAt": "2026-05-03T06:39:31Z",
   "topic": "web",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "szabgab/awesome-axum",
       "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
       "url": "https://github.com/szabgab/awesome-axum",
-      "stargazerCount": 74,
+      "stargazerCount": 76,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/48833?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-28T06:41:50Z",
-      "updatedAt": "2026-05-02T06:17:34Z",
+      "updatedAt": "2026-05-02T22:09:40Z",
       "licenseName": null,
       "topics": [
         "api",

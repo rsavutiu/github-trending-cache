@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-02T06:20:37Z",
+  "generatedAt": "2026-05-03T06:39:31Z",
   "topic": "flutter",
-  "totalCount": 1,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1223168847",
@@ -9,7 +9,7 @@
       "nameWithOwner": "miguelsotobaez/neostation-frontend",
       "description": "The Multiplatform Emulation Frontend.",
       "url": "https://github.com/miguelsotobaez/neostation-frontend",
-      "stargazerCount": 35,
+      "stargazerCount": 45,
       "forkCount": 2,
       "languageName": "C",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/3828247?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-28T04:22:56Z",
-      "updatedAt": "2026-05-02T03:32:59Z",
+      "updatedAt": "2026-05-03T01:53:48Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "android",
@@ -33,6 +33,53 @@
         "windows"
       ],
       "openIssuesCount": 9,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1224543123",
+      "name": "fl_api_hub",
+      "nameWithOwner": "RebornQ/fl_api_hub",
+      "description": "Flutter 一站式 AI API 中转站管理工具，统一管理多平台账号、余额、密钥与快速签到",
+      "url": "https://github.com/RebornQ/fl_api_hub",
+      "stargazerCount": 12,
+      "forkCount": 3,
+      "languageName": "Dart",
+      "languageColor": null,
+      "ownerLogin": "RebornQ",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/43238557?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-29T11:40:04Z",
+      "updatedAt": "2026-05-03T01:53:01Z",
+      "licenseName": "AGPL-3.0",
+      "topics": [
+        "flutter"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1225532487",
+      "name": "Moolvy-Calendar",
+      "nameWithOwner": "Moolvy/Moolvy-Calendar",
+      "description": "Official repository Moolvy-Calendar",
+      "url": "https://github.com/Moolvy/Moolvy-Calendar",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Dart",
+      "languageColor": null,
+      "ownerLogin": "Moolvy",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/280673635?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-04-30T11:27:26Z",
+      "updatedAt": "2026-05-02T12:24:16Z",
+      "licenseName": "MIT",
+      "topics": [
+        "android",
+        "calendar",
+        "flutter",
+        "moolvy"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]
