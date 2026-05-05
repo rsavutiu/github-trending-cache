@@ -1,63 +1,6 @@
 {
-  "generatedAt": "2026-05-04T07:23:33Z",
+  "generatedAt": "2026-05-05T06:28:42Z",
   "topic": "web",
-  "totalCount": 2,
-  "repos": [
-    {
-      "id": "1223258168",
-      "name": "awesome-axum",
-      "nameWithOwner": "szabgab/awesome-axum",
-      "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
-      "url": "https://github.com/szabgab/awesome-axum",
-      "stargazerCount": 82,
-      "forkCount": 0,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "szabgab",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/48833?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-28T06:41:50Z",
-      "updatedAt": "2026-05-03T21:43:39Z",
-      "licenseName": null,
-      "topics": [
-        "api",
-        "awesome",
-        "awesome-list",
-        "awesome-lists",
-        "http",
-        "rust",
-        "rust-lang",
-        "rust-language",
-        "web",
-        "webserver"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1223984298",
-      "name": "dj",
-      "nameWithOwner": "ns2250225/dj",
-      "description": "马仔dj音乐台",
-      "url": "https://github.com/ns2250225/dj",
-      "stargazerCount": 11,
-      "forkCount": 3,
-      "languageName": "CSS",
-      "languageColor": null,
-      "ownerLogin": "ns2250225",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6628803?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-28T21:07:18Z",
-      "updatedAt": "2026-05-01T17:58:21Z",
-      "licenseName": null,
-      "topics": [
-        "dj",
-        "fastapi",
-        "music",
-        "web"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    }
-  ]
+  "totalCount": 0,
+  "repos": []
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T07:23:33Z",
+  "generatedAt": "2026-05-05T06:28:42Z",
   "topic": "javascript",
   "totalCount": 7,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "lukiIabs/trading-agents",
       "description": "TradingAgents LLM multi-agent finance trading stocks crypto fintech quantitative algo trading sentiment analysis OpenAI JavaScript Node.js research OSS",
       "url": "https://github.com/lukiIabs/trading-agents",
-      "stargazerCount": 211,
-      "forkCount": 213,
+      "stargazerCount": 228,
+      "forkCount": 215,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "lukiIabs",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/280650432?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-01T08:27:19Z",
-      "updatedAt": "2026-05-04T06:25:43Z",
+      "updatedAt": "2026-05-05T05:34:16Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "agents",
@@ -49,15 +49,15 @@
       "nameWithOwner": "Netxeo/skill-file-security",
       "description": "One command. 29 battle-tested security checks built into every AI coding assistant you already use without leaving your IDE.",
       "url": "https://github.com/Netxeo/skill-file-security",
-      "stargazerCount": 30,
-      "forkCount": 2,
+      "stargazerCount": 39,
+      "forkCount": 4,
       "languageName": "JavaScript",
       "languageColor": null,
       "ownerLogin": "Netxeo",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/70749897?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-02T12:50:06Z",
-      "updatedAt": "2026-05-04T06:45:37Z",
+      "updatedAt": "2026-05-05T03:19:13Z",
       "licenseName": null,
       "topics": [
         "ai",
@@ -71,7 +71,7 @@
         "owasp",
         "security"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -222,7 +222,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4078554?v=4",
       "ownerType": "User",
       "createdAt": "2026-04-30T04:14:21Z",
-      "updatedAt": "2026-05-03T16:18:32Z",
+      "updatedAt": "2026-05-05T05:41:13Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "ai",

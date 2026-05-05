@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-04T07:23:33Z",
+  "generatedAt": "2026-05-05T06:28:42Z",
   "topic": "java",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1224591740",
@@ -9,7 +9,7 @@
       "nameWithOwner": "datallmhub/spring-agent-flow",
       "description": "Multi-agent orchestration framework on top of Spring AI",
       "url": "https://github.com/datallmhub/spring-agent-flow",
-      "stargazerCount": 17,
+      "stargazerCount": 18,
       "forkCount": 5,
       "languageName": "Java",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/240344075?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-04-29T12:38:27Z",
-      "updatedAt": "2026-05-04T01:36:13Z",
+      "updatedAt": "2026-05-04T22:11:40Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "agentic-ai",
@@ -30,7 +30,43 @@
         "spring-ai",
         "spring-boot"
       ],
-      "openIssuesCount": 15,
+      "openIssuesCount": 16,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1227474164",
+      "name": "carrier",
+      "nameWithOwner": "nikoma/carrier",
+      "description": "Turn business specs into production-ready APIs with built-in auth, DB, and compliance.",
+      "url": "https://github.com/nikoma/carrier",
+      "stargazerCount": 7,
+      "forkCount": 1,
+      "languageName": "Rust",
+      "languageColor": null,
+      "ownerLogin": "nikoma",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1185199?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-02T18:26:26Z",
+      "updatedAt": "2026-05-05T05:33:52Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-tools",
+        "api",
+        "automation",
+        "backend",
+        "code-generation",
+        "compiler",
+        "developer-tools",
+        "java",
+        "nodejs",
+        "openapi",
+        "programming-language",
+        "rust",
+        "saas"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

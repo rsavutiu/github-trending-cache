@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-05-04T07:23:33Z",
+  "generatedAt": "2026-05-05T06:28:42Z",
   "topic": "data-science",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 1,
+  "repos": [
+    {
+      "id": "1226597750",
+      "name": "agentic-kaggle-skill",
+      "nameWithOwner": "FrankS-IntelLab/agentic-kaggle-skill",
+      "description": "🤖 AI Agent-driven Kaggle competition workflow. Battle-tested patterns for score stabilization, submission troubleshooting, kernel workflows, and spec-driven development.",
+      "url": "https://github.com/FrankS-IntelLab/agentic-kaggle-skill",
+      "stargazerCount": 6,
+      "forkCount": 2,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "FrankS-IntelLab",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/210846396?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-01T15:49:26Z",
+      "updatedAt": "2026-05-05T04:19:34Z",
+      "licenseName": "MIT",
+      "topics": [
+        "agentic-ai",
+        "ai-agent",
+        "automation",
+        "claude-code",
+        "data-science",
+        "kaggle",
+        "kaggle-competition",
+        "machine-learning",
+        "opencode",
+        "skill"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    }
+  ]
 }

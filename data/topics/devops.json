@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-04T07:23:33Z",
+  "generatedAt": "2026-05-05T06:28:42Z",
   "topic": "devops",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1227421344",
@@ -9,7 +9,7 @@
       "nameWithOwner": "huseynovvusal/blamebot",
       "description": "AI on-call agent that detects deploy failures explains what broke pages the responsible team and rolls back automatically.",
       "url": "https://github.com/huseynovvusal/blamebot",
-      "stargazerCount": 35,
+      "stargazerCount": 39,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/87518350?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-02T16:57:00Z",
-      "updatedAt": "2026-05-04T06:57:09Z",
+      "updatedAt": "2026-05-04T17:10:58Z",
       "licenseName": "MIT",
       "topics": [
         "ai-agent",
@@ -32,44 +32,7 @@
         "upstash",
         "vercel"
       ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1223163208",
-      "name": "terraform-for-aws",
-      "nameWithOwner": "Pratik-Nawale/terraform-for-aws",
-      "description": "Complete Terraform + GitHub Actions CI/CD pipeline for AWS with OIDC authentication. Educational reference zero to production-ready.",
-      "url": "https://github.com/Pratik-Nawale/terraform-for-aws",
-      "stargazerCount": 9,
-      "forkCount": 2,
-      "languageName": "HCL",
-      "languageColor": null,
-      "ownerLogin": "Pratik-Nawale",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/88920803?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-28T04:13:10Z",
-      "updatedAt": "2026-04-30T07:09:38Z",
-      "licenseName": "MIT",
-      "topics": [
-        "automation",
-        "aws",
-        "aws-iam",
-        "cicd",
-        "cloud-infrastructure",
-        "devops",
-        "devsecops",
-        "docker",
-        "github-actions",
-        "hcl",
-        "iam",
-        "infrastructure-as-code",
-        "oidc",
-        "s3",
-        "terraform",
-        "terraform-module"
-      ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 5,
       "closedIssuesCount": 0
     },
     {
