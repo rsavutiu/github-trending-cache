@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-05T06:28:42Z",
+  "generatedAt": "2026-05-06T06:44:48Z",
   "topic": "kubernetes",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1226246618",
@@ -36,6 +36,37 @@
         "linux-performance",
         "numa",
         "slurm"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1225536774",
+      "name": "Copy-Fail-CVE-2026-31431-Kubernetes-PoC",
+      "nameWithOwner": "Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC",
+      "description": "PoC: fully unprivileged container escape to node-level code execution on Kubernetes via CVE-2026-31431 page-cache corruption + shared image layers. Validated on Alibaba Cloud ACK and Amazon EKS.",
+      "url": "https://github.com/Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC",
+      "stargazerCount": 55,
+      "forkCount": 14,
+      "languageName": "C",
+      "languageColor": null,
+      "ownerLogin": "Percivalll",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/59213644?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-04-30T11:33:22Z",
+      "updatedAt": "2026-05-06T06:31:05Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "container-escape",
+        "cve-2026-31431",
+        "eks",
+        "exploit",
+        "kubernetes",
+        "linux-kernel",
+        "privilege-escalation",
+        "proof-of-concept",
+        "security-research",
+        "vulnerability"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

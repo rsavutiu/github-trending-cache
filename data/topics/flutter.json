@@ -1,30 +1,8 @@
 {
-  "generatedAt": "2026-05-05T06:28:42Z",
+  "generatedAt": "2026-05-06T06:44:48Z",
   "topic": "flutter",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
-    {
-      "id": "1224543123",
-      "name": "fl_api_hub",
-      "nameWithOwner": "RebornQ/fl_api_hub",
-      "description": "Flutter 一站式 AI API 中转站管理工具，统一管理多平台账号、余额、密钥与快速签到",
-      "url": "https://github.com/RebornQ/fl_api_hub",
-      "stargazerCount": 16,
-      "forkCount": 5,
-      "languageName": "Dart",
-      "languageColor": null,
-      "ownerLogin": "RebornQ",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/43238557?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-29T11:40:04Z",
-      "updatedAt": "2026-05-05T01:44:07Z",
-      "licenseName": "AGPL-3.0",
-      "topics": [
-        "flutter"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1225532487",
       "name": "Moolvy-Calendar",

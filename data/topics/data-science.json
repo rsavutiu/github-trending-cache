@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T06:28:42Z",
+  "generatedAt": "2026-05-06T06:44:48Z",
   "topic": "data-science",
   "totalCount": 1,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "FrankS-IntelLab/agentic-kaggle-skill",
       "description": "🤖 AI Agent-driven Kaggle competition workflow. Battle-tested patterns for score stabilization, submission troubleshooting, kernel workflows, and spec-driven development.",
       "url": "https://github.com/FrankS-IntelLab/agentic-kaggle-skill",
-      "stargazerCount": 6,
+      "stargazerCount": 10,
       "forkCount": 2,
       "languageName": null,
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/210846396?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-01T15:49:26Z",
-      "updatedAt": "2026-05-05T04:19:34Z",
+      "updatedAt": "2026-05-06T06:17:23Z",
       "licenseName": "MIT",
       "topics": [
         "agentic-ai",

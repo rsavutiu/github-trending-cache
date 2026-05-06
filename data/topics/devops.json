@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-05T06:28:42Z",
+  "generatedAt": "2026-05-06T06:44:48Z",
   "topic": "devops",
-  "totalCount": 2,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1227421344",
@@ -9,7 +9,7 @@
       "nameWithOwner": "huseynovvusal/blamebot",
       "description": "AI on-call agent that detects deploy failures explains what broke pages the responsible team and rolls back automatically.",
       "url": "https://github.com/huseynovvusal/blamebot",
-      "stargazerCount": 39,
+      "stargazerCount": 40,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/87518350?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-02T16:57:00Z",
-      "updatedAt": "2026-05-04T17:10:58Z",
+      "updatedAt": "2026-05-06T04:19:45Z",
       "licenseName": "MIT",
       "topics": [
         "ai-agent",
@@ -33,6 +33,38 @@
         "vercel"
       ],
       "openIssuesCount": 5,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1228236147",
+      "name": "razify",
+      "nameWithOwner": "Hossiy21/razify",
+      "description": "A developer CLI tool that manages .env files, detects secret leaks, syncs env drift across teammates, and validates environment parity between local/staging/prod  all from your terminal. Written in Go.",
+      "url": "https://github.com/Hossiy21/razify",
+      "stargazerCount": 9,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "Hossiy21",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/199234379?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-03T19:16:20Z",
+      "updatedAt": "2026-05-06T06:30:09Z",
+      "licenseName": "MIT",
+      "topics": [
+        "cli",
+        "developer-tools",
+        "devops",
+        "dotenv",
+        "env",
+        "environment-variables",
+        "golang",
+        "razify",
+        "secret-detection",
+        "secrets",
+        "security"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
