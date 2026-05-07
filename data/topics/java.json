@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-06T06:44:48Z",
+  "generatedAt": "2026-05-07T06:52:09Z",
   "topic": "java",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1227474164",
@@ -9,7 +9,7 @@
       "nameWithOwner": "nikoma/carrier",
       "description": "It only takes minutes to turn business specs into production-ready APIs with built-in auth, DB, and compliance. ",
       "url": "https://github.com/nikoma/carrier",
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "forkCount": 1,
       "languageName": "Rust",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1185199?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-02T18:26:26Z",
-      "updatedAt": "2026-05-05T17:49:34Z",
+      "updatedAt": "2026-05-06T10:15:42Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ai",
@@ -35,6 +35,32 @@
         "programming-language",
         "rust",
         "saas"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1231476691",
+      "name": "FingerScan",
+      "nameWithOwner": "TD0U/FingerScan",
+      "description": "BurpSuite 被动指纹识别 / Favicon Hash / 递归目录扫描 / 路径收集 一体化插件",
+      "url": "https://github.com/TD0U/FingerScan",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": "Java",
+      "languageColor": null,
+      "ownerLogin": "TD0U",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/75050574?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-07T02:05:03Z",
+      "updatedAt": "2026-05-07T06:30:30Z",
+      "licenseName": "GPL-3.0",
+      "topics": [
+        "burp-extension",
+        "burpsuite",
+        "fingerprint",
+        "java",
+        "security-tools"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

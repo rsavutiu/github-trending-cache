@@ -1,8 +1,38 @@
 {
-  "generatedAt": "2026-05-06T06:44:48Z",
+  "generatedAt": "2026-05-07T06:52:09Z",
   "topic": "go",
-  "totalCount": 5,
+  "totalCount": 6,
   "repos": [
+    {
+      "id": "1230684946",
+      "name": "fsnotify",
+      "nameWithOwner": "gofsnotify/fsnotify",
+      "description": "Cross-platform file system notifications for Go.",
+      "url": "https://github.com/gofsnotify/fsnotify",
+      "stargazerCount": 124,
+      "forkCount": 4,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "gofsnotify",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/282187993?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-05-06T08:16:29Z",
+      "updatedAt": "2026-05-07T06:50:52Z",
+      "licenseName": "MIT",
+      "topics": [
+        "file-watcher",
+        "filesystem",
+        "fsnotify",
+        "go",
+        "gofsnotify",
+        "golang",
+        "inotify",
+        "kqueue",
+        "readdirectorychangesw"
+      ],
+      "openIssuesCount": 3,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1226661880",
       "name": "dygo",
@@ -17,7 +47,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/281007393?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-01T17:22:27Z",
-      "updatedAt": "2026-05-05T16:59:07Z",
+      "updatedAt": "2026-05-06T12:14:05Z",
       "licenseName": "MIT",
       "topics": [
         "go",
@@ -25,7 +55,7 @@
         "reka-ui",
         "vuejs"
       ],
-      "openIssuesCount": 18,
+      "openIssuesCount": 15,
       "closedIssuesCount": 0
     },
     {

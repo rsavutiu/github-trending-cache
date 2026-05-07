@@ -1,48 +1,6 @@
 {
-  "generatedAt": "2026-05-06T06:44:48Z",
+  "generatedAt": "2026-05-07T06:52:09Z",
   "topic": "vue",
-  "totalCount": 1,
-  "repos": [
-    {
-      "id": "1225136483",
-      "name": "raypilot-xray-panel",
-      "nameWithOwner": "suiyuebaobao/raypilot-xray-panel",
-      "description": "RayPilot: Xray/VLESS Reality VPN & proxy subscription panel with Clash/mihomo, relay nodes, traffic accounting, node-agent, and one-click deployment.",
-      "url": "https://github.com/suiyuebaobao/raypilot-xray-panel",
-      "stargazerCount": 7,
-      "forkCount": 2,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "suiyuebaobao",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/227290432?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-04-30T01:35:21Z",
-      "updatedAt": "2026-05-06T05:11:32Z",
-      "licenseName": null,
-      "topics": [
-        "clash",
-        "golang",
-        "mihomo",
-        "node-agent",
-        "proxy",
-        "proxy-panel",
-        "reality",
-        "relay",
-        "self-hosted",
-        "shadowrocket",
-        "subscription",
-        "subscription-panel",
-        "traffic-accounting",
-        "vless",
-        "vless-reality",
-        "vpn",
-        "vue",
-        "xray",
-        "xray-core",
-        "xray-panel"
-      ],
-      "openIssuesCount": 7,
-      "closedIssuesCount": 0
-    }
-  ]
+  "totalCount": 0,
+  "repos": []
 }
