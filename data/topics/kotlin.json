@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-07T06:52:09Z",
+  "generatedAt": "2026-05-08T06:08:36Z",
   "topic": "kotlin",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1227454799",
@@ -9,7 +9,7 @@
       "nameWithOwner": "exraaaa/KioskZen",
       "description": "Android kiosk app for Home Assistant dashboards using GeckoView, WebView, and fullscreen kiosk controls.",
       "url": "https://github.com/exraaaa/KioskZen",
-      "stargazerCount": 32,
+      "stargazerCount": 33,
       "forkCount": 0,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/279025128?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-02T17:52:48Z",
-      "updatedAt": "2026-05-06T19:11:09Z",
+      "updatedAt": "2026-05-07T09:45:25Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "android",
@@ -30,41 +30,6 @@
         "kiosk-browser",
         "kotlin"
       ],
-      "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1226608188",
-      "name": "COMInterop",
-      "nameWithOwner": "karmakrafts/COMInterop",
-      "description": "A basic COM runtime for Kotlin/Native built on top of CInterop.",
-      "url": "https://github.com/karmakrafts/COMInterop",
-      "stargazerCount": 9,
-      "forkCount": 0,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "karmakrafts",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/129058515?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-05-01T16:04:22Z",
-      "updatedAt": "2026-05-04T11:26:15Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "api",
-        "com",
-        "com-api",
-        "com-library",
-        "com-wrapper",
-        "kotlin",
-        "kotlin-multiplatform",
-        "kotlin-native",
-        "library",
-        "win32",
-        "windows",
-        "windows-com",
-        "windows-rt",
-        "winrt"
-      ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
@@ -74,7 +39,7 @@
       "nameWithOwner": "S2009-dev/ShutApp",
       "description": "Manage multiple computers on your local network with this Android app. You can shut them down, restart them, put them to sleep, or lock them remotely.",
       "url": "https://github.com/S2009-dev/ShutApp",
-      "stargazerCount": 8,
+      "stargazerCount": 9,
       "forkCount": 1,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -82,7 +47,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/195155462?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-02T15:15:01Z",
-      "updatedAt": "2026-05-06T19:54:58Z",
+      "updatedAt": "2026-05-07T18:26:50Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "android-app",
