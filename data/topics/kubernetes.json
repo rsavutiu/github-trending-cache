@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T06:27:17Z",
+  "generatedAt": "2026-05-10T06:43:53Z",
   "topic": "kubernetes",
   "totalCount": 3,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "kubetail-org/kstack",
       "description": "Skill pack for Claude Code that helps you monitor and troubleshoot your K8s clusters superintelligently",
       "url": "https://github.com/kubetail-org/kstack",
-      "stargazerCount": 46,
+      "stargazerCount": 53,
       "forkCount": 5,
       "languageName": "Shell",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/141319696?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-06T10:37:53Z",
-      "updatedAt": "2026-05-09T05:39:59Z",
+      "updatedAt": "2026-05-10T00:21:22Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "agents",
@@ -32,7 +32,7 @@
         "skills",
         "troubleshooting"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -42,7 +42,7 @@
       "description": "A proof-of-concept demonstrating how a default, unprivileged Kubernetes Pod can achieve node-level code execution on Amazon EKS by exploiting the Dirty Frag (CVE-2026-43284) Linux kernel page-cache corruption vulnerability through shared container image layers.",
       "url": "https://github.com/Percivalll/Dirty-Frag-Kubernetes-PoC",
       "stargazerCount": 7,
-      "forkCount": 0,
+      "forkCount": 1,
       "languageName": "C",
       "languageColor": null,
       "ownerLogin": "Percivalll",

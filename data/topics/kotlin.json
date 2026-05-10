@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-09T06:27:17Z",
+  "generatedAt": "2026-05-10T06:43:53Z",
   "topic": "kotlin",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1230850396",
@@ -9,7 +9,7 @@
       "nameWithOwner": "Eignex/skema",
       "description": "Schemas for Kotlin Multiplatform that work as both typed Kotlin code and serialized wire data",
       "url": "https://github.com/Eignex/skema",
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "forkCount": 0,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/241126441?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-06T11:36:13Z",
-      "updatedAt": "2026-05-09T03:35:48Z",
+      "updatedAt": "2026-05-10T00:26:44Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "kotlin",
@@ -25,35 +25,6 @@
         "kotlinx-serialization",
         "schema",
         "serialization"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1227995970",
-      "name": "TGWrist",
-      "nameWithOwner": "TGWrist/TGWrist",
-      "description": "A smooth, polished open-source third-party Telegram client for Wear OS",
-      "url": "https://github.com/TGWrist/TGWrist",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "TGWrist",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/273367264?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-05-03T13:02:30Z",
-      "updatedAt": "2026-05-05T07:36:12Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "android",
-        "google-play",
-        "gradle",
-        "kotlin",
-        "tdlib",
-        "telegram",
-        "watch",
-        "wearos"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T06:27:17Z",
+  "generatedAt": "2026-05-10T06:43:53Z",
   "topic": "nextjs",
   "totalCount": 3,
   "repos": [
@@ -32,47 +32,12 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1227680359",
-      "name": "GitTrek",
-      "nameWithOwner": "mahendra-shah/GitTrek",
-      "description": "Find beginner-friendly GitHub issues where no one is already working - checks for competing PRs so you don't waste time. Track your GitHub badge progress. Free, open source.",
-      "url": "https://github.com/mahendra-shah/GitTrek",
-      "stargazerCount": 14,
-      "forkCount": 1,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "mahendra-shah",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/94590823?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-03T02:37:21Z",
-      "updatedAt": "2026-05-09T04:11:20Z",
-      "licenseName": null,
-      "topics": [
-        "beginner-friendly",
-        "contribution",
-        "developer-tools",
-        "github-achievements",
-        "github-api",
-        "good-first-issue",
-        "graphql",
-        "hacktoberfest",
-        "nextjs",
-        "nextjs-graphql-typescript",
-        "open-source",
-        "pull-shark",
-        "starstruck",
-        "typescript"
-      ],
-      "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1229721446",
       "name": "SkillLens",
       "nameWithOwner": "AndrewNgGirl/SkillLens",
       "description": "Open-source self-hosted web tool for evaluating Agent Skills with rubric scores, Deep Review, and improvement suggestions.",
       "url": "https://github.com/AndrewNgGirl/SkillLens",
-      "stargazerCount": 11,
+      "stargazerCount": 12,
       "forkCount": 1,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -80,7 +45,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/173976541?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-05T10:18:10Z",
-      "updatedAt": "2026-05-08T05:00:43Z",
+      "updatedAt": "2026-05-10T00:59:38Z",
       "licenseName": "MIT",
       "topics": [
         "agent-skills",
@@ -100,6 +65,37 @@
         "typescript"
       ],
       "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1233840702",
+      "name": "alifit-tracker",
+      "nameWithOwner": "aliivaezii/alifit-tracker",
+      "description": "Personal fitness web app - training tracker, nutrition logger, and progress dashboard",
+      "url": "https://github.com/aliivaezii/alifit-tracker",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "aliivaezii",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108915113?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-09T12:30:46Z",
+      "updatedAt": "2026-05-09T15:40:14Z",
+      "licenseName": null,
+      "topics": [
+        "body-recomposition",
+        "fitness",
+        "nextjs",
+        "nutrition",
+        "recharts",
+        "supabase",
+        "tailwindcss",
+        "typescript",
+        "vercel",
+        "workout-tracker"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

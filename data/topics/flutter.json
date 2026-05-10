@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T06:27:17Z",
+  "generatedAt": "2026-05-10T06:43:53Z",
   "topic": "flutter",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "RareSense/Nova3D",
       "description": "Editable, part-aware 3D generation from text or reference images. Open-source client for nova3d.xyz.",
       "url": "https://github.com/RareSense/Nova3D",
-      "stargazerCount": 9,
+      "stargazerCount": 19,
       "forkCount": 1,
       "languageName": "Dart",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/88278959?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-06T23:08:26Z",
-      "updatedAt": "2026-05-09T02:11:11Z",
+      "updatedAt": "2026-05-10T06:43:47Z",
       "licenseName": null,
       "topics": [
         "3d-generation",
@@ -40,7 +40,7 @@
       "nameWithOwner": "AkshatRaj00/OneMusic",
       "description": "🎵 Ad-free open source music app — Stream Hindi, Punjabi &  more from JioSaavn & YouTube. No ads, no subscription. Free forever.",
       "url": "https://github.com/AkshatRaj00/OneMusic",
-      "stargazerCount": 8,
+      "stargazerCount": 9,
       "forkCount": 1,
       "languageName": "Dart",
       "languageColor": null,
@@ -48,7 +48,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/154466152?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-07T03:16:13Z",
-      "updatedAt": "2026-05-09T01:06:46Z",
+      "updatedAt": "2026-05-10T06:39:58Z",
       "licenseName": "MIT",
       "topics": [
         "ad-free",
