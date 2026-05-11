@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-10T06:43:53Z",
+  "generatedAt": "2026-05-11T07:53:53Z",
   "topic": "machine-learning",
-  "totalCount": 3,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1230262140",
@@ -9,7 +9,7 @@
       "nameWithOwner": "TitanFlow-Systems/best-of-algorithmic-trading",
       "description": "best-of algorithmic trading quant finance crypto bots frameworks APIs TA indicators libraries Freqtrade Hummingbot OctoBot Jesse Zipline backtrader CCXT Lean StockSharp Python Node Rust Go TypeScript C# Java forex stocks derivatives polymarket prediction-markets courses books YouTube Telegram communities fintech opensource weekly ranked star-score",
       "url": "https://github.com/TitanFlow-Systems/best-of-algorithmic-trading",
-      "stargazerCount": 270,
+      "stargazerCount": 273,
       "forkCount": 275,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-05T20:40:50Z",
-      "updatedAt": "2026-05-10T06:38:27Z",
+      "updatedAt": "2026-05-11T07:12:09Z",
       "licenseName": "CC-BY-SA-4.0",
       "topics": [
         "algorithmic-trading",
@@ -40,6 +40,33 @@
         "technical-analysis",
         "trading-bot",
         "typescript"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1232602279",
+      "name": "FormalSLT",
+      "nameWithOwner": "Robby955/FormalSLT",
+      "description": "Machine-verified statistical learning theory in Lean 4 — 45 modules, 19,521 lines, 0 sorry",
+      "url": "https://github.com/Robby955/FormalSLT",
+      "stargazerCount": 25,
+      "forkCount": 1,
+      "languageName": "Lean",
+      "languageColor": null,
+      "ownerLogin": "Robby955",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/48200016?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-08T05:03:08Z",
+      "updatedAt": "2026-05-10T21:48:13Z",
+      "licenseName": "MIT",
+      "topics": [
+        "lean4",
+        "machine-learning",
+        "mathematics",
+        "pac-learning",
+        "statistical-learning",
+        "theorem-proving"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -71,6 +98,35 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1233879336",
+      "name": "filum",
+      "nameWithOwner": "kavishka-dot/filum",
+      "description": "Pure-C federated learning library for MCU-class edge devices over LoRa. STM32 + SX1276.",
+      "url": "https://github.com/kavishka-dot/filum",
+      "stargazerCount": 18,
+      "forkCount": 2,
+      "languageName": "C",
+      "languageColor": null,
+      "ownerLogin": "kavishka-dot",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/82282978?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-09T13:22:59Z",
+      "updatedAt": "2026-05-11T06:34:59Z",
+      "licenseName": null,
+      "topics": [
+        "c99",
+        "edge-ai",
+        "embedded",
+        "federated-learning",
+        "iot",
+        "lora",
+        "machine-learning",
+        "stm32"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1230041935",
       "name": "sagent",
       "nameWithOwner": "rekursiv-ai/sagent",
@@ -84,7 +140,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/268722896?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-05T16:09:51Z",
-      "updatedAt": "2026-05-09T13:27:45Z",
+      "updatedAt": "2026-05-11T07:36:06Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "agent-framework",
@@ -100,7 +156,7 @@
         "machine-learning",
         "python"
       ],
-      "openIssuesCount": 4,
+      "openIssuesCount": 2,
       "closedIssuesCount": 0
     }
   ]

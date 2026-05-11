@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-10T06:43:53Z",
+  "generatedAt": "2026-05-11T07:53:53Z",
   "topic": "javascript",
-  "totalCount": 8,
+  "totalCount": 9,
   "repos": [
     {
       "id": "1230262107",
@@ -9,15 +9,15 @@
       "nameWithOwner": "TitanFlow-Systems/polymarket-trading-bot-v2",
       "description": "polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading",
       "url": "https://github.com/TitanFlow-Systems/polymarket-trading-bot-v2",
-      "stargazerCount": 273,
-      "forkCount": 497,
+      "stargazerCount": 275,
+      "forkCount": 641,
       "languageName": "JavaScript",
       "languageColor": null,
       "ownerLogin": "TitanFlow-Systems",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-05T20:40:48Z",
-      "updatedAt": "2026-05-10T06:37:42Z",
+      "updatedAt": "2026-05-11T07:11:37Z",
       "licenseName": null,
       "topics": [
         "algorithmic-trading",
@@ -50,7 +50,7 @@
       "nameWithOwner": "freq-trades/polymarket-trading-bot-v2",
       "description": "polymarket polygon ethereum USDC CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading systematic-trading maker maker bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket tradin",
       "url": "https://github.com/freq-trades/polymarket-trading-bot-v2",
-      "stargazerCount": 181,
+      "stargazerCount": 187,
       "forkCount": 275,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -58,7 +58,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/281909400?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-05T15:03:25Z",
-      "updatedAt": "2026-05-10T04:10:50Z",
+      "updatedAt": "2026-05-11T05:03:46Z",
       "licenseName": null,
       "topics": [
         "algorithmic-trading",
@@ -81,6 +81,29 @@
         "quantitative-trading",
         "trading-bot",
         "websocket"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1233908740",
+      "name": "world_builder",
+      "nameWithOwner": "ryanfitzpatrickio/world_builder",
+      "description": "A browser-based modular level editor for drawing and generating western interior/exterior spaces. It uses Vite, Three.js, deterministic modular rules, and WFC-style tile constraints.",
+      "url": "https://github.com/ryanfitzpatrickio/world_builder",
+      "stargazerCount": 25,
+      "forkCount": 4,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "ryanfitzpatrickio",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/221910853?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-09T14:02:17Z",
+      "updatedAt": "2026-05-11T07:06:27Z",
+      "licenseName": "MIT",
+      "topics": [
+        "javascript",
+        "threejs"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -144,7 +167,7 @@
       "nameWithOwner": "Taxperia/windows-notch-overlay",
       "description": "Electron-based dynamic notch overlay for Windows with quick controls, telemetry, alarms, search, and media state.",
       "url": "https://github.com/Taxperia/windows-notch-overlay",
-      "stargazerCount": 11,
+      "stargazerCount": 13,
       "forkCount": 1,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -152,7 +175,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/56173603?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-09T13:39:10Z",
-      "updatedAt": "2026-05-09T21:34:54Z",
+      "updatedAt": "2026-05-10T14:39:29Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "desktop-overlay",
@@ -177,7 +200,7 @@
       "nameWithOwner": "OussamaGhribi/sec-npm",
       "description": "🛡️ Zero-Trust npm wrapper for secure package installations. Deep AST & Shadow Execution detection for Zero-Day threats. Active Honey-Trap defense to block credential exfiltration.",
       "url": "https://github.com/OussamaGhribi/sec-npm",
-      "stargazerCount": 8,
+      "stargazerCount": 9,
       "forkCount": 0,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -185,7 +208,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/137878019?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-06T21:18:53Z",
-      "updatedAt": "2026-05-09T07:54:58Z",
+      "updatedAt": "2026-05-10T19:16:22Z",
       "licenseName": "MIT",
       "topics": [
         "cybersecurity",

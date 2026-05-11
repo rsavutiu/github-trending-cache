@@ -1,8 +1,37 @@
 {
-  "generatedAt": "2026-05-10T06:43:53Z",
+  "generatedAt": "2026-05-11T07:53:53Z",
   "topic": "kotlin",
-  "totalCount": 1,
+  "totalCount": 3,
   "repos": [
+    {
+      "id": "1233788217",
+      "name": "PixelMask",
+      "nameWithOwner": "kinginu/PixelMask",
+      "description": "LSPosed / Vector module that spoofs a Pixel device profile inside Google Photos to unlock Pixel-only perks on any rooted Android phone.",
+      "url": "https://github.com/kinginu/PixelMask",
+      "stargazerCount": 11,
+      "forkCount": 0,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "kinginu",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/87055402?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-09T11:06:47Z",
+      "updatedAt": "2026-05-11T07:48:43Z",
+      "licenseName": "MIT",
+      "topics": [
+        "android",
+        "google-photos",
+        "kernelsu",
+        "kotlin",
+        "lsposed",
+        "magisk",
+        "pixel",
+        "xposed"
+      ],
+      "openIssuesCount": 7,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1230850396",
       "name": "skema",
@@ -27,6 +56,37 @@
         "serialization"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1231351997",
+      "name": "ameen-morphe",
+      "nameWithOwner": "ameenalasady/ameen-morphe",
+      "description": "Patches for Foodvisor and PhotoGrid apps using the Morphe framework.",
+      "url": "https://github.com/ameenalasady/ameen-morphe",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "ameenalasady",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/105679326?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-06T22:03:56Z",
+      "updatedAt": "2026-05-11T00:44:13Z",
+      "licenseName": "GPL-3.0",
+      "topics": [
+        "android-patches",
+        "food-scanner",
+        "foodvisor",
+        "kotlin",
+        "morphe",
+        "nutrition-tracker",
+        "photo-editor",
+        "photogrid",
+        "premium-unlock",
+        "reverse-engineering"
+      ],
+      "openIssuesCount": 5,
       "closedIssuesCount": 0
     }
   ]

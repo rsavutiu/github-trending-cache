@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-10T06:43:53Z",
+  "generatedAt": "2026-05-11T07:53:53Z",
   "topic": "docker",
-  "totalCount": 6,
+  "totalCount": 7,
   "repos": [
     {
       "id": "1229335300",
@@ -9,7 +9,7 @@
       "nameWithOwner": "m00grin/ph-intercept",
       "description": "A Pi-hole DNS visual dashboard. Blocking is represented by an interceptor ship destroying 'blocked query' baddies, space invaders style.",
       "url": "https://github.com/m00grin/ph-intercept",
-      "stargazerCount": 101,
+      "stargazerCount": 103,
       "forkCount": 4,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/53917237?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-05T00:05:50Z",
-      "updatedAt": "2026-05-10T03:56:19Z",
+      "updatedAt": "2026-05-11T07:49:36Z",
       "licenseName": "MIT",
       "topics": [
         "dashboard",
@@ -62,7 +62,7 @@
         "typescript",
         "vite"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 3,
       "closedIssuesCount": 0
     },
     {
@@ -71,7 +71,7 @@
       "nameWithOwner": "hwdsl2/docker-ai-stack",
       "description": "Deploy a complete, self-hosted AI stack on your own server with one command. Includes Ollama (LLM), LiteLLM (AI gateway), Whisper (STT), Kokoro (TTS), Embeddings (RAG), and MCP Gateway. Most services run locally; LiteLLM optionally routes to external providers. Supports NVIDIA GPU (CUDA) acceleration.",
       "url": "https://github.com/hwdsl2/docker-ai-stack",
-      "stargazerCount": 11,
+      "stargazerCount": 13,
       "forkCount": 1,
       "languageName": "Shell",
       "languageColor": null,
@@ -79,7 +79,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5104323?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-05T03:44:12Z",
-      "updatedAt": "2026-05-10T02:32:01Z",
+      "updatedAt": "2026-05-11T07:19:17Z",
       "licenseName": "MIT",
       "topics": [
         "ai",
@@ -119,14 +119,46 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/2600346?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-08T05:01:01Z",
-      "updatedAt": "2026-05-10T02:27:09Z",
+      "updatedAt": "2026-05-11T06:19:39Z",
       "licenseName": null,
       "topics": [
         "ai",
         "ai-agents",
         "ai-coding-agent",
         "docker",
-        "llm"
+        "llm",
+        "opencode",
+        "pi-agent"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1231456366",
+      "name": "agent-stack",
+      "nameWithOwner": "JoursBleu/agent-stack",
+      "description": "Lightweight multi-tenant Agent router.",
+      "url": "https://github.com/JoursBleu/agent-stack",
+      "stargazerCount": 7,
+      "forkCount": 2,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "JoursBleu",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/22388449?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-07T01:28:18Z",
+      "updatedAt": "2026-05-10T23:53:51Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ai-agent",
+        "docker",
+        "fastapi",
+        "hermes-agent",
+        "multi-tenant",
+        "nginx",
+        "openclaw",
+        "self-hosted",
+        "user-isolation"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
