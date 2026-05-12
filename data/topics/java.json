@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T07:53:53Z",
+  "generatedAt": "2026-05-12T06:47:58Z",
   "topic": "java",
   "totalCount": 3,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "TD0U/FingerScan",
       "description": "BurpSuite 被动指纹识别 / Favicon Hash / 递归目录扫描 / 路径收集 一体化插件",
       "url": "https://github.com/TD0U/FingerScan",
-      "stargazerCount": 14,
+      "stargazerCount": 16,
       "forkCount": 0,
       "languageName": "Java",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/75050574?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-07T02:05:03Z",
-      "updatedAt": "2026-05-09T02:29:40Z",
+      "updatedAt": "2026-05-11T14:20:35Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "burp-extension",
@@ -25,30 +25,6 @@
         "fingerprint",
         "java",
         "security-tools"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1230073861",
-      "name": "mini-panda",
-      "nameWithOwner": "chengyc17/mini-panda",
-      "description": "mini-panda: Java version of pandas for data engineers. DataFrame/Series, group/merge/pivot, CSV/JSON/Excel/SQL, 18 ECharts, .show() to visualize. Java 17, immutable, lightweight.",
-      "url": "https://github.com/chengyc17/mini-panda",
-      "stargazerCount": 12,
-      "forkCount": 0,
-      "languageName": "Java",
-      "languageColor": null,
-      "ownerLogin": "chengyc17",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/19732129?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-05T16:46:40Z",
-      "updatedAt": "2026-05-09T02:12:38Z",
-      "licenseName": null,
-      "topics": [
-        "dataframes",
-        "java",
-        "pandas"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -90,6 +66,38 @@
         "transcript-api",
         "video-to-text",
         "video-transcript"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1230688213",
+      "name": "Fish-Agent",
+      "nameWithOwner": "Yuyu123fish/Fish-Agent",
+      "description": "基于 Spring AI Alibaba ReAct 的FishAgent全栈智能体应用。具备分层记忆、三路 RAG 检索、知识库闭环、流式对话与多维限流能力。Java + Python + Vue 3 全栈架构。",
+      "url": "https://github.com/Yuyu123fish/Fish-Agent",
+      "stargazerCount": 6,
+      "forkCount": 1,
+      "languageName": "Java",
+      "languageColor": null,
+      "ownerLogin": "Yuyu123fish",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/192714659?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-06T08:20:34Z",
+      "updatedAt": "2026-05-12T04:57:32Z",
+      "licenseName": null,
+      "topics": [
+        "agent",
+        "dashscope",
+        "deepseek",
+        "docker",
+        "elasticsearch",
+        "java",
+        "llm",
+        "mysql",
+        "rag",
+        "redis",
+        "spring-boot"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

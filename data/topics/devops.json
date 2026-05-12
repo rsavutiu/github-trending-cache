@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-11T07:53:53Z",
+  "generatedAt": "2026-05-12T06:47:58Z",
   "topic": "devops",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1233194295",
@@ -9,7 +9,7 @@
       "nameWithOwner": "KevinKE93/Dev_Agent_OPC",
       "description": "A automatic dev agent from idea → spec → design → plan → build → test → review → ship and included many roly and responsibility. Add many feature and modified for OPC or small business team. Based on @addyosmani agent-skills ",
       "url": "https://github.com/KevinKE93/Dev_Agent_OPC",
-      "stargazerCount": 20,
+      "stargazerCount": 21,
       "forkCount": 3,
       "languageName": "Shell",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/10935773?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-08T17:36:33Z",
-      "updatedAt": "2026-05-11T07:35:51Z",
+      "updatedAt": "2026-05-11T09:13:24Z",
       "licenseName": "MIT",
       "topics": [
         "agent-skills",
@@ -28,42 +28,6 @@
         "opc",
         "openclaw",
         "workflow"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1229349154",
-      "name": "cronix",
-      "nameWithOwner": "awbx/cronix",
-      "description": "Cron jobs as code. Your handler is the source of truth — cronix reconciles it onto crontab, systemd-timer, Kubernetes, AWS EventBridge, or Vercel Cron.",
-      "url": "https://github.com/awbx/cronix",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "awbx",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/33328081?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-05T00:34:09Z",
-      "updatedAt": "2026-05-08T23:44:13Z",
-      "licenseName": "MIT",
-      "topics": [
-        "aws-eventbridge",
-        "cli",
-        "cron",
-        "cronjob",
-        "crontab",
-        "devops",
-        "gitops",
-        "golang",
-        "infrastructure-as-code",
-        "kubernetes",
-        "reconciler",
-        "scheduler",
-        "systemd-timer",
-        "typescript",
-        "vercel-cron"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

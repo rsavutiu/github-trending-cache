@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T07:53:53Z",
+  "generatedAt": "2026-05-12T06:47:58Z",
   "topic": "kotlin",
   "totalCount": 3,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "kinginu/PixelMask",
       "description": "LSPosed / Vector module that spoofs a Pixel device profile inside Google Photos to unlock Pixel-only perks on any rooted Android phone.",
       "url": "https://github.com/kinginu/PixelMask",
-      "stargazerCount": 11,
+      "stargazerCount": 17,
       "forkCount": 0,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/87055402?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-09T11:06:47Z",
-      "updatedAt": "2026-05-11T07:48:43Z",
+      "updatedAt": "2026-05-12T01:04:45Z",
       "licenseName": "MIT",
       "topics": [
         "android",
@@ -29,7 +29,7 @@
         "pixel",
         "xposed"
       ],
-      "openIssuesCount": 7,
+      "openIssuesCount": 9,
       "closedIssuesCount": 0
     },
     {
@@ -64,7 +64,7 @@
       "nameWithOwner": "ameenalasady/ameen-morphe",
       "description": "Patches for Foodvisor and PhotoGrid apps using the Morphe framework.",
       "url": "https://github.com/ameenalasady/ameen-morphe",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 0,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -72,7 +72,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/105679326?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-06T22:03:56Z",
-      "updatedAt": "2026-05-11T00:44:13Z",
+      "updatedAt": "2026-05-11T18:31:06Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "android-patches",

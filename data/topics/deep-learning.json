@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-05-11T07:53:53Z",
+  "generatedAt": "2026-05-12T06:47:58Z",
   "topic": "deep-learning",
-  "totalCount": 2,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1231170332",
       "name": "opensquilla",
-      "nameWithOwner": "OpenSquilla/opensquilla",
+      "nameWithOwner": "opensquilla/opensquilla",
       "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
-      "url": "https://github.com/OpenSquilla/opensquilla",
-      "stargazerCount": 205,
-      "forkCount": 16,
+      "url": "https://github.com/opensquilla/opensquilla",
+      "stargazerCount": 229,
+      "forkCount": 17,
       "languageName": "Python",
       "languageColor": null,
-      "ownerLogin": "OpenSquilla",
+      "ownerLogin": "opensquilla",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/275098769?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-06T17:43:05Z",
-      "updatedAt": "2026-05-11T07:22:41Z",
+      "updatedAt": "2026-05-12T06:34:24Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "agent",
@@ -32,7 +32,32 @@
         "python",
         "skills"
       ],
-      "openIssuesCount": 7,
+      "openIssuesCount": 8,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1234717086",
+      "name": "d4rt",
+      "nameWithOwner": "lucidrains/d4rt",
+      "description": "Implementation of D4RT, Efficiently Reconstructing Dynamic Scenes, Deepmind",
+      "url": "https://github.com/lucidrains/d4rt",
+      "stargazerCount": 44,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "lucidrains",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-10T14:52:54Z",
+      "updatedAt": "2026-05-12T06:10:19Z",
+      "licenseName": "MIT",
+      "topics": [
+        "4d",
+        "artificial-intelligence",
+        "attention",
+        "deep-learning"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -41,7 +66,7 @@
       "nameWithOwner": "skhalidmahmud/Gesture-to-Speech",
       "description": "Real-time Sign Language to Speech translator powered by TensorFlow and MediaPipe. Features a modern React.js dashboard for seamless AI-driven communication.",
       "url": "https://github.com/skhalidmahmud/Gesture-to-Speech",
-      "stargazerCount": 16,
+      "stargazerCount": 17,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -49,7 +74,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/94211717?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-07T09:53:23Z",
-      "updatedAt": "2026-05-11T06:11:35Z",
+      "updatedAt": "2026-05-11T17:43:14Z",
       "licenseName": "MIT",
       "topics": [
         "computer-vision",
