@@ -1,39 +1,8 @@
 {
-  "generatedAt": "2026-05-12T06:47:58Z",
+  "generatedAt": "2026-05-13T07:25:50Z",
   "topic": "flutter",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
-    {
-      "id": "1231387029",
-      "name": "Nova3D",
-      "nameWithOwner": "RareSense/Nova3D",
-      "description": "Editable, part-aware 3D generation from text or reference images. Open-source client for nova3d.xyz.",
-      "url": "https://github.com/RareSense/Nova3D",
-      "stargazerCount": 40,
-      "forkCount": 5,
-      "languageName": "Dart",
-      "languageColor": null,
-      "ownerLogin": "RareSense",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/88278959?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-05-06T23:08:26Z",
-      "updatedAt": "2026-05-12T05:26:15Z",
-      "licenseName": null,
-      "topics": [
-        "3d-generation",
-        "blen",
-        "cad",
-        "claude",
-        "flutter",
-        "gemini",
-        "generative-ai",
-        "glb",
-        "llms",
-        "openai"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1231517218",
       "name": "OneMusic",

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-12T06:47:58Z",
+  "generatedAt": "2026-05-13T07:25:50Z",
   "topic": "web",
-  "totalCount": 4,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1232878134",
@@ -87,6 +87,35 @@
       "updatedAt": "2026-05-09T12:27:38Z",
       "licenseName": "MIT",
       "topics": [
+        "web"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1233021488",
+      "name": "Loci-Terminal",
+      "nameWithOwner": "Younkyum/Loci-Terminal",
+      "description": "Persistent terminals for AI-native developers.",
+      "url": "https://github.com/Younkyum/Loci-Terminal",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "Younkyum",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/83539914?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-08T14:04:34Z",
+      "updatedAt": "2026-05-13T01:50:19Z",
+      "licenseName": "GPL-3.0",
+      "topics": [
+        "agents",
+        "claudecode",
+        "cli",
+        "opencode",
+        "ssh",
+        "terminal",
+        "tmux",
         "web"
       ],
       "openIssuesCount": 0,

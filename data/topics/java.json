@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-12T06:47:58Z",
+  "generatedAt": "2026-05-13T07:25:50Z",
   "topic": "java",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1231476691",
@@ -66,38 +66,6 @@
         "transcript-api",
         "video-to-text",
         "video-transcript"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1230688213",
-      "name": "Fish-Agent",
-      "nameWithOwner": "Yuyu123fish/Fish-Agent",
-      "description": "基于 Spring AI Alibaba ReAct 的FishAgent全栈智能体应用。具备分层记忆、三路 RAG 检索、知识库闭环、流式对话与多维限流能力。Java + Python + Vue 3 全栈架构。",
-      "url": "https://github.com/Yuyu123fish/Fish-Agent",
-      "stargazerCount": 6,
-      "forkCount": 1,
-      "languageName": "Java",
-      "languageColor": null,
-      "ownerLogin": "Yuyu123fish",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/192714659?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-06T08:20:34Z",
-      "updatedAt": "2026-05-12T04:57:32Z",
-      "licenseName": null,
-      "topics": [
-        "agent",
-        "dashscope",
-        "deepseek",
-        "docker",
-        "elasticsearch",
-        "java",
-        "llm",
-        "mysql",
-        "rag",
-        "redis",
-        "spring-boot"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

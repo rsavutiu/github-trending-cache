@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-12T06:47:58Z",
+  "generatedAt": "2026-05-13T07:25:50Z",
   "topic": "devops",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1233194295",
@@ -9,7 +9,7 @@
       "nameWithOwner": "KevinKE93/Dev_Agent_OPC",
       "description": "A automatic dev agent from idea → spec → design → plan → build → test → review → ship and included many roly and responsibility. Add many feature and modified for OPC or small business team. Based on @addyosmani agent-skills ",
       "url": "https://github.com/KevinKE93/Dev_Agent_OPC",
-      "stargazerCount": 21,
+      "stargazerCount": 23,
       "forkCount": 3,
       "languageName": "Shell",
       "languageColor": null,
@@ -17,8 +17,8 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/10935773?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-08T17:36:33Z",
-      "updatedAt": "2026-05-11T09:13:24Z",
-      "licenseName": "MIT",
+      "updatedAt": "2026-05-13T06:31:05Z",
+      "licenseName": "NOASSERTION",
       "topics": [
         "agent-skills",
         "automation-agent",
@@ -28,6 +28,37 @@
         "opc",
         "openclaw",
         "workflow"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1236275471",
+      "name": "octo-deployment",
+      "nameWithOwner": "Mininglamp-OSS/octo-deployment",
+      "description": "Production-ready Kubernetes deployment manifests for the OCTO platform — Kustomize bases, environment overlays, and secret templates for all services.",
+      "url": "https://github.com/Mininglamp-OSS/octo-deployment",
+      "stargazerCount": 14,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "Mininglamp-OSS",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/283583517?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-05-12T05:25:44Z",
+      "updatedAt": "2026-05-13T06:33:08Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "deployment",
+        "devops",
+        "docker",
+        "infrastructure-as-code",
+        "kubernetes",
+        "kustomize",
+        "octo",
+        "self-hosted",
+        "team-collaboration",
+        "wukongim"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
