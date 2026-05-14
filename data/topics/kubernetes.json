@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-13T07:25:50Z",
+  "generatedAt": "2026-05-14T07:20:27Z",
   "topic": "kubernetes",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1236275471",
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/283583517?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-12T05:25:44Z",
-      "updatedAt": "2026-05-13T06:33:08Z",
+      "updatedAt": "2026-05-13T09:33:11Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "deployment",
@@ -31,7 +31,7 @@
         "team-collaboration",
         "wukongim"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 4,
       "closedIssuesCount": 0
     },
     {
@@ -58,37 +58,6 @@
         "linux-kernel",
         "privelage-escalation",
         "proof-of-concept"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1234403957",
-      "name": "dvarapala",
-      "nameWithOwner": "TharVid/dvarapala",
-      "description": "द्वारपाल — gatekeeper between your LLM and third-party MCP servers. Reads every JSON-RPC message, denies what fails policy, redacts what leaks, audits the rest.",
-      "url": "https://github.com/TharVid/dvarapala",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "TharVid",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/50536429?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-10T06:17:24Z",
-      "updatedAt": "2026-05-12T03:49:32Z",
-      "licenseName": "MIT",
-      "topics": [
-        "ai-security",
-        "anthropic",
-        "devsecops",
-        "golang",
-        "kubernetes",
-        "llm-security",
-        "mcp",
-        "model-context-protocol",
-        "prompt-injection",
-        "security-gateway"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

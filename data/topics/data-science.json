@@ -1,6 +1,73 @@
 {
-  "generatedAt": "2026-05-13T07:25:50Z",
+  "generatedAt": "2026-05-14T07:20:27Z",
   "topic": "data-science",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 2,
+  "repos": [
+    {
+      "id": "1235439841",
+      "name": "stata-cli",
+      "nameWithOwner": "ashuiGordon/stata-cli",
+      "description": "Stata CLI for Agent; Stata CLI Is All Reg Monkeys Need",
+      "url": "https://github.com/ashuiGordon/stata-cli",
+      "stargazerCount": 11,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "ashuiGordon",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/154571183?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-11T10:24:39Z",
+      "updatedAt": "2026-05-14T07:04:26Z",
+      "licenseName": null,
+      "topics": [
+        "ai-agent",
+        "cli",
+        "command-line-tool",
+        "data-science",
+        "econometrics",
+        "pystata",
+        "stata",
+        "statistics"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1234216744",
+      "name": "Scrappers",
+      "nameWithOwner": "RicardoRisson/Scrappers",
+      "description": "Academic Data Scraper para extração massiva de metadados e abstracts (Scholar/Scielo/arXiv). Otimizado para alta performance e baixo consumo de RAM (6GB) via escrita direta em JSONL e paginação por cursores. Focado em pesquisa bibliométrica e NLP, com suporte a datasets de médio porte (+120k registros).",
+      "url": "https://github.com/RicardoRisson/Scrappers",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "RicardoRisson",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/167040886?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-09T22:34:07Z",
+      "updatedAt": "2026-05-13T12:33:47Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "arxiv",
+        "automation",
+        "bibliometrics",
+        "big-data",
+        "brazil",
+        "computer-science",
+        "data-science",
+        "dataset",
+        "education-research",
+        "jsonl",
+        "nlp",
+        "openalex",
+        "performance-optimization",
+        "portuguese-language",
+        "ufrgs",
+        "web-scraping"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    }
+  ]
 }

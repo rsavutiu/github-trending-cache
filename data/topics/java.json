@@ -1,34 +1,8 @@
 {
-  "generatedAt": "2026-05-13T07:25:50Z",
+  "generatedAt": "2026-05-14T07:20:27Z",
   "topic": "java",
   "totalCount": 2,
   "repos": [
-    {
-      "id": "1231476691",
-      "name": "FingerScan",
-      "nameWithOwner": "TD0U/FingerScan",
-      "description": "BurpSuite 被动指纹识别 / Favicon Hash / 递归目录扫描 / 路径收集 一体化插件",
-      "url": "https://github.com/TD0U/FingerScan",
-      "stargazerCount": 16,
-      "forkCount": 0,
-      "languageName": "Java",
-      "languageColor": null,
-      "ownerLogin": "TD0U",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/75050574?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-07T02:05:03Z",
-      "updatedAt": "2026-05-11T14:20:35Z",
-      "licenseName": "GPL-3.0",
-      "topics": [
-        "burp-extension",
-        "burpsuite",
-        "fingerprint",
-        "java",
-        "security-tools"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1232671991",
       "name": "instagram-reels-transcript-api",
@@ -68,6 +42,35 @@
         "video-transcript"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1237105117",
+      "name": "datafusion-java",
+      "nameWithOwner": "apache/datafusion-java",
+      "description": "Java bindings for Apache DataFusion",
+      "url": "https://github.com/apache/datafusion-java",
+      "stargazerCount": 6,
+      "forkCount": 4,
+      "languageName": "Java",
+      "languageColor": null,
+      "ownerLogin": "apache",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/47359?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-05-12T22:03:12Z",
+      "updatedAt": "2026-05-14T05:05:42Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "apache",
+        "arrow",
+        "datafusion",
+        "java",
+        "jni",
+        "jvm",
+        "query-engine",
+        "sql"
+      ],
+      "openIssuesCount": 18,
       "closedIssuesCount": 0
     }
   ]

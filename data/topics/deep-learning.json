@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T07:25:50Z",
+  "generatedAt": "2026-05-14T07:20:27Z",
   "topic": "deep-learning",
   "totalCount": 3,
   "repos": [
@@ -7,9 +7,9 @@
       "id": "1234717086",
       "name": "d4rt",
       "nameWithOwner": "lucidrains/d4rt",
-      "description": "Implementation of D4RT, Efficiently Reconstructing Dynamic Scenes, Deepmind",
+      "description": "Implementation of D4RT, Efficiently Reconstructing Dynamic Scenes, from Deepmind",
       "url": "https://github.com/lucidrains/d4rt",
-      "stargazerCount": 50,
+      "stargazerCount": 57,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -17,40 +17,14 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-10T14:52:54Z",
-      "updatedAt": "2026-05-12T16:00:56Z",
+      "updatedAt": "2026-05-14T06:54:10Z",
       "licenseName": "MIT",
       "topics": [
         "4d",
         "artificial-intelligence",
         "attention",
-        "deep-learning"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1231803000",
-      "name": "Gesture-to-Speech",
-      "nameWithOwner": "skhalidmahmud/Gesture-to-Speech",
-      "description": "Real-time Sign Language to Speech translator powered by TensorFlow and MediaPipe. Features a modern React.js dashboard for seamless AI-driven communication.",
-      "url": "https://github.com/skhalidmahmud/Gesture-to-Speech",
-      "stargazerCount": 17,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "skhalidmahmud",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/94211717?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-07T09:53:23Z",
-      "updatedAt": "2026-05-11T17:43:14Z",
-      "licenseName": "MIT",
-      "topics": [
-        "computer-vision",
         "deep-learning",
-        "human-computer-interaction",
-        "mediapipe",
-        "reactjs",
-        "tensorflow"
+        "flow-matching"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -61,7 +35,7 @@
       "nameWithOwner": "ProfineAI/profine-cli",
       "description": "Profine automatically profiles and optimizes PyTorch training jobs on real GPUs, delivering measurable speedups and lower GPU costs before teams waste days tuning configs by hand.",
       "url": "https://github.com/ProfineAI/profine-cli",
-      "stargazerCount": 8,
+      "stargazerCount": 11,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -69,7 +43,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/251287602?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-11T23:50:17Z",
-      "updatedAt": "2026-05-13T05:53:01Z",
+      "updatedAt": "2026-05-14T05:08:14Z",
       "licenseName": "MIT",
       "topics": [
         "ai-agents",
@@ -92,6 +66,35 @@
         "python",
         "pytorch",
         "torch-compile"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1232935430",
+      "name": "EMG",
+      "nameWithOwner": "MetrixJaxon/EMG",
+      "description": "Energy-Modulated Gain (EMG) that the sufficient-statistic-driven conditional normalization layer for automatic modulation recognition, with EMGNet and five baselines on RML2016.10a, RML2018.01a, and HisarMod2019.",
+      "url": "https://github.com/MetrixJaxon/EMG",
+      "stargazerCount": 6,
+      "forkCount": 2,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "MetrixJaxon",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/104762990?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-08T12:27:12Z",
+      "updatedAt": "2026-05-14T01:35:26Z",
+      "licenseName": null,
+      "topics": [
+        "automatic-modulation-classification",
+        "automatic-modulation-recognition",
+        "deep-learning",
+        "hisarmod",
+        "pytorch",
+        "radioml",
+        "signal-processing",
+        "wireless-communications"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

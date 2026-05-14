@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T07:25:50Z",
+  "generatedAt": "2026-05-14T07:20:27Z",
   "topic": "kotlin",
   "totalCount": 2,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "chrisbanes/skills",
       "description": "Skills for Kotlin, Jetpack Compose, and Android development",
       "url": "https://github.com/chrisbanes/skills",
-      "stargazerCount": 307,
-      "forkCount": 12,
+      "stargazerCount": 475,
+      "forkCount": 24,
       "languageName": null,
       "languageColor": null,
       "ownerLogin": "chrisbanes",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/227486?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-12T07:34:30Z",
-      "updatedAt": "2026-05-13T07:22:16Z",
+      "updatedAt": "2026-05-14T07:06:55Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "android",
@@ -28,7 +28,7 @@
         "kotlin-multiplatform",
         "skills"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -37,7 +37,7 @@
       "nameWithOwner": "kinginu/PixelMask",
       "description": "LSPosed / Vector module that spoofs a Pixel device profile inside Google Photos to unlock Pixel-only perks on any rooted Android phone.",
       "url": "https://github.com/kinginu/PixelMask",
-      "stargazerCount": 18,
+      "stargazerCount": 21,
       "forkCount": 0,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -45,7 +45,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/87055402?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-09T11:06:47Z",
-      "updatedAt": "2026-05-12T19:41:04Z",
+      "updatedAt": "2026-05-13T20:38:42Z",
       "licenseName": "MIT",
       "topics": [
         "android",
@@ -57,7 +57,7 @@
         "pixel",
         "xposed"
       ],
-      "openIssuesCount": 9,
+      "openIssuesCount": 13,
       "closedIssuesCount": 0
     }
   ]
