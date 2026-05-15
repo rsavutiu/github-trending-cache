@@ -1,56 +1,15 @@
 {
-  "generatedAt": "2026-05-14T07:20:27Z",
+  "generatedAt": "2026-05-15T07:33:10Z",
   "topic": "java",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
-    {
-      "id": "1232671991",
-      "name": "instagram-reels-transcript-api",
-      "nameWithOwner": "apismith-labs/instagram-reels-transcript-api",
-      "description": "Instagram Reels Transcript API examples using Apify. Integrations for Python, Node.js, Java, Go, Rust, cURL, batch processing, and MCP workflows for ChatGPT, Claude, and Gemini.",
-      "url": "https://github.com/apismith-labs/instagram-reels-transcript-api",
-      "stargazerCount": 7,
-      "forkCount": 4,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "apismith-labs",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/283083103?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-05-08T06:44:00Z",
-      "updatedAt": "2026-05-11T02:36:49Z",
-      "licenseName": "MIT",
-      "topics": [
-        "ai-agent",
-        "apify",
-        "chatgpt",
-        "claude",
-        "gemini",
-        "golang",
-        "instagram-reels",
-        "instagram-reels-api",
-        "instagram-reels-transcript",
-        "instagram-transcript",
-        "instagram-transcript-api",
-        "java",
-        "mcp",
-        "nodejs",
-        "openai",
-        "python",
-        "rust",
-        "transcript-api",
-        "video-to-text",
-        "video-transcript"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1237105117",
       "name": "datafusion-java",
       "nameWithOwner": "apache/datafusion-java",
       "description": "Java bindings for Apache DataFusion",
       "url": "https://github.com/apache/datafusion-java",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 4,
       "languageName": "Java",
       "languageColor": null,
@@ -58,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/47359?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-12T22:03:12Z",
-      "updatedAt": "2026-05-14T05:05:42Z",
+      "updatedAt": "2026-05-14T15:34:47Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "apache",
@@ -70,7 +29,7 @@
         "query-engine",
         "sql"
       ],
-      "openIssuesCount": 18,
+      "openIssuesCount": 20,
       "closedIssuesCount": 0
     }
   ]

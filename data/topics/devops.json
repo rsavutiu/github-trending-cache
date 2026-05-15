@@ -1,37 +1,8 @@
 {
-  "generatedAt": "2026-05-14T07:20:27Z",
+  "generatedAt": "2026-05-15T07:33:10Z",
   "topic": "devops",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
-    {
-      "id": "1233194295",
-      "name": "Dev_Agent_OPC",
-      "nameWithOwner": "KevinKE93/Dev_Agent_OPC",
-      "description": "A automatic dev agent from idea → spec → design → plan → build → test → review → ship and included many roly and responsibility. Add many feature and modified for OPC or small business team. Based on @addyosmani agent-skills ",
-      "url": "https://github.com/KevinKE93/Dev_Agent_OPC",
-      "stargazerCount": 25,
-      "forkCount": 4,
-      "languageName": "Shell",
-      "languageColor": null,
-      "ownerLogin": "KevinKE93",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/10935773?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-08T17:36:33Z",
-      "updatedAt": "2026-05-13T18:06:18Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "agent-skills",
-        "automation-agent",
-        "claude",
-        "codex",
-        "devops",
-        "opc",
-        "openclaw",
-        "workflow"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1236275471",
       "name": "octo-deployment",
@@ -39,14 +10,14 @@
       "description": "Production-ready Kubernetes deployment manifests for the OCTO platform — Kustomize bases, environment overlays, and secret templates for all services.",
       "url": "https://github.com/Mininglamp-OSS/octo-deployment",
       "stargazerCount": 14,
-      "forkCount": 0,
+      "forkCount": 1,
       "languageName": null,
       "languageColor": null,
       "ownerLogin": "Mininglamp-OSS",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/283583517?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-12T05:25:44Z",
-      "updatedAt": "2026-05-13T09:33:11Z",
+      "updatedAt": "2026-05-15T01:39:26Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "deployment",
@@ -60,7 +31,7 @@
         "team-collaboration",
         "wukongim"
       ],
-      "openIssuesCount": 4,
+      "openIssuesCount": 6,
       "closedIssuesCount": 0
     },
     {
@@ -69,7 +40,7 @@
       "nameWithOwner": "joosure/Maestro",
       "description": "Maestro turns your issue tracker into an execution layer for AI agents — dispatching work, managing runtimes, coordinating providers, tracking evidence, and making agentic engineering operable at team scale.",
       "url": "https://github.com/joosure/Maestro",
-      "stargazerCount": 9,
+      "stargazerCount": 10,
       "forkCount": 3,
       "languageName": "Elixir",
       "languageColor": null,
@@ -77,7 +48,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/264928859?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-13T10:27:42Z",
-      "updatedAt": "2026-05-14T04:22:55Z",
+      "updatedAt": "2026-05-14T14:15:35Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "agent-orchestration",
@@ -108,7 +79,7 @@
       "id": "1234943815",
       "name": "sshm",
       "nameWithOwner": "YaMaiDay/sshm",
-      "description": "全中文终端 SSH 服务器管理工具，支持服务器分类、实时监控、SSH 登录、文件/目录上传下载。",
+      "description": "Terminal SSH server manager for monitoring, login, file transfer, commands, and   deployments.",
       "url": "https://github.com/YaMaiDay/sshm",
       "stargazerCount": 6,
       "forkCount": 0,
@@ -118,7 +89,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/101082494?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-10T20:55:33Z",
-      "updatedAt": "2026-05-13T15:21:28Z",
+      "updatedAt": "2026-05-15T05:10:19Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "bubbletea",

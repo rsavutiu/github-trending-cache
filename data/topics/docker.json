@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-14T07:20:27Z",
+  "generatedAt": "2026-05-15T07:33:10Z",
   "topic": "docker",
-  "totalCount": 6,
+  "totalCount": 8,
   "repos": [
     {
       "id": "1237903885",
@@ -9,15 +9,15 @@
       "nameWithOwner": "thinkpixelIab/polymarket-ai-trading",
       "description": "Polymarket prediction markets AI trading paper trading OpenAI GPT CLOB Kelly mean reversion SQLite Node Express Docker Render Vercel dashboard algorithmic trading quant research forecasting crypto",
       "url": "https://github.com/thinkpixelIab/polymarket-ai-trading",
-      "stargazerCount": 56,
-      "forkCount": 0,
+      "stargazerCount": 117,
+      "forkCount": 162,
       "languageName": "HTML",
       "languageColor": null,
       "ownerLogin": "thinkpixelIab",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/284226695?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-13T16:08:45Z",
-      "updatedAt": "2026-05-14T07:10:43Z",
+      "updatedAt": "2026-05-15T07:29:41Z",
       "licenseName": null,
       "topics": [
         "ai-trading",
@@ -42,6 +42,33 @@
         "vercel"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1234855556",
+      "name": "pingflare",
+      "nameWithOwner": "butialabs/pingflare",
+      "description": "Uptime monitoring and heartbeats. Runs on the Cloudflare free tier (Workers + D1) or on any Docker host (Fly.io, Railway, VPS) with SQLite.",
+      "url": "https://github.com/butialabs/pingflare",
+      "stargazerCount": 32,
+      "forkCount": 5,
+      "languageName": "Svelte",
+      "languageColor": null,
+      "ownerLogin": "butialabs",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/233875494?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-05-10T18:19:42Z",
+      "updatedAt": "2026-05-15T02:02:48Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "cloudflare",
+        "cloudflare-workers",
+        "docker",
+        "flyio",
+        "heartbeat",
+        "uptime-monitor"
+      ],
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -92,14 +119,14 @@
       "description": "Production-ready Kubernetes deployment manifests for the OCTO platform — Kustomize bases, environment overlays, and secret templates for all services.",
       "url": "https://github.com/Mininglamp-OSS/octo-deployment",
       "stargazerCount": 14,
-      "forkCount": 0,
+      "forkCount": 1,
       "languageName": null,
       "languageColor": null,
       "ownerLogin": "Mininglamp-OSS",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/283583517?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-12T05:25:44Z",
-      "updatedAt": "2026-05-13T09:33:11Z",
+      "updatedAt": "2026-05-15T01:39:26Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "deployment",
@@ -113,7 +140,33 @@
         "team-collaboration",
         "wukongim"
       ],
-      "openIssuesCount": 4,
+      "openIssuesCount": 6,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1237637045",
+      "name": "vela",
+      "nameWithOwner": "wallace921029/vela",
+      "description": "A simple, clean, and elegant navigation page designed for the modern web.",
+      "url": "https://github.com/wallace921029/vela",
+      "stargazerCount": 9,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "wallace921029",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/34233408?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-13T11:14:41Z",
+      "updatedAt": "2026-05-15T06:12:28Z",
+      "licenseName": "MIT",
+      "topics": [
+        "dashboard",
+        "docker",
+        "docker-compose",
+        "homepage",
+        "self-hosted"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -146,34 +199,6 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1232601083",
-      "name": "agent-sanbox",
-      "nameWithOwner": "marvincaspar/agent-sanbox",
-      "description": "Runs AI coding agents inside isolated Docker containers",
-      "url": "https://github.com/marvincaspar/agent-sanbox",
-      "stargazerCount": 8,
-      "forkCount": 1,
-      "languageName": "Shell",
-      "languageColor": null,
-      "ownerLogin": "marvincaspar",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/2600346?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-08T05:01:01Z",
-      "updatedAt": "2026-05-11T06:19:39Z",
-      "licenseName": null,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "ai-coding-agent",
-        "docker",
-        "llm",
-        "opencode",
-        "pi-agent"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1233733356",
       "name": "SmartPlaylistNaviDrome",
       "nameWithOwner": "dieterpl/SmartPlaylistNaviDrome",
@@ -200,6 +225,39 @@
         "subsonic",
         "tinygo",
         "webassembly"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1235630657",
+      "name": "librertc-node",
+      "nameWithOwner": "svllvsxprod/librertc-node",
+      "description": "LibreRTC server node with admin panel, Docker deploy wizard, Caddy HTTPS, client subscriptions and olcrtc runtime supervision",
+      "url": "https://github.com/svllvsxprod/librertc-node",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "svllvsxprod",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/280685747?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-05-11T14:02:11Z",
+      "updatedAt": "2026-05-15T04:21:26Z",
+      "licenseName": "MIT",
+      "topics": [
+        "admin-panel",
+        "caddy",
+        "docker",
+        "go",
+        "librertc",
+        "olcrtc",
+        "react",
+        "reverse-proxy",
+        "self-hosted",
+        "vite",
+        "vpn-server",
+        "webrtc"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

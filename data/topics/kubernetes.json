@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-14T07:20:27Z",
+  "generatedAt": "2026-05-15T07:33:10Z",
   "topic": "kubernetes",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1236275471",
@@ -10,14 +10,14 @@
       "description": "Production-ready Kubernetes deployment manifests for the OCTO platform — Kustomize bases, environment overlays, and secret templates for all services.",
       "url": "https://github.com/Mininglamp-OSS/octo-deployment",
       "stargazerCount": 14,
-      "forkCount": 0,
+      "forkCount": 1,
       "languageName": null,
       "languageColor": null,
       "ownerLogin": "Mininglamp-OSS",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/283583517?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-12T05:25:44Z",
-      "updatedAt": "2026-05-13T09:33:11Z",
+      "updatedAt": "2026-05-15T01:39:26Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "deployment",
@@ -31,35 +31,7 @@
         "team-collaboration",
         "wukongim"
       ],
-      "openIssuesCount": 4,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1232511739",
-      "name": "Dirty-Frag-Kubernetes-PoC",
-      "nameWithOwner": "Percivalll/Dirty-Frag-Kubernetes-PoC",
-      "description": "A proof-of-concept demonstrating how a default, unprivileged Kubernetes Pod can achieve node-level code execution on Amazon EKS by exploiting the Dirty Frag (CVE-2026-43284) Linux kernel page-cache corruption vulnerability through shared container image layers.",
-      "url": "https://github.com/Percivalll/Dirty-Frag-Kubernetes-PoC",
-      "stargazerCount": 7,
-      "forkCount": 1,
-      "languageName": "C",
-      "languageColor": null,
-      "ownerLogin": "Percivalll",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/59213644?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-08T02:17:45Z",
-      "updatedAt": "2026-05-09T02:44:30Z",
-      "licenseName": null,
-      "topics": [
-        "cve-2026-43284",
-        "eks",
-        "exploit",
-        "kubernetes",
-        "linux-kernel",
-        "privelage-escalation",
-        "proof-of-concept"
-      ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 6,
       "closedIssuesCount": 0
     }
   ]

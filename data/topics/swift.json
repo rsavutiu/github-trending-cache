@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T07:20:27Z",
+  "generatedAt": "2026-05-15T07:33:10Z",
   "topic": "swift",
   "totalCount": 8,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "ProjectKumo/KumoApp",
       "description": "A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI.",
       "url": "https://github.com/ProjectKumo/KumoApp",
-      "stargazerCount": 240,
+      "stargazerCount": 241,
       "forkCount": 5,
       "languageName": "Swift",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/283552033?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-09T05:29:55Z",
-      "updatedAt": "2026-05-14T01:44:16Z",
+      "updatedAt": "2026-05-15T06:42:33Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "agent-friendly",
@@ -33,7 +33,7 @@
         "swift-package",
         "swiftui"
       ],
-      "openIssuesCount": 2,
+      "openIssuesCount": 3,
       "closedIssuesCount": 0
     },
     {
@@ -42,15 +42,15 @@
       "nameWithOwner": "tornikegomareli/Aurora",
       "description": "Most accurate, simple and customisable Apple Intelligence–style glow for SwiftUI, backed by Metal shaders.",
       "url": "https://github.com/tornikegomareli/Aurora",
-      "stargazerCount": 83,
-      "forkCount": 3,
+      "stargazerCount": 92,
+      "forkCount": 4,
       "languageName": "Swift",
       "languageColor": null,
       "ownerLogin": "tornikegomareli",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/24585160?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-11T22:24:46Z",
-      "updatedAt": "2026-05-14T06:20:00Z",
+      "updatedAt": "2026-05-15T06:09:03Z",
       "licenseName": null,
       "topics": [
         "animation",
@@ -72,44 +72,12 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1232622993",
-      "name": "turnintoserver",
-      "nameWithOwner": "QianYushi/turnintoserver",
-      "description": "Use a MacBook as a closed-lid server while setting the built-in display to zero brightness.",
-      "url": "https://github.com/QianYushi/turnintoserver",
-      "stargazerCount": 68,
-      "forkCount": 5,
-      "languageName": "Swift",
-      "languageColor": null,
-      "ownerLogin": "QianYushi",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/40188015?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-08T05:37:47Z",
-      "updatedAt": "2026-05-14T06:51:10Z",
-      "licenseName": null,
-      "topics": [
-        "clamshell-mode",
-        "display-dimming",
-        "keep-awake",
-        "local-server",
-        "macbook",
-        "macos",
-        "menu-bar-app",
-        "sleep-prevention",
-        "ssh",
-        "swift",
-        "swiftui"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1234366812",
       "name": "livable",
       "nameWithOwner": "whatsinlab/livable",
       "description": "Make views live.",
       "url": "https://github.com/whatsinlab/livable",
-      "stargazerCount": 40,
+      "stargazerCount": 41,
       "forkCount": 0,
       "languageName": "Swift",
       "languageColor": null,
@@ -117,7 +85,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/112938407?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-10T04:57:29Z",
-      "updatedAt": "2026-05-14T03:17:42Z",
+      "updatedAt": "2026-05-14T21:19:24Z",
       "licenseName": "MIT",
       "topics": [
         "metal",
@@ -133,7 +101,7 @@
       "nameWithOwner": "S0yora/DreamBar",
       "description": "Menu-bar utility for macOS. Monitor network, WiFi, and system stats — lightweight, open-source, and designed to feel at home on your Mac",
       "url": "https://github.com/S0yora/DreamBar",
-      "stargazerCount": 21,
+      "stargazerCount": 24,
       "forkCount": 1,
       "languageName": "Swift",
       "languageColor": null,
@@ -141,7 +109,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/78859542?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-10T21:20:30Z",
-      "updatedAt": "2026-05-14T06:38:26Z",
+      "updatedAt": "2026-05-15T06:46:44Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "dreambar",
@@ -157,6 +125,37 @@
         "xcode"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1238115430",
+      "name": "dictly",
+      "nameWithOwner": "vlr-code/dictly",
+      "description": "On-device speech-to-text for macOS. Hold a hotkey → Whisper transcribes locally via CoreML → text auto-pastes into the focused app. 99 languages, free, open-source.",
+      "url": "https://github.com/vlr-code/dictly",
+      "stargazerCount": 16,
+      "forkCount": 0,
+      "languageName": "Swift",
+      "languageColor": null,
+      "ownerLogin": "vlr-code",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/10965151?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-13T20:35:41Z",
+      "updatedAt": "2026-05-15T03:50:05Z",
+      "licenseName": "MIT",
+      "topics": [
+        "apple-silicon",
+        "dictation",
+        "macos",
+        "on-device-ai",
+        "productivity",
+        "speech-to-text",
+        "swift",
+        "whisper",
+        "wispr-flow",
+        "wispr-flow-alternative"
+      ],
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -185,36 +184,6 @@
         "swift",
         "swiftui",
         "torrentio"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1233005837",
-      "name": "tuist_tca_boilerplate",
-      "nameWithOwner": "Quizer1349/tuist_tca_boilerplate",
-      "description": "Modular iOS Starter: Tuist + TCA + SwiftUI",
-      "url": "https://github.com/Quizer1349/tuist_tca_boilerplate",
-      "stargazerCount": 9,
-      "forkCount": 0,
-      "languageName": "Swift",
-      "languageColor": null,
-      "ownerLogin": "Quizer1349",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/2753938?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-08T13:46:00Z",
-      "updatedAt": "2026-05-11T23:25:27Z",
-      "licenseName": "MIT",
-      "topics": [
-        "boilerplate-template",
-        "clean-architecture",
-        "ios",
-        "modular-architecture",
-        "swift",
-        "swiftui",
-        "tca",
-        "the-composable-architecture",
-        "tuist"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -253,6 +222,30 @@
         "video-cache"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1237592630",
+      "name": "inboxed",
+      "nameWithOwner": "eznix86/inboxed",
+      "description": "Native Mac OS Mail  Server/Client For Development alternative to Mailpit/Maildev",
+      "url": "https://github.com/eznix86/inboxed",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Swift",
+      "languageColor": null,
+      "ownerLogin": "eznix86",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/26553194?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-13T10:21:22Z",
+      "updatedAt": "2026-05-14T07:57:57Z",
+      "licenseName": null,
+      "topics": [
+        "macos",
+        "mailer",
+        "swift"
+      ],
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]
