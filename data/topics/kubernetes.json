@@ -1,8 +1,40 @@
 {
-  "generatedAt": "2026-05-15T07:33:10Z",
+  "generatedAt": "2026-05-16T06:34:09Z",
   "topic": "kubernetes",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
+    {
+      "id": "1234617228",
+      "name": "compass",
+      "nameWithOwner": "adinhodovic/compass",
+      "description": "A landing page for your services, dashboards, and documents, discovered automatically from sources such as Docker, Kubernetes, and Tailscale.",
+      "url": "https://github.com/adinhodovic/compass",
+      "stargazerCount": 26,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "adinhodovic",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/12065867?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-10T12:23:45Z",
+      "updatedAt": "2026-05-16T06:34:43Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "docker",
+        "dsahboard",
+        "headscale",
+        "homelab",
+        "kubernetes",
+        "landing-page",
+        "self-hosted",
+        "service-catalog",
+        "service-discovery",
+        "tailscale",
+        "toolbox"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1236275471",
       "name": "octo-deployment",
@@ -11,13 +43,13 @@
       "url": "https://github.com/Mininglamp-OSS/octo-deployment",
       "stargazerCount": 14,
       "forkCount": 1,
-      "languageName": null,
+      "languageName": "Shell",
       "languageColor": null,
       "ownerLogin": "Mininglamp-OSS",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/283583517?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-12T05:25:44Z",
-      "updatedAt": "2026-05-15T01:39:26Z",
+      "updatedAt": "2026-05-16T01:47:34Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "deployment",
@@ -31,7 +63,7 @@
         "team-collaboration",
         "wukongim"
       ],
-      "openIssuesCount": 6,
+      "openIssuesCount": 4,
       "closedIssuesCount": 0
     }
   ]

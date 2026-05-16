@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-15T07:33:10Z",
+  "generatedAt": "2026-05-16T06:34:09Z",
   "topic": "devops",
-  "totalCount": 3,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1236275471",
@@ -11,13 +11,13 @@
       "url": "https://github.com/Mininglamp-OSS/octo-deployment",
       "stargazerCount": 14,
       "forkCount": 1,
-      "languageName": null,
+      "languageName": "Shell",
       "languageColor": null,
       "ownerLogin": "Mininglamp-OSS",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/283583517?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-12T05:25:44Z",
-      "updatedAt": "2026-05-15T01:39:26Z",
+      "updatedAt": "2026-05-16T01:47:34Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "deployment",
@@ -31,7 +31,7 @@
         "team-collaboration",
         "wukongim"
       ],
-      "openIssuesCount": 6,
+      "openIssuesCount": 4,
       "closedIssuesCount": 0
     },
     {
@@ -76,6 +76,72 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1238187414",
+      "name": "transfa",
+      "nameWithOwner": "colapsis/transfa",
+      "description": "WeTransfer for agents. Dead-simple file sharing CLI for AI agents and developers.",
+      "url": "https://github.com/colapsis/transfa",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "colapsis",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/34477680?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-13T22:34:38Z",
+      "updatedAt": "2026-05-15T20:54:13Z",
+      "licenseName": "MIT",
+      "topics": [
+        "cicd",
+        "cli",
+        "devops",
+        "file-sharing",
+        "file-transfer",
+        "mcp",
+        "nodejs",
+        "rest-api",
+        "self-hostable",
+        "sha256"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1235078706",
+      "name": "geekspulse.dev",
+      "nameWithOwner": "dante0747/geekspulse.dev",
+      "description": "Free indie developer news aggregator — curated RSS feeds, no ads, no paywalls.",
+      "url": "https://github.com/dante0747/geekspulse.dev",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "dante0747",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/31764322?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-11T01:51:39Z",
+      "updatedAt": "2026-05-16T06:01:39Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ai-news",
+        "developer-news",
+        "developer-tools",
+        "devops",
+        "github-actions",
+        "hacker-news",
+        "javascript",
+        "news-aggregator",
+        "open-source",
+        "rss",
+        "rss-reader",
+        "static-site",
+        "tech-news",
+        "vanilla-js"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1234943815",
       "name": "sshm",
       "nameWithOwner": "YaMaiDay/sshm",
@@ -89,7 +155,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/101082494?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-10T20:55:33Z",
-      "updatedAt": "2026-05-15T05:10:19Z",
+      "updatedAt": "2026-05-16T06:24:04Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "bubbletea",

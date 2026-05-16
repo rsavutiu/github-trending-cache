@@ -1,6 +1,93 @@
 {
-  "generatedAt": "2026-05-15T07:33:10Z",
+  "generatedAt": "2026-05-16T06:34:09Z",
   "topic": "vue",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 3,
+  "repos": [
+    {
+      "id": "1240037274",
+      "name": "am-mix",
+      "nameWithOwner": "glomatico/am-mix",
+      "description": "Desktop app for downloading media from Apple Music.",
+      "url": "https://github.com/glomatico/am-mix",
+      "stargazerCount": 9,
+      "forkCount": 0,
+      "languageName": "Vue",
+      "languageColor": null,
+      "ownerLogin": "glomatico",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/50295204?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-15T17:47:16Z",
+      "updatedAt": "2026-05-16T05:29:04Z",
+      "licenseName": null,
+      "topics": [
+        "apple-music",
+        "backup",
+        "downloader",
+        "pyloid",
+        "python",
+        "vue",
+        "vuetify"
+      ],
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1235668620",
+      "name": "social-share-toolkit",
+      "nameWithOwner": "DannyelPina/social-share-toolkit",
+      "description": "Social share buttons for React and Vue with full TypeScript support",
+      "url": "https://github.com/DannyelPina/social-share-toolkit",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "DannyelPina",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/25164242?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-11T14:40:29Z",
+      "updatedAt": "2026-05-15T15:03:57Z",
+      "licenseName": "MIT",
+      "topics": [
+        "react",
+        "social-network",
+        "social-share",
+        "typescript",
+        "typescript-library",
+        "vue"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1239565259",
+      "name": "hostpanel",
+      "nameWithOwner": "innovayse/hostpanel",
+      "description": "Open-source web hosting management platform — self-hosted alternative to WHMCS",
+      "url": "https://github.com/innovayse/hostpanel",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": "Vue",
+      "languageColor": null,
+      "ownerLogin": "innovayse",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/284886921?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-05-15T08:05:24Z",
+      "updatedAt": "2026-05-15T17:03:03Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "asp-net-core",
+        "billing",
+        "cpanel",
+        "domain-management",
+        "hosting",
+        "nuxt",
+        "open-source",
+        "self-hosted",
+        "vue",
+        "whmcs-alternative"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    }
+  ]
 }

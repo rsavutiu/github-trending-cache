@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-15T07:33:10Z",
+  "generatedAt": "2026-05-16T06:34:09Z",
   "topic": "deep-learning",
-  "totalCount": 2,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1234717086",
@@ -9,7 +9,7 @@
       "nameWithOwner": "lucidrains/d4rt",
       "description": "Implementation of D4RT, Efficiently Reconstructing Dynamic Scenes, from Deepmind",
       "url": "https://github.com/lucidrains/d4rt",
-      "stargazerCount": 58,
+      "stargazerCount": 59,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-10T14:52:54Z",
-      "updatedAt": "2026-05-15T01:39:59Z",
+      "updatedAt": "2026-05-16T04:54:35Z",
       "licenseName": "MIT",
       "topics": [
         "4d",
@@ -35,7 +35,7 @@
       "nameWithOwner": "ProfineAI/profine-cli",
       "description": "Profine automatically profiles and optimizes PyTorch training jobs on real GPUs, delivering measurable speedups and lower GPU costs before teams waste days tuning configs by hand.",
       "url": "https://github.com/ProfineAI/profine-cli",
-      "stargazerCount": 12,
+      "stargazerCount": 13,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -43,7 +43,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/251287602?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-11T23:50:17Z",
-      "updatedAt": "2026-05-15T06:13:10Z",
+      "updatedAt": "2026-05-16T03:37:20Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ai-agents",
@@ -66,6 +66,35 @@
         "python",
         "pytorch",
         "torch-compile"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1236328476",
+      "name": "Video2GUI",
+      "nameWithOwner": "WeiminXiong/Video2GUI",
+      "description": "Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining (ICML2026)",
+      "url": "https://github.com/WeiminXiong/Video2GUI",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "WeiminXiong",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/56401668?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-12T06:39:11Z",
+      "updatedAt": "2026-05-16T02:18:55Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "agent",
+        "dataset",
+        "deep-learning",
+        "gui-agent",
+        "large-language-models",
+        "llm",
+        "llms",
+        "natural-language-processing"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
