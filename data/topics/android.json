@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T06:34:09Z",
+  "generatedAt": "2026-05-17T06:51:35Z",
   "topic": "android",
   "totalCount": 3,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "chrisbanes/skills",
       "description": "Skills for Kotlin, Jetpack Compose, and Android development",
       "url": "https://github.com/chrisbanes/skills",
-      "stargazerCount": 558,
-      "forkCount": 27,
+      "stargazerCount": 578,
+      "forkCount": 28,
       "languageName": null,
       "languageColor": null,
       "ownerLogin": "chrisbanes",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/227486?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-12T07:34:30Z",
-      "updatedAt": "2026-05-16T05:46:03Z",
+      "updatedAt": "2026-05-17T05:23:33Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "android",
@@ -73,7 +73,7 @@
       "nameWithOwner": "Whitehat987/apkshield-pt",
       "description": "Android Penetration Testing Tool — Auto Root Detection & SSL Pinning Bypass with Frida Script Generation",
       "url": "https://github.com/Whitehat987/apkshield-pt",
-      "stargazerCount": 16,
+      "stargazerCount": 20,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -81,7 +81,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/75444316?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-13T06:08:06Z",
-      "updatedAt": "2026-05-15T22:03:04Z",
+      "updatedAt": "2026-05-17T03:40:27Z",
       "licenseName": "MIT",
       "topics": [
         "android",

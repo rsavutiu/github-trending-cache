@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T06:34:09Z",
+  "generatedAt": "2026-05-17T06:51:35Z",
   "topic": "kotlin",
   "totalCount": 2,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "chrisbanes/skills",
       "description": "Skills for Kotlin, Jetpack Compose, and Android development",
       "url": "https://github.com/chrisbanes/skills",
-      "stargazerCount": 558,
-      "forkCount": 27,
+      "stargazerCount": 578,
+      "forkCount": 28,
       "languageName": null,
       "languageColor": null,
       "ownerLogin": "chrisbanes",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/227486?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-12T07:34:30Z",
-      "updatedAt": "2026-05-16T05:46:03Z",
+      "updatedAt": "2026-05-17T05:23:33Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "android",
@@ -37,7 +37,7 @@
       "nameWithOwner": "seanghay/betterkhmer",
       "description": "Regex-free, fast Khmer Encoding normalizer ported to 18 languages",
       "url": "https://github.com/seanghay/betterkhmer",
-      "stargazerCount": 9,
+      "stargazerCount": 13,
       "forkCount": 2,
       "languageName": "Objective-C",
       "languageColor": null,
@@ -45,7 +45,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/15277233?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-15T11:33:55Z",
-      "updatedAt": "2026-05-16T04:59:47Z",
+      "updatedAt": "2026-05-17T03:32:36Z",
       "licenseName": null,
       "topics": [
         "c",
