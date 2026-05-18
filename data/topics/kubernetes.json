@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-17T06:51:35Z",
+  "generatedAt": "2026-05-18T08:15:22Z",
   "topic": "kubernetes",
-  "totalCount": 2,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1236275471",
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/283583517?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-12T05:25:44Z",
-      "updatedAt": "2026-05-16T13:55:31Z",
+      "updatedAt": "2026-05-18T05:15:29Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "deployment",
@@ -31,14 +31,47 @@
         "team-collaboration",
         "wukongim"
       ],
-      "openIssuesCount": 7,
+      "openIssuesCount": 9,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1239407490",
+      "name": "km8",
+      "nameWithOwner": "vulcanshen/km8",
+      "description": "Kubernetes TUI management tool inspired by Lens IDE",
+      "url": "https://github.com/vulcanshen/km8",
+      "stargazerCount": 7,
+      "forkCount": 1,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "vulcanshen",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/12147708?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-15T04:10:40Z",
+      "updatedAt": "2026-05-18T05:58:30Z",
+      "licenseName": "GPL-3.0",
+      "topics": [
+        "bubbletea",
+        "cli",
+        "devops",
+        "go",
+        "k8s",
+        "kubectl",
+        "kubernetes",
+        "kubernetes-cli",
+        "lazygit",
+        "terminal",
+        "tui",
+        "vim"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
       "id": "1240396926",
       "name": "pronounce",
       "nameWithOwner": "anzy-renlab-ai/pronounce",
-      "description": "🔊 Pronounce developer jargon out loud. 540+ entries (kubectl, GIF, JSON, JWT, …), sourced with confidence levels. Bash CLI + interactive quiz + voice search + MCP server + Claude Code skill.",
+      "description": "🔊 Pronounce developer jargon out loud. 544+ entries (kubectl, GIF, JSON, JWT, …), sourced with confidence levels. Bash CLI + interactive quiz + voice search + MCP server + Claude Code skill.",
       "url": "https://github.com/anzy-renlab-ai/pronounce",
       "stargazerCount": 7,
       "forkCount": 0,
@@ -48,7 +81,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/276973779?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-16T04:56:52Z",
-      "updatedAt": "2026-05-17T06:14:57Z",
+      "updatedAt": "2026-05-17T09:06:43Z",
       "licenseName": "MIT",
       "topics": [
         "bash",

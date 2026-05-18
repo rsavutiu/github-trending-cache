@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-17T06:51:35Z",
+  "generatedAt": "2026-05-18T08:15:22Z",
   "topic": "java",
-  "totalCount": 3,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1239203832",
@@ -41,7 +41,7 @@
       "nameWithOwner": "seanghay/betterkhmer",
       "description": "Regex-free, fast Khmer Encoding normalizer ported to 18 languages",
       "url": "https://github.com/seanghay/betterkhmer",
-      "stargazerCount": 13,
+      "stargazerCount": 14,
       "forkCount": 2,
       "languageName": "Objective-C",
       "languageColor": null,
@@ -49,7 +49,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/15277233?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-15T11:33:55Z",
-      "updatedAt": "2026-05-17T03:32:36Z",
+      "updatedAt": "2026-05-17T13:33:23Z",
       "licenseName": null,
       "topics": [
         "c",
@@ -79,15 +79,15 @@
       "nameWithOwner": "apache/datafusion-java",
       "description": "Java bindings for Apache DataFusion",
       "url": "https://github.com/apache/datafusion-java",
-      "stargazerCount": 8,
-      "forkCount": 5,
+      "stargazerCount": 13,
+      "forkCount": 6,
       "languageName": "Java",
       "languageColor": null,
       "ownerLogin": "apache",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/47359?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-12T22:03:12Z",
-      "updatedAt": "2026-05-16T10:44:18Z",
+      "updatedAt": "2026-05-18T06:55:56Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "apache",
@@ -99,7 +99,29 @@
         "query-engine",
         "sql"
       ],
-      "openIssuesCount": 21,
+      "openIssuesCount": 18,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1238316379",
+      "name": "Jir",
+      "nameWithOwner": "rururunu/Jir",
+      "description": "Quickly manage and switch your Java version on Windows using Jir",
+      "url": "https://github.com/rururunu/Jir",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Rust",
+      "languageColor": null,
+      "ownerLogin": "rururunu",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/191542284?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-14T02:34:52Z",
+      "updatedAt": "2026-05-18T00:56:25Z",
+      "licenseName": "MIT",
+      "topics": [
+        "java"
+      ],
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]

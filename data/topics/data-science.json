@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-17T06:51:35Z",
+  "generatedAt": "2026-05-18T08:15:22Z",
   "topic": "data-science",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1237468388",
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/169324711?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-13T07:59:34Z",
-      "updatedAt": "2026-05-17T05:35:01Z",
+      "updatedAt": "2026-05-18T03:47:09Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "agentic-ai",
@@ -39,35 +39,6 @@
         "notebook",
         "ollama",
         "openai"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1235439841",
-      "name": "stata-cli",
-      "nameWithOwner": "ashuiGordon/stata-cli",
-      "description": "Stata CLI for Agent; Stata CLI Is All Reg Monkeys Need",
-      "url": "https://github.com/ashuiGordon/stata-cli",
-      "stargazerCount": 41,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "ashuiGordon",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/154571183?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-11T10:24:39Z",
-      "updatedAt": "2026-05-15T10:53:54Z",
-      "licenseName": null,
-      "topics": [
-        "ai-agent",
-        "cli",
-        "command-line-tool",
-        "data-science",
-        "econometrics",
-        "pystata",
-        "stata",
-        "statistics"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
