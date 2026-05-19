@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T08:15:22Z",
+  "generatedAt": "2026-05-19T07:57:08Z",
   "topic": "flutter",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "seanghay/betterkhmer",
       "description": "Regex-free, fast Khmer Encoding normalizer ported to 18 languages",
       "url": "https://github.com/seanghay/betterkhmer",
-      "stargazerCount": 14,
+      "stargazerCount": 15,
       "forkCount": 2,
       "languageName": "Objective-C",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/15277233?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-15T11:33:55Z",
-      "updatedAt": "2026-05-17T13:33:23Z",
+      "updatedAt": "2026-05-18T09:51:57Z",
       "licenseName": null,
       "topics": [
         "c",
