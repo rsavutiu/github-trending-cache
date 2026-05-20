@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-19T07:57:08Z",
+  "generatedAt": "2026-05-20T07:56:19Z",
   "topic": "go",
-  "totalCount": 6,
+  "totalCount": 8,
   "repos": [
     {
       "id": "1239729011",
@@ -42,39 +42,12 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1237552555",
-      "name": "go-nav",
-      "nameWithOwner": "dengxiwang/go-nav",
-      "description": "一个简洁高效的个人/团队导航站，基于 Next.js 16、React 19、HeroUI v3 和 Tailwind CSS v4 构建。项目使用 JSON 配置驱动内容和布局，支持前台导航、后台管理、图片上传、备份还原和 Docker 部署.",
-      "url": "https://github.com/dengxiwang/go-nav",
-      "stargazerCount": 10,
-      "forkCount": 6,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "dengxiwang",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/41525895?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-13T09:36:49Z",
-      "updatedAt": "2026-05-19T03:44:55Z",
-      "licenseName": "MIT",
-      "topics": [
-        "go",
-        "gotab",
-        "homepage",
-        "nav",
-        "newtab",
-        "nextjs"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1239144419",
       "name": "mtgo",
       "nameWithOwner": "mtgo-labs/mtgo",
       "description": "Go MTProto client for Telegram bots and userbots — generated TL types, domain-based packages, SQLite session storage, middleware, and plugin system",
       "url": "https://github.com/mtgo-labs/mtgo",
-      "stargazerCount": 9,
+      "stargazerCount": 10,
       "forkCount": 1,
       "languageName": "Go",
       "languageColor": null,
@@ -82,7 +55,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/282969844?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-14T20:03:28Z",
-      "updatedAt": "2026-05-19T07:19:46Z",
+      "updatedAt": "2026-05-19T20:08:16Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "code-generation",
@@ -96,6 +69,47 @@
         "userbot"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1242551488",
+      "name": "web-researcher-mcp",
+      "nameWithOwner": "zoharbabin/web-researcher-mcp",
+      "description": "MCP server (Go) for AI assistants: web search, content extraction, academic/patent/news research. Multi-provider routing, 4-tier scraping, search lenses. Works with Claude, Cursor, and any MCP client.",
+      "url": "https://github.com/zoharbabin/web-researcher-mcp",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "zoharbabin",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/150514?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-18T14:27:02Z",
+      "updatedAt": "2026-05-20T07:10:33Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-tools",
+        "brave-search",
+        "claude",
+        "claude-code",
+        "claude-desktop",
+        "content-extraction",
+        "copilot",
+        "cursor",
+        "go",
+        "golang",
+        "llm",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "research",
+        "searxng",
+        "web-scraping",
+        "web-search"
+      ],
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -166,6 +180,34 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1239697249",
+      "name": "oc-go-cc-optim",
+      "nameWithOwner": "newmancai/oc-go-cc-optim",
+      "description": "为 Claude Code 优化的高性能 Go 代理，支持 DeepSeek v4，支持通过 /model 手动切换模型及模型映射逻辑。",
+      "url": "https://github.com/newmancai/oc-go-cc-optim",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "newmancai",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/105443956?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-15T10:53:00Z",
+      "updatedAt": "2026-05-20T02:54:44Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "ai-tools",
+        "anthropic-api",
+        "claude-code",
+        "deepseek",
+        "go",
+        "llm-proxy",
+        "opencode"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1241549012",
       "name": "willow-go",
       "nameWithOwner": "Deln0r/willow-go",
@@ -195,6 +237,32 @@
         "peer-to-peer",
         "willow",
         "willow-protocol"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1238880335",
+      "name": "zxcv",
+      "nameWithOwner": "Snehil-Shah/zxcv",
+      "description": "A minimalist, fast .tool-versions manager.",
+      "url": "https://github.com/Snehil-Shah/zxcv",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "Snehil-Shah",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/130062020?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-14T14:42:03Z",
+      "updatedAt": "2026-05-19T19:40:47Z",
+      "licenseName": "MIT",
+      "topics": [
+        "asdf",
+        "cli",
+        "go",
+        "package-manager",
+        "tools-manager"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-05-19T07:57:08Z",
+  "generatedAt": "2026-05-20T07:56:19Z",
   "topic": "kotlin",
   "totalCount": 3,
   "repos": [
+    {
+      "id": "1239481022",
+      "name": "pulse-droid",
+      "nameWithOwner": "Zomato/pulse-droid",
+      "description": "Kotlin library that simplifies creating and managing MQTT connections, built on top of Eclipse Paho",
+      "url": "https://github.com/Zomato/pulse-droid",
+      "stargazerCount": 21,
+      "forkCount": 0,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "Zomato",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1112143?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-05-15T06:14:17Z",
+      "updatedAt": "2026-05-20T00:35:02Z",
+      "licenseName": null,
+      "topics": [
+        "android",
+        "kotlin",
+        "mqtt",
+        "paho-mqtt",
+        "paho-mqtt-client",
+        "zomato"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1239729011",
       "name": "betterkhmer",
@@ -70,38 +97,6 @@
         "sdk"
       ],
       "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1237674832",
-      "name": "switchboard",
-      "nameWithOwner": "megh-lath-1012/switchboard",
-      "description": "A production-grade, type-safe feature flagging engine for Android. Eliminates magic strings and boilerplate using KSP, featuring an auto-generated Jetpack Compose debug UI, shake-to-open support, and built-in Firebase & OkHttp integration.",
-      "url": "https://github.com/megh-lath-1012/switchboard",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "megh-lath-1012",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/212483304?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-13T11:59:52Z",
-      "updatedAt": "2026-05-19T07:49:42Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "android",
-        "developer-tools",
-        "feature-flags",
-        "feature-toggle",
-        "firebase-remote-config",
-        "jetpack-compose",
-        "kotlin",
-        "ksp",
-        "mobile-development",
-        "okhttp",
-        "type-safety"
-      ],
-      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]
