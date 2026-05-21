@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T07:56:19Z",
+  "generatedAt": "2026-05-21T08:04:31Z",
   "topic": "vue",
   "totalCount": 3,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "Rosalina7515/ui-modernizer",
       "description": "One prompt to modernize React + Tailwind UIs. A Claude Code Skill.",
       "url": "https://github.com/Rosalina7515/ui-modernizer",
-      "stargazerCount": 23,
+      "stargazerCount": 30,
       "forkCount": 1,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/202635390?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-17T10:23:55Z",
-      "updatedAt": "2026-05-20T06:29:54Z",
+      "updatedAt": "2026-05-21T05:42:12Z",
       "licenseName": "MIT",
       "topics": [
         "ai-developer-tools",
@@ -47,7 +47,7 @@
       "nameWithOwner": "glomatico/am-mix",
       "description": "Desktop app for downloading media from Apple Music.",
       "url": "https://github.com/glomatico/am-mix",
-      "stargazerCount": 15,
+      "stargazerCount": 16,
       "forkCount": 0,
       "languageName": "Vue",
       "languageColor": null,
@@ -55,7 +55,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/50295204?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-15T17:47:16Z",
-      "updatedAt": "2026-05-19T10:19:41Z",
+      "updatedAt": "2026-05-20T14:11:00Z",
       "licenseName": null,
       "topics": [
         "apple-music",

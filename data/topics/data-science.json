@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T07:56:19Z",
+  "generatedAt": "2026-05-21T08:04:31Z",
   "topic": "data-science",
   "totalCount": 1,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "GSUS2K/movie-review-sentiment-analysis",
       "description": null,
       "url": "https://github.com/GSUS2K/movie-review-sentiment-analysis",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 5,
       "languageName": "Jupyter Notebook",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/100770858?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-17T14:42:51Z",
-      "updatedAt": "2026-05-19T13:21:44Z",
+      "updatedAt": "2026-05-20T20:32:25Z",
       "licenseName": null,
       "topics": [
         "data-science",

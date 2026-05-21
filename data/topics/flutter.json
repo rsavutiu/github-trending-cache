@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-20T07:56:19Z",
+  "generatedAt": "2026-05-21T08:04:31Z",
   "topic": "flutter",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1239729011",
@@ -37,6 +37,31 @@
         "ruby",
         "rust",
         "zig"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1244166754",
+      "name": "particles_text",
+      "nameWithOwner": "YeLwinOo-Steve/particles_text",
+      "description": "Particles text interaction in Flutter",
+      "url": "https://github.com/YeLwinOo-Steve/particles_text",
+      "stargazerCount": 8,
+      "forkCount": 2,
+      "languageName": "Dart",
+      "languageColor": null,
+      "ownerLogin": "YeLwinOo-Steve",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/63007384?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-20T02:53:14Z",
+      "updatedAt": "2026-05-21T03:21:38Z",
+      "licenseName": null,
+      "topics": [
+        "flutter",
+        "flutter-web",
+        "particles",
+        "text-animation"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

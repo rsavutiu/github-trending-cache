@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-20T07:56:19Z",
+  "generatedAt": "2026-05-21T08:04:31Z",
   "topic": "swift",
-  "totalCount": 10,
+  "totalCount": 8,
   "repos": [
     {
       "id": "1239473321",
@@ -9,7 +9,7 @@
       "nameWithOwner": "basionwang-bot/HermesPet",
       "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）",
       "url": "https://github.com/basionwang-bot/HermesPet",
-      "stargazerCount": 160,
+      "stargazerCount": 171,
       "forkCount": 23,
       "languageName": "Swift",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/240247679?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-15T06:03:02Z",
-      "updatedAt": "2026-05-20T07:53:39Z",
+      "updatedAt": "2026-05-21T07:30:59Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ai",
@@ -33,7 +33,7 @@
         "swift",
         "swiftui"
       ],
-      "openIssuesCount": 9,
+      "openIssuesCount": 13,
       "closedIssuesCount": 0
     },
     {
@@ -67,49 +67,20 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1238710992",
-      "name": "targetBridge",
-      "nameWithOwner": "swellweb/targetBridge",
-      "description": "Use your Intel iMac as an external display for Apple Silicon Macs — free, open source, via Thunderbolt Bridge",
-      "url": "https://github.com/swellweb/targetBridge",
-      "stargazerCount": 43,
-      "forkCount": 8,
-      "languageName": "Swift",
-      "languageColor": null,
-      "ownerLogin": "swellweb",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9381097?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-14T11:30:27Z",
-      "updatedAt": "2026-05-20T06:44:55Z",
-      "licenseName": "MIT",
-      "topics": [
-        "apple-silicon",
-        "imac",
-        "macos",
-        "open-source",
-        "screen-sharing",
-        "swift",
-        "target-display-mode",
-        "thunderbolt"
-      ],
-      "openIssuesCount": 8,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1241621727",
       "name": "TermiPet",
       "nameWithOwner": "bleeeet/TermiPet",
       "description": "一个运行在 Claude Code 和终端旁的 macOS 桌面宠物助手，支持状态卡片、快捷指令、AI 用量查看和本地优先的宠物聊天。",
       "url": "https://github.com/bleeeet/TermiPet",
-      "stargazerCount": 25,
-      "forkCount": 1,
+      "stargazerCount": 32,
+      "forkCount": 3,
       "languageName": "Swift",
       "languageColor": null,
       "ownerLogin": "bleeeet",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/44334394?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-17T16:05:28Z",
-      "updatedAt": "2026-05-20T07:48:25Z",
+      "updatedAt": "2026-05-21T01:01:25Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ai-tools",
@@ -119,6 +90,34 @@
         "macos",
         "ollama",
         "swift"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1241749352",
+      "name": "app8-ios-sdk",
+      "nameWithOwner": "appeight/app8-ios-sdk",
+      "description": "Dynamic UI rendering engine for iOS - turn JSON DSL into native UIKit at runtime. Built for AI-generated interfaces.",
+      "url": "https://github.com/appeight/app8-ios-sdk",
+      "stargazerCount": 25,
+      "forkCount": 0,
+      "languageName": "Swift",
+      "languageColor": null,
+      "ownerLogin": "appeight",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/209232202?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-05-17T19:12:12Z",
+      "updatedAt": "2026-05-21T01:34:06Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "ai-ui",
+        "app8",
+        "dynamic-ui",
+        "ios",
+        "sdui",
+        "swift",
+        "uikit"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -137,7 +136,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/285283063?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-16T20:17:35Z",
-      "updatedAt": "2026-05-20T03:19:43Z",
+      "updatedAt": "2026-05-20T21:42:14Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "agentic-tools",
@@ -160,34 +159,6 @@
         "session-telemetry",
         "swift",
         "swiftui"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1241749352",
-      "name": "app8-ios-sdk",
-      "nameWithOwner": "appeight/app8-ios-sdk",
-      "description": "Dynamic UI rendering engine for iOS - turn JSON DSL into native UIKit at runtime. Built for AI-generated interfaces.",
-      "url": "https://github.com/appeight/app8-ios-sdk",
-      "stargazerCount": 24,
-      "forkCount": 0,
-      "languageName": "Swift",
-      "languageColor": null,
-      "ownerLogin": "appeight",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/209232202?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-05-17T19:12:12Z",
-      "updatedAt": "2026-05-18T17:05:30Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "ai-ui",
-        "app8",
-        "dynamic-ui",
-        "ios",
-        "sdui",
-        "swift",
-        "uikit"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -267,7 +238,7 @@
       "nameWithOwner": "daemonphantom/Awayke",
       "description": "keeps your Agent running while you walk to the next meeting",
       "url": "https://github.com/daemonphantom/Awayke",
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "forkCount": 0,
       "languageName": "Swift",
       "languageColor": null,
@@ -275,7 +246,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/104441527?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-17T23:21:44Z",
-      "updatedAt": "2026-05-20T06:50:37Z",
+      "updatedAt": "2026-05-21T07:27:44Z",
       "licenseName": "MIT",
       "topics": [
         "ai-agents",
@@ -294,36 +265,6 @@
         "sleep-prevention",
         "swift",
         "swiftui"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1238881816",
-      "name": "Nightcap",
-      "nameWithOwner": "Abdo-codes/Nightcap",
-      "description": "Keep your Mac awake while specific apps are running. macOS menu-bar utility.",
-      "url": "https://github.com/Abdo-codes/Nightcap",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Swift",
-      "languageColor": null,
-      "ownerLogin": "Abdo-codes",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/80545944?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-14T14:43:41Z",
-      "updatedAt": "2026-05-16T18:39:31Z",
-      "licenseName": "MIT",
-      "topics": [
-        "app-store",
-        "iokit",
-        "mac-app",
-        "macos",
-        "menu-bar",
-        "sleep",
-        "swift",
-        "swiftui",
-        "tca"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

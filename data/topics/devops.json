@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-20T07:56:19Z",
+  "generatedAt": "2026-05-21T08:04:31Z",
   "topic": "devops",
-  "totalCount": 2,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1240396926",
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/276973779?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-16T04:56:52Z",
-      "updatedAt": "2026-05-20T02:26:53Z",
+      "updatedAt": "2026-05-20T12:02:39Z",
       "licenseName": "MIT",
       "topics": [
         "bash",
@@ -58,7 +58,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/12147708?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-15T04:10:40Z",
-      "updatedAt": "2026-05-18T05:58:30Z",
+      "updatedAt": "2026-05-21T05:07:58Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "bubbletea",
@@ -75,6 +75,34 @@
         "vim"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1243624286",
+      "name": "on-prem",
+      "nameWithOwner": "2aronS/on-prem",
+      "description": "Self-hosted infrastructure management and deployment automation platform",
+      "url": "https://github.com/2aronS/on-prem",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "2aronS",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/106634141?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-19T14:07:48Z",
+      "updatedAt": "2026-05-20T20:11:00Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "deployment-automation",
+        "devops",
+        "infrastructure-as-code",
+        "infrastructure-management",
+        "on-premises",
+        "python",
+        "self-hosted"
+      ],
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]

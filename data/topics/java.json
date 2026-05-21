@@ -1,40 +1,8 @@
 {
-  "generatedAt": "2026-05-20T07:56:19Z",
+  "generatedAt": "2026-05-21T08:04:31Z",
   "topic": "java",
-  "totalCount": 3,
+  "totalCount": 1,
   "repos": [
-    {
-      "id": "1239203832",
-      "name": "aura-edge-optimizer",
-      "nameWithOwner": "mk7024490-glitch/aura-edge-optimizer",
-      "description": "Best Free Minecraft Vape V4 Hacks 2026 - New Client Download",
-      "url": "https://github.com/mk7024490-glitch/aura-edge-optimizer",
-      "stargazerCount": 420,
-      "forkCount": 0,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "mk7024490-glitch",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/232635691?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-14T21:36:21Z",
-      "updatedAt": "2026-05-16T16:33:09Z",
-      "licenseName": null,
-      "topics": [
-        "java",
-        "minecraft",
-        "minecraft-esp",
-        "minecraft-impact",
-        "minecraft-killaura",
-        "minecraft-vape",
-        "minecraft-vape-v4-download",
-        "minecraft-wurst",
-        "vape-v4-client",
-        "vape-v4-free-account",
-        "vape-v4-hack"
-      ],
-      "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1239729011",
       "name": "betterkhmer",
@@ -71,28 +39,6 @@
         "zig"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1238316379",
-      "name": "Jir",
-      "nameWithOwner": "rururunu/Jir",
-      "description": "Quickly manage and switch your Java version on Windows using Jir",
-      "url": "https://github.com/rururunu/Jir",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Rust",
-      "languageColor": null,
-      "ownerLogin": "rururunu",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/191542284?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-14T02:34:52Z",
-      "updatedAt": "2026-05-18T00:56:25Z",
-      "licenseName": "MIT",
-      "topics": [
-        "java"
-      ],
-      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]
