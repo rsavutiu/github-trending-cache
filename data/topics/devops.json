@@ -1,15 +1,46 @@
 {
-  "generatedAt": "2026-05-21T08:04:31Z",
+  "generatedAt": "2026-05-22T07:53:47Z",
   "topic": "devops",
-  "totalCount": 3,
+  "totalCount": 4,
   "repos": [
+    {
+      "id": "1244450450",
+      "name": "kubeatlas",
+      "nameWithOwner": "KubeAtlas-org/kubeatlas",
+      "description": "See your whole Kubernetes cluster at a glance. Lightweight, web-based, real-time, single Go binary visualizer.",
+      "url": "https://github.com/KubeAtlas-org/kubeatlas",
+      "stargazerCount": 12,
+      "forkCount": 0,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "KubeAtlas-org",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/236373203?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-05-20T09:22:05Z",
+      "updatedAt": "2026-05-22T06:15:13Z",
+      "licenseName": "MIT",
+      "topics": [
+        "cluster",
+        "dashboard",
+        "devops",
+        "golang",
+        "k8s",
+        "kubeatlas",
+        "kubernetes",
+        "observability",
+        "server-sent-events",
+        "visualization"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1240396926",
       "name": "pronounce",
       "nameWithOwner": "anzy-renlab-ai/pronounce",
       "description": "🔊 Pronounce developer jargon out loud. 544+ entries (kubectl, GIF, JSON, JWT, …), sourced with confidence levels. Bash CLI + interactive quiz + voice search + MCP server + Claude Code skill.",
       "url": "https://github.com/anzy-renlab-ai/pronounce",
-      "stargazerCount": 8,
+      "stargazerCount": 9,
       "forkCount": 0,
       "languageName": "Shell",
       "languageColor": null,
@@ -17,7 +48,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/276973779?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-16T04:56:52Z",
-      "updatedAt": "2026-05-20T12:02:39Z",
+      "updatedAt": "2026-05-22T03:35:48Z",
       "licenseName": "MIT",
       "topics": [
         "bash",
@@ -41,40 +72,7 @@
         "sre",
         "tts"
       ],
-      "openIssuesCount": 23,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1239407490",
-      "name": "km8",
-      "nameWithOwner": "vulcanshen/km8",
-      "description": "Kubernetes TUI management tool inspired by Lens IDE",
-      "url": "https://github.com/vulcanshen/km8",
-      "stargazerCount": 7,
-      "forkCount": 1,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "vulcanshen",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/12147708?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-15T04:10:40Z",
-      "updatedAt": "2026-05-21T05:07:58Z",
-      "licenseName": "GPL-3.0",
-      "topics": [
-        "bubbletea",
-        "cli",
-        "devops",
-        "go",
-        "k8s",
-        "kubectl",
-        "kubernetes",
-        "kubernetes-cli",
-        "lazygit",
-        "terminal",
-        "tui",
-        "vim"
-      ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -103,6 +101,37 @@
         "self-hosted"
       ],
       "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1244805409",
+      "name": "LoomDeploy",
+      "nameWithOwner": "youssef509/LoomDeploy",
+      "description": "Self-hosted PaaS — deploy any app to your own VPS with Git push, auto SSL, live logs, rollbacks and health monitoring.",
+      "url": "https://github.com/youssef509/LoomDeploy",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Vue",
+      "languageColor": null,
+      "ownerLogin": "youssef509",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/87241310?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-20T16:02:57Z",
+      "updatedAt": "2026-05-21T09:28:02Z",
+      "licenseName": "MIT",
+      "topics": [
+        "deployment",
+        "devops",
+        "docker",
+        "golang",
+        "nuxt",
+        "open-source",
+        "paas",
+        "self-hosted",
+        "traefik",
+        "vps"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]
