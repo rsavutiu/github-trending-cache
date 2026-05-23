@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-22T07:53:47Z",
+  "generatedAt": "2026-05-23T06:45:13Z",
   "topic": "kotlin",
-  "totalCount": 6,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1245486163",
@@ -9,7 +9,7 @@
       "nameWithOwner": "haidrrrry/compose-kotlin-agent-skills",
       "description": "Jetpack Compose & Kotlin AI agent skills for Cursor, Claude Code, Codex, Gemini & 27+ agents. Strict MVI · Kotlin 2.x K2 · Compose 2026 · CI-validated.",
       "url": "https://github.com/haidrrrry/compose-kotlin-agent-skills",
-      "stargazerCount": 20,
+      "stargazerCount": 22,
       "forkCount": 2,
       "languageName": "Markdown",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/102181228?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-21T09:08:40Z",
-      "updatedAt": "2026-05-22T06:37:33Z",
+      "updatedAt": "2026-05-22T23:08:26Z",
       "licenseName": "MIT",
       "topics": [
         "agents-md",
@@ -58,7 +58,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/37080625?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-20T11:56:52Z",
-      "updatedAt": "2026-05-21T23:22:04Z",
+      "updatedAt": "2026-05-22T09:09:02Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "android",
@@ -125,43 +125,6 @@
         "gradle-plugin",
         "kotlin",
         "release-automation"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1240389870",
-      "name": "liquid-glass",
-      "nameWithOwner": "NadeemIqbal/liquid-glass",
-      "description": "iOS 26-style frosted glass surfaces for Compose Multiplatform — Modifier.liquidGlass + GlassCard/Button/NavBar with auto-tiered low-end-device fallback.",
-      "url": "https://github.com/NadeemIqbal/liquid-glass",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "NadeemIqbal",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/8788181?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-16T04:43:02Z",
-      "updatedAt": "2026-05-21T15:32:17Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "android",
-        "blur",
-        "compose",
-        "compose-multiplatform",
-        "desktop",
-        "frosted-glass",
-        "glassmorphism",
-        "ios",
-        "ios26",
-        "jetpack-compose",
-        "kotlin",
-        "kotlin-multiplatform",
-        "liquid-glass",
-        "multiplatform",
-        "ui",
-        "wasm"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

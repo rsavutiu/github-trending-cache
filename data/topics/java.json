@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T07:53:47Z",
+  "generatedAt": "2026-05-23T06:45:13Z",
   "topic": "java",
   "totalCount": 1,
   "repos": [
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1845053?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-17T16:55:54Z",
-      "updatedAt": "2026-05-22T06:20:04Z",
+      "updatedAt": "2026-05-22T12:57:26Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "ai-coding",
@@ -31,7 +31,7 @@
         "rust",
         "self-hosted"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]
