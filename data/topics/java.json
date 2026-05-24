@@ -1,38 +1,6 @@
 {
-  "generatedAt": "2026-05-23T06:45:13Z",
+  "generatedAt": "2026-05-24T07:30:10Z",
   "topic": "java",
-  "totalCount": 1,
-  "repos": [
-    {
-      "id": "1241657981",
-      "name": "company-aitrack",
-      "nameWithOwner": "MapleEve/company-aitrack",
-      "description": "AI 编码效能治理平台 —— 编辑事件 HMAC 签名、服务端 10 步防作弊校验、可信归因，自托管优先",
-      "url": "https://github.com/MapleEve/company-aitrack",
-      "stargazerCount": 8,
-      "forkCount": 1,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "MapleEve",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1845053?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-17T16:55:54Z",
-      "updatedAt": "2026-05-22T12:57:26Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "ai-coding",
-        "anti-cheat",
-        "code-telemetry",
-        "developer-productivity",
-        "go",
-        "governance",
-        "hmac",
-        "java",
-        "rust",
-        "self-hosted"
-      ],
-      "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    }
-  ]
+  "totalCount": 0,
+  "repos": []
 }

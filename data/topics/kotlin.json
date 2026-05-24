@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-23T06:45:13Z",
+  "generatedAt": "2026-05-24T07:30:10Z",
   "topic": "kotlin",
-  "totalCount": 5,
+  "totalCount": 7,
   "repos": [
     {
       "id": "1245486163",
@@ -9,7 +9,7 @@
       "nameWithOwner": "haidrrrry/compose-kotlin-agent-skills",
       "description": "Jetpack Compose & Kotlin AI agent skills for Cursor, Claude Code, Codex, Gemini & 27+ agents. Strict MVI · Kotlin 2.x K2 · Compose 2026 · CI-validated.",
       "url": "https://github.com/haidrrrry/compose-kotlin-agent-skills",
-      "stargazerCount": 22,
+      "stargazerCount": 23,
       "forkCount": 2,
       "languageName": "Markdown",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/102181228?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-21T09:08:40Z",
-      "updatedAt": "2026-05-22T23:08:26Z",
+      "updatedAt": "2026-05-23T15:28:44Z",
       "licenseName": "MIT",
       "topics": [
         "agents-md",
@@ -50,7 +50,7 @@
       "nameWithOwner": "LyoSU/hortay-android",
       "description": "A Twitter-style reader for Telegram channels. Built on TDLib + Jetpack Compose + Material 3 Expressive. No analytics, no Firebase, no third-party push.",
       "url": "https://github.com/LyoSU/hortay-android",
-      "stargazerCount": 16,
+      "stargazerCount": 17,
       "forkCount": 1,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -58,7 +58,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/37080625?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-20T11:56:52Z",
-      "updatedAt": "2026-05-22T09:09:02Z",
+      "updatedAt": "2026-05-24T03:28:17Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "android",
@@ -71,6 +71,90 @@
         "telegram-client"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1247147017",
+      "name": "material-3-compose-unstyled",
+      "nameWithOwner": "composablehorizons/material-3-compose-unstyled",
+      "description": "An implementation of Google's Material 3 Compose using Compose Unstyled",
+      "url": "https://github.com/composablehorizons/material-3-compose-unstyled",
+      "stargazerCount": 14,
+      "forkCount": 0,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "composablehorizons",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/112760983?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-05-23T00:38:24Z",
+      "updatedAt": "2026-05-24T05:39:57Z",
+      "licenseName": "MIT",
+      "topics": [
+        "compose-multiplatform",
+        "jetpack-compose",
+        "kotlin",
+        "material-design",
+        "ui"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1245561762",
+      "name": "opendroid",
+      "nameWithOwner": "yashab-cyber/opendroid",
+      "description": "Your Open Autonomous Android Agent — A production-ready, self-planning AI assistant powered by local/remote LLMs and accessibility-driven screen automation.",
+      "url": "https://github.com/yashab-cyber/opendroid",
+      "stargazerCount": 10,
+      "forkCount": 5,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "yashab-cyber",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/77148571?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-21T10:38:16Z",
+      "updatedAt": "2026-05-24T07:15:46Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "accessibility",
+        "ai-agent",
+        "android",
+        "automation",
+        "autonomous",
+        "kotlin",
+        "llm",
+        "multimodal-ai"
+      ],
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1243355697",
+      "name": "tmuxes",
+      "nameWithOwner": "Lightcone-ZhangYifa/tmuxes",
+      "description": "An Android SSH and tmux workspace for persistent remote work.",
+      "url": "https://github.com/Lightcone-ZhangYifa/tmuxes",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "Lightcone-ZhangYifa",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/139779251?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-19T09:09:46Z",
+      "updatedAt": "2026-05-24T01:03:46Z",
+      "licenseName": "GPL-3.0",
+      "topics": [
+        "android",
+        "gplv3",
+        "jetpack-compose",
+        "kotlin",
+        "ssh",
+        "terminal",
+        "tmux",
+        "widgets"
+      ],
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -127,35 +211,6 @@
         "release-automation"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1243355697",
-      "name": "tmuxes",
-      "nameWithOwner": "Lightcone-ZhangYifa/tmuxes",
-      "description": "An Android SSH and tmux workspace for persistent remote work.",
-      "url": "https://github.com/Lightcone-ZhangYifa/tmuxes",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "Lightcone-ZhangYifa",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/139779251?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-19T09:09:46Z",
-      "updatedAt": "2026-05-21T08:30:00Z",
-      "licenseName": "GPL-3.0",
-      "topics": [
-        "android",
-        "gplv3",
-        "jetpack-compose",
-        "kotlin",
-        "ssh",
-        "terminal",
-        "tmux",
-        "widgets"
-      ],
-      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]

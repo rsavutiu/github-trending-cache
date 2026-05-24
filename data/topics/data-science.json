@@ -1,38 +1,6 @@
 {
-  "generatedAt": "2026-05-23T06:45:13Z",
+  "generatedAt": "2026-05-24T07:30:10Z",
   "topic": "data-science",
-  "totalCount": 1,
-  "repos": [
-    {
-      "id": "1241559719",
-      "name": "movie-review-sentiment-analysis",
-      "nameWithOwner": "GSUS2K/movie-review-sentiment-analysis",
-      "description": null,
-      "url": "https://github.com/GSUS2K/movie-review-sentiment-analysis",
-      "stargazerCount": 7,
-      "forkCount": 5,
-      "languageName": "Jupyter Notebook",
-      "languageColor": null,
-      "ownerLogin": "GSUS2K",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/100770858?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-17T14:42:51Z",
-      "updatedAt": "2026-05-20T20:32:25Z",
-      "licenseName": null,
-      "topics": [
-        "data-science",
-        "imdb-dataset",
-        "jupyter-notebook",
-        "kmeans-clustering",
-        "machine-learning",
-        "nlp",
-        "python",
-        "scikit-learn",
-        "sentiment-analysis",
-        "tfidf"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    }
-  ]
+  "totalCount": 0,
+  "repos": []
 }
