@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T07:30:10Z",
+  "generatedAt": "2026-05-25T08:40:14Z",
   "topic": "devops",
   "totalCount": 5,
   "repos": [
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/236373203?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-20T09:22:05Z",
-      "updatedAt": "2026-05-23T12:55:55Z",
+      "updatedAt": "2026-05-24T21:28:44Z",
       "licenseName": "MIT",
       "topics": [
         "cluster",
@@ -48,9 +48,10 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/286856292?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-22T13:42:44Z",
-      "updatedAt": "2026-05-23T05:16:03Z",
+      "updatedAt": "2026-05-25T07:14:05Z",
       "licenseName": "NOASSERTION",
       "topics": [
+        "ci-cd",
         "code-review",
         "container-registry",
         "container-registry-proxy",
@@ -111,7 +112,7 @@
       "nameWithOwner": "T0nd3/logatory",
       "description": "Local-first log analysis with PII redaction, threat detection, anomaly detection and LLM insights — CLI, web dashboard and REST API",
       "url": "https://github.com/T0nd3/logatory",
-      "stargazerCount": 8,
+      "stargazerCount": 9,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -119,7 +120,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/27355442?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-19T12:48:29Z",
-      "updatedAt": "2026-05-24T05:51:50Z",
+      "updatedAt": "2026-05-24T08:00:44Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "anomaly-detection",

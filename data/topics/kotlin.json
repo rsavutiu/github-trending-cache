@@ -1,8 +1,34 @@
 {
-  "generatedAt": "2026-05-24T07:30:10Z",
+  "generatedAt": "2026-05-25T08:40:14Z",
   "topic": "kotlin",
   "totalCount": 7,
   "repos": [
+    {
+      "id": "1247147017",
+      "name": "material-3-compose-unstyled",
+      "nameWithOwner": "composablehorizons/material-3-compose-unstyled",
+      "description": "An implementation of Google's Material 3 Compose using Compose Unstyled",
+      "url": "https://github.com/composablehorizons/material-3-compose-unstyled",
+      "stargazerCount": 26,
+      "forkCount": 0,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "composablehorizons",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/112760983?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-05-23T00:38:24Z",
+      "updatedAt": "2026-05-25T06:37:01Z",
+      "licenseName": "MIT",
+      "topics": [
+        "compose-multiplatform",
+        "jetpack-compose",
+        "kotlin",
+        "material-design",
+        "ui"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1245486163",
       "name": "compose-kotlin-agent-skills",
@@ -17,7 +43,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/102181228?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-21T09:08:40Z",
-      "updatedAt": "2026-05-23T15:28:44Z",
+      "updatedAt": "2026-05-24T13:39:04Z",
       "licenseName": "MIT",
       "topics": [
         "agents-md",
@@ -74,46 +100,20 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1247147017",
-      "name": "material-3-compose-unstyled",
-      "nameWithOwner": "composablehorizons/material-3-compose-unstyled",
-      "description": "An implementation of Google's Material 3 Compose using Compose Unstyled",
-      "url": "https://github.com/composablehorizons/material-3-compose-unstyled",
-      "stargazerCount": 14,
-      "forkCount": 0,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "composablehorizons",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/112760983?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-05-23T00:38:24Z",
-      "updatedAt": "2026-05-24T05:39:57Z",
-      "licenseName": "MIT",
-      "topics": [
-        "compose-multiplatform",
-        "jetpack-compose",
-        "kotlin",
-        "material-design",
-        "ui"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1245561762",
       "name": "opendroid",
       "nameWithOwner": "yashab-cyber/opendroid",
       "description": "Your Open Autonomous Android Agent — A production-ready, self-planning AI assistant powered by local/remote LLMs and accessibility-driven screen automation.",
       "url": "https://github.com/yashab-cyber/opendroid",
-      "stargazerCount": 10,
-      "forkCount": 5,
+      "stargazerCount": 15,
+      "forkCount": 7,
       "languageName": "Kotlin",
       "languageColor": null,
       "ownerLogin": "yashab-cyber",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/77148571?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-21T10:38:16Z",
-      "updatedAt": "2026-05-24T07:15:46Z",
+      "updatedAt": "2026-05-25T06:27:19Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "accessibility",
@@ -125,7 +125,37 @@
         "llm",
         "multimodal-ai"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 2,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1243783050",
+      "name": "signal-scoop",
+      "nameWithOwner": "Lucastil2212/signal-scoop",
+      "description": "Privacy-first Android defensive sentinel: survey nearby BLE, Wi-Fi & Bluetooth locally, save scan history, explore a knowledge graph map, and get risk guidance — no accounts, no cloud upload.",
+      "url": "https://github.com/Lucastil2212/signal-scoop",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "Lucastil2212",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/49128649?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-19T16:56:23Z",
+      "updatedAt": "2026-05-24T20:23:48Z",
+      "licenseName": "MIT",
+      "topics": [
+        "android",
+        "ble",
+        "bluetooth",
+        "knowledge-graph",
+        "kotlin",
+        "local-first",
+        "privacy",
+        "security",
+        "wifi"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -155,36 +185,6 @@
         "widgets"
       ],
       "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1243783050",
-      "name": "signal-scoop",
-      "nameWithOwner": "Lucastil2212/signal-scoop",
-      "description": "Privacy-first Android defensive sentinel: survey nearby BLE, Wi-Fi & Bluetooth locally, save scan history, explore a knowledge graph map, and get risk guidance — no accounts, no cloud upload.",
-      "url": "https://github.com/Lucastil2212/signal-scoop",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "Lucastil2212",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/49128649?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-19T16:56:23Z",
-      "updatedAt": "2026-05-21T11:25:37Z",
-      "licenseName": "MIT",
-      "topics": [
-        "android",
-        "ble",
-        "bluetooth",
-        "knowledge-graph",
-        "kotlin",
-        "local-first",
-        "privacy",
-        "security",
-        "wifi"
-      ],
-      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
