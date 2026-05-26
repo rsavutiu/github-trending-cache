@@ -1,6 +1,43 @@
 {
-  "generatedAt": "2026-05-25T08:40:14Z",
+  "generatedAt": "2026-05-26T08:00:54Z",
   "topic": "java",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 1,
+  "repos": [
+    {
+      "id": "1249728463",
+      "name": "Wurst7",
+      "nameWithOwner": "Legionbetweenviaduct/Wurst7",
+      "description": "Minecraft Wurst Hacked Client v7",
+      "url": "https://github.com/Legionbetweenviaduct/Wurst7",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "Legionbetweenviaduct",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/282049481?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-26T01:47:06Z",
+      "updatedAt": "2026-05-26T03:47:22Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "1-20-1",
+        "1-21",
+        "1-21-1",
+        "1-21-4",
+        "1-21-8",
+        "fabric",
+        "fabricmc-mod",
+        "hacked-client",
+        "java",
+        "minecraft",
+        "minecraft-client",
+        "minecraft-fabric-mod",
+        "minecraft-mod",
+        "minecraft-utility-mod",
+        "modded-minecraft"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    }
+  ]
 }

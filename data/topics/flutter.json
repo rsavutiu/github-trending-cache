@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-25T08:40:14Z",
+  "generatedAt": "2026-05-26T08:00:54Z",
   "topic": "flutter",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1244166754",
@@ -26,6 +26,39 @@
         "text-animation"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1247885645",
+      "name": "ParkinSUM",
+      "nameWithOwner": "albertzhzhou-droid/ParkinSUM",
+      "description": "Local-first Flutter prototype for Parkinson's disease diet-medication education and levodopa-food interaction awareness.",
+      "url": "https://github.com/albertzhzhou-droid/ParkinSUM",
+      "stargazerCount": 10,
+      "forkCount": 0,
+      "languageName": "Dart",
+      "languageColor": null,
+      "ownerLogin": "albertzhzhou-droid",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/228997802?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-23T23:05:15Z",
+      "updatedAt": "2026-05-26T00:57:06Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "clinical-decision-support",
+        "dart",
+        "diet-tracking",
+        "digital-health",
+        "flutter",
+        "health-education",
+        "levodopa",
+        "local-first",
+        "medication-management",
+        "mhealth",
+        "open-source",
+        "parkinsons-disease"
+      ],
+      "openIssuesCount": 12,
       "closedIssuesCount": 0
     }
   ]
