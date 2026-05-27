@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-26T08:00:54Z",
+  "generatedAt": "2026-05-27T08:12:53Z",
   "topic": "go",
-  "totalCount": 6,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1246266642",
@@ -28,36 +28,6 @@
         "grep",
         "search",
         "terminal"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1244288830",
-      "name": "coco",
-      "nameWithOwner": "leehainuo/coco",
-      "description": "Coco is an elegant and beautiful OpenAPI UI library for Go",
-      "url": "https://github.com/leehainuo/coco",
-      "stargazerCount": 15,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "leehainuo",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/182531394?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-20T06:11:19Z",
-      "updatedAt": "2026-05-26T05:47:20Z",
-      "licenseName": "MIT",
-      "topics": [
-        "api-docs",
-        "api-documentation",
-        "go",
-        "golang",
-        "openapi",
-        "swagger",
-        "swagger-ui",
-        "tailwindcss",
-        "vue3"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -133,48 +103,20 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1244441068",
-      "name": "govector-bm25",
-      "nameWithOwner": "2aronS/govector-bm25",
-      "description": "High-performance vector store in Go with BM25 hybrid retrieval",
-      "url": "https://github.com/2aronS/govector-bm25",
-      "stargazerCount": 8,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "2aronS",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/106634141?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-20T09:10:57Z",
-      "updatedAt": "2026-05-20T20:10:50Z",
-      "licenseName": "MIT",
-      "topics": [
-        "bm25",
-        "go",
-        "hybrid-search",
-        "information-retrieval",
-        "search-engine",
-        "vector-database",
-        "vector-store"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1247641253",
       "name": "hosomaki",
       "nameWithOwner": "rivernova/hosomaki",
       "description": "Your Linux system has a story to tell. Hosomaki is the moment it finally finds its voice.",
       "url": "https://github.com/rivernova/hosomaki",
-      "stargazerCount": 6,
-      "forkCount": 3,
+      "stargazerCount": 7,
+      "forkCount": 2,
       "languageName": "Go",
       "languageColor": null,
       "ownerLogin": "rivernova",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/123264720?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-23T15:32:18Z",
-      "updatedAt": "2026-05-25T23:07:37Z",
+      "updatedAt": "2026-05-26T21:37:22Z",
       "licenseName": "MPL-2.0",
       "topics": [
         "ai",
@@ -193,6 +135,38 @@
         "systemd"
       ],
       "openIssuesCount": 17,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1247134884",
+      "name": "justbookmarks",
+      "nameWithOwner": "SellswordSoftware/justbookmarks",
+      "description": "A simple desktop bookmark manager that uses the Netscape Bookmark HTML format so you can keep one browser-independent source of truth.",
+      "url": "https://github.com/SellswordSoftware/justbookmarks",
+      "stargazerCount": 6,
+      "forkCount": 1,
+      "languageName": "Svelte",
+      "languageColor": null,
+      "ownerLogin": "SellswordSoftware",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/287103791?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-23T00:07:37Z",
+      "updatedAt": "2026-05-27T03:34:41Z",
+      "licenseName": "MIT",
+      "topics": [
+        "bookmark-manager",
+        "bookmarks",
+        "browser-independent",
+        "cross-browser",
+        "desktop-app",
+        "go",
+        "golang",
+        "html-bookmarks",
+        "netscape-bookmark-file",
+        "svelte",
+        "wails"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]
