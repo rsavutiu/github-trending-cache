@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-05-27T08:12:53Z",
+  "generatedAt": "2026-05-28T08:12:24Z",
   "topic": "kubernetes",
-  "totalCount": 2,
+  "totalCount": 3,
   "repos": [
+    {
+      "id": "1251156448",
+      "name": "hermes",
+      "nameWithOwner": "cloudpilot-ai/hermes",
+      "description": "Policy-driven seamless lazy loading",
+      "url": "https://github.com/cloudpilot-ai/hermes",
+      "stargazerCount": 11,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "cloudpilot-ai",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/166281999?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-05-27T09:48:02Z",
+      "updatedAt": "2026-05-28T08:05:18Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "hermes",
+        "k8s",
+        "kubernetes",
+        "lazy-loading",
+        "soci",
+        "vllm"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1247945712",
       "name": "AegisVision-Computer-Vision-System",

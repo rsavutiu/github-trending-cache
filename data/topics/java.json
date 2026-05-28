@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-05-27T08:12:53Z",
+  "generatedAt": "2026-05-28T08:12:24Z",
   "topic": "java",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
+    {
+      "id": "1249296251",
+      "name": "boot-ui",
+      "nameWithOwner": "jdubois/boot-ui",
+      "description": "The missing developer UI for Spring Boot!",
+      "url": "https://github.com/jdubois/boot-ui",
+      "stargazerCount": 24,
+      "forkCount": 1,
+      "languageName": "Java",
+      "languageColor": null,
+      "ownerLogin": "jdubois",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/316835?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-25T14:52:52Z",
+      "updatedAt": "2026-05-28T08:10:25Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "developer-tools",
+        "java",
+        "spring-boot",
+        "spring-boot-4",
+        "spring-boot-starter",
+        "vue"
+      ],
+      "openIssuesCount": 2,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1249728463",
       "name": "Wurst7",

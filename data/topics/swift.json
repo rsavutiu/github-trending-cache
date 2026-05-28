@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-27T08:12:53Z",
+  "generatedAt": "2026-05-28T08:12:24Z",
   "topic": "swift",
-  "totalCount": 8,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1247491022",
@@ -9,7 +9,7 @@
       "nameWithOwner": "batuhangobekli/ToastySnackbar",
       "description": "A lightweight Swift library that brings Android-like toast and snackbar messages to iOS.",
       "url": "https://github.com/batuhangobekli/ToastySnackbar",
-      "stargazerCount": 37,
+      "stargazerCount": 39,
       "forkCount": 0,
       "languageName": "Swift",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/94348145?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-23T11:42:53Z",
-      "updatedAt": "2026-05-27T03:46:08Z",
+      "updatedAt": "2026-05-27T23:31:46Z",
       "licenseName": "MIT",
       "topics": [
         "ios",
@@ -30,56 +30,6 @@
         "toast-notifications",
         "uikit",
         "widget"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1246156319",
-      "name": "piru",
-      "nameWithOwner": "kageroumado/piru",
-      "description": "iOS substance dose tracker with pharmacokinetic timelines and interaction warnings",
-      "url": "https://github.com/kageroumado/piru",
-      "stargazerCount": 17,
-      "forkCount": 0,
-      "languageName": "Swift",
-      "languageColor": null,
-      "ownerLogin": "kageroumado",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/262214232?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-21T23:41:44Z",
-      "updatedAt": "2026-05-27T06:32:25Z",
-      "licenseName": "GPL-3.0",
-      "topics": [
-        "ios",
-        "substance-tracking",
-        "swift",
-        "tracker-application"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1246119561",
-      "name": "refrax-browser",
-      "nameWithOwner": "kageroumado/refrax-browser",
-      "description": "Native WebKit browser for macOS. Liquid Glass design.",
-      "url": "https://github.com/kageroumado/refrax-browser",
-      "stargazerCount": 14,
-      "forkCount": 0,
-      "languageName": "Swift",
-      "languageColor": null,
-      "ownerLogin": "kageroumado",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/262214232?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-21T22:27:05Z",
-      "updatedAt": "2026-05-25T12:55:14Z",
-      "licenseName": "GPL-3.0",
-      "topics": [
-        "browser",
-        "macos",
-        "swift",
-        "webkit"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -131,7 +81,7 @@
       "nameWithOwner": "Kanscape/Hana",
       "description": "Hanime1 第三方客户端",
       "url": "https://github.com/Kanscape/Hana",
-      "stargazerCount": 8,
+      "stargazerCount": 11,
       "forkCount": 0,
       "languageName": "Swift",
       "languageColor": null,
@@ -139,7 +89,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/155093246?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-24T03:21:14Z",
-      "updatedAt": "2026-05-27T02:14:02Z",
+      "updatedAt": "2026-05-27T23:15:59Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "apple",
@@ -193,44 +143,13 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/208225369?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-25T05:07:33Z",
-      "updatedAt": "2026-05-27T06:56:01Z",
+      "updatedAt": "2026-05-28T04:29:14Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "ssh",
         "swift"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1245900408",
-      "name": "CloudBoost",
-      "nameWithOwner": "victorbrandaao/CloudBoost",
-      "description": "A native macOS menu bar utility built in Swift to eliminate ping spikes, stuttering, and input lag. Optimizes your system in real-time for GeForce NOW, Boosteroid, and Xbox Cloud Gaming. Perfect for competitive titles where every millisecond matters, like League of Legends, Warzone, or Battlefield 6.",
-      "url": "https://github.com/victorbrandaao/CloudBoost",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Swift",
-      "languageColor": null,
-      "ownerLogin": "victorbrandaao",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/85573492?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-21T17:07:30Z",
-      "updatedAt": "2026-05-27T07:35:22Z",
-      "licenseName": null,
-      "topics": [
-        "boosteroid",
-        "cloud-gaming",
-        "geforcenow",
-        "mac-gaming",
-        "macos",
-        "menu-bar-app",
-        "network",
-        "network-otimization",
-        "open-source",
-        "swift"
-      ],
-      "openIssuesCount": 3,
       "closedIssuesCount": 0
     }
   ]
