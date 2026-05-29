@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-28T08:12:24Z",
+  "generatedAt": "2026-05-29T08:09:28Z",
   "topic": "kubernetes",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1251156448",
@@ -9,7 +9,7 @@
       "nameWithOwner": "cloudpilot-ai/hermes",
       "description": "Policy-driven seamless lazy loading",
       "url": "https://github.com/cloudpilot-ai/hermes",
-      "stargazerCount": 11,
+      "stargazerCount": 16,
       "forkCount": 0,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/166281999?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-27T09:48:02Z",
-      "updatedAt": "2026-05-28T08:05:18Z",
+      "updatedAt": "2026-05-29T07:26:51Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "hermes",
@@ -69,34 +69,6 @@
         "xds"
       ],
       "openIssuesCount": 22,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1247030866",
-      "name": "yamlls",
-      "nameWithOwner": "home-operations/yamlls",
-      "description": "YAML language server in Go. Schema-driven diagnostics, completion, hover; pluggable rendering for Flux HelmRelease and Kustomization via flate.",
-      "url": "https://github.com/home-operations/yamlls",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "home-operations",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/152294696?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-05-22T20:32:33Z",
-      "updatedAt": "2026-05-25T21:27:04Z",
-      "licenseName": "AGPL-3.0",
-      "topics": [
-        "flux",
-        "golang",
-        "json-schema",
-        "kubernetes",
-        "language-server",
-        "lsp",
-        "yaml"
-      ],
-      "openIssuesCount": 2,
       "closedIssuesCount": 0
     }
   ]
