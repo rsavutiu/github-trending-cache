@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-05-29T08:09:28Z",
+  "generatedAt": "2026-05-30T07:18:48Z",
   "topic": "deep-learning",
-  "totalCount": 4,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1251922807",
       "name": "machine-learning-library",
       "nameWithOwner": "ATOM00blue/machine-learning-library",
-      "description": "A hand-curated library of the best machine learning education — 590 docs (78 arXiv papers, 474 course lectures from Stanford/MIT/Karpathy/fast.ai, 38 explainer articles), normalized to Markdown with full provenance. A clean ML corpus/dataset for learning, RAG, and fine-tuning.",
+      "description": "A hand-curated, topic-organized library of the best ML education — 923 docs (391 arXiv papers, 474 Stanford/MIT/Karpathy/fast.ai lectures, 58 explainer articles), normalized to Markdown with full provenance. Open it in Obsidian or point your agent at it. A clean ML corpus for learning, RAG & fine-tuning.",
       "url": "https://github.com/ATOM00blue/machine-learning-library",
-      "stargazerCount": 92,
-      "forkCount": 9,
-      "languageName": null,
+      "stargazerCount": 102,
+      "forkCount": 10,
+      "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "ATOM00blue",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/219721791?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-28T03:03:04Z",
-      "updatedAt": "2026-05-29T07:03:34Z",
+      "updatedAt": "2026-05-30T05:29:47Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "arxiv",
@@ -65,15 +65,15 @@
       "nameWithOwner": "imbue-bit/NS-NTK",
       "description": "Official implementation for the paper: Deep Learning under Continuous Distribution Shift: The Non-Stationary NTK and Spectral Tracking SDE for Quantitative Finance",
       "url": "https://github.com/imbue-bit/NS-NTK",
-      "stargazerCount": 11,
-      "forkCount": 4,
+      "stargazerCount": 13,
+      "forkCount": 5,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "imbue-bit",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/219517514?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-27T08:37:54Z",
-      "updatedAt": "2026-05-28T03:56:16Z",
+      "updatedAt": "2026-05-30T06:16:31Z",
       "licenseName": "MIT",
       "topics": [
         "deep-learning",
@@ -124,6 +124,32 @@
         "tutorial"
       ],
       "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1253986450",
+      "name": "kalmanformer",
+      "nameWithOwner": "lucidrains/kalmanformer",
+      "description": "Implementation of Kalmanformer, modeling the Kalman gain with a transformer",
+      "url": "https://github.com/lucidrains/kalmanformer",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "lucidrains",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-30T02:34:41Z",
+      "updatedAt": "2026-05-30T04:56:51Z",
+      "licenseName": "MIT",
+      "topics": [
+        "artificial-intelligence",
+        "deep-learning",
+        "kalman-filter",
+        "state-estimation",
+        "transformers"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

@@ -1,56 +1,15 @@
 {
-  "generatedAt": "2026-05-29T08:09:28Z",
+  "generatedAt": "2026-05-30T07:18:48Z",
   "topic": "vue",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
-    {
-      "id": "1247201816",
-      "name": "awesome-architecture",
-      "nameWithOwner": "study8677/awesome-architecture",
-      "description": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. 中英文双语。",
-      "url": "https://github.com/study8677/awesome-architecture",
-      "stargazerCount": 761,
-      "forkCount": 78,
-      "languageName": "Vue",
-      "languageColor": null,
-      "ownerLogin": "study8677",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/106414602?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-23T02:44:43Z",
-      "updatedAt": "2026-05-29T07:53:40Z",
-      "licenseName": "MIT",
-      "topics": [
-        "ai-agents",
-        "architecture-decision-records",
-        "architecture-patterns",
-        "awesome",
-        "awesome-list",
-        "backend",
-        "c4-model",
-        "chinese",
-        "design-patterns",
-        "distributed-systems",
-        "interview-preparation",
-        "learning-resources",
-        "microservices",
-        "scalability",
-        "software-architecture",
-        "software-engineering",
-        "system-design",
-        "system-design-interview",
-        "tech-interview",
-        "vue"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1248315096",
       "name": "vue-tui",
       "nameWithOwner": "vuejs-ai/vue-tui",
       "description": "The Vue framework for terminal UIs. SFC & JSX, Yoga flexbox, HMR, and testing out of the box.",
       "url": "https://github.com/vuejs-ai/vue-tui",
-      "stargazerCount": 69,
+      "stargazerCount": 71,
       "forkCount": 1,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -58,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/257730754?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-24T13:35:45Z",
-      "updatedAt": "2026-05-29T07:43:17Z",
+      "updatedAt": "2026-05-30T07:04:17Z",
       "licenseName": null,
       "topics": [
         "ai-agent",
@@ -75,7 +34,7 @@
         "vue",
         "vue3"
       ],
-      "openIssuesCount": 2,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -84,15 +43,15 @@
       "nameWithOwner": "jdubois/boot-ui",
       "description": "The missing developer UI for Spring Boot!",
       "url": "https://github.com/jdubois/boot-ui",
-      "stargazerCount": 30,
-      "forkCount": 2,
+      "stargazerCount": 34,
+      "forkCount": 3,
       "languageName": "Java",
       "languageColor": null,
       "ownerLogin": "jdubois",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/316835?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-25T14:52:52Z",
-      "updatedAt": "2026-05-29T07:34:37Z",
+      "updatedAt": "2026-05-30T05:38:25Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "developer-tools",
@@ -102,7 +61,7 @@
         "spring-boot-starter",
         "vue"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 3,
       "closedIssuesCount": 0
     }
   ]

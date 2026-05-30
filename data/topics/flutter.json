@@ -1,39 +1,31 @@
 {
-  "generatedAt": "2026-05-29T08:09:28Z",
+  "generatedAt": "2026-05-30T07:18:48Z",
   "topic": "flutter",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
     {
-      "id": "1247885645",
-      "name": "ParkinSUM",
-      "nameWithOwner": "albertzhzhou-droid/ParkinSUM",
-      "description": "Local-first Flutter prototype for Parkinson's disease diet-medication education and levodopa-food interaction awareness.",
-      "url": "https://github.com/albertzhzhou-droid/ParkinSUM",
-      "stargazerCount": 18,
-      "forkCount": 2,
+      "id": "1250163851",
+      "name": "flutter-starter-template",
+      "nameWithOwner": "kido-luci/flutter-starter-template",
+      "description": "A production‑ready Flutter foundation with Clean Architecture, offline‑first sync, JWT auth, Firebase, and a companion Go backend.",
+      "url": "https://github.com/kido-luci/flutter-starter-template",
+      "stargazerCount": 8,
+      "forkCount": 3,
       "languageName": "Dart",
       "languageColor": null,
-      "ownerLogin": "albertzhzhou-droid",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/228997802?v=4",
+      "ownerLogin": "kido-luci",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/41099231?v=4",
       "ownerType": "User",
-      "createdAt": "2026-05-23T23:05:15Z",
-      "updatedAt": "2026-05-28T23:25:53Z",
-      "licenseName": "Apache-2.0",
+      "createdAt": "2026-05-26T11:14:41Z",
+      "updatedAt": "2026-05-30T03:15:07Z",
+      "licenseName": "MIT",
       "topics": [
-        "clinical-decision-support",
+        "clean-architecture",
         "dart",
-        "diet-tracking",
-        "digital-health",
         "flutter",
-        "health-education",
-        "levodopa",
-        "local-first",
-        "medication-management",
-        "mhealth",
-        "open-source",
-        "parkinsons-disease"
+        "teamplate"
       ],
-      "openIssuesCount": 12,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -65,31 +57,6 @@
         "sqlite"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1250163851",
-      "name": "flutter-starter-template",
-      "nameWithOwner": "kido-luci/flutter-starter-template",
-      "description": "A production‑ready Flutter foundation with Clean Architecture, offline‑first sync, JWT auth, Firebase, and a companion Go backend.",
-      "url": "https://github.com/kido-luci/flutter-starter-template",
-      "stargazerCount": 7,
-      "forkCount": 3,
-      "languageName": "Dart",
-      "languageColor": null,
-      "ownerLogin": "kido-luci",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/41099231?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-26T11:14:41Z",
-      "updatedAt": "2026-05-29T07:55:46Z",
-      "licenseName": "MIT",
-      "topics": [
-        "clean-architecture",
-        "dart",
-        "flutter",
-        "teamplate"
-      ],
-      "openIssuesCount": 2,
       "closedIssuesCount": 0
     }
   ]

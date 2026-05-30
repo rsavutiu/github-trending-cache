@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-05-29T08:09:28Z",
+  "generatedAt": "2026-05-30T07:18:48Z",
   "topic": "data-science",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 1,
+  "repos": [
+    {
+      "id": "1251648409",
+      "name": "GeoLibre",
+      "nameWithOwner": "opengeos/GeoLibre",
+      "description": "Lightweight, cloud-native desktop GIS built with Tauri v2, React, TypeScript, and MapLibre GL JS.",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "stargazerCount": 57,
+      "forkCount": 12,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "opengeos",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/129896036?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-05-27T19:34:31Z",
+      "updatedAt": "2026-05-30T07:03:32Z",
+      "licenseName": null,
+      "topics": [
+        "data-science",
+        "geospatial",
+        "maplibre",
+        "maplibre-gl-js",
+        "tauri-app"
+      ],
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    }
+  ]
 }
