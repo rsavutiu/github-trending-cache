@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-30T07:18:48Z",
+  "generatedAt": "2026-05-31T07:52:15Z",
   "topic": "kubernetes",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1251156448",
@@ -9,7 +9,7 @@
       "nameWithOwner": "cloudpilot-ai/hermes",
       "description": "Policy-driven seamless lazy loading",
       "url": "https://github.com/cloudpilot-ai/hermes",
-      "stargazerCount": 16,
+      "stargazerCount": 17,
       "forkCount": 0,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/166281999?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-27T09:48:02Z",
-      "updatedAt": "2026-05-29T07:26:51Z",
+      "updatedAt": "2026-05-30T17:34:59Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "hermes",
@@ -28,47 +28,6 @@
         "vllm"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1247945712",
-      "name": "AegisVision-Computer-Vision-System",
-      "nameWithOwner": "hoangsonww/AegisVision-Computer-Vision-System",
-      "description": "🛰️ A distributed, GPU-native visual-intelligence OS. Ingests any video, runs detection and reasoning on partitioned GPUs, and drives bounded-autonomy agents over the result. Built on the scars of running CV at scale.",
-      "url": "https://github.com/hoangsonww/AegisVision-Computer-Vision-System",
-      "stargazerCount": 9,
-      "forkCount": 8,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "hoangsonww",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/124531104?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-24T01:45:08Z",
-      "updatedAt": "2026-05-26T03:16:35Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "argocd",
-        "docker",
-        "go",
-        "grafana",
-        "grpc",
-        "helm",
-        "istio",
-        "k3s",
-        "kafka",
-        "kubernetes",
-        "loki",
-        "nvidia",
-        "oidc",
-        "opentelemetry",
-        "postgresql",
-        "prometheus",
-        "tempo",
-        "triton-inference-server",
-        "webrtc",
-        "xds"
-      ],
-      "openIssuesCount": 22,
       "closedIssuesCount": 0
     }
   ]

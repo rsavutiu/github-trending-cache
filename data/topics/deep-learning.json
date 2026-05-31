@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T07:18:48Z",
+  "generatedAt": "2026-05-31T07:52:15Z",
   "topic": "deep-learning",
   "totalCount": 5,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "ATOM00blue/machine-learning-library",
       "description": "A hand-curated, topic-organized library of the best ML education — 923 docs (391 arXiv papers, 474 Stanford/MIT/Karpathy/fast.ai lectures, 58 explainer articles), normalized to Markdown with full provenance. Open it in Obsidian or point your agent at it. A clean ML corpus for learning, RAG & fine-tuning.",
       "url": "https://github.com/ATOM00blue/machine-learning-library",
-      "stargazerCount": 102,
-      "forkCount": 10,
+      "stargazerCount": 107,
+      "forkCount": 11,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "ATOM00blue",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/219721791?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-28T03:03:04Z",
-      "updatedAt": "2026-05-30T05:29:47Z",
+      "updatedAt": "2026-05-31T07:45:05Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "arxiv",
@@ -60,12 +60,38 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1253986450",
+      "name": "kalmanformer",
+      "nameWithOwner": "lucidrains/kalmanformer",
+      "description": "Implementation of Kalmanformer, modeling the Kalman gain with a transformer",
+      "url": "https://github.com/lucidrains/kalmanformer",
+      "stargazerCount": 19,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "lucidrains",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-30T02:34:41Z",
+      "updatedAt": "2026-05-31T06:43:27Z",
+      "licenseName": "MIT",
+      "topics": [
+        "artificial-intelligence",
+        "deep-learning",
+        "kalman-filter",
+        "state-estimation",
+        "transformers"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1251098249",
       "name": "NS-NTK",
       "nameWithOwner": "imbue-bit/NS-NTK",
       "description": "Official implementation for the paper: Deep Learning under Continuous Distribution Shift: The Non-Stationary NTK and Spectral Tracking SDE for Quantitative Finance",
       "url": "https://github.com/imbue-bit/NS-NTK",
-      "stargazerCount": 13,
+      "stargazerCount": 14,
       "forkCount": 5,
       "languageName": "Python",
       "languageColor": null,
@@ -73,7 +99,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/219517514?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-27T08:37:54Z",
-      "updatedAt": "2026-05-30T06:16:31Z",
+      "updatedAt": "2026-05-30T17:55:09Z",
       "licenseName": "MIT",
       "topics": [
         "deep-learning",
@@ -91,15 +117,15 @@
       "nameWithOwner": "fancyboi999/ai-engineering-from-scratch-zh",
       "description": "从零精通 AI 工程 · 20 阶段 468 课 · 中文全量翻译 + 配套站点 如何成为一名Agent 工程师  修成指南",
       "url": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-      "stargazerCount": 6,
-      "forkCount": 1,
+      "stargazerCount": 8,
+      "forkCount": 2,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "fancyboi999",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/135568692?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-26T12:45:07Z",
-      "updatedAt": "2026-05-29T07:59:44Z",
+      "updatedAt": "2026-05-31T06:00:30Z",
       "licenseName": "MIT",
       "topics": [
         "agents",
@@ -124,32 +150,6 @@
         "tutorial"
       ],
       "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1253986450",
-      "name": "kalmanformer",
-      "nameWithOwner": "lucidrains/kalmanformer",
-      "description": "Implementation of Kalmanformer, modeling the Kalman gain with a transformer",
-      "url": "https://github.com/lucidrains/kalmanformer",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "lucidrains",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-30T02:34:41Z",
-      "updatedAt": "2026-05-30T04:56:51Z",
-      "licenseName": "MIT",
-      "topics": [
-        "artificial-intelligence",
-        "deep-learning",
-        "kalman-filter",
-        "state-estimation",
-        "transformers"
-      ],
-      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

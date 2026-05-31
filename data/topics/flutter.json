@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-30T07:18:48Z",
+  "generatedAt": "2026-05-31T07:52:15Z",
   "topic": "flutter",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1250163851",
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/41099231?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-26T11:14:41Z",
-      "updatedAt": "2026-05-30T03:15:07Z",
+      "updatedAt": "2026-05-30T10:29:09Z",
       "licenseName": "MIT",
       "topics": [
         "clean-architecture",
@@ -26,37 +26,6 @@
         "teamplate"
       ],
       "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1248436577",
-      "name": "DataHookClaws",
-      "nameWithOwner": "albertzhzhou-droid/DataHookClaws",
-      "description": "Local-first Flutter app for official nutrition data import, provenance-first SQLite search, and auditable food-composition exports.",
-      "url": "https://github.com/albertzhzhou-droid/DataHookClaws",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "Dart",
-      "languageColor": null,
-      "ownerLogin": "albertzhzhou-droid",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/228997802?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-24T16:33:43Z",
-      "updatedAt": "2026-05-28T16:20:17Z",
-      "licenseName": "MIT",
-      "topics": [
-        "dart",
-        "data-import",
-        "flutter",
-        "food-composition",
-        "local-first",
-        "nutrition",
-        "ollama",
-        "open-data",
-        "provenance",
-        "sqlite"
-      ],
-      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

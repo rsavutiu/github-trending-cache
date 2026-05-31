@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T07:18:48Z",
+  "generatedAt": "2026-05-31T07:52:15Z",
   "topic": "devops",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "nerkoux/EasyNGINX",
       "description": "Beginner-friendly nginx setup and virtual host manager for Linux. One installer, one easynginx command. Reverse proxies, SSL via Let's Encrypt, security hardening, backups and rollback — all distros, no surprises.",
       "url": "https://github.com/nerkoux/EasyNGINX",
-      "stargazerCount": 10,
+      "stargazerCount": 15,
       "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/66862500?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-28T09:05:25Z",
-      "updatedAt": "2026-05-30T03:28:30Z",
+      "updatedAt": "2026-05-31T05:39:31Z",
       "licenseName": "MIT",
       "topics": [
         "arch-linux",

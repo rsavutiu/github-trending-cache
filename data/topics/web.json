@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-30T07:18:48Z",
+  "generatedAt": "2026-05-31T07:52:15Z",
   "topic": "web",
-  "totalCount": 1,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1252009514",
@@ -26,6 +26,56 @@
         "json",
         "payload",
         "software",
+        "web"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1249469972",
+      "name": "ppsspp-web",
+      "nameWithOwner": "root-hunter/ppsspp-web",
+      "description": null,
+      "url": "https://github.com/root-hunter/ppsspp-web",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "root-hunter",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/61829840?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-25T18:27:58Z",
+      "updatedAt": "2026-05-31T07:32:33Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "emulator",
+        "js",
+        "psp",
+        "web"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1249386263",
+      "name": "gpt-web-cf-make",
+      "nameWithOwner": "HengXin666/gpt-web-cf-make",
+      "description": "GPT 网页端 Token 保活 + 注册机平台。支持 refresh_token 续期 access_token. 支持反代gpt-img2和网页端对话; 支持代理池",
+      "url": "https://github.com/HengXin666/gpt-web-cf-make",
+      "stargazerCount": 6,
+      "forkCount": 1,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "HengXin666",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/103022267?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-25T16:38:09Z",
+      "updatedAt": "2026-05-31T07:51:41Z",
+      "licenseName": null,
+      "topics": [
+        "api",
+        "cf",
+        "gpt",
         "web"
       ],
       "openIssuesCount": 0,

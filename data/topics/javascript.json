@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T07:18:48Z",
+  "generatedAt": "2026-05-31T07:52:15Z",
   "topic": "javascript",
   "totalCount": 5,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "MallyDev2/DiscordLyrics",
       "description": "Spotify synced lyrics status plugin for BetterDiscord and Vencord.",
       "url": "https://github.com/MallyDev2/DiscordLyrics",
-      "stargazerCount": 65,
+      "stargazerCount": 71,
       "forkCount": 1,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/239412472?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-27T04:10:47Z",
-      "updatedAt": "2026-05-30T05:42:12Z",
+      "updatedAt": "2026-05-31T01:23:22Z",
       "licenseName": "MIT",
       "topics": [
         "alpha",
