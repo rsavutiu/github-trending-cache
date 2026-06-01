@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-31T07:52:15Z",
+  "generatedAt": "2026-06-01T09:35:28Z",
   "topic": "go",
-  "totalCount": 6,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1254710452",
@@ -9,7 +9,7 @@
       "nameWithOwner": "widthstudentcrater/airdrop-engagement-booster",
       "description": "Top Crypto Airdrop Tools 2026 🚀 | Boost Engagement & Simplify Distribution",
       "url": "https://github.com/widthstudentcrater/airdrop-engagement-booster",
-      "stargazerCount": 11,
+      "stargazerCount": 10,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/283212006?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-30T23:04:56Z",
-      "updatedAt": "2026-05-30T23:49:47Z",
+      "updatedAt": "2026-06-01T02:15:00Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "airdrop",
@@ -55,7 +55,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/272085118?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-26T03:35:03Z",
-      "updatedAt": "2026-05-31T06:51:01Z",
+      "updatedAt": "2026-05-31T08:32:20Z",
       "licenseName": "MIT",
       "topics": [
         "cli",
@@ -71,74 +71,12 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1253237976",
-      "name": "Hayate",
-      "nameWithOwner": "ShiinaSaku/Hayate",
-      "description": "Fast encrypted file transfer for local networks, terminals, scripts, and Termux.",
-      "url": "https://github.com/ShiinaSaku/Hayate",
-      "stargazerCount": 8,
-      "forkCount": 2,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "ShiinaSaku",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/228504405?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-29T09:15:16Z",
-      "updatedAt": "2026-05-30T15:48:15Z",
-      "licenseName": "MIT",
-      "topics": [
-        "chacha20",
-        "cli",
-        "cross-platform",
-        "encryption",
-        "file-transfer",
-        "go",
-        "golang",
-        "mdns",
-        "quic",
-        "termux",
-        "zstd"
-      ],
-      "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1249456489",
-      "name": "watcher",
-      "nameWithOwner": "esrid/watcher",
-      "description": "lightweight real-time database schema inspector and interactive ERD   │ visualizer for Go (SQLite, PostgreSQL, MySQL)",
-      "url": "https://github.com/esrid/watcher",
-      "stargazerCount": 8,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "esrid",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/132313796?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-25T18:09:26Z",
-      "updatedAt": "2026-05-29T01:45:52Z",
-      "licenseName": "MIT",
-      "topics": [
-        "erd",
-        "go",
-        "golang",
-        "mysql",
-        "postgresql",
-        "realtime",
-        "schema-inspector",
-        "sqlite",
-        "watcher"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1251336633",
       "name": "shapeshifter",
       "nameWithOwner": "standard-librarian/shapeshifter",
       "description": "Go middleware for versioned JSON HTTP contract transformation.",
       "url": "https://github.com/standard-librarian/shapeshifter",
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "forkCount": 0,
       "languageName": "Go",
       "languageColor": null,
@@ -146,7 +84,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/68431349?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-27T13:31:23Z",
-      "updatedAt": "2026-05-28T15:02:25Z",
+      "updatedAt": "2026-06-01T04:22:44Z",
       "licenseName": null,
       "topics": [
         "api-versioning",
@@ -176,7 +114,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/281736740?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-30T20:36:53Z",
-      "updatedAt": "2026-05-30T20:52:38Z",
+      "updatedAt": "2026-05-31T23:45:15Z",
       "licenseName": null,
       "topics": [
         "example",
@@ -185,6 +123,37 @@
         "python"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1253291046",
+      "name": "sigma",
+      "nameWithOwner": "wintermi/sigma",
+      "description": "sigma is a Go package for provider-neutral AI model calls.",
+      "url": "https://github.com/wintermi/sigma",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "wintermi",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/33818?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-29T10:14:48Z",
+      "updatedAt": "2026-05-31T14:52:06Z",
+      "licenseName": "MIT",
+      "topics": [
+        "claude",
+        "codex",
+        "fireworks-ai",
+        "gemini",
+        "go",
+        "golang",
+        "grok",
+        "kimi",
+        "openai",
+        "xai"
+      ],
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]

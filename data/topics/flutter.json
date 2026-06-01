@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-31T07:52:15Z",
+  "generatedAt": "2026-06-01T09:35:28Z",
   "topic": "flutter",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1250163851",
@@ -9,7 +9,7 @@
       "nameWithOwner": "kido-luci/flutter-starter-template",
       "description": "A production‑ready Flutter foundation with Clean Architecture, offline‑first sync, JWT auth, Firebase, and a companion Go backend.",
       "url": "https://github.com/kido-luci/flutter-starter-template",
-      "stargazerCount": 8,
+      "stargazerCount": 9,
       "forkCount": 3,
       "languageName": "Dart",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/41099231?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-26T11:14:41Z",
-      "updatedAt": "2026-05-30T10:29:09Z",
+      "updatedAt": "2026-06-01T09:22:15Z",
       "licenseName": "MIT",
       "topics": [
         "clean-architecture",
@@ -26,6 +26,30 @@
         "teamplate"
       ],
       "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1253662105",
+      "name": "particles_image",
+      "nameWithOwner": "YeLwinOo-Steve/particles_image",
+      "description": "Interactive particles image in Flutter",
+      "url": "https://github.com/YeLwinOo-Steve/particles_image",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Dart",
+      "languageColor": null,
+      "ownerLogin": "YeLwinOo-Steve",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/63007384?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-29T17:33:13Z",
+      "updatedAt": "2026-06-01T02:11:39Z",
+      "licenseName": null,
+      "topics": [
+        "animation",
+        "flutter",
+        "particle-physics"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

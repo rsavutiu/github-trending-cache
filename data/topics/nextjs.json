@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-31T07:52:15Z",
+  "generatedAt": "2026-06-01T09:35:28Z",
   "topic": "nextjs",
-  "totalCount": 6,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1250575980",
@@ -9,15 +9,15 @@
       "nameWithOwner": "boona13/image-extender",
       "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
       "url": "https://github.com/boona13/image-extender",
-      "stargazerCount": 61,
-      "forkCount": 14,
+      "stargazerCount": 122,
+      "forkCount": 23,
       "languageName": "TypeScript",
       "languageColor": null,
       "ownerLogin": "boona13",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-26T19:11:44Z",
-      "updatedAt": "2026-05-31T07:32:56Z",
+      "updatedAt": "2026-06-01T09:31:29Z",
       "licenseName": "MIT",
       "topics": [
         "ai",
@@ -154,34 +154,6 @@
         "workout-tracker"
       ],
       "openIssuesCount": 5,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1248847463",
-      "name": "cms0",
-      "nameWithOwner": "cms-0/cms0",
-      "description": "A very naive and opinionated, developer-first headless CMS for every modern TypeScript framework (self-hostable and free).",
-      "url": "https://github.com/cms-0/cms0",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "cms-0",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/211783328?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-05-25T05:30:52Z",
-      "updatedAt": "2026-05-29T05:02:24Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "cms",
-        "headless-cms",
-        "nextjs",
-        "self-hosted",
-        "sveltekit",
-        "typescript",
-        "vuejs"
-      ],
-      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]
