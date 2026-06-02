@@ -1,65 +1,8 @@
 {
-  "generatedAt": "2026-06-01T09:35:28Z",
+  "generatedAt": "2026-06-02T08:46:43Z",
   "topic": "nextjs",
   "totalCount": 5,
   "repos": [
-    {
-      "id": "1250575980",
-      "name": "image-extender",
-      "nameWithOwner": "boona13/image-extender",
-      "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
-      "url": "https://github.com/boona13/image-extender",
-      "stargazerCount": 122,
-      "forkCount": 23,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "boona13",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/132214668?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-26T19:11:44Z",
-      "updatedAt": "2026-06-01T09:31:29Z",
-      "licenseName": "MIT",
-      "topics": [
-        "ai",
-        "gemini",
-        "image-generation",
-        "nano-banana",
-        "nextjs",
-        "openrouter",
-        "outpainting",
-        "poisson-blending",
-        "tailwindcss",
-        "typescript"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1250581403",
-      "name": "portfolio-backend",
-      "nameWithOwner": "MoonSofts-Net/portfolio-backend",
-      "description": "portfolio-backend is a lightweight backend service for a personal portfolio platform built with Node.js/Express or NestJS, MongoDB/PostgreSQL, Prisma/Mongoose, JWT authentication, REST APIs, and email/contact integrations to manage profile content, projects, blog posts, messages, and admin updates.",
-      "url": "https://github.com/MoonSofts-Net/portfolio-backend",
-      "stargazerCount": 14,
-      "forkCount": 0,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "MoonSofts-Net",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/285778508?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-05-26T19:18:57Z",
-      "updatedAt": "2026-05-28T19:46:05Z",
-      "licenseName": null,
-      "topics": [
-        "aws",
-        "backend",
-        "mongodb",
-        "nextjs",
-        "portfolio"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1251208067",
       "name": "env-guard",
@@ -86,6 +29,43 @@
         "themvpguy"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1255244791",
+      "name": "agentboard-ce",
+      "nameWithOwner": "leswww/agentboard-ce",
+      "description": "Local-first workspace for open-source maintainers and coding agents.",
+      "url": "https://github.com/leswww/agentboard-ce",
+      "stargazerCount": 10,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "leswww",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/289187083?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-31T15:35:48Z",
+      "updatedAt": "2026-06-01T11:02:13Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ai-agents",
+        "codex",
+        "coding-agents",
+        "command-runner",
+        "developer-tools",
+        "issue-triage",
+        "local-first",
+        "maintainer-tools",
+        "nextjs",
+        "open-source",
+        "prisma",
+        "productivity",
+        "pull-request-review",
+        "release-notes",
+        "sqlite",
+        "typescript"
+      ],
+      "openIssuesCount": 5,
       "closedIssuesCount": 0
     },
     {
@@ -127,7 +107,7 @@
       "nameWithOwner": "Julien-Au/gymcoach",
       "description": "Self-hosted AI workout tracker. Bring your own LLM (Anthropic or OpenRouter): weekly debriefs, a chat coach, and AI-generated programs.",
       "url": "https://github.com/Julien-Au/gymcoach",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -135,7 +115,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/288004433?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-27T08:09:02Z",
-      "updatedAt": "2026-05-27T22:39:24Z",
+      "updatedAt": "2026-06-01T21:49:44Z",
       "licenseName": "MIT",
       "topics": [
         "ai",
@@ -154,6 +134,29 @@
         "workout-tracker"
       ],
       "openIssuesCount": 5,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1254722061",
+      "name": "nextjs-frappe",
+      "nameWithOwner": "devlpr-nitish/nextjs-frappe",
+      "description": "A shell script that drops a full Next.js SSR frontend into any Frappe custom app — proxy routing, shared session, CSRF handled server-side, and automatic setup on install. One command.",
+      "url": "https://github.com/devlpr-nitish/nextjs-frappe",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "HTML",
+      "languageColor": null,
+      "ownerLogin": "devlpr-nitish",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/121974807?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-30T23:33:48Z",
+      "updatedAt": "2026-06-02T02:42:31Z",
+      "licenseName": "MIT",
+      "topics": [
+        "frappe",
+        "nextjs"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

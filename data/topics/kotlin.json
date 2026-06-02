@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T09:35:28Z",
+  "generatedAt": "2026-06-02T08:46:43Z",
   "topic": "kotlin",
   "totalCount": 5,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "zenjahid/bKash-Sync",
       "description": "Real-time bKash SMS transaction monitoring for Android — capture, store, and sync P2P payments to your own Cloudflare backend for automated payment verification.",
       "url": "https://github.com/zenjahid/bKash-Sync",
-      "stargazerCount": 35,
+      "stargazerCount": 37,
       "forkCount": 12,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/84239550?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-27T21:48:54Z",
-      "updatedAt": "2026-05-31T18:55:02Z",
+      "updatedAt": "2026-06-01T13:22:40Z",
       "licenseName": "MIT",
       "topics": [
         "android",
@@ -37,15 +37,15 @@
       "nameWithOwner": "FanVPN/fanvpn-android",
       "description": "FanVPN Android client — GPL-3.0 fork of ClashMetaForAndroid (mihomo core)",
       "url": "https://github.com/FanVPN/fanvpn-android",
-      "stargazerCount": 22,
-      "forkCount": 4,
+      "stargazerCount": 34,
+      "forkCount": 7,
       "languageName": "Kotlin",
       "languageColor": null,
       "ownerLogin": "FanVPN",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/289351355?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-31T07:13:27Z",
-      "updatedAt": "2026-06-01T06:14:15Z",
+      "updatedAt": "2026-06-02T05:07:38Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "android",
@@ -58,37 +58,6 @@
         "vpn"
       ],
       "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1250388756",
-      "name": "Benetto",
-      "nameWithOwner": "570775-ux/Benetto",
-      "description": "VoiceNotes Local — on-device voice transcription with Whisper. No cloud, no API, everything on-device.",
-      "url": "https://github.com/570775-ux/Benetto",
-      "stargazerCount": 10,
-      "forkCount": 0,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "570775-ux",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/259946219?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-26T15:25:03Z",
-      "updatedAt": "2026-05-26T20:27:42Z",
-      "licenseName": "MIT",
-      "topics": [
-        "android",
-        "jetpack-compose",
-        "kotlin",
-        "offline-first",
-        "on-device",
-        "privacy",
-        "speech-to-text",
-        "voice-notes",
-        "whisper",
-        "whisper-cpp"
-      ],
-      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -155,6 +124,35 @@
         "speech-to-text",
         "streaming-asr",
         "voxrt"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1254611800",
+      "name": "kmpxmpp",
+      "nameWithOwner": "AndroidPoet/kmpxmpp",
+      "description": "Kotlin Multiplatform XMPP SDK for Android, iOS, and JVM with modular RFC/XEP support.",
+      "url": "https://github.com/AndroidPoet/kmpxmpp",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "AndroidPoet",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/13647384?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-30T19:39:39Z",
+      "updatedAt": "2026-06-02T08:26:14Z",
+      "licenseName": "MIT",
+      "topics": [
+        "android",
+        "ios",
+        "kmp",
+        "kotlin",
+        "multiplatform",
+        "omemo",
+        "websocket",
+        "xmpp"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-01T09:35:28Z",
+  "generatedAt": "2026-06-02T08:46:43Z",
   "topic": "data-science",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1251648409",
@@ -9,15 +9,15 @@
       "nameWithOwner": "opengeos/GeoLibre",
       "description": "Lightweight, cloud-native desktop GIS built with Tauri v2, React, TypeScript, and MapLibre GL JS.",
       "url": "https://github.com/opengeos/GeoLibre",
-      "stargazerCount": 170,
-      "forkCount": 28,
+      "stargazerCount": 193,
+      "forkCount": 34,
       "languageName": "TypeScript",
       "languageColor": null,
       "ownerLogin": "opengeos",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/129896036?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-27T19:34:31Z",
-      "updatedAt": "2026-06-01T09:28:19Z",
+      "updatedAt": "2026-06-02T04:29:09Z",
       "licenseName": null,
       "topics": [
         "data-science",
@@ -26,7 +26,34 @@
         "maplibre-gl-js",
         "tauri-app"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 2,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1256283540",
+      "name": "ai-data-analysis-julius-ai-rows-ai",
+      "nameWithOwner": "Petasetassel/ai-data-analysis-julius-ai-rows-ai",
+      "description": "AI Data Analysis — rows ai, chatgpt data analysis, ai spreadsheet, ai for excel. for Windows",
+      "url": "https://github.com/Petasetassel/ai-data-analysis-julius-ai-rows-ai",
+      "stargazerCount": 24,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "Petasetassel",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/288377976?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-01T16:22:32Z",
+      "updatedAt": "2026-06-02T00:36:04Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "ai-analytics",
+        "ai-spreadsheet",
+        "data-analysis",
+        "data-science",
+        "julius-ai",
+        "rows-ai"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

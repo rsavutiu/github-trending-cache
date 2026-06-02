@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T09:35:28Z",
+  "generatedAt": "2026-06-02T08:46:43Z",
   "topic": "deep-learning",
   "totalCount": 6,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "ATOM00blue/machine-learning-library",
       "description": "A hand-curated, topic-organized library of the best ML education — 923 docs (391 arXiv papers, 474 Stanford/MIT/Karpathy/fast.ai lectures, 58 explainer articles), normalized to Markdown with full provenance. Open it in Obsidian or point your agent at it. A clean ML corpus for learning, RAG & fine-tuning.",
       "url": "https://github.com/ATOM00blue/machine-learning-library",
-      "stargazerCount": 111,
+      "stargazerCount": 114,
       "forkCount": 11,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/219721791?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-28T03:03:04Z",
-      "updatedAt": "2026-06-01T09:15:40Z",
+      "updatedAt": "2026-06-01T22:56:51Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "arxiv",
@@ -40,7 +40,7 @@
       "nameWithOwner": "lucidrains/kalmanformer",
       "description": "Implementation of Kalmanformer, modeling the Kalman gain with a transformer",
       "url": "https://github.com/lucidrains/kalmanformer",
-      "stargazerCount": 34,
+      "stargazerCount": 40,
       "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
@@ -48,7 +48,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-30T02:34:41Z",
-      "updatedAt": "2026-06-01T07:43:15Z",
+      "updatedAt": "2026-06-02T08:27:10Z",
       "licenseName": "MIT",
       "topics": [
         "artificial-intelligence",
@@ -86,12 +86,38 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1256158194",
+      "name": "deepfacelab",
+      "nameWithOwner": "ForceDemolisherRoad/deepfacelab",
+      "description": "DeepFaceLab — deepfake software.",
+      "url": "https://github.com/ForceDemolisherRoad/deepfacelab",
+      "stargazerCount": 21,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "ForceDemolisherRoad",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/288365029?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-01T14:12:44Z",
+      "updatedAt": "2026-06-02T00:56:48Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "computer-vision",
+        "deep-learning",
+        "deepfacelab",
+        "deepfake",
+        "face-swap"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1251098249",
       "name": "NS-NTK",
       "nameWithOwner": "imbue-bit/NS-NTK",
       "description": "Official implementation for the paper: Deep Learning under Continuous Distribution Shift: The Non-Stationary NTK and Spectral Tracking SDE for Quantitative Finance",
       "url": "https://github.com/imbue-bit/NS-NTK",
-      "stargazerCount": 17,
+      "stargazerCount": 18,
       "forkCount": 6,
       "languageName": "Python",
       "languageColor": null,
@@ -99,7 +125,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/219517514?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-27T08:37:54Z",
-      "updatedAt": "2026-06-01T07:30:32Z",
+      "updatedAt": "2026-06-01T10:22:28Z",
       "licenseName": "MIT",
       "topics": [
         "deep-learning",
@@ -107,47 +133,6 @@
         "ntk",
         "quantitative-finance",
         "theory"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1250240320",
-      "name": "ai-engineering-from-scratch-zh",
-      "nameWithOwner": "fancyboi999/ai-engineering-from-scratch-zh",
-      "description": "从零精通 AI 工程 · 20 阶段 468 课 · 中文全量翻译 + 配套站点 如何成为一名Agent 工程师  修成指南",
-      "url": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-      "stargazerCount": 11,
-      "forkCount": 3,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "fancyboi999",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/135568692?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-26T12:45:07Z",
-      "updatedAt": "2026-06-01T03:37:31Z",
-      "licenseName": "MIT",
-      "topics": [
-        "agents",
-        "ai",
-        "ai-agents",
-        "ai-engineering",
-        "chinese",
-        "chinese-translation",
-        "computer-vision",
-        "course",
-        "deep-learning",
-        "from-scratch",
-        "generative-ai",
-        "learn-ai",
-        "llm",
-        "machine-learning",
-        "mcp",
-        "nlp",
-        "python",
-        "reinforcement-learning",
-        "transformers",
-        "tutorial"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -175,7 +160,7 @@
         "pytorch",
         "transformer"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]
