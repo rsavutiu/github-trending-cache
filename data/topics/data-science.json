@@ -1,41 +1,15 @@
 {
-  "generatedAt": "2026-06-02T08:46:43Z",
+  "generatedAt": "2026-06-03T09:04:22Z",
   "topic": "data-science",
   "totalCount": 2,
   "repos": [
-    {
-      "id": "1251648409",
-      "name": "GeoLibre",
-      "nameWithOwner": "opengeos/GeoLibre",
-      "description": "Lightweight, cloud-native desktop GIS built with Tauri v2, React, TypeScript, and MapLibre GL JS.",
-      "url": "https://github.com/opengeos/GeoLibre",
-      "stargazerCount": 193,
-      "forkCount": 34,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "opengeos",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/129896036?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-05-27T19:34:31Z",
-      "updatedAt": "2026-06-02T04:29:09Z",
-      "licenseName": null,
-      "topics": [
-        "data-science",
-        "geospatial",
-        "maplibre",
-        "maplibre-gl-js",
-        "tauri-app"
-      ],
-      "openIssuesCount": 2,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1256283540",
       "name": "ai-data-analysis-julius-ai-rows-ai",
       "nameWithOwner": "Petasetassel/ai-data-analysis-julius-ai-rows-ai",
       "description": "AI Data Analysis — rows ai, chatgpt data analysis, ai spreadsheet, ai for excel. for Windows",
       "url": "https://github.com/Petasetassel/ai-data-analysis-julius-ai-rows-ai",
-      "stargazerCount": 24,
+      "stargazerCount": 23,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -43,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/288377976?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-01T16:22:32Z",
-      "updatedAt": "2026-06-02T00:36:04Z",
+      "updatedAt": "2026-06-02T21:26:22Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "ai-analytics",
@@ -52,6 +26,32 @@
         "data-science",
         "julius-ai",
         "rows-ai"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1252681563",
+      "name": "R-Studio-Pro-cracked",
+      "nameWithOwner": "Blockadevenippers/R-Studio-Pro-cracked",
+      "description": "R Studio Pro - IDE for R programming language with data science and statistics tools. Includes setup guide, feature overview, and download instructions.",
+      "url": "https://github.com/Blockadevenippers/R-Studio-Pro-cracked",
+      "stargazerCount": 15,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "Blockadevenippers",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/288738670?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-28T19:06:37Z",
+      "updatedAt": "2026-06-03T08:44:49Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "data-science",
+        "ide",
+        "r-programming",
+        "rstudio",
+        "statistics"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

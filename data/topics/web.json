@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T08:46:43Z",
+  "generatedAt": "2026-06-03T09:04:22Z",
   "topic": "web",
   "totalCount": 4,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "SiriusNEO/StarAgent",
       "description": "Lightweight agent multiplexer, all in one Web dashboard",
       "url": "https://github.com/SiriusNEO/StarAgent",
-      "stargazerCount": 15,
+      "stargazerCount": 18,
       "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/41781658?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-29T07:49:30Z",
-      "updatedAt": "2026-06-02T02:46:20Z",
+      "updatedAt": "2026-06-03T08:05:34Z",
       "licenseName": "MIT",
       "topics": [
         "agent",
@@ -92,7 +92,7 @@
       "nameWithOwner": "TheYali1/Woo",
       "description": "Turn any website into a working exe with a lot of features!",
       "url": "https://github.com/TheYali1/Woo",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 0,
       "languageName": "C#",
       "languageColor": null,
@@ -100,7 +100,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/166911202?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-30T06:18:30Z",
-      "updatedAt": "2026-06-01T18:48:53Z",
+      "updatedAt": "2026-06-02T13:49:04Z",
       "licenseName": "MIT",
       "topics": [
         "electron",

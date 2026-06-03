@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-02T08:46:43Z",
+  "generatedAt": "2026-06-03T09:04:22Z",
   "topic": "flutter",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1253662105",
@@ -9,15 +9,15 @@
       "nameWithOwner": "YeLwinOo-Steve/particles_image",
       "description": "Interactive particles image in Flutter",
       "url": "https://github.com/YeLwinOo-Steve/particles_image",
-      "stargazerCount": 8,
-      "forkCount": 0,
+      "stargazerCount": 10,
+      "forkCount": 1,
       "languageName": "Dart",
       "languageColor": null,
       "ownerLogin": "YeLwinOo-Steve",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/63007384?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-29T17:33:13Z",
-      "updatedAt": "2026-06-02T01:24:41Z",
+      "updatedAt": "2026-06-02T16:59:35Z",
       "licenseName": null,
       "topics": [
         "animation",
@@ -25,6 +25,44 @@
         "particle-physics"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1252936604",
+      "name": "mobile-agency",
+      "nameWithOwner": "salmanashraf/mobile-agency",
+      "description": "A curated collection of AI-powered skills, agents, prompts, and workflows for Android, iOS, Flutter, React Native, Unity, and Unreal developers. Build faster, debug smarter, review code, optimize performance, automate tasks, and ship high-quality apps and games with reusable AI productivity tools.",
+      "url": "https://github.com/salmanashraf/mobile-agency",
+      "stargazerCount": 6,
+      "forkCount": 1,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "salmanashraf",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/2988051?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-05-29T02:38:57Z",
+      "updatedAt": "2026-06-03T03:04:05Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ai-agents",
+        "android",
+        "chatgpt",
+        "claude",
+        "copilot",
+        "cursor",
+        "developer-tools",
+        "flutter",
+        "game-development",
+        "ios",
+        "mobile-development",
+        "productivity",
+        "prompts",
+        "react-native",
+        "software-engineering",
+        "unity",
+        "unreal-engine"
+      ],
+      "openIssuesCount": 3,
       "closedIssuesCount": 0
     }
   ]
