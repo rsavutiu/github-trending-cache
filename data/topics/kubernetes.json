@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-03T09:04:22Z",
+  "generatedAt": "2026-06-04T08:34:20Z",
   "topic": "kubernetes",
-  "totalCount": 4,
+  "totalCount": 6,
   "repos": [
     {
       "id": "1257281839",
@@ -9,7 +9,7 @@
       "nameWithOwner": "CordWatchmanSeek/Rancher-Prime-cracked",
       "description": "Rancher Prime - Kubernetes management platform for multi-cluster operations. Includes setup guide, feature overview, and download instructions.",
       "url": "https://github.com/CordWatchmanSeek/Rancher-Prime-cracked",
-      "stargazerCount": 17,
+      "stargazerCount": 18,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/288738648?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-02T14:29:55Z",
-      "updatedAt": "2026-06-03T08:06:58Z",
+      "updatedAt": "2026-06-03T10:09:59Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "kubernetes",
@@ -69,7 +69,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/287805257?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-30T14:14:16Z",
-      "updatedAt": "2026-06-02T07:07:36Z",
+      "updatedAt": "2026-06-03T15:05:45Z",
       "licenseName": null,
       "topics": [
         "cost-optimization",
@@ -79,6 +79,63 @@
         "performance-optimization",
         "scanner",
         "waste-detection"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1254592375",
+      "name": "doktainer",
+      "nameWithOwner": "DoktainerApp/doktainer",
+      "description": "Doktainer is an open-source, self-hosted platform for managing servers, applications, containers, domains, SSL, backups, and deployment operations from a single web panel.",
+      "url": "https://github.com/DoktainerApp/doktainer",
+      "stargazerCount": 11,
+      "forkCount": 4,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "DoktainerApp",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/289041320?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-05-30T19:05:00Z",
+      "updatedAt": "2026-06-04T02:35:22Z",
+      "licenseName": "MIT",
+      "topics": [
+        "deployment",
+        "devops-tools",
+        "docker",
+        "docker-compose",
+        "docker-compose-template",
+        "kubernetes",
+        "mariadb",
+        "mongodb",
+        "mysql",
+        "phpmyadmin",
+        "postgresql",
+        "redis",
+        "self-hosted"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1252962857",
+      "name": "fem-kubernetes",
+      "nameWithOwner": "ALT-F4-LLC/fem-kubernetes",
+      "description": "Example project from Kubernetes on Frontend Masters.",
+      "url": "https://github.com/ALT-F4-LLC/fem-kubernetes",
+      "stargazerCount": 8,
+      "forkCount": 4,
+      "languageName": "Makefile",
+      "languageColor": null,
+      "ownerLogin": "ALT-F4-LLC",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/87674867?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-05-29T03:24:25Z",
+      "updatedAt": "2026-06-03T23:54:25Z",
+      "licenseName": null,
+      "topics": [
+        "frontend-masters",
+        "kubernetes"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

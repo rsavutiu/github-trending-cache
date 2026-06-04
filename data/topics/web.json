@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T09:04:22Z",
+  "generatedAt": "2026-06-04T08:34:20Z",
   "topic": "web",
   "totalCount": 4,
   "repos": [
@@ -35,6 +35,43 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1258562044",
+      "name": "proof-vc-web",
+      "nameWithOwner": "proof/proof-vc-web",
+      "description": "Web Components for Proof Digital Credentials.",
+      "url": "https://github.com/proof/proof-vc-web",
+      "stargazerCount": 15,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "proof",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/39162611?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-06-03T17:42:00Z",
+      "updatedAt": "2026-06-04T00:16:50Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "angular",
+        "html-css-javascript",
+        "oauth",
+        "oid4vc",
+        "oid4vci",
+        "oid4vp",
+        "proof",
+        "react",
+        "sd-jwt-vc",
+        "selective-disclosure",
+        "svelte",
+        "verifiable-credentials",
+        "verifiable-presentations",
+        "vue",
+        "web",
+        "web-components"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1253056628",
       "name": "cascadiajs-2026-web-workers",
       "nameWithOwner": "cyatteau/cascadiajs-2026-web-workers",
@@ -59,34 +96,6 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1252009514",
-      "name": "overfetch",
-      "nameWithOwner": "unaisshemim/overfetch",
-      "description": "See unused API fields instantly.",
-      "url": "https://github.com/unaisshemim/overfetch",
-      "stargazerCount": 9,
-      "forkCount": 0,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "unaisshemim",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/72747883?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-28T05:32:42Z",
-      "updatedAt": "2026-05-29T07:19:47Z",
-      "licenseName": null,
-      "topics": [
-        "api",
-        "developer",
-        "frontend",
-        "json",
-        "payload",
-        "software",
-        "web"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1254094785",
       "name": "Woo",
       "nameWithOwner": "TheYali1/Woo",
@@ -100,7 +109,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/166911202?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-30T06:18:30Z",
-      "updatedAt": "2026-06-02T13:49:04Z",
+      "updatedAt": "2026-06-03T12:50:51Z",
       "licenseName": "MIT",
       "topics": [
         "electron",

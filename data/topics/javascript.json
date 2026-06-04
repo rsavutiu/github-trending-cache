@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-03T09:04:22Z",
+  "generatedAt": "2026-06-04T08:34:20Z",
   "topic": "javascript",
-  "totalCount": 6,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1254975773",
@@ -9,7 +9,7 @@
       "nameWithOwner": "emirhanyener/three-interior-plane",
       "description": "Interior mapping with shader in Three.js. Color and texture of all surfaces can be individually changed using shader uniform.",
       "url": "https://github.com/emirhanyener/three-interior-plane",
-      "stargazerCount": 44,
+      "stargazerCount": 46,
       "forkCount": 7,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/97049246?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-31T08:32:44Z",
-      "updatedAt": "2026-06-03T01:04:19Z",
+      "updatedAt": "2026-06-03T21:43:34Z",
       "licenseName": "MIT",
       "topics": [
         "glsl",
@@ -37,7 +37,7 @@
       "nameWithOwner": "GeanoFeeFoundry/geanos-jump-n-run-editor",
       "description": "Transform Foundry VTT into a side-scrolling platformer! Features a custom physics engine, multiplayer movement, hazards, and a full level editor suite. Jump, wall-slide, and dodge spikes in real-time.",
       "url": "https://github.com/GeanoFeeFoundry/geanos-jump-n-run-editor",
-      "stargazerCount": 12,
+      "stargazerCount": 16,
       "forkCount": 0,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -45,7 +45,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/289777265?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-01T18:07:48Z",
-      "updatedAt": "2026-06-03T02:52:03Z",
+      "updatedAt": "2026-06-04T04:55:55Z",
       "licenseName": "MIT",
       "topics": [
         "foundry-vtt",
@@ -114,65 +114,6 @@
         "webgl2"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1252057906",
-      "name": "light-html-editor",
-      "nameWithOwner": "Apposters/light-html-editor",
-      "description": "Lightweight embeddable WYSIWYG editor for existing HTML pages. Zero dependencies, 8 KB gzipped. https://light-html-editor.apposters.com/",
-      "url": "https://github.com/Apposters/light-html-editor",
-      "stargazerCount": 6,
-      "forkCount": 1,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "Apposters",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/288090664?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-05-28T06:40:11Z",
-      "updatedAt": "2026-06-02T13:41:17Z",
-      "licenseName": "MIT",
-      "topics": [
-        "contenteditable",
-        "html",
-        "javascript",
-        "landing-page",
-        "lightweight",
-        "no-code",
-        "no-dependencies",
-        "page-builder",
-        "react",
-        "typescript",
-        "wysiwyg"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1252159933",
-      "name": "vyui",
-      "nameWithOwner": "KealanAU/vyui",
-      "description": "Lynx-native UI primitives for Vue, ported from reka-ui",
-      "url": "https://github.com/KealanAU/vyui",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Vue",
-      "languageColor": null,
-      "ownerLogin": "KealanAU",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/59548500?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-28T08:45:19Z",
-      "updatedAt": "2026-06-02T18:16:39Z",
-      "licenseName": "MIT",
-      "topics": [
-        "components",
-        "javascript",
-        "lynx",
-        "lynxjs",
-        "ui",
-        "vue"
-      ],
-      "openIssuesCount": 12,
       "closedIssuesCount": 0
     }
   ]

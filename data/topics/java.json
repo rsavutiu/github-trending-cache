@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T09:04:22Z",
+  "generatedAt": "2026-06-04T08:34:20Z",
   "topic": "java",
   "totalCount": 1,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "JavaJub/java-interview",
       "description": "Вопросы и ответы для собеседования Java-разработчика: Сбер, Альфа-Банк, Т1, VK, Яндекс, МТС и т.д. Java Core, JVM, Spring, многопоточность, SQL, System Design.",
       "url": "https://github.com/JavaJub/java-interview",
-      "stargazerCount": 56,
+      "stargazerCount": 41,
       "forkCount": 1,
       "languageName": null,
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/289958131?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-02T08:32:44Z",
-      "updatedAt": "2026-06-03T08:48:07Z",
+      "updatedAt": "2026-06-04T08:09:06Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "backend",
