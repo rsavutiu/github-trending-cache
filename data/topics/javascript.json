@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-04T08:34:20Z",
+  "generatedAt": "2026-06-05T08:16:42Z",
   "topic": "javascript",
-  "totalCount": 4,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1254975773",
@@ -9,7 +9,7 @@
       "nameWithOwner": "emirhanyener/three-interior-plane",
       "description": "Interior mapping with shader in Three.js. Color and texture of all surfaces can be individually changed using shader uniform.",
       "url": "https://github.com/emirhanyener/three-interior-plane",
-      "stargazerCount": 46,
+      "stargazerCount": 51,
       "forkCount": 7,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/97049246?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-31T08:32:44Z",
-      "updatedAt": "2026-06-03T21:43:34Z",
+      "updatedAt": "2026-06-04T15:32:25Z",
       "licenseName": "MIT",
       "topics": [
         "glsl",
@@ -32,12 +32,44 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1257875381",
+      "name": "M2_GIT_DIFF",
+      "nameWithOwner": "M2Station/M2_GIT_DIFF",
+      "description": "[M2] Desktop app to compare two local Git repos' commit history side-by-side — colour-coded matches, cherry-pick detection (title / patch-id / fuzzy content similarity), manual links, notes, Excel export, multi-theme & i18n. Built with Electron + React.",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF",
+      "stargazerCount": 30,
+      "forkCount": 0,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "M2Station",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/269416087?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-06-03T04:50:44Z",
+      "updatedAt": "2026-06-05T08:00:15Z",
+      "licenseName": "MIT",
+      "topics": [
+        "app",
+        "css",
+        "diff",
+        "engineering",
+        "git",
+        "javascript",
+        "mcu",
+        "nodejs",
+        "powershell",
+        "surface",
+        "uefi"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1256376009",
       "name": "geanos-jump-n-run-editor",
       "nameWithOwner": "GeanoFeeFoundry/geanos-jump-n-run-editor",
       "description": "Transform Foundry VTT into a side-scrolling platformer! Features a custom physics engine, multiplayer movement, hazards, and a full level editor suite. Jump, wall-slide, and dodge spikes in real-time.",
       "url": "https://github.com/GeanoFeeFoundry/geanos-jump-n-run-editor",
-      "stargazerCount": 16,
+      "stargazerCount": 17,
       "forkCount": 0,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -45,7 +77,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/289777265?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-01T18:07:48Z",
-      "updatedAt": "2026-06-04T04:55:55Z",
+      "updatedAt": "2026-06-05T03:23:12Z",
       "licenseName": "MIT",
       "topics": [
         "foundry-vtt",
@@ -60,30 +92,6 @@
         "physics-engine",
         "platformer",
         "side-scroller"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1253056628",
-      "name": "cascadiajs-2026-web-workers",
-      "nameWithOwner": "cyatteau/cascadiajs-2026-web-workers",
-      "description": "Slides and demos for my CascadiaJS 2026 talk, Keep the Main Thread Free with Web Workers.",
-      "url": "https://github.com/cyatteau/cascadiajs-2026-web-workers",
-      "stargazerCount": 9,
-      "forkCount": 0,
-      "languageName": "JavaScript",
-      "languageColor": null,
-      "ownerLogin": "cyatteau",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/112517097?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-29T05:47:04Z",
-      "updatedAt": "2026-06-01T18:55:20Z",
-      "licenseName": null,
-      "topics": [
-        "frontend",
-        "javascript",
-        "web"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -112,6 +120,35 @@
         "liquid-glass",
         "webgl",
         "webgl2"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1258071797",
+      "name": "ai-sprite-align-tool",
+      "nameWithOwner": "zxc02621948-sketch/ai-sprite-align-tool",
+      "description": "A browser-based tool for fixing misaligned AI-generated sprite sheets. ",
+      "url": "https://github.com/zxc02621948-sketch/ai-sprite-align-tool",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "HTML",
+      "languageColor": null,
+      "ownerLogin": "zxc02621948-sketch",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/223651909?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-03T08:51:35Z",
+      "updatedAt": "2026-06-05T06:12:33Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ai-tools",
+        "animation",
+        "game-dev",
+        "html",
+        "javascript",
+        "pixel-art",
+        "sprite",
+        "spritesheet"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

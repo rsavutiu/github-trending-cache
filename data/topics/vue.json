@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T08:34:20Z",
+  "generatedAt": "2026-06-05T08:16:42Z",
   "topic": "vue",
   "totalCount": 1,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "proof/proof-vc-web",
       "description": "Web Components for Proof Digital Credentials.",
       "url": "https://github.com/proof/proof-vc-web",
-      "stargazerCount": 15,
+      "stargazerCount": 16,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/39162611?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-06-03T17:42:00Z",
-      "updatedAt": "2026-06-04T00:16:50Z",
+      "updatedAt": "2026-06-04T16:51:13Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "angular",

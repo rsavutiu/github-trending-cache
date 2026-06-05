@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-04T08:34:20Z",
+  "generatedAt": "2026-06-05T08:16:42Z",
   "topic": "go",
-  "totalCount": 7,
+  "totalCount": 6,
   "repos": [
     {
       "id": "1254366643",
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/113182991?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-30T13:28:13Z",
-      "updatedAt": "2026-06-04T04:24:54Z",
+      "updatedAt": "2026-06-04T18:51:35Z",
       "licenseName": "MIT",
       "topics": [
         "artisan",
@@ -38,37 +38,6 @@
         "web-framework"
       ],
       "openIssuesCount": 23,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1253291046",
-      "name": "sigma",
-      "nameWithOwner": "wintermi/sigma",
-      "description": "sigma is a Go package for provider-neutral AI model calls.",
-      "url": "https://github.com/wintermi/sigma",
-      "stargazerCount": 15,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "wintermi",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/33818?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-29T10:14:48Z",
-      "updatedAt": "2026-06-03T16:40:01Z",
-      "licenseName": "MIT",
-      "topics": [
-        "claude",
-        "codex",
-        "fireworks-ai",
-        "gemini",
-        "go",
-        "golang",
-        "grok",
-        "kimi",
-        "openai",
-        "xai"
-      ],
-      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -111,44 +80,6 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1252935537",
-      "name": "unstrip",
-      "nameWithOwner": "riven-labs/unstrip",
-      "description": "Recover symbols, types, interfaces, and method signatures from stripped Go binaries. Ghidra, IDA, and Binary Ninja exporters included.",
-      "url": "https://github.com/riven-labs/unstrip",
-      "stargazerCount": 10,
-      "forkCount": 2,
-      "languageName": "Rust",
-      "languageColor": null,
-      "ownerLogin": "riven-labs",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/197464890?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-05-29T02:37:05Z",
-      "updatedAt": "2026-06-04T02:18:45Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "binary-analysis",
-        "binary-ninja",
-        "decompiler-helper",
-        "garble",
-        "ghidra",
-        "ghidra-plugin",
-        "go",
-        "golang",
-        "ida-plugin",
-        "ida-pro",
-        "malware-analysis",
-        "pclntab",
-        "reverse-engineering",
-        "rust",
-        "security-tools",
-        "stripped-binaries",
-        "symbol-recovery"
-      ],
-      "openIssuesCount": 2,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1256451054",
       "name": "ideate",
       "nameWithOwner": "paultyng/ideate",
@@ -162,7 +93,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/422474?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-01T19:42:44Z",
-      "updatedAt": "2026-06-04T08:15:21Z",
+      "updatedAt": "2026-06-04T17:24:58Z",
       "licenseName": "MIT",
       "topics": [
         "agent-orchestration",
@@ -180,7 +111,7 @@
         "react",
         "wails"
       ],
-      "openIssuesCount": 2,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -197,7 +128,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/281736740?v=4",
       "ownerType": "User",
       "createdAt": "2026-05-30T20:36:53Z",
-      "updatedAt": "2026-06-03T18:08:55Z",
+      "updatedAt": "2026-06-05T07:59:29Z",
       "licenseName": null,
       "topics": [
         "example",
@@ -206,6 +137,30 @@
         "python"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1258485826",
+      "name": "exists.lol",
+      "nameWithOwner": "segfaultuwu/exists.lol",
+      "description": "Grab your free sweet looking subdomain! inspired by https://github.com/is-a-dev/register",
+      "url": "https://github.com/segfaultuwu/exists.lol",
+      "stargazerCount": 6,
+      "forkCount": 2,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "segfaultuwu",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/284806546?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-03T16:14:09Z",
+      "updatedAt": "2026-06-04T11:57:00Z",
+      "licenseName": "MIT",
+      "topics": [
+        "go",
+        "golang",
+        "subdomain"
+      ],
+      "openIssuesCount": 2,
       "closedIssuesCount": 0
     },
     {
@@ -222,11 +177,14 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1500781?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-02T21:49:30Z",
-      "updatedAt": "2026-06-04T08:11:03Z",
+      "updatedAt": "2026-06-04T21:12:17Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "go",
+        "translate",
+        "translate-api",
         "translater",
+        "translates",
         "wails3"
       ],
       "openIssuesCount": 0,

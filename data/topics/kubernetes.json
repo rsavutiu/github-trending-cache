@@ -1,60 +1,8 @@
 {
-  "generatedAt": "2026-06-04T08:34:20Z",
+  "generatedAt": "2026-06-05T08:16:42Z",
   "topic": "kubernetes",
-  "totalCount": 6,
+  "totalCount": 2,
   "repos": [
-    {
-      "id": "1257281839",
-      "name": "Rancher-Prime-cracked",
-      "nameWithOwner": "CordWatchmanSeek/Rancher-Prime-cracked",
-      "description": "Rancher Prime - Kubernetes management platform for multi-cluster operations. Includes setup guide, feature overview, and download instructions.",
-      "url": "https://github.com/CordWatchmanSeek/Rancher-Prime-cracked",
-      "stargazerCount": 18,
-      "forkCount": 0,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "CordWatchmanSeek",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/288738648?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-02T14:29:55Z",
-      "updatedAt": "2026-06-03T10:09:59Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "kubernetes",
-        "management",
-        "multi-cluster",
-        "rancher",
-        "suse"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1257278781",
-      "name": "Portainer-Business-cracked",
-      "nameWithOwner": "SorcererAwning/Portainer-Business-cracked",
-      "description": "Portainer Business - Container management GUI for Docker and Kubernetes environments. Official page with installation notes, activation guidance, and configuration tips.",
-      "url": "https://github.com/SorcererAwning/Portainer-Business-cracked",
-      "stargazerCount": 16,
-      "forkCount": 0,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "SorcererAwning",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/288737115?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-02T14:26:55Z",
-      "updatedAt": "2026-06-03T08:58:58Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "container-management",
-        "docker",
-        "gui",
-        "kubernetes",
-        "portainer"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1254400083",
       "name": "kubernetes-wastage-scanner",
@@ -97,7 +45,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/289041320?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-05-30T19:05:00Z",
-      "updatedAt": "2026-06-04T02:35:22Z",
+      "updatedAt": "2026-06-05T07:19:53Z",
       "licenseName": "MIT",
       "topics": [
         "deployment",
@@ -113,54 +61,6 @@
         "postgresql",
         "redis",
         "self-hosted"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1252962857",
-      "name": "fem-kubernetes",
-      "nameWithOwner": "ALT-F4-LLC/fem-kubernetes",
-      "description": "Example project from Kubernetes on Frontend Masters.",
-      "url": "https://github.com/ALT-F4-LLC/fem-kubernetes",
-      "stargazerCount": 8,
-      "forkCount": 4,
-      "languageName": "Makefile",
-      "languageColor": null,
-      "ownerLogin": "ALT-F4-LLC",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/87674867?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-05-29T03:24:25Z",
-      "updatedAt": "2026-06-03T23:54:25Z",
-      "licenseName": null,
-      "topics": [
-        "frontend-masters",
-        "kubernetes"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1253586720",
-      "name": "genkit-operator",
-      "nameWithOwner": "xavidop/genkit-operator",
-      "description": "Genkit Operator - Deploy Genkit Apps in a declarative way",
-      "url": "https://github.com/xavidop/genkit-operator",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "xavidop",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4416096?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-29T16:04:17Z",
-      "updatedAt": "2026-06-03T05:44:09Z",
-      "licenseName": null,
-      "topics": [
-        "genkit",
-        "genkitx",
-        "kubernetes",
-        "kubernetes-operator"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
