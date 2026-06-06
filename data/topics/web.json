@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-05T08:16:42Z",
+  "generatedAt": "2026-06-06T07:25:12Z",
   "topic": "web",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1258562044",
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/39162611?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-06-03T17:42:00Z",
-      "updatedAt": "2026-06-04T16:51:13Z",
+      "updatedAt": "2026-06-05T11:00:59Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "angular",
@@ -72,38 +72,7 @@
         "viewer",
         "web"
       ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1254094785",
-      "name": "Woo",
-      "nameWithOwner": "TheYali1/Woo",
-      "description": "Turn any website into a working exe with a lot of features!",
-      "url": "https://github.com/TheYali1/Woo",
-      "stargazerCount": 8,
-      "forkCount": 0,
-      "languageName": "C#",
-      "languageColor": null,
-      "ownerLogin": "TheYali1",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/166911202?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-30T06:18:30Z",
-      "updatedAt": "2026-06-04T10:22:17Z",
-      "licenseName": "MIT",
-      "topics": [
-        "electron",
-        "electron-app",
-        "exe",
-        "generator",
-        "html",
-        "site",
-        "tauri",
-        "tauri-app",
-        "web",
-        "website"
-      ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]
