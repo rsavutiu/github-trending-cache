@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T07:25:12Z",
+  "generatedAt": "2026-06-07T08:02:03Z",
   "topic": "java",
   "totalCount": 3,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "myccarl/ai-shortVideo-pipeline",
       "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
       "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-      "stargazerCount": 41,
+      "stargazerCount": 53,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/94903442?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-04T13:49:51Z",
-      "updatedAt": "2026-06-06T04:27:57Z",
+      "updatedAt": "2026-06-07T07:46:36Z",
       "licenseName": "MIT",
       "topics": [
         "ai",
@@ -58,7 +58,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/289958131?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-02T08:32:44Z",
-      "updatedAt": "2026-06-05T16:43:59Z",
+      "updatedAt": "2026-06-06T14:43:33Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "backend",
@@ -82,7 +82,7 @@
       "nameWithOwner": "musaddiqbaluch/ShizuIsolation",
       "description": "Shizu Isolation is an Android app that protects your data with one tap. This APK locks your USB port to charging-only mode instantly, blocking unauthorized data access from untrusted computers, public chargers, or unknown devices. Simple, lightweight, and no root required — powered by Shizuku.",
       "url": "https://github.com/musaddiqbaluch/ShizuIsolation",
-      "stargazerCount": 11,
+      "stargazerCount": 15,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -90,7 +90,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/288562449?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-03T15:15:47Z",
-      "updatedAt": "2026-06-06T02:59:24Z",
+      "updatedAt": "2026-06-07T07:42:55Z",
       "licenseName": null,
       "topics": [
         "android",

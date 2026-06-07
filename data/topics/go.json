@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T07:25:12Z",
+  "generatedAt": "2026-06-07T08:02:03Z",
   "topic": "go",
   "totalCount": 5,
   "repos": [
@@ -56,7 +56,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/422474?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-01T19:42:44Z",
-      "updatedAt": "2026-06-05T18:11:15Z",
+      "updatedAt": "2026-06-06T17:03:37Z",
       "licenseName": "MIT",
       "topics": [
         "agent-orchestration",
@@ -74,7 +74,31 @@
         "react",
         "wails"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1258485826",
+      "name": "exists.lol",
+      "nameWithOwner": "segfaultuwu/exists.lol",
+      "description": "Grab your free sweet looking subdomain! inspired by https://github.com/is-a-dev/register",
+      "url": "https://github.com/segfaultuwu/exists.lol",
+      "stargazerCount": 6,
+      "forkCount": 2,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "segfaultuwu",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/284806546?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-03T16:14:09Z",
+      "updatedAt": "2026-06-06T09:26:24Z",
+      "licenseName": "MIT",
+      "topics": [
+        "go",
+        "golang",
+        "subdomain"
+      ],
+      "openIssuesCount": 3,
       "closedIssuesCount": 0
     },
     {
@@ -116,30 +140,6 @@
         "tui"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1258485826",
-      "name": "exists.lol",
-      "nameWithOwner": "segfaultuwu/exists.lol",
-      "description": "Grab your free sweet looking subdomain! inspired by https://github.com/is-a-dev/register",
-      "url": "https://github.com/segfaultuwu/exists.lol",
-      "stargazerCount": 6,
-      "forkCount": 2,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "segfaultuwu",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/284806546?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-03T16:14:09Z",
-      "updatedAt": "2026-06-06T05:06:05Z",
-      "licenseName": "MIT",
-      "topics": [
-        "go",
-        "golang",
-        "subdomain"
-      ],
-      "openIssuesCount": 2,
       "closedIssuesCount": 0
     },
     {

@@ -1,36 +1,6 @@
 {
-  "generatedAt": "2026-06-06T07:25:12Z",
+  "generatedAt": "2026-06-07T08:02:03Z",
   "topic": "kotlin",
-  "totalCount": 1,
-  "repos": [
-    {
-      "id": "1254931749",
-      "name": "fanvpn-android",
-      "nameWithOwner": "FanVPN/fanvpn-android",
-      "description": "FanVPN Android client — GPL-3.0 fork of ClashMetaForAndroid (mihomo core)",
-      "url": "https://github.com/FanVPN/fanvpn-android",
-      "stargazerCount": 52,
-      "forkCount": 8,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "FanVPN",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/289351355?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-31T07:13:27Z",
-      "updatedAt": "2026-06-06T04:57:03Z",
-      "licenseName": "GPL-3.0",
-      "topics": [
-        "android",
-        "clash",
-        "clash-meta",
-        "gfw",
-        "kotlin",
-        "mihomo",
-        "proxy",
-        "vpn"
-      ],
-      "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    }
-  ]
+  "totalCount": 0,
+  "repos": []
 }

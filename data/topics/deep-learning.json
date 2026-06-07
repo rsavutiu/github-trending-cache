@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T07:25:12Z",
+  "generatedAt": "2026-06-07T08:02:03Z",
   "topic": "deep-learning",
   "totalCount": 5,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "Somnusochi/VLM-AutoYOLO",
       "description": "AI Auto Annotation & YOLO Training Pipeline, End-to-end object detection auto-labeling and YOLO training platform. VLM-powered annotation with NVIDIA LocateAnything-3B, manual refinement, one-click YOLO training, video keyframe extraction, and model validation. Supports image and video.",
       "url": "https://github.com/Somnusochi/VLM-AutoYOLO",
-      "stargazerCount": 52,
-      "forkCount": 4,
+      "stargazerCount": 74,
+      "forkCount": 7,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "Somnusochi",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14160184?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-02T03:55:53Z",
-      "updatedAt": "2026-06-06T06:34:34Z",
+      "updatedAt": "2026-06-07T06:49:39Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "auto-labeling",
@@ -36,30 +36,6 @@
         "vlm",
         "yolo",
         "yolo-training"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1254821750",
-      "name": "TerraTiff",
-      "nameWithOwner": "Hejarshahabi/TerraTiff",
-      "description": "A lightweight, GDAL-free Python package for reading, writing, resampling, and masking GeoTIFF raster files using Numpy.",
-      "url": "https://github.com/Hejarshahabi/TerraTiff",
-      "stargazerCount": 21,
-      "forkCount": 2,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "Hejarshahabi",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/36453533?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-05-31T03:29:29Z",
-      "updatedAt": "2026-06-05T14:39:52Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "deep-learning",
-        "geospatial",
-        "remotesensing"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -96,7 +72,7 @@
       "nameWithOwner": "lucidrains/disco-rl-pytorch",
       "description": "Implementation and explorations into DiscoRL, Discovering state-of-the-art reinforcement learning algorithms, David Silver's last work at Deepmind",
       "url": "https://github.com/lucidrains/disco-rl-pytorch",
-      "stargazerCount": 15,
+      "stargazerCount": 16,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -104,13 +80,38 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-02T19:15:29Z",
-      "updatedAt": "2026-06-05T23:53:22Z",
+      "updatedAt": "2026-06-07T06:07:29Z",
       "licenseName": "MIT",
       "topics": [
         "artificial-intelligence",
         "deep-learning",
         "meta-learning",
         "reinforcement-learning"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1260813269",
+      "name": "i2dl-exam-qa",
+      "nameWithOwner": "c0nsTantin77/i2dl-exam-qa",
+      "description": "Interactive TUM IN2346 Introduction to Deep Learning exam review site with progress tracking, notes, filters, and cross-device sync",
+      "url": "https://github.com/c0nsTantin77/i2dl-exam-qa",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": "HTML",
+      "languageColor": null,
+      "ownerLogin": "c0nsTantin77",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/148088383?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-05T22:44:59Z",
+      "updatedAt": "2026-06-07T07:56:16Z",
+      "licenseName": null,
+      "topics": [
+        "deep-learning",
+        "i2dl",
+        "in2346",
+        "tum"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
