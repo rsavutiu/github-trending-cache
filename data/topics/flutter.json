@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T08:02:03Z",
+  "generatedAt": "2026-06-08T09:02:57Z",
   "topic": "flutter",
   "totalCount": 2,
   "repos": [
@@ -42,7 +42,7 @@
       "nameWithOwner": "Atuoha/nokia_105_preview",
       "description": "High-fidelity, vector-based recreation of Nokia 105 using Flutter’s CustomPaint and path manipulation.",
       "url": "https://github.com/Atuoha/nokia_105_preview",
-      "stargazerCount": 6,
+      "stargazerCount": 8,
       "forkCount": 2,
       "languageName": "Dart",
       "languageColor": null,
@@ -50,7 +50,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/51769675?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-05T06:43:20Z",
-      "updatedAt": "2026-06-05T23:40:35Z",
+      "updatedAt": "2026-06-07T15:46:38Z",
       "licenseName": null,
       "topics": [
         "custom-painter",

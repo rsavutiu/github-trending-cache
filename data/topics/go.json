@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-07T08:02:03Z",
+  "generatedAt": "2026-06-08T09:02:57Z",
   "topic": "go",
-  "totalCount": 5,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1257782249",
@@ -40,41 +40,6 @@
         "webssh"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1256451054",
-      "name": "ideate",
-      "nameWithOwner": "paultyng/ideate",
-      "description": "One home for every idea — local-first macOS desktop app for tracking work-in-flight with linked repo worktrees, context files, external resources, and AI agent sessions, all per-idea.",
-      "url": "https://github.com/paultyng/ideate",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "paultyng",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/422474?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-01T19:42:44Z",
-      "updatedAt": "2026-06-06T17:03:37Z",
-      "licenseName": "MIT",
-      "topics": [
-        "agent-orchestration",
-        "ai-agent",
-        "claude-code",
-        "desktop-app",
-        "go",
-        "idea-management",
-        "local-first",
-        "macos",
-        "mcp",
-        "model-context-protocol",
-        "personal-knowledge-management",
-        "productivity",
-        "react",
-        "wails"
-      ],
-      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
