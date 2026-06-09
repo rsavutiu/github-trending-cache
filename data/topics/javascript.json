@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-08T09:02:57Z",
+  "generatedAt": "2026-06-09T08:00:59Z",
   "topic": "javascript",
-  "totalCount": 5,
+  "totalCount": 7,
   "repos": [
     {
       "id": "1260200602",
@@ -9,7 +9,7 @@
       "nameWithOwner": "AlemTuzlak/kiira",
       "description": "Type-check the TypeScript & JavaScript code in your Markdown against your real project — in your editor, the CLI, and CI.",
       "url": "https://github.com/AlemTuzlak/kiira",
-      "stargazerCount": 62,
+      "stargazerCount": 67,
       "forkCount": 1,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/18480956?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-05T08:48:59Z",
-      "updatedAt": "2026-06-08T04:03:49Z",
+      "updatedAt": "2026-06-09T07:48:40Z",
       "licenseName": "MIT",
       "topics": [
         "cli",
@@ -77,7 +77,7 @@
       "nameWithOwner": "Srikanta2000/awesome-demo-portfolio",
       "description": "Modern Portfolio & Interactive Dashboard - Built with HTML/CSS/JS",
       "url": "https://github.com/Srikanta2000/awesome-demo-portfolio",
-      "stargazerCount": 29,
+      "stargazerCount": 28,
       "forkCount": 0,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -85,7 +85,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/149552359?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-05T12:53:49Z",
-      "updatedAt": "2026-06-08T08:38:26Z",
+      "updatedAt": "2026-06-09T06:01:51Z",
       "licenseName": null,
       "topics": [
         "animation",
@@ -106,7 +106,7 @@
       "nameWithOwner": "xeind/vallow.nvim",
       "description": "fallow for Neovim — see your unused code, dups, and health in a native split",
       "url": "https://github.com/xeind/vallow.nvim",
-      "stargazerCount": 6,
+      "stargazerCount": 12,
       "forkCount": 0,
       "languageName": "Lua",
       "languageColor": null,
@@ -114,7 +114,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/85933784?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-05T14:50:00Z",
-      "updatedAt": "2026-06-08T08:57:46Z",
+      "updatedAt": "2026-06-08T19:47:18Z",
       "licenseName": "MIT",
       "topics": [
         "code-quality",
@@ -131,6 +131,32 @@
         "typecript",
         "unused-code",
         "unused-exports"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1260967189",
+      "name": "TechNest_Ecommerce_Website",
+      "nameWithOwner": "Sara12-2/TechNest_Ecommerce_Website",
+      "description": "Premium React e-commerce with cart, wishlist, dark mode, search filters, and local storage persistence. Glassmorphism UI with stunning animations.",
+      "url": "https://github.com/Sara12-2/TechNest_Ecommerce_Website",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "Sara12-2",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/214316503?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-06T04:39:26Z",
+      "updatedAt": "2026-06-08T17:15:24Z",
+      "licenseName": null,
+      "topics": [
+        "bootstrap",
+        "javascript",
+        "localstorage",
+        "react",
+        "vite"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -160,6 +186,38 @@
         "pixel-art",
         "sprite",
         "spritesheet"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1258560454",
+      "name": "harini-portfolio",
+      "nameWithOwner": "harinisrikb/harini-portfolio",
+      "description": "Personal developer portfolio showcasing my projects, skills, certifications, and experience in AI/ML, Python, and Full-Stack Development.",
+      "url": "https://github.com/harinisrikb/harini-portfolio",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "harinisrikb",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/215239481?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-03T17:40:10Z",
+      "updatedAt": "2026-06-08T18:34:06Z",
+      "licenseName": null,
+      "topics": [
+        "ai-ml",
+        "developer-portfolio",
+        "frontend",
+        "full-stack-development",
+        "javascript",
+        "portfolio",
+        "python",
+        "react",
+        "tailwindcss",
+        "vite",
+        "web-development"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
