@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-09T08:00:59Z",
+  "generatedAt": "2026-06-10T08:17:26Z",
   "topic": "data-science",
-  "totalCount": 2,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1259523685",
@@ -10,14 +10,14 @@
       "description": "Self-hosted multi-user Apache Spark notebooks — PySpark + Scala, per-user kernel pods, MinIO IAM storage, OAuth. One Helm install. Apache-2.0.",
       "url": "https://github.com/sparklabx/sparklabx",
       "stargazerCount": 11,
-      "forkCount": 3,
+      "forkCount": 6,
       "languageName": "TypeScript",
       "languageColor": null,
       "ownerLogin": "sparklabx",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/290769292?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-06-04T15:38:10Z",
-      "updatedAt": "2026-06-08T15:57:25Z",
+      "updatedAt": "2026-06-09T18:20:57Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "almond",
@@ -37,6 +37,43 @@
         "spark"
       ],
       "openIssuesCount": 3,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1262942006",
+      "name": "summer-2027-internships",
+      "nameWithOwner": "sndsh404/summer-2027-internships",
+      "description": "Summer 2027 and off-season tech internships in the US. Software, data and ML, hardware, quant, and product roles, updated regularly.",
+      "url": "https://github.com/sndsh404/summer-2027-internships",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "sndsh404",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/285100587?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-08T13:19:39Z",
+      "updatedAt": "2026-06-10T06:17:39Z",
+      "licenseName": "MIT",
+      "topics": [
+        "2027",
+        "2027-2028-cycle",
+        "computer-science",
+        "cs-internships",
+        "data-science",
+        "internship",
+        "internships",
+        "jobs",
+        "programming-internship",
+        "software-development",
+        "software-engineering",
+        "software-internships",
+        "summer-internship",
+        "swe-internships",
+        "tech-internship",
+        "university"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {

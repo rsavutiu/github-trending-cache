@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-09T08:00:59Z",
+  "generatedAt": "2026-06-10T08:17:26Z",
   "topic": "flutter",
-  "totalCount": 3,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1260114707",
@@ -74,7 +74,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/34223260?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-04T20:05:14Z",
-      "updatedAt": "2026-06-08T15:42:31Z",
+      "updatedAt": "2026-06-10T00:54:37Z",
       "licenseName": null,
       "topics": [
         "flutter",
@@ -83,6 +83,32 @@
         "iranian"
       ],
       "openIssuesCount": 2,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1260150228",
+      "name": "flip_card_plus",
+      "nameWithOwner": "Itsxhadi/flip_card_plus",
+      "description": "A premium, highly customizable 3D flip card widget for Flutter. Features smooth animations, drag-to-flip gestures, interactive hover/tilt effects, custom curves, and zero-allocation performance.",
+      "url": "https://github.com/Itsxhadi/flip_card_plus",
+      "stargazerCount": 6,
+      "forkCount": 1,
+      "languageName": "Dart",
+      "languageColor": null,
+      "ownerLogin": "Itsxhadi",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/99392454?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-05T07:50:36Z",
+      "updatedAt": "2026-06-10T06:53:53Z",
+      "licenseName": "BSD-3-Clause",
+      "topics": [
+        "animation",
+        "flip-card-flutter",
+        "flutter",
+        "flutter-animation-card",
+        "flutter-widget"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

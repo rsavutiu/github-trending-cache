@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T08:00:59Z",
+  "generatedAt": "2026-06-10T08:17:26Z",
   "topic": "kubernetes",
   "totalCount": 4,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "ninoxAI/nightwatch",
       "description": "Open-source, local-first, read-only AI SRE: clusters alert storms, investigates root cause over your live systems, proposes human-gated fixes.",
       "url": "https://github.com/ninoxAI/nightwatch",
-      "stargazerCount": 80,
+      "stargazerCount": 90,
       "forkCount": 4,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/291321419?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-06-04T20:50:18Z",
-      "updatedAt": "2026-06-09T08:00:04Z",
+      "updatedAt": "2026-06-10T07:37:35Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "aiops",
@@ -35,9 +35,9 @@
       "id": "1259878971",
       "name": "konflate",
       "nameWithOwner": "home-operations/konflate",
-      "description": "A read-only pull request tool for Flate",
+      "description": "A read-only pull request review tool for Flux using Flate for rendering.",
       "url": "https://github.com/home-operations/konflate",
-      "stargazerCount": 14,
+      "stargazerCount": 17,
       "forkCount": 0,
       "languageName": "Go",
       "languageColor": null,
@@ -45,7 +45,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/152294696?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-06-05T00:33:40Z",
-      "updatedAt": "2026-06-09T06:42:00Z",
+      "updatedAt": "2026-06-10T03:25:15Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "0ver",
@@ -55,7 +55,7 @@
         "kubernetes",
         "kustomize"
       ],
-      "openIssuesCount": 4,
+      "openIssuesCount": 6,
       "closedIssuesCount": 0
     },
     {
@@ -100,14 +100,14 @@
       "description": "Self-hosted multi-user Apache Spark notebooks — PySpark + Scala, per-user kernel pods, MinIO IAM storage, OAuth. One Helm install. Apache-2.0.",
       "url": "https://github.com/sparklabx/sparklabx",
       "stargazerCount": 11,
-      "forkCount": 3,
+      "forkCount": 6,
       "languageName": "TypeScript",
       "languageColor": null,
       "ownerLogin": "sparklabx",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/290769292?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-06-04T15:38:10Z",
-      "updatedAt": "2026-06-08T15:57:25Z",
+      "updatedAt": "2026-06-09T18:20:57Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "almond",

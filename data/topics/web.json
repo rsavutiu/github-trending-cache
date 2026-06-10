@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T08:00:59Z",
+  "generatedAt": "2026-06-10T08:17:26Z",
   "topic": "web",
   "totalCount": 5,
   "repos": [
@@ -40,43 +40,6 @@
         "youtube",
         "youtube-fix",
         "zapret"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1258562044",
-      "name": "proof-vc-web",
-      "nameWithOwner": "proof/proof-vc-web",
-      "description": "Web Components for Proof Digital Credentials.",
-      "url": "https://github.com/proof/proof-vc-web",
-      "stargazerCount": 16,
-      "forkCount": 0,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "proof",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/39162611?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-06-03T17:42:00Z",
-      "updatedAt": "2026-06-05T11:00:59Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "angular",
-        "html-css-javascript",
-        "oauth",
-        "oid4vc",
-        "oid4vci",
-        "oid4vp",
-        "proof",
-        "react",
-        "sd-jwt-vc",
-        "selective-disclosure",
-        "svelte",
-        "verifiable-credentials",
-        "verifiable-presentations",
-        "vue",
-        "web",
-        "web-components"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -128,7 +91,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/290755922?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-06-04T14:18:53Z",
-      "updatedAt": "2026-06-09T06:37:44Z",
+      "updatedAt": "2026-06-10T01:35:41Z",
       "licenseName": "MIT",
       "topics": [
         "compression",
@@ -179,6 +142,47 @@
         "web"
       ],
       "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1261615186",
+      "name": "math",
+      "nameWithOwner": "webc-site/math",
+      "description": "An ultra-fast, lightweight compiler that compiles LaTeX/TeX formulas directly to native MathML for Markdown and the web, with zero runtime overhead.",
+      "url": "https://github.com/webc-site/math",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "webc-site",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/286439310?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-06-06T23:41:19Z",
+      "updatedAt": "2026-06-10T06:36:43Z",
+      "licenseName": null,
+      "topics": [
+        "compiler",
+        "fast",
+        "html",
+        "js",
+        "katex",
+        "latex",
+        "markdown",
+        "math",
+        "mathjax",
+        "mathml",
+        "npm",
+        "parser",
+        "performance",
+        "renderer",
+        "speed",
+        "ssg",
+        "ssr",
+        "tex",
+        "ts",
+        "web"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

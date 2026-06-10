@@ -1,44 +1,6 @@
 {
-  "generatedAt": "2026-06-09T08:00:59Z",
+  "generatedAt": "2026-06-10T08:17:26Z",
   "topic": "vue",
-  "totalCount": 1,
-  "repos": [
-    {
-      "id": "1258562044",
-      "name": "proof-vc-web",
-      "nameWithOwner": "proof/proof-vc-web",
-      "description": "Web Components for Proof Digital Credentials.",
-      "url": "https://github.com/proof/proof-vc-web",
-      "stargazerCount": 16,
-      "forkCount": 0,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "proof",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/39162611?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-06-03T17:42:00Z",
-      "updatedAt": "2026-06-05T11:00:59Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "angular",
-        "html-css-javascript",
-        "oauth",
-        "oid4vc",
-        "oid4vci",
-        "oid4vp",
-        "proof",
-        "react",
-        "sd-jwt-vc",
-        "selective-disclosure",
-        "svelte",
-        "verifiable-credentials",
-        "verifiable-presentations",
-        "vue",
-        "web",
-        "web-components"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    }
-  ]
+  "totalCount": 0,
+  "repos": []
 }
