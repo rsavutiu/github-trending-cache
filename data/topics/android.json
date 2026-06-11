@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-10T08:17:26Z",
+  "generatedAt": "2026-06-11T08:55:08Z",
   "topic": "android",
-  "totalCount": 8,
+  "totalCount": 7,
   "repos": [
     {
       "id": "1260255564",
@@ -47,7 +47,7 @@
       "nameWithOwner": "niki914/agentic-nexus",
       "description": "Takeover your voice assistant with powerful agent",
       "url": "https://github.com/niki914/agentic-nexus",
-      "stargazerCount": 19,
+      "stargazerCount": 20,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -55,7 +55,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/177029856?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-05T05:25:32Z",
-      "updatedAt": "2026-06-10T06:48:45Z",
+      "updatedAt": "2026-06-10T13:55:26Z",
       "licenseName": null,
       "topics": [
         "agentic-ai",
@@ -63,7 +63,7 @@
         "lsposed-module",
         "mcp"
       ],
-      "openIssuesCount": 9,
+      "openIssuesCount": 10,
       "closedIssuesCount": 0
     },
     {
@@ -100,6 +100,35 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1262943380",
+      "name": "webtv",
+      "nameWithOwner": "motao123/webtv",
+      "description": "基于 FongMi / CatVod 二次开发的 Android TV 影音聚合客户端，支持 WebHome   自定义首页、网盘检测、站点健康排序与一键同步。",
+      "url": "https://github.com/motao123/webtv",
+      "stargazerCount": 10,
+      "forkCount": 3,
+      "languageName": "Java",
+      "languageColor": null,
+      "ownerLogin": "motao123",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/30110326?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-08T13:21:13Z",
+      "updatedAt": "2026-06-11T08:41:42Z",
+      "licenseName": "GPL-3.0",
+      "topics": [
+        "android",
+        "catvod",
+        "fongmi",
+        "java",
+        "mediaplayer",
+        "tv",
+        "tvbox",
+        "webhome"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1261125046",
       "name": "kosyncthing_plus.koplugin",
       "nameWithOwner": "d0nizam/kosyncthing_plus.koplugin",
@@ -113,7 +142,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/13771489?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-06T09:12:40Z",
-      "updatedAt": "2026-06-10T07:13:21Z",
+      "updatedAt": "2026-06-10T10:27:55Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "android",
@@ -127,35 +156,6 @@
         "koreader-plugin",
         "reading",
         "syncthing"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1262943380",
-      "name": "webtv",
-      "nameWithOwner": "motao123/webtv",
-      "description": "基于 FongMi / CatVod 二次开发的 Android TV 影音聚合客户端，支持 WebHome   自定义首页、网盘检测、站点健康排序与一键同步。",
-      "url": "https://github.com/motao123/webtv",
-      "stargazerCount": 8,
-      "forkCount": 3,
-      "languageName": "Java",
-      "languageColor": null,
-      "ownerLogin": "motao123",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/30110326?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-08T13:21:13Z",
-      "updatedAt": "2026-06-10T06:22:18Z",
-      "licenseName": "GPL-3.0",
-      "topics": [
-        "android",
-        "catvod",
-        "fongmi",
-        "java",
-        "mediaplayer",
-        "tv",
-        "tvbox",
-        "webhome"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -218,37 +218,6 @@
         "ios",
         "prompt",
         "react-native-library"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1259461326",
-      "name": "pdfinspector-android",
-      "nameWithOwner": "shardulvs/pdfinspector-android",
-      "description": "A DevTools-style PDF element inspector and editor for Android",
-      "url": "https://github.com/shardulvs/pdfinspector-android",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "shardulvs",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/165784059?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-04T14:30:22Z",
-      "updatedAt": "2026-06-10T08:09:51Z",
-      "licenseName": "MIT",
-      "topics": [
-        "android",
-        "document-editor",
-        "jetpack-compose",
-        "kotlin",
-        "material3",
-        "open-source",
-        "pdf",
-        "pdf-editor",
-        "pdf-viewer",
-        "pdfbox"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

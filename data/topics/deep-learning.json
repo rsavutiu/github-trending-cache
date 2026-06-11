@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-10T08:17:26Z",
+  "generatedAt": "2026-06-11T08:55:08Z",
   "topic": "deep-learning",
-  "totalCount": 3,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1260813269",
@@ -9,7 +9,7 @@
       "nameWithOwner": "c0nsTantin77/i2dl-exam-qa",
       "description": "Interactive TUM IN2346 Introduction to Deep Learning exam review site with progress tracking, notes, filters, and cross-device sync",
       "url": "https://github.com/c0nsTantin77/i2dl-exam-qa",
-      "stargazerCount": 8,
+      "stargazerCount": 9,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/148088383?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-05T22:44:59Z",
-      "updatedAt": "2026-06-10T06:51:13Z",
+      "updatedAt": "2026-06-10T13:04:36Z",
       "licenseName": null,
       "topics": [
         "deep-learning",
@@ -34,7 +34,7 @@
       "nameWithOwner": "nazmiefearmutcu/Prizma",
       "description": "Two small-scale research threads with pre-registered falsifiable bars + adversarial referee audits: Prizma-Seq (a parameter-free quadratic delta-state sequence mixer, an efficient-attention-replacement candidate) and Prizma (backprop-free, fully-local continual learning).",
       "url": "https://github.com/nazmiefearmutcu/Prizma",
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
@@ -42,7 +42,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/230090392?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-06T13:46:19Z",
-      "updatedAt": "2026-06-09T20:31:18Z",
+      "updatedAt": "2026-06-10T11:27:12Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "continual-learning",
@@ -62,7 +62,7 @@
       "nameWithOwner": "lucidrains/ASAC",
       "description": "Implementation of Attention Schema-based Attention Control (ASAC), A Cognitive-Inspired Approach for Attention Management in Transformers",
       "url": "https://github.com/lucidrains/ASAC",
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
@@ -70,13 +70,42 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-09T01:25:08Z",
-      "updatedAt": "2026-06-09T23:05:32Z",
+      "updatedAt": "2026-06-10T20:17:27Z",
       "licenseName": "MIT",
       "topics": [
         "artificial-intelligence",
         "attention-mechanisms",
         "attention-schema",
         "deep-learning"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1265085160",
+      "name": "GrayLee1210",
+      "nameWithOwner": "GrayLee1210/GrayLee1210",
+      "description": "AI / Embodied AI / Robot Navigation knowledge map, with a curated Image-Goal Navigation paper list (EN / 中文)",
+      "url": "https://github.com/GrayLee1210/GrayLee1210",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "GrayLee1210",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/106992479?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-10T12:59:14Z",
+      "updatedAt": "2026-06-11T07:49:27Z",
+      "licenseName": null,
+      "topics": [
+        "deep-learning",
+        "embodied-ai",
+        "image-goal-navigation",
+        "paper-list",
+        "reinforcement-learning",
+        "robot-navigation",
+        "vision-and-language-navigation",
+        "world-models"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

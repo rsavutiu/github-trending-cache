@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-10T08:17:26Z",
+  "generatedAt": "2026-06-11T08:55:08Z",
   "topic": "javascript",
-  "totalCount": 5,
+  "totalCount": 7,
   "repos": [
     {
       "id": "1260200602",
@@ -36,6 +36,34 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1264449315",
+      "name": "lumenshaders",
+      "nameWithOwner": "Leonxlnx/lumenshaders",
+      "description": "LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies.",
+      "url": "https://github.com/Leonxlnx/lumenshaders",
+      "stargazerCount": 64,
+      "forkCount": 11,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "Leonxlnx",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/219127460?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-09T22:31:51Z",
+      "updatedAt": "2026-06-11T08:48:36Z",
+      "licenseName": "MIT",
+      "topics": [
+        "creative-coding",
+        "generative-art",
+        "gif",
+        "glsl",
+        "javascript",
+        "shaders",
+        "webgl"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1260392645",
       "name": "awesome-demo-portfolio",
       "nameWithOwner": "Srikanta2000/awesome-demo-portfolio",
@@ -65,12 +93,46 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1263003314",
+      "name": "OpenWhisper",
+      "nameWithOwner": "mschr703/OpenWhisper",
+      "description": "A smart, lightning-fast voice dictation assistant for Windows and macOS. Powered by OpenAI's Whisper, it features a glassmorphic transparent overlay, context-aware auto-formatting (Outlook, WhatsApp, VS Code), dynamic voice command controls, and a self-learning correction dictionary.",
+      "url": "https://github.com/mschr703/OpenWhisper",
+      "stargazerCount": 19,
+      "forkCount": 0,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "mschr703",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/205829277?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-08T14:25:52Z",
+      "updatedAt": "2026-06-10T17:41:36Z",
+      "licenseName": null,
+      "topics": [
+        "accessibility",
+        "electron",
+        "glassmorphism",
+        "javascript",
+        "macos",
+        "productivity",
+        "productivity-tool",
+        "productivity-tools",
+        "speech-to-text",
+        "voice-dictation",
+        "whisper-api",
+        "windows",
+        "writing-assistant"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1260491656",
       "name": "vallow.nvim",
       "nameWithOwner": "xeind/vallow.nvim",
       "description": "fallow for Neovim — see your unused code, dups, and health in a native split",
       "url": "https://github.com/xeind/vallow.nvim",
-      "stargazerCount": 12,
+      "stargazerCount": 13,
       "forkCount": 0,
       "languageName": "Lua",
       "languageColor": null,
@@ -78,7 +140,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/85933784?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-05T14:50:00Z",
-      "updatedAt": "2026-06-08T19:47:18Z",
+      "updatedAt": "2026-06-10T19:53:13Z",
       "licenseName": "MIT",
       "topics": [
         "code-quality",

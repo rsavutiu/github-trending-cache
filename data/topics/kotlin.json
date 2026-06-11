@@ -1,38 +1,6 @@
 {
-  "generatedAt": "2026-06-10T08:17:26Z",
+  "generatedAt": "2026-06-11T08:55:08Z",
   "topic": "kotlin",
-  "totalCount": 1,
-  "repos": [
-    {
-      "id": "1259461326",
-      "name": "pdfinspector-android",
-      "nameWithOwner": "shardulvs/pdfinspector-android",
-      "description": "A DevTools-style PDF element inspector and editor for Android",
-      "url": "https://github.com/shardulvs/pdfinspector-android",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "shardulvs",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/165784059?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-04T14:30:22Z",
-      "updatedAt": "2026-06-10T08:09:51Z",
-      "licenseName": "MIT",
-      "topics": [
-        "android",
-        "document-editor",
-        "jetpack-compose",
-        "kotlin",
-        "material3",
-        "open-source",
-        "pdf",
-        "pdf-editor",
-        "pdf-viewer",
-        "pdfbox"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    }
-  ]
+  "totalCount": 0,
+  "repos": []
 }
