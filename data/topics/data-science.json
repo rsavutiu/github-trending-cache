@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-11T08:55:08Z",
+  "generatedAt": "2026-06-12T08:42:04Z",
   "topic": "data-science",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1262942006",
@@ -9,7 +9,7 @@
       "nameWithOwner": "sndsh404/summer-2027-internships",
       "description": "Summer 2027 and off-season tech internships in the US. Software, data and ML, hardware, quant, and product roles, updated regularly.",
       "url": "https://github.com/sndsh404/summer-2027-internships",
-      "stargazerCount": 14,
+      "stargazerCount": 23,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/285100587?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-08T13:19:39Z",
-      "updatedAt": "2026-06-11T05:42:50Z",
+      "updatedAt": "2026-06-12T08:02:46Z",
       "licenseName": "MIT",
       "topics": [
         "2027",
@@ -38,47 +38,6 @@
         "university"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1260822931",
-      "name": "ai-skills-for-claude-code",
-      "nameWithOwner": "euwebertdefreitas/ai-skills-for-claude-code",
-      "description": "Meus plugins e skills de especialista para o Claude e Claude Code.",
-      "url": "https://github.com/euwebertdefreitas/ai-skills-for-claude-code",
-      "stargazerCount": 6,
-      "forkCount": 1,
-      "languageName": "PowerShell",
-      "languageColor": null,
-      "ownerLogin": "euwebertdefreitas",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/68933320?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-05T23:07:07Z",
-      "updatedAt": "2026-06-08T17:49:27Z",
-      "licenseName": "MIT",
-      "topics": [
-        "agentes-de-ia",
-        "ai",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-plugin",
-        "claude-skill",
-        "claude-skills",
-        "data-science",
-        "desenvolvimento-de-software",
-        "devops",
-        "llm",
-        "machine-learning",
-        "metodologias-ageis",
-        "portugues",
-        "produtividade",
-        "prompt-engineering",
-        "ptbr",
-        "skills"
-      ],
-      "openIssuesCount": 212,
       "closedIssuesCount": 0
     }
   ]

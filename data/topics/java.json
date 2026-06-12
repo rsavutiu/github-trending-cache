@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-11T08:55:08Z",
+  "generatedAt": "2026-06-12T08:42:04Z",
   "topic": "java",
-  "totalCount": 2,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1262943380",
@@ -9,15 +9,15 @@
       "nameWithOwner": "motao123/webtv",
       "description": "基于 FongMi / CatVod 二次开发的 Android TV 影音聚合客户端，支持 WebHome   自定义首页、网盘检测、站点健康排序与一键同步。",
       "url": "https://github.com/motao123/webtv",
-      "stargazerCount": 10,
-      "forkCount": 3,
+      "stargazerCount": 27,
+      "forkCount": 4,
       "languageName": "Java",
       "languageColor": null,
       "ownerLogin": "motao123",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/30110326?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-08T13:21:13Z",
-      "updatedAt": "2026-06-11T08:41:42Z",
+      "updatedAt": "2026-06-12T08:30:21Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "android",
@@ -29,7 +29,7 @@
         "tvbox",
         "webhome"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -59,6 +59,37 @@
         "vulnerability-scanner"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1266282666",
+      "name": "slack-clone-repo",
+      "nameWithOwner": "kizer677/slack-clone-repo",
+      "description": "Slack-style team chat app with real-time channels, DMs, threads, reactions, and file uploads — built with React/TypeScript, Java (Spring Boot), and Go.",
+      "url": "https://github.com/kizer677/slack-clone-repo",
+      "stargazerCount": 6,
+      "forkCount": 2,
+      "languageName": "Java",
+      "languageColor": null,
+      "ownerLogin": "kizer677",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/253534008?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-11T13:28:24Z",
+      "updatedAt": "2026-06-12T03:23:10Z",
+      "licenseName": null,
+      "topics": [
+        "docker",
+        "golang",
+        "java",
+        "postgresql",
+        "react",
+        "redis",
+        "slack-clone",
+        "spring-boot",
+        "typescript",
+        "websocket"
+      ],
+      "openIssuesCount": 6,
       "closedIssuesCount": 0
     }
   ]

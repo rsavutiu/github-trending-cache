@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T08:55:08Z",
+  "generatedAt": "2026-06-12T08:42:04Z",
   "topic": "go",
   "totalCount": 5,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "saheersk/lazymongo",
       "description": "A fast, keyboard-driven terminal UI for MongoDB - like lazygit, but for Mongodb",
       "url": "https://github.com/saheersk/lazymongo",
-      "stargazerCount": 15,
+      "stargazerCount": 16,
       "forkCount": 1,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/64018994?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-06T06:51:20Z",
-      "updatedAt": "2026-06-10T11:36:23Z",
+      "updatedAt": "2026-06-11T14:58:18Z",
       "licenseName": "MIT",
       "topics": [
         "bubbletea",
@@ -31,7 +31,7 @@
         "terminal",
         "tui"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -81,7 +81,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/66764647?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-08T14:46:40Z",
-      "updatedAt": "2026-06-10T18:07:49Z",
+      "updatedAt": "2026-06-12T05:51:14Z",
       "licenseName": "MIT",
       "topics": [
         "anilist",

@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-06-11T08:55:08Z",
+  "generatedAt": "2026-06-12T08:42:04Z",
   "topic": "deep-learning",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
     {
-      "id": "1260813269",
-      "name": "i2dl-exam-qa",
-      "nameWithOwner": "c0nsTantin77/i2dl-exam-qa",
-      "description": "Interactive TUM IN2346 Introduction to Deep Learning exam review site with progress tracking, notes, filters, and cross-device sync",
-      "url": "https://github.com/c0nsTantin77/i2dl-exam-qa",
+      "id": "1263460757",
+      "name": "ASAC",
+      "nameWithOwner": "lucidrains/ASAC",
+      "description": "Implementation of Attention Schema-based Attention Control (ASAC), A Cognitive-Inspired Approach for Attention Management in Transformers",
+      "url": "https://github.com/lucidrains/ASAC",
       "stargazerCount": 9,
-      "forkCount": 0,
+      "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
-      "ownerLogin": "c0nsTantin77",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/148088383?v=4",
+      "ownerLogin": "lucidrains",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
       "ownerType": "User",
-      "createdAt": "2026-06-05T22:44:59Z",
-      "updatedAt": "2026-06-10T13:04:36Z",
-      "licenseName": null,
+      "createdAt": "2026-06-09T01:25:08Z",
+      "updatedAt": "2026-06-11T17:50:35Z",
+      "licenseName": "MIT",
       "topics": [
-        "deep-learning",
-        "i2dl",
-        "in2346",
-        "tum"
+        "artificial-intelligence",
+        "attention-mechanisms",
+        "attention-schema",
+        "deep-learning"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -52,31 +52,6 @@
         "pytorch",
         "research",
         "sequence-model"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1263460757",
-      "name": "ASAC",
-      "nameWithOwner": "lucidrains/ASAC",
-      "description": "Implementation of Attention Schema-based Attention Control (ASAC), A Cognitive-Inspired Approach for Attention Management in Transformers",
-      "url": "https://github.com/lucidrains/ASAC",
-      "stargazerCount": 8,
-      "forkCount": 1,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "lucidrains",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-09T01:25:08Z",
-      "updatedAt": "2026-06-10T20:17:27Z",
-      "licenseName": "MIT",
-      "topics": [
-        "artificial-intelligence",
-        "attention-mechanisms",
-        "attention-schema",
-        "deep-learning"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

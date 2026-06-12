@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-11T08:55:08Z",
+  "generatedAt": "2026-06-12T08:42:04Z",
   "topic": "docker",
-  "totalCount": 4,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1262227865",
@@ -9,7 +9,7 @@
       "nameWithOwner": "FengZi1221/grok-reg-tool",
       "description": "可自部署的 Grok 注册机 Web 控制台，支持 Docker、DrissionPage 自动化、邮件后端配置和本地账号号池管理。",
       "url": "https://github.com/FengZi1221/grok-reg-tool",
-      "stargazerCount": 85,
+      "stargazerCount": 87,
       "forkCount": 26,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/95153092?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-07T18:24:14Z",
-      "updatedAt": "2026-06-10T15:17:06Z",
+      "updatedAt": "2026-06-12T08:39:09Z",
       "licenseName": "MIT",
       "topics": [
         "account-pool",
@@ -107,7 +107,7 @@
       "nameWithOwner": "mohamedmohsenofficial/tdocker",
       "description": "Interactive terminal-based Docker management tool for deploying, managing, updating, securing, and maintaining Docker containers with built-in Compose generation, HTTPS integration, and cleanup utilities.",
       "url": "https://github.com/mohamedmohsenofficial/tdocker",
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "forkCount": 0,
       "languageName": "Shell",
       "languageColor": null,
@@ -115,13 +115,44 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/98304087?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-08T19:54:36Z",
-      "updatedAt": "2026-06-10T10:45:27Z",
+      "updatedAt": "2026-06-11T09:07:55Z",
       "licenseName": "MIT",
       "topics": [
         "cli",
         "docker"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1266282666",
+      "name": "slack-clone-repo",
+      "nameWithOwner": "kizer677/slack-clone-repo",
+      "description": "Slack-style team chat app with real-time channels, DMs, threads, reactions, and file uploads — built with React/TypeScript, Java (Spring Boot), and Go.",
+      "url": "https://github.com/kizer677/slack-clone-repo",
+      "stargazerCount": 6,
+      "forkCount": 2,
+      "languageName": "Java",
+      "languageColor": null,
+      "ownerLogin": "kizer677",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/253534008?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-11T13:28:24Z",
+      "updatedAt": "2026-06-12T03:23:10Z",
+      "licenseName": null,
+      "topics": [
+        "docker",
+        "golang",
+        "java",
+        "postgresql",
+        "react",
+        "redis",
+        "slack-clone",
+        "spring-boot",
+        "typescript",
+        "websocket"
+      ],
+      "openIssuesCount": 6,
       "closedIssuesCount": 0
     }
   ]
