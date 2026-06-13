@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-12T08:42:04Z",
+  "generatedAt": "2026-06-13T07:56:24Z",
   "topic": "deep-learning",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1263460757",
@@ -29,40 +29,12 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1261291158",
-      "name": "Prizma",
-      "nameWithOwner": "nazmiefearmutcu/Prizma",
-      "description": "Two small-scale research threads with pre-registered falsifiable bars + adversarial referee audits: Prizma-Seq (a parameter-free quadratic delta-state sequence mixer, an efficient-attention-replacement candidate) and Prizma (backprop-free, fully-local continual learning).",
-      "url": "https://github.com/nazmiefearmutcu/Prizma",
-      "stargazerCount": 8,
-      "forkCount": 1,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "nazmiefearmutcu",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/230090392?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-06T13:46:19Z",
-      "updatedAt": "2026-06-10T11:27:12Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "continual-learning",
-        "deep-learning",
-        "efficient-attention",
-        "machine-learning",
-        "pytorch",
-        "research",
-        "sequence-model"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1265085160",
       "name": "GrayLee1210",
       "nameWithOwner": "GrayLee1210/GrayLee1210",
       "description": "AI / Embodied AI / Robot Navigation knowledge map, with a curated Image-Goal Navigation paper list (EN / 中文)",
       "url": "https://github.com/GrayLee1210/GrayLee1210",
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -70,7 +42,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/106992479?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-10T12:59:14Z",
-      "updatedAt": "2026-06-11T07:49:27Z",
+      "updatedAt": "2026-06-12T16:11:27Z",
       "licenseName": null,
       "topics": [
         "deep-learning",

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-12T08:42:04Z",
+  "generatedAt": "2026-06-13T07:56:24Z",
   "topic": "java",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1262943380",
@@ -9,15 +9,15 @@
       "nameWithOwner": "motao123/webtv",
       "description": "基于 FongMi / CatVod 二次开发的 Android TV 影音聚合客户端，支持 WebHome   自定义首页、网盘检测、站点健康排序与一键同步。",
       "url": "https://github.com/motao123/webtv",
-      "stargazerCount": 27,
-      "forkCount": 4,
+      "stargazerCount": 30,
+      "forkCount": 5,
       "languageName": "Java",
       "languageColor": null,
       "ownerLogin": "motao123",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/30110326?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-08T13:21:13Z",
-      "updatedAt": "2026-06-12T08:30:21Z",
+      "updatedAt": "2026-06-13T03:45:46Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "android",
@@ -29,35 +29,6 @@
         "tvbox",
         "webhome"
       ],
-      "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1261239100",
-      "name": "SmartCode-Guard",
-      "nameWithOwner": "Wadan3/SmartCode-Guard",
-      "description": "An AI-driven tool designed to automate the detection of security vulnerabilities in Java source code.",
-      "url": "https://github.com/Wadan3/SmartCode-Guard",
-      "stargazerCount": 6,
-      "forkCount": 3,
-      "languageName": "Java",
-      "languageColor": null,
-      "ownerLogin": "Wadan3",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/160777411?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-06T12:26:33Z",
-      "updatedAt": "2026-06-07T12:59:22Z",
-      "licenseName": "MIT",
-      "topics": [
-        "ai",
-        "code-analysis",
-        "cybersecurity",
-        "devsecops",
-        "java",
-        "security",
-        "static-analysis",
-        "vulnerability-scanner"
-      ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
@@ -68,14 +39,14 @@
       "description": "Slack-style team chat app with real-time channels, DMs, threads, reactions, and file uploads — built with React/TypeScript, Java (Spring Boot), and Go.",
       "url": "https://github.com/kizer677/slack-clone-repo",
       "stargazerCount": 6,
-      "forkCount": 2,
+      "forkCount": 3,
       "languageName": "Java",
       "languageColor": null,
       "ownerLogin": "kizer677",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/253534008?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-11T13:28:24Z",
-      "updatedAt": "2026-06-12T03:23:10Z",
+      "updatedAt": "2026-06-12T13:10:55Z",
       "licenseName": null,
       "topics": [
         "docker",
@@ -89,7 +60,7 @@
         "typescript",
         "websocket"
       ],
-      "openIssuesCount": 6,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]

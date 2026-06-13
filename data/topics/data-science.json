@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T08:42:04Z",
+  "generatedAt": "2026-06-13T07:56:24Z",
   "topic": "data-science",
   "totalCount": 1,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "sndsh404/summer-2027-internships",
       "description": "Summer 2027 and off-season tech internships in the US. Software, data and ML, hardware, quant, and product roles, updated regularly.",
       "url": "https://github.com/sndsh404/summer-2027-internships",
-      "stargazerCount": 23,
+      "stargazerCount": 30,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/285100587?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-08T13:19:39Z",
-      "updatedAt": "2026-06-12T08:02:46Z",
+      "updatedAt": "2026-06-13T06:01:33Z",
       "licenseName": "MIT",
       "topics": [
         "2027",
@@ -37,7 +37,7 @@
         "tech-internship",
         "university"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]

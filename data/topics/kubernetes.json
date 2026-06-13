@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-12T08:42:04Z",
+  "generatedAt": "2026-06-13T07:56:24Z",
   "topic": "kubernetes",
-  "totalCount": 3,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1265379854",
@@ -9,7 +9,7 @@
       "nameWithOwner": "saiyam1814/kiac",
       "description": "Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
       "url": "https://github.com/saiyam1814/kiac",
-      "stargazerCount": 26,
+      "stargazerCount": 39,
       "forkCount": 1,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-10T18:10:36Z",
-      "updatedAt": "2026-06-12T07:59:15Z",
+      "updatedAt": "2026-06-13T07:15:30Z",
       "licenseName": "MIT",
       "topics": [
         "apple-silicon",
@@ -34,7 +34,7 @@
       "nameWithOwner": "gregoire-costory/awesome-agentic-finops",
       "description": "A curated list of open-source and AI-native (MCP servers, assistant skills, AI cost agents) tooling for cloud cost management and FinOps.",
       "url": "https://github.com/gregoire-costory/awesome-agentic-finops",
-      "stargazerCount": 16,
+      "stargazerCount": 17,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -42,7 +42,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/167993533?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-09T16:48:02Z",
-      "updatedAt": "2026-06-12T08:33:19Z",
+      "updatedAt": "2026-06-12T23:06:02Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "awesome",
@@ -79,7 +79,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/61789920?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-07T08:12:52Z",
-      "updatedAt": "2026-06-11T13:00:31Z",
+      "updatedAt": "2026-06-12T12:56:54Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "cache",
@@ -98,6 +98,54 @@
         "valkey"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1266361576",
+      "name": "firebolt-kubernetes-operator",
+      "nameWithOwner": "firebolt-db/firebolt-kubernetes-operator",
+      "description": "Run and manage Firebolt on Kubernetes with the Firebolt Operator",
+      "url": "https://github.com/firebolt-db/firebolt-kubernetes-operator",
+      "stargazerCount": 9,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "firebolt-db",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/91653988?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-06-11T14:46:46Z",
+      "updatedAt": "2026-06-12T21:20:28Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "firebolt",
+        "kubernetes",
+        "operator"
+      ],
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1266362620",
+      "name": "firebolt-instance-helm",
+      "nameWithOwner": "firebolt-db/firebolt-instance-helm",
+      "description": "Run and manage Firebolt on Kubernetes via Helm",
+      "url": "https://github.com/firebolt-db/firebolt-instance-helm",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": "Shell",
+      "languageColor": null,
+      "ownerLogin": "firebolt-db",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/91653988?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-06-11T14:47:51Z",
+      "updatedAt": "2026-06-12T19:18:07Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "firebolt",
+        "helm-chart",
+        "kubernetes"
+      ],
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]
