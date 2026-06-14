@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T07:56:24Z",
+  "generatedAt": "2026-06-14T08:21:48Z",
   "topic": "deep-learning",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "lucidrains/ASAC",
       "description": "Implementation of Attention Schema-based Attention Control (ASAC), A Cognitive-Inspired Approach for Attention Management in Transformers",
       "url": "https://github.com/lucidrains/ASAC",
-      "stargazerCount": 9,
+      "stargazerCount": 10,
       "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-09T01:25:08Z",
-      "updatedAt": "2026-06-11T17:50:35Z",
+      "updatedAt": "2026-06-13T15:54:27Z",
       "licenseName": "MIT",
       "topics": [
         "artificial-intelligence",

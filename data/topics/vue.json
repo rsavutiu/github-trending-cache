@@ -1,6 +1,43 @@
 {
-  "generatedAt": "2026-06-13T07:56:24Z",
+  "generatedAt": "2026-06-14T08:21:48Z",
   "topic": "vue",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 1,
+  "repos": [
+    {
+      "id": "1262531075",
+      "name": "vue-tab-router",
+      "nameWithOwner": "xsbcme/vue-tab-router",
+      "description": "vue-tab-router 解决的是 Vue 后台系统里的多标签工作台问题。它不是 UI Tabs，而是把“页面打开、缓存、关闭、刷新、iframe、面包屑、菜单联动、守卫、页面通信”整合成一个统一的标签页路由管理方案。适合需要浏览器式多标签体验的管理系统、工作台和多文档业务。",
+      "url": "https://github.com/xsbcme/vue-tab-router",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Vue",
+      "languageColor": null,
+      "ownerLogin": "xsbcme",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/66354159?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-08T04:34:03Z",
+      "updatedAt": "2026-06-14T08:20:29Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "admin",
+        "admin-panel",
+        "iframe",
+        "keep-alive",
+        "multi-tab",
+        "page-management",
+        "router-tabs",
+        "tabs",
+        "tabs-router",
+        "typescript",
+        "vue",
+        "vue-plugin",
+        "vue-router",
+        "vue3",
+        "workbench"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    }
+  ]
 }
