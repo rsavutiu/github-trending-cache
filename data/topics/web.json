@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-14T08:21:48Z",
+  "generatedAt": "2026-06-15T10:32:59Z",
   "topic": "web",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1266416879",
@@ -9,7 +9,7 @@
       "nameWithOwner": "snowieedev/readme-builder",
       "description": "A powerful, interactive README generator built with React, Vite, and Tailwind CSS. Create professional documentation in minutes.",
       "url": "https://github.com/snowieedev/readme-builder",
-      "stargazerCount": 11,
+      "stargazerCount": 13,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/292550020?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-11T15:43:11Z",
-      "updatedAt": "2026-06-14T00:04:36Z",
+      "updatedAt": "2026-06-14T13:44:12Z",
       "licenseName": "MIT",
       "topics": [
         "app",
@@ -31,37 +31,6 @@
         "web",
         "webapp",
         "website"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1263315392",
-      "name": "ChatPotion",
-      "nameWithOwner": "ggvolta/ChatPotion",
-      "description": "A stylish theme collection for The Lounge IRC client",
-      "url": "https://github.com/ggvolta/ChatPotion",
-      "stargazerCount": 9,
-      "forkCount": 1,
-      "languageName": "CSS",
-      "languageColor": null,
-      "ownerLogin": "ggvolta",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/89196121?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-08T20:48:23Z",
-      "updatedAt": "2026-06-13T20:04:53Z",
-      "licenseName": "MIT",
-      "topics": [
-        "chat",
-        "css",
-        "custom-stylesheet",
-        "dark-theme",
-        "irc",
-        "thelounge",
-        "theme",
-        "themes",
-        "themes-css",
-        "web"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

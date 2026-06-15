@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T08:21:48Z",
+  "generatedAt": "2026-06-15T10:32:59Z",
   "topic": "kotlin",
   "totalCount": 1,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "karmakrafts/KGML",
       "description": "Graphics maths library for Kotlin Multiplatform.",
       "url": "https://github.com/karmakrafts/KGML",
-      "stargazerCount": 7,
+      "stargazerCount": 15,
       "forkCount": 0,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/129058515?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-06-11T02:12:24Z",
-      "updatedAt": "2026-06-13T20:35:05Z",
+      "updatedAt": "2026-06-15T08:44:08Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "3d-graphics",

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-14T08:21:48Z",
+  "generatedAt": "2026-06-15T10:32:59Z",
   "topic": "kubernetes",
-  "totalCount": 5,
+  "totalCount": 6,
   "repos": [
     {
       "id": "1268441659",
@@ -9,15 +9,15 @@
       "nameWithOwner": "bjarneo/kli",
       "description": "A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. Inspired by k9s, Lens, and lazygit.",
       "url": "https://github.com/bjarneo/kli",
-      "stargazerCount": 96,
-      "forkCount": 2,
+      "stargazerCount": 245,
+      "forkCount": 6,
       "languageName": "Go",
       "languageColor": null,
       "ownerLogin": "bjarneo",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-13T14:38:25Z",
-      "updatedAt": "2026-06-14T08:22:02Z",
+      "updatedAt": "2026-06-15T09:52:58Z",
       "licenseName": null,
       "topics": [
         "bubbletea",
@@ -42,15 +42,15 @@
       "nameWithOwner": "saiyam1814/kiac",
       "description": "Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
       "url": "https://github.com/saiyam1814/kiac",
-      "stargazerCount": 46,
-      "forkCount": 2,
+      "stargazerCount": 63,
+      "forkCount": 3,
       "languageName": "Go",
       "languageColor": null,
       "ownerLogin": "saiyam1814",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/8190114?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-10T18:10:36Z",
-      "updatedAt": "2026-06-14T08:21:53Z",
+      "updatedAt": "2026-06-15T10:26:13Z",
       "licenseName": "MIT",
       "topics": [
         "apple-silicon",
@@ -58,7 +58,7 @@
         "kubernetes",
         "macos"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 5,
       "closedIssuesCount": 0
     },
     {
@@ -104,7 +104,7 @@
       "nameWithOwner": "firebolt-db/firebolt-kubernetes-operator",
       "description": "Run and manage Firebolt on Kubernetes with the Firebolt Operator",
       "url": "https://github.com/firebolt-db/firebolt-kubernetes-operator",
-      "stargazerCount": 9,
+      "stargazerCount": 10,
       "forkCount": 0,
       "languageName": "Go",
       "languageColor": null,
@@ -112,14 +112,14 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/91653988?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-06-11T14:46:46Z",
-      "updatedAt": "2026-06-12T21:20:28Z",
+      "updatedAt": "2026-06-15T08:43:25Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "firebolt",
         "kubernetes",
         "operator"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 2,
       "closedIssuesCount": 0
     },
     {
@@ -128,7 +128,7 @@
       "nameWithOwner": "firebolt-db/firebolt-instance-helm",
       "description": "Run and manage Firebolt on Kubernetes via Helm",
       "url": "https://github.com/firebolt-db/firebolt-instance-helm",
-      "stargazerCount": 8,
+      "stargazerCount": 9,
       "forkCount": 0,
       "languageName": "Shell",
       "languageColor": null,
@@ -136,14 +136,43 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/91653988?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-06-11T14:47:51Z",
-      "updatedAt": "2026-06-12T19:18:07Z",
+      "updatedAt": "2026-06-15T08:43:30Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "firebolt",
         "helm-chart",
         "kubernetes"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 3,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1267325815",
+      "name": "kato",
+      "nameWithOwner": "zufardhiyaulhaq/kato",
+      "description": "Kubernetes troubleshooting workflow",
+      "url": "https://github.com/zufardhiyaulhaq/kato",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "zufardhiyaulhaq",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/11990726?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-12T12:43:02Z",
+      "updatedAt": "2026-06-15T07:56:03Z",
+      "licenseName": null,
+      "topics": [
+        "ai-agents",
+        "aiops",
+        "devops",
+        "incident-response",
+        "kubernetes",
+        "root-cause-analysis",
+        "troubleshooting",
+        "workflow"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

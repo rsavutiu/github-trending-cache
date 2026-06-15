@@ -1,44 +1,15 @@
 {
-  "generatedAt": "2026-06-14T08:21:48Z",
+  "generatedAt": "2026-06-15T10:32:59Z",
   "topic": "java",
   "totalCount": 3,
   "repos": [
-    {
-      "id": "1262943380",
-      "name": "webtv",
-      "nameWithOwner": "motao123/webtv",
-      "description": "基于 FongMi / CatVod 二次开发的 Android TV 影音聚合客户端，支持 WebHome   自定义首页、网盘检测、站点健康排序与一键同步。",
-      "url": "https://github.com/motao123/webtv",
-      "stargazerCount": 32,
-      "forkCount": 5,
-      "languageName": "Java",
-      "languageColor": null,
-      "ownerLogin": "motao123",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/30110326?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-08T13:21:13Z",
-      "updatedAt": "2026-06-14T07:49:30Z",
-      "licenseName": "GPL-3.0",
-      "topics": [
-        "android",
-        "catvod",
-        "fongmi",
-        "java",
-        "mediaplayer",
-        "tv",
-        "tvbox",
-        "webhome"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1267533614",
       "name": "ThrillhouseBot",
       "nameWithOwner": "devops-thiago/ThrillhouseBot",
       "description": "Your nerdy PR reviewer — a Quarkus GraalVM-native GitHub App that AI-reviews diffs, posts inline suggestions, and streams live to a dashboard.",
       "url": "https://github.com/devops-thiago/ThrillhouseBot",
-      "stargazerCount": 9,
+      "stargazerCount": 10,
       "forkCount": 3,
       "languageName": "Java",
       "languageColor": null,
@@ -46,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/2332561?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-12T16:16:16Z",
-      "updatedAt": "2026-06-14T06:00:56Z",
+      "updatedAt": "2026-06-15T00:19:45Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ai",
@@ -60,7 +31,31 @@
         "quarkus",
         "self-hosted"
       ],
-      "openIssuesCount": 73,
+      "openIssuesCount": 75,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1265450084",
+      "name": "MathUtils",
+      "nameWithOwner": "blacknoize404/MathUtils",
+      "description": "Librería Java para matemáticas: álgebra simbólica, vectores, geometría, estadística, series y sucesiones. Incluye evaluación de funciones, operadores, trigonometría, logaritmos y combinatoria",
+      "url": "https://github.com/blacknoize404/MathUtils",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Java",
+      "languageColor": null,
+      "ownerLogin": "blacknoize404",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/43705332?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-10T19:35:59Z",
+      "updatedAt": "2026-06-15T08:47:21Z",
+      "licenseName": null,
+      "topics": [
+        "java",
+        "math",
+        "mathematics"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {

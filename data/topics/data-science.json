@@ -1,44 +1,6 @@
 {
-  "generatedAt": "2026-06-14T08:21:48Z",
+  "generatedAt": "2026-06-15T10:32:59Z",
   "topic": "data-science",
-  "totalCount": 1,
-  "repos": [
-    {
-      "id": "1262942006",
-      "name": "summer-2027-internships",
-      "nameWithOwner": "sndsh404/summer-2027-internships",
-      "description": "Summer 2027 and off-season tech internships in the US. Software, data and ML, hardware, quant, and product roles, updated regularly.",
-      "url": "https://github.com/sndsh404/summer-2027-internships",
-      "stargazerCount": 36,
-      "forkCount": 0,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "sndsh404",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/285100587?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-08T13:19:39Z",
-      "updatedAt": "2026-06-14T01:45:13Z",
-      "licenseName": "MIT",
-      "topics": [
-        "2027",
-        "2027-2028-cycle",
-        "computer-science",
-        "cs-internships",
-        "data-science",
-        "internship",
-        "internships",
-        "jobs",
-        "programming-internship",
-        "software-development",
-        "software-engineering",
-        "software-internships",
-        "summer-internship",
-        "swe-internships",
-        "tech-internship",
-        "university"
-      ],
-      "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    }
-  ]
+  "totalCount": 0,
+  "repos": []
 }

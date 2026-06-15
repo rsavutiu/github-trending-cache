@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-14T08:21:48Z",
+  "generatedAt": "2026-06-15T10:32:59Z",
   "topic": "android",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1266985960",
@@ -9,15 +9,15 @@
       "nameWithOwner": "skydoves/compose-nav-graph",
       "description": "⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.",
       "url": "https://github.com/skydoves/compose-nav-graph",
-      "stargazerCount": 230,
-      "forkCount": 5,
+      "stargazerCount": 306,
+      "forkCount": 11,
       "languageName": "Kotlin",
       "languageColor": null,
       "ownerLogin": "skydoves",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/24237865?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-12T05:58:40Z",
-      "updatedAt": "2026-06-14T08:12:06Z",
+      "updatedAt": "2026-06-15T10:30:13Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "android",
@@ -31,36 +31,7 @@
         "navigation3",
         "skydoves"
       ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1262943380",
-      "name": "webtv",
-      "nameWithOwner": "motao123/webtv",
-      "description": "基于 FongMi / CatVod 二次开发的 Android TV 影音聚合客户端，支持 WebHome   自定义首页、网盘检测、站点健康排序与一键同步。",
-      "url": "https://github.com/motao123/webtv",
-      "stargazerCount": 32,
-      "forkCount": 5,
-      "languageName": "Java",
-      "languageColor": null,
-      "ownerLogin": "motao123",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/30110326?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-08T13:21:13Z",
-      "updatedAt": "2026-06-14T07:49:30Z",
-      "licenseName": "GPL-3.0",
-      "topics": [
-        "android",
-        "catvod",
-        "fongmi",
-        "java",
-        "mediaplayer",
-        "tv",
-        "tvbox",
-        "webhome"
-      ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 2,
       "closedIssuesCount": 0
     },
     {

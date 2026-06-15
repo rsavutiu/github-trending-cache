@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-14T08:21:48Z",
+  "generatedAt": "2026-06-15T10:32:59Z",
   "topic": "flutter",
-  "totalCount": 3,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1267590965",
@@ -9,7 +9,7 @@
       "nameWithOwner": "lportals/rolling_text",
       "description": "A premium, high-performance Flutter widget for creating butter-smooth, vertical rolling character and number transitions. Features spring physics, stagger, and built-in loader loops.",
       "url": "https://github.com/lportals/rolling_text",
-      "stargazerCount": 13,
+      "stargazerCount": 14,
       "forkCount": 0,
       "languageName": "Dart",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/100369618?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-12T17:21:25Z",
-      "updatedAt": "2026-06-14T04:04:50Z",
+      "updatedAt": "2026-06-14T17:44:36Z",
       "licenseName": "MIT",
       "topics": [
         "animation",
@@ -30,6 +30,30 @@
         "ui"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1269292495",
+      "name": "mermaid",
+      "nameWithOwner": "orestesgaolin/mermaid",
+      "description": "Pure Dart + Flutter implementation of mermaid diagrams ",
+      "url": "https://github.com/orestesgaolin/mermaid",
+      "stargazerCount": 8,
+      "forkCount": 1,
+      "languageName": "Dart",
+      "languageColor": null,
+      "ownerLogin": "orestesgaolin",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/16854239?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-14T14:33:51Z",
+      "updatedAt": "2026-06-15T05:54:46Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "dart",
+        "flutter",
+        "mermaid"
+      ],
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
