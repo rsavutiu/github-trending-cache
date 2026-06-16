@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-15T10:32:59Z",
+  "generatedAt": "2026-06-16T09:35:26Z",
   "topic": "kotlin",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1265691746",
@@ -34,6 +34,33 @@
         "kotlin-wasm",
         "library",
         "maths"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1266540313",
+      "name": "YamiboReaderLite",
+      "nameWithOwner": "KrelinnBios/YamiboReaderLite",
+      "description": "面向百合会论坛的非官方 Android 阅读客户端。",
+      "url": "https://github.com/KrelinnBios/YamiboReaderLite",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "KrelinnBios",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/162010446?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-11T18:02:46Z",
+      "updatedAt": "2026-06-16T09:19:08Z",
+      "licenseName": "AGPL-3.0",
+      "topics": [
+        "android",
+        "jetpack-compose",
+        "kotlin",
+        "material3",
+        "reader-app",
+        "yamibo"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

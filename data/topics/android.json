@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-15T10:32:59Z",
+  "generatedAt": "2026-06-16T09:35:26Z",
   "topic": "android",
-  "totalCount": 2,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1266985960",
@@ -9,15 +9,15 @@
       "nameWithOwner": "skydoves/compose-nav-graph",
       "description": "⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.",
       "url": "https://github.com/skydoves/compose-nav-graph",
-      "stargazerCount": 306,
-      "forkCount": 11,
+      "stargazerCount": 338,
+      "forkCount": 15,
       "languageName": "Kotlin",
       "languageColor": null,
       "ownerLogin": "skydoves",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/24237865?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-12T05:58:40Z",
-      "updatedAt": "2026-06-15T10:30:13Z",
+      "updatedAt": "2026-06-16T07:34:29Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "android",
@@ -41,7 +41,7 @@
       "description": "Beginner-friendly Windows one-click kit (.bat) to install, use, and remove Google's Android CLI - no commands needed.",
       "url": "https://github.com/sodam-ai/Android-CLI_One-Click_Kit",
       "stargazerCount": 9,
-      "forkCount": 1,
+      "forkCount": 2,
       "languageName": "PowerShell",
       "languageColor": null,
       "ownerLogin": "sodam-ai",
@@ -65,6 +65,33 @@
         "powershell",
         "uninstaller",
         "windows"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1266540313",
+      "name": "YamiboReaderLite",
+      "nameWithOwner": "KrelinnBios/YamiboReaderLite",
+      "description": "面向百合会论坛的非官方 Android 阅读客户端。",
+      "url": "https://github.com/KrelinnBios/YamiboReaderLite",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "KrelinnBios",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/162010446?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-11T18:02:46Z",
+      "updatedAt": "2026-06-16T09:19:08Z",
+      "licenseName": "AGPL-3.0",
+      "topics": [
+        "android",
+        "jetpack-compose",
+        "kotlin",
+        "material3",
+        "reader-app",
+        "yamibo"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
