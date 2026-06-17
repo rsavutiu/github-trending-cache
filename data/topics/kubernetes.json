@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-06-16T09:35:26Z",
+  "generatedAt": "2026-06-17T09:11:33Z",
   "topic": "kubernetes",
-  "totalCount": 5,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1268441659",
-      "name": "kli",
-      "nameWithOwner": "bjarneo/kli",
-      "description": "A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. Inspired by k9s, Lens, and lazygit.",
-      "url": "https://github.com/bjarneo/kli",
-      "stargazerCount": 275,
-      "forkCount": 8,
+      "name": "ku",
+      "nameWithOwner": "bjarneo/ku",
+      "description": "A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. ",
+      "url": "https://github.com/bjarneo/ku",
+      "stargazerCount": 307,
+      "forkCount": 12,
       "languageName": "Go",
       "languageColor": null,
       "ownerLogin": "bjarneo",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-13T14:38:25Z",
-      "updatedAt": "2026-06-16T09:32:51Z",
+      "updatedAt": "2026-06-17T07:40:39Z",
       "licenseName": null,
       "topics": [
         "bubbletea",
@@ -34,32 +34,7 @@
         "terminal",
         "tui"
       ],
-      "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1265379854",
-      "name": "kiac",
-      "nameWithOwner": "saiyam1814/kiac",
-      "description": "Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
-      "url": "https://github.com/saiyam1814/kiac",
-      "stargazerCount": 67,
-      "forkCount": 3,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "saiyam1814",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/8190114?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-10T18:10:36Z",
-      "updatedAt": "2026-06-16T06:31:41Z",
-      "licenseName": "MIT",
-      "topics": [
-        "apple-silicon",
-        "containers",
-        "kubernetes",
-        "macos"
-      ],
-      "openIssuesCount": 5,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -83,7 +58,7 @@
         "kubernetes",
         "operator"
       ],
-      "openIssuesCount": 2,
+      "openIssuesCount": 3,
       "closedIssuesCount": 0
     },
     {
@@ -100,7 +75,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/91653988?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-06-11T14:47:51Z",
-      "updatedAt": "2026-06-15T08:43:30Z",
+      "updatedAt": "2026-06-16T13:15:07Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "firebolt",

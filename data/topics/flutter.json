@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-16T09:35:26Z",
+  "generatedAt": "2026-06-17T09:11:33Z",
   "topic": "flutter",
-  "totalCount": 3,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1267590965",
@@ -38,7 +38,7 @@
       "nameWithOwner": "orestesgaolin/mermaid",
       "description": "Pure Dart + Flutter implementation of mermaid diagrams ",
       "url": "https://github.com/orestesgaolin/mermaid",
-      "stargazerCount": 12,
+      "stargazerCount": 14,
       "forkCount": 1,
       "languageName": "Dart",
       "languageColor": null,
@@ -46,7 +46,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/16854239?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-14T14:33:51Z",
-      "updatedAt": "2026-06-16T09:01:19Z",
+      "updatedAt": "2026-06-16T21:42:10Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "dart",
@@ -57,12 +57,42 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1270895628",
+      "name": "inhouse-codepush",
+      "nameWithOwner": "shivanshu877/inhouse-codepush",
+      "description": "Self-hosted over-the-air code push for Flutter (Android) — ship Dart-only updates to installed apps without a Play Store release. An open-source, DIY alternative to Shorebird: dashboard + API, the engine hook, build/push tooling, and a runnable example app.",
+      "url": "https://github.com/shivanshu877/inhouse-codepush",
+      "stargazerCount": 9,
+      "forkCount": 0,
+      "languageName": "Dart",
+      "languageColor": null,
+      "ownerLogin": "shivanshu877",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/112751483?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-16T06:31:37Z",
+      "updatedAt": "2026-06-17T00:01:55Z",
+      "licenseName": "MIT",
+      "topics": [
+        "android",
+        "code-push",
+        "dart",
+        "dart-frog",
+        "flutter",
+        "hot-update",
+        "ota",
+        "self-hosted",
+        "shorebird-alternative"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1265624682",
       "name": "Dabji",
       "nameWithOwner": "Dabji/Dabji",
       "description": "✨ Mi perfil interactivo y bilingüe (ES/EN): stats en vivo, proyectos auto-ordenados y contribuciones🦔",
       "url": "https://github.com/Dabji/Dabji",
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -70,7 +100,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/165519672?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-11T00:12:47Z",
-      "updatedAt": "2026-06-13T09:26:21Z",
+      "updatedAt": "2026-06-16T13:24:51Z",
       "licenseName": null,
       "topics": [
         "automation",
