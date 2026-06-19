@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-18T08:55:43Z",
+  "generatedAt": "2026-06-19T09:14:52Z",
   "topic": "kubernetes",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1268441659",
@@ -9,7 +9,7 @@
       "nameWithOwner": "bjarneo/ku",
       "description": "A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. ",
       "url": "https://github.com/bjarneo/ku",
-      "stargazerCount": 330,
+      "stargazerCount": 341,
       "forkCount": 13,
       "languageName": "Go",
       "languageColor": null,
@@ -17,8 +17,8 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-13T14:38:25Z",
-      "updatedAt": "2026-06-18T08:27:09Z",
-      "licenseName": null,
+      "updatedAt": "2026-06-19T08:05:55Z",
+      "licenseName": "MIT",
       "topics": [
         "bubbletea",
         "charmlibs",
@@ -34,7 +34,7 @@
         "terminal",
         "tui"
       ],
-      "openIssuesCount": 3,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -51,7 +51,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/217523048?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-15T07:59:07Z",
-      "updatedAt": "2026-06-18T06:01:35Z",
+      "updatedAt": "2026-06-19T05:06:32Z",
       "licenseName": null,
       "topics": [
         "2026",
@@ -72,35 +72,6 @@
         "route53",
         "valorant",
         "valorant-2026"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1267325815",
-      "name": "kato",
-      "nameWithOwner": "zufardhiyaulhaq/kato",
-      "description": "Kubernetes troubleshooting workflow",
-      "url": "https://github.com/zufardhiyaulhaq/kato",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "zufardhiyaulhaq",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/11990726?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-12T12:43:02Z",
-      "updatedAt": "2026-06-18T05:50:16Z",
-      "licenseName": null,
-      "topics": [
-        "ai-agents",
-        "aiops",
-        "devops",
-        "incident-response",
-        "kubernetes",
-        "root-cause-analysis",
-        "troubleshooting",
-        "workflow"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

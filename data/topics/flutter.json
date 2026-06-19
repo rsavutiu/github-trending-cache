@@ -1,37 +1,8 @@
 {
-  "generatedAt": "2026-06-18T08:55:43Z",
+  "generatedAt": "2026-06-19T09:14:52Z",
   "topic": "flutter",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
-    {
-      "id": "1267590965",
-      "name": "rolling_text",
-      "nameWithOwner": "lportals/rolling_text",
-      "description": "A premium, high-performance Flutter widget for creating butter-smooth, vertical rolling character and number transitions. Features spring physics, stagger, and built-in loader loops.",
-      "url": "https://github.com/lportals/rolling_text",
-      "stargazerCount": 15,
-      "forkCount": 0,
-      "languageName": "Dart",
-      "languageColor": null,
-      "ownerLogin": "lportals",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/100369618?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-12T17:21:25Z",
-      "updatedAt": "2026-06-16T03:58:37Z",
-      "licenseName": "MIT",
-      "topics": [
-        "animation",
-        "counter",
-        "dart",
-        "flutter",
-        "number",
-        "slot",
-        "text",
-        "ui"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1269292495",
       "name": "mermaid",
@@ -46,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/16854239?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-14T14:33:51Z",
-      "updatedAt": "2026-06-16T21:42:10Z",
+      "updatedAt": "2026-06-18T23:29:32Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "dart",
@@ -62,7 +33,7 @@
       "nameWithOwner": "shivanshu877/inhouse-codepush",
       "description": "Self-hosted over-the-air code push for Flutter (Android) — ship Dart-only updates to installed apps without a Play Store release. An open-source, DIY alternative to Shorebird: dashboard + API, the engine hook, build/push tooling, and a runnable example app.",
       "url": "https://github.com/shivanshu877/inhouse-codepush",
-      "stargazerCount": 12,
+      "stargazerCount": 13,
       "forkCount": 1,
       "languageName": "Dart",
       "languageColor": null,
@@ -70,7 +41,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/112751483?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-16T06:31:37Z",
-      "updatedAt": "2026-06-18T08:45:56Z",
+      "updatedAt": "2026-06-19T03:07:32Z",
       "licenseName": "MIT",
       "topics": [
         "android",
