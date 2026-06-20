@@ -1,42 +1,8 @@
 {
-  "generatedAt": "2026-06-19T09:14:52Z",
+  "generatedAt": "2026-06-20T07:57:55Z",
   "topic": "kubernetes",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
-    {
-      "id": "1268441659",
-      "name": "ku",
-      "nameWithOwner": "bjarneo/ku",
-      "description": "A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. ",
-      "url": "https://github.com/bjarneo/ku",
-      "stargazerCount": 341,
-      "forkCount": 13,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "bjarneo",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1419214?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-13T14:38:25Z",
-      "updatedAt": "2026-06-19T08:05:55Z",
-      "licenseName": "MIT",
-      "topics": [
-        "bubbletea",
-        "charmlibs",
-        "cli",
-        "client-go",
-        "devops",
-        "go",
-        "golang",
-        "k8s",
-        "k9s",
-        "kubectl",
-        "kubernetes",
-        "terminal",
-        "tui"
-      ],
-      "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1269908888",
       "name": "Valorant-Aim-Architecture-Overlay",
@@ -51,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/217523048?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-15T07:59:07Z",
-      "updatedAt": "2026-06-19T05:06:32Z",
+      "updatedAt": "2026-06-20T04:19:03Z",
       "licenseName": null,
       "topics": [
         "2026",

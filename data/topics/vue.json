@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T09:14:52Z",
+  "generatedAt": "2026-06-20T07:57:55Z",
   "topic": "vue",
   "totalCount": 1,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "filipebraida/adonis-inertia-modal",
       "description": "Backend-driven modals & slideovers for Inertia.js on AdonisJS — deep-linkable, validation-aware, stackable. React & Vue.",
       "url": "https://github.com/filipebraida/adonis-inertia-modal",
-      "stargazerCount": 8,
+      "stargazerCount": 9,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/2746730?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-17T10:37:04Z",
-      "updatedAt": "2026-06-18T11:55:40Z",
+      "updatedAt": "2026-06-19T13:55:34Z",
       "licenseName": "MIT",
       "topics": [
         "adonisjs",

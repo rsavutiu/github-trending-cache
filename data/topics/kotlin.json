@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-19T09:14:52Z",
+  "generatedAt": "2026-06-20T07:57:55Z",
   "topic": "kotlin",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1269604240",
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/86246542?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-14T23:14:11Z",
-      "updatedAt": "2026-06-19T05:36:07Z",
+      "updatedAt": "2026-06-19T10:21:51Z",
       "licenseName": null,
       "topics": [
         "android",
@@ -95,33 +95,6 @@
         "kotlin",
         "novel-reader",
         "text-to-speech"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1268471498",
-      "name": "PaperDialogDSL",
-      "nameWithOwner": "Axiumyuyu/PaperDialogDSL",
-      "description": "A modern & lightweight Minecraft Paper Dialog Kotlin DSL & Route Framework",
-      "url": "https://github.com/Axiumyuyu/PaperDialogDSL",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "Axiumyuyu",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/150242870?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-13T15:16:26Z",
-      "updatedAt": "2026-06-19T07:02:32Z",
-      "licenseName": "MIT",
-      "topics": [
-        "kotlin",
-        "kotlin-dsl",
-        "minecraft-framework",
-        "minecraft-plugin",
-        "minimessage",
-        "paper-plugin"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

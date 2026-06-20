@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-19T09:14:52Z",
+  "generatedAt": "2026-06-20T07:57:55Z",
   "topic": "android",
-  "totalCount": 7,
+  "totalCount": 9,
   "repos": [
     {
       "id": "1270092038",
@@ -42,6 +42,38 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1270969613",
+      "name": "compose-mechanisms",
+      "nameWithOwner": "skydoves/compose-mechanisms",
+      "description": "🚀 Jetpack Compose Mechanisms teaches how every composable function works under the hood, from the Compiler, Runtime, UI to performance.",
+      "url": "https://github.com/skydoves/compose-mechanisms",
+      "stargazerCount": 17,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "skydoves",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/24237865?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-16T08:00:35Z",
+      "updatedAt": "2026-06-20T05:32:10Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "android",
+        "compose",
+        "compose-compiler",
+        "compose-internals",
+        "compose-mechanisms",
+        "compose-performance",
+        "compose-runtime",
+        "compose-ui",
+        "jetpack-compose",
+        "recomposition",
+        "skydoves"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1269604240",
       "name": "audiophiles-dream",
       "nameWithOwner": "kaurav99/audiophiles-dream",
@@ -55,7 +87,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/86246542?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-14T23:14:11Z",
-      "updatedAt": "2026-06-19T05:36:07Z",
+      "updatedAt": "2026-06-19T10:21:51Z",
       "licenseName": null,
       "topics": [
         "android",
@@ -72,38 +104,6 @@
         "music-player",
         "scrobbler",
         "usb-dac"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1270969613",
-      "name": "compose-mechanisms",
-      "nameWithOwner": "skydoves/compose-mechanisms",
-      "description": "🚀 Jetpack Compose Mechanisms teaches how every composable function works under the hood, from the Compiler, Runtime, UI to performance.",
-      "url": "https://github.com/skydoves/compose-mechanisms",
-      "stargazerCount": 16,
-      "forkCount": 0,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "skydoves",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/24237865?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-16T08:00:35Z",
-      "updatedAt": "2026-06-19T04:16:28Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "android",
-        "compose",
-        "compose-compiler",
-        "compose-internals",
-        "compose-mechanisms",
-        "compose-performance",
-        "compose-runtime",
-        "compose-ui",
-        "jetpack-compose",
-        "recomposition",
-        "skydoves"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -166,6 +166,60 @@
         "ota",
         "self-hosted",
         "shorebird-alternative"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1274139527",
+      "name": "cloud-flare-ip-scanner-android",
+      "nameWithOwner": "lark-eng/cloud-flare-ip-scanner-android",
+      "description": "یک اسکنر با قابلیت های فراوان برا یافتن ایپی های تمیز کلود فلر ، قابلیت تست سرعت و جست و جو با کانفیگ هم فراهمه",
+      "url": "https://github.com/lark-eng/cloud-flare-ip-scanner-android",
+      "stargazerCount": 10,
+      "forkCount": 0,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "lark-eng",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/287524108?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-19T08:04:30Z",
+      "updatedAt": "2026-06-19T17:09:22Z",
+      "licenseName": null,
+      "topics": [
+        "android",
+        "clean-ip",
+        "cloudflare",
+        "ip-scanner",
+        "scanner",
+        "trojan",
+        "vless"
+      ],
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1271771233",
+      "name": "binder-trace",
+      "nameWithOwner": "fuqiuluo/binder-trace",
+      "description": "🍂 Android Binder 调用观测工具, 基于内核采集 Binder transaction实现!",
+      "url": "https://github.com/fuqiuluo/binder-trace",
+      "stargazerCount": 10,
+      "forkCount": 2,
+      "languageName": "Rust",
+      "languageColor": null,
+      "ownerLogin": "fuqiuluo",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/61898844?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-17T02:05:43Z",
+      "updatedAt": "2026-06-20T07:06:50Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "android",
+        "binder-trace",
+        "debugger",
+        "kernel-module",
+        "trace"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
