@@ -1,39 +1,15 @@
 {
-  "generatedAt": "2026-06-20T07:57:55Z",
+  "generatedAt": "2026-06-21T08:41:09Z",
   "topic": "flutter",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
-    {
-      "id": "1269292495",
-      "name": "mermaid",
-      "nameWithOwner": "orestesgaolin/mermaid",
-      "description": "Pure Dart + Flutter implementation of mermaid diagrams ",
-      "url": "https://github.com/orestesgaolin/mermaid",
-      "stargazerCount": 14,
-      "forkCount": 1,
-      "languageName": "Dart",
-      "languageColor": null,
-      "ownerLogin": "orestesgaolin",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/16854239?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-14T14:33:51Z",
-      "updatedAt": "2026-06-18T23:29:32Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "dart",
-        "flutter",
-        "mermaid"
-      ],
-      "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1270895628",
       "name": "inhouse-codepush",
       "nameWithOwner": "shivanshu877/inhouse-codepush",
       "description": "Self-hosted over-the-air code push for Flutter (Android) — ship Dart-only updates to installed apps without a Play Store release. An open-source, DIY alternative to Shorebird: dashboard + API, the engine hook, build/push tooling, and a runnable example app.",
       "url": "https://github.com/shivanshu877/inhouse-codepush",
-      "stargazerCount": 13,
+      "stargazerCount": 14,
       "forkCount": 1,
       "languageName": "Dart",
       "languageColor": null,
@@ -41,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/112751483?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-16T06:31:37Z",
-      "updatedAt": "2026-06-19T03:07:32Z",
+      "updatedAt": "2026-06-20T11:50:16Z",
       "licenseName": "MIT",
       "topics": [
         "android",
