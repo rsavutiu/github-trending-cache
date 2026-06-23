@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-06-22T10:14:53Z",
+  "generatedAt": "2026-06-23T07:58:17Z",
   "topic": "data-science",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 1,
+  "repos": [
+    {
+      "id": "1275529781",
+      "name": "btaji-crew-research-lab",
+      "nameWithOwner": "muhammadibrahim313/btaji-crew-research-lab",
+      "description": "Learn how to actually do research, one session at a time.",
+      "url": "https://github.com/muhammadibrahim313/btaji-crew-research-lab",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "muhammadibrahim313",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/147333130?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-20T20:13:50Z",
+      "updatedAt": "2026-06-23T02:05:16Z",
+      "licenseName": null,
+      "topics": [
+        "ai",
+        "beginner-friendly",
+        "data-science",
+        "for-students",
+        "free-open-source",
+        "ml",
+        "publication",
+        "research"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    }
+  ]
 }

@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-06-22T10:14:53Z",
+  "generatedAt": "2026-06-23T07:58:17Z",
   "topic": "web",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 1,
+  "repos": [
+    {
+      "id": "1274106686",
+      "name": "CrawlSage",
+      "nameWithOwner": "gnrkr789/CrawlSage",
+      "description": "An F#-first web crawling & scraping framework for .NET — crawl engine, HTML parsing DSL, browser-free extraction, and polite-by-default crawl ops.",
+      "url": "https://github.com/gnrkr789/CrawlSage",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": "F#",
+      "languageColor": null,
+      "ownerLogin": "gnrkr789",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/49778375?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-19T07:23:03Z",
+      "updatedAt": "2026-06-23T07:34:03Z",
+      "licenseName": "MIT",
+      "topics": [
+        "crawling",
+        "dotnet",
+        "dotnet-library",
+        "fsharp",
+        "scraper",
+        "scraping",
+        "spider",
+        "web",
+        "web-crawler",
+        "web-scraping"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    }
+  ]
 }

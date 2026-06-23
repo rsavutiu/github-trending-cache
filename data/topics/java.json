@@ -1,39 +1,15 @@
 {
-  "generatedAt": "2026-06-22T10:14:53Z",
+  "generatedAt": "2026-06-23T07:58:17Z",
   "topic": "java",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
-    {
-      "id": "1271029976",
-      "name": "mcp-db-server",
-      "nameWithOwner": "PerfectXM/mcp-db-server",
-      "description": "🔥 让 AI 直接操刀你的数据库！无状态 MCP 数据库服务，支持 MySQL / PostgreSQL / SQLite / SQL Server / Oracle / H2，连接参数即传即用，零持久化零配置。",
-      "url": "https://github.com/PerfectXM/mcp-db-server",
-      "stargazerCount": 80,
-      "forkCount": 0,
-      "languageName": "Java",
-      "languageColor": null,
-      "ownerLogin": "PerfectXM",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/49628792?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-16T09:11:37Z",
-      "updatedAt": "2026-06-22T09:54:23Z",
-      "licenseName": "MIT",
-      "topics": [
-        "ai",
-        "java",
-        "mcp"
-      ],
-      "openIssuesCount": 2,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1275023575",
       "name": "JavaShroud",
       "nameWithOwner": "HHT0rro/JavaShroud",
       "description": "面向 Java 产物的混淆、方法虚拟化与 Native 加固工具链。A Java obfuscation, virtualization, and native hardening toolchain.",
       "url": "https://github.com/HHT0rro/JavaShroud",
-      "stargazerCount": 66,
+      "stargazerCount": 67,
       "forkCount": 0,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -41,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/169252182?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-20T06:44:35Z",
-      "updatedAt": "2026-06-22T05:39:39Z",
+      "updatedAt": "2026-06-23T04:16:22Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "asm",

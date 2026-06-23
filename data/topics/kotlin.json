@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T10:14:53Z",
+  "generatedAt": "2026-06-23T07:58:17Z",
   "topic": "kotlin",
   "totalCount": 4,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "HHT0rro/JavaShroud",
       "description": "面向 Java 产物的混淆、方法虚拟化与 Native 加固工具链。A Java obfuscation, virtualization, and native hardening toolchain.",
       "url": "https://github.com/HHT0rro/JavaShroud",
-      "stargazerCount": 66,
+      "stargazerCount": 67,
       "forkCount": 0,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/169252182?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-20T06:44:35Z",
-      "updatedAt": "2026-06-22T05:39:39Z",
+      "updatedAt": "2026-06-23T04:16:22Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "asm",
@@ -116,7 +116,7 @@
       "nameWithOwner": "mr-coder20/PortX",
       "description": "\"A modern, high-performance, and multi-platform network security toolkit built with Kotlin Multiplatform and Compose.\"",
       "url": "https://github.com/mr-coder20/PortX",
-      "stargazerCount": 6,
+      "stargazerCount": 9,
       "forkCount": 0,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -124,7 +124,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/98449930?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-19T20:10:31Z",
-      "updatedAt": "2026-06-22T08:28:12Z",
+      "updatedAt": "2026-06-22T22:15:58Z",
       "licenseName": null,
       "topics": [
         "android-development",
