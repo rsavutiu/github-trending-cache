@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T07:58:17Z",
+  "generatedAt": "2026-06-24T07:53:27Z",
   "topic": "java",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "HHT0rro/JavaShroud",
       "description": "面向 Java 产物的混淆、方法虚拟化与 Native 加固工具链。A Java obfuscation, virtualization, and native hardening toolchain.",
       "url": "https://github.com/HHT0rro/JavaShroud",
-      "stargazerCount": 67,
+      "stargazerCount": 69,
       "forkCount": 0,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/169252182?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-20T06:44:35Z",
-      "updatedAt": "2026-06-23T04:16:22Z",
+      "updatedAt": "2026-06-23T13:45:11Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "asm",

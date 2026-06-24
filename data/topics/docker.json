@@ -1,8 +1,32 @@
 {
-  "generatedAt": "2026-06-23T07:58:17Z",
+  "generatedAt": "2026-06-24T07:53:27Z",
   "topic": "docker",
   "totalCount": 3,
   "repos": [
+    {
+      "id": "1274890313",
+      "name": "ppt-web",
+      "nameWithOwner": "CallStorm/ppt-web",
+      "description": "基于 Claude Code agent 的 PPT 生成 Web 服务，每个生成任务跑在独立 Docker 容器里，跑完自毁，产物可下载",
+      "url": "https://github.com/CallStorm/ppt-web",
+      "stargazerCount": 18,
+      "forkCount": 5,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "CallStorm",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/150648527?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-20T02:14:09Z",
+      "updatedAt": "2026-06-24T06:03:51Z",
+      "licenseName": null,
+      "topics": [
+        "claude-code",
+        "docker",
+        "pptx"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1274625011",
       "name": "Nexora",
@@ -41,30 +65,6 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1274890313",
-      "name": "ppt-web",
-      "nameWithOwner": "CallStorm/ppt-web",
-      "description": "基于 Claude Code agent 的 PPT 生成 Web 服务，每个生成任务跑在独立 Docker 容器里，跑完自毁，产物可下载",
-      "url": "https://github.com/CallStorm/ppt-web",
-      "stargazerCount": 14,
-      "forkCount": 5,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "CallStorm",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/150648527?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-20T02:14:09Z",
-      "updatedAt": "2026-06-23T06:00:53Z",
-      "licenseName": null,
-      "topics": [
-        "claude-code",
-        "docker",
-        "pptx"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1275600187",
       "name": "nano",
       "nameWithOwner": "mohameodo/nano",
@@ -78,7 +78,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/135092019?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-20T22:57:37Z",
-      "updatedAt": "2026-06-22T23:35:44Z",
+      "updatedAt": "2026-06-23T13:45:52Z",
       "licenseName": null,
       "topics": [
         "astro",

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-23T07:58:17Z",
+  "generatedAt": "2026-06-24T07:53:27Z",
   "topic": "vue",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1275023575",
@@ -9,7 +9,7 @@
       "nameWithOwner": "HHT0rro/JavaShroud",
       "description": "面向 Java 产物的混淆、方法虚拟化与 Native 加固工具链。A Java obfuscation, virtualization, and native hardening toolchain.",
       "url": "https://github.com/HHT0rro/JavaShroud",
-      "stargazerCount": 67,
+      "stargazerCount": 69,
       "forkCount": 0,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/169252182?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-20T06:44:35Z",
-      "updatedAt": "2026-06-23T04:16:22Z",
+      "updatedAt": "2026-06-23T13:45:11Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "asm",
@@ -41,7 +41,7 @@
       "nameWithOwner": "craig7351/fake-whiteout-survival",
       "description": "🥩❄️ 雪地肉舖 — 放置經營 × 塔防網頁遊戲 (Vue 3 + Babylon.js + Cloudflare Pages/D1)",
       "url": "https://github.com/craig7351/fake-whiteout-survival",
-      "stargazerCount": 12,
+      "stargazerCount": 13,
       "forkCount": 6,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -49,7 +49,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1267188?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-19T17:23:34Z",
-      "updatedAt": "2026-06-22T15:01:52Z",
+      "updatedAt": "2026-06-23T08:19:50Z",
       "licenseName": null,
       "topics": [
         "babylonjs",
@@ -60,33 +60,6 @@
         "typescript",
         "vue",
         "webgl"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1272152228",
-      "name": "adonis-inertia-modal",
-      "nameWithOwner": "filipebraida/adonis-inertia-modal",
-      "description": "Backend-driven modals & slideovers for Inertia.js on AdonisJS — deep-linkable, validation-aware, stackable. React & Vue.",
-      "url": "https://github.com/filipebraida/adonis-inertia-modal",
-      "stargazerCount": 9,
-      "forkCount": 0,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "filipebraida",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/2746730?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-17T10:37:04Z",
-      "updatedAt": "2026-06-19T13:55:34Z",
-      "licenseName": "MIT",
-      "topics": [
-        "adonisjs",
-        "inertiajs",
-        "modal",
-        "react",
-        "slideover",
-        "vue"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

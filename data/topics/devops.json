@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-23T07:58:17Z",
+  "generatedAt": "2026-06-24T07:53:27Z",
   "topic": "devops",
-  "totalCount": 4,
+  "totalCount": 6,
   "repos": [
     {
       "id": "1273568638",
@@ -9,7 +9,7 @@
       "nameWithOwner": "MS33834/autoship-cli",
       "description": "A CLI toolkit for automating shipping, deployment, and release workflows.",
       "url": "https://github.com/MS33834/autoship-cli",
-      "stargazerCount": 36,
+      "stargazerCount": 40,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/294720727?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-18T16:46:37Z",
-      "updatedAt": "2026-06-23T06:50:49Z",
+      "updatedAt": "2026-06-24T07:22:55Z",
       "licenseName": "MIT",
       "topics": [
         "automation",
@@ -25,6 +25,69 @@
         "deployment",
         "devops",
         "release"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1276275103",
+      "name": "cloud-control-bot",
+      "nameWithOwner": "kirillDevPro/cloud-control-bot",
+      "description": "Telegram bot to monitor uptime, power-control (start/stop/reboot), and track balances & costs of your Vultr, Hetzner & AWS cloud servers — 24/7, multi-account, EN/RU/UK/ES.",
+      "url": "https://github.com/kirillDevPro/cloud-control-bot",
+      "stargazerCount": 21,
+      "forkCount": 1,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "kirillDevPro",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/113171057?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-21T19:09:52Z",
+      "updatedAt": "2026-06-24T05:37:07Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "aiogram",
+        "aws",
+        "cloud-management",
+        "devops",
+        "hetzner",
+        "icmp",
+        "monitoring",
+        "ping",
+        "python",
+        "server-management",
+        "telegram-bot",
+        "uptime-monitoring",
+        "vultr"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1273906051",
+      "name": "slo-impact",
+      "nameWithOwner": "Ajay150313/slo-impact",
+      "description": "User-impact-weighted SLO dashboard — measure true 99.99% uptime by actual customer exposure, not raw availability",
+      "url": "https://github.com/Ajay150313/slo-impact",
+      "stargazerCount": 20,
+      "forkCount": 21,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "Ajay150313",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/87910215?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-19T01:54:50Z",
+      "updatedAt": "2026-06-23T17:08:45Z",
+      "licenseName": "MIT",
+      "topics": [
+        "devops",
+        "observability",
+        "prometheus",
+        "reliability",
+        "sli",
+        "slo",
+        "sre",
+        "uptime"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -57,6 +120,37 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1277239862",
+      "name": "zabbix-noc-alerter",
+      "nameWithOwner": "opastorello/zabbix-noc-alerter",
+      "description": "Sound and browser notification alerts for new Zabbix problems (Chrome MV3). Uses your open session, no token, nothing hardcoded. PT/EN/ES.",
+      "url": "https://github.com/opastorello/zabbix-noc-alerter",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "opastorello",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/68306729?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-22T17:58:50Z",
+      "updatedAt": "2026-06-24T02:51:57Z",
+      "licenseName": "MIT",
+      "topics": [
+        "alerting",
+        "browser-extension",
+        "chrome-extension",
+        "devops",
+        "manifest-v3",
+        "monitoring",
+        "noc",
+        "notifications",
+        "web-audio",
+        "zabbix"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1274330948",
       "name": "open-infra",
       "nameWithOwner": "harn3ss/open-infra",
@@ -70,7 +164,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/15875377?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-19T12:02:43Z",
-      "updatedAt": "2026-06-23T04:56:55Z",
+      "updatedAt": "2026-06-24T02:15:42Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "argocd",
@@ -87,35 +181,6 @@
         "self-hosted"
       ],
       "openIssuesCount": 5,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1273906051",
-      "name": "slo-impact",
-      "nameWithOwner": "Ajay150313/slo-impact",
-      "description": "User-impact-weighted SLO dashboard — measure true 99.99% uptime by actual customer exposure, not raw availability",
-      "url": "https://github.com/Ajay150313/slo-impact",
-      "stargazerCount": 6,
-      "forkCount": 6,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "Ajay150313",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/87910215?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-19T01:54:50Z",
-      "updatedAt": "2026-06-23T05:57:23Z",
-      "licenseName": "MIT",
-      "topics": [
-        "devops",
-        "observability",
-        "prometheus",
-        "reliability",
-        "sli",
-        "slo",
-        "sre",
-        "uptime"
-      ],
-      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]
