@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T07:53:27Z",
+  "generatedAt": "2026-06-25T07:54:55Z",
   "topic": "flutter",
   "totalCount": 1,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "huseyiniriss/flutter-gui-runner",
       "description": "Native macOS control panel for Flutter — for editors (Zed/Neovim/terminal) and agentic coding without a Flutter plugin",
       "url": "https://github.com/huseyiniriss/flutter-gui-runner",
-      "stargazerCount": 8,
+      "stargazerCount": 9,
       "forkCount": 0,
       "languageName": "Swift",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/13603852?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-22T23:06:06Z",
-      "updatedAt": "2026-06-23T19:33:18Z",
+      "updatedAt": "2026-06-24T09:57:47Z",
       "licenseName": "MIT",
       "topics": [
         "agentic",
