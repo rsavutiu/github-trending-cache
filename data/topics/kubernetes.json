@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-25T07:54:55Z",
+  "generatedAt": "2026-06-26T08:02:41Z",
   "topic": "kubernetes",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1275412694",
@@ -25,39 +25,6 @@
         "kubernetes"
       ],
       "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1274330948",
-      "name": "open-infra",
-      "nameWithOwner": "harn3ss/open-infra",
-      "description": "A free, self-hostable mini-cloud: write one infra.yaml, git push, get an AWS-like deploy on your own hardware.",
-      "url": "https://github.com/harn3ss/open-infra",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "harn3ss",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/15875377?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-19T12:02:43Z",
-      "updatedAt": "2026-06-24T02:15:42Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "argocd",
-        "crossplane",
-        "devops",
-        "gitops",
-        "homelab",
-        "infrastructure-as-code",
-        "k3s",
-        "knative",
-        "kubernetes",
-        "mini-cloud",
-        "platform-engineering",
-        "self-hosted"
-      ],
-      "openIssuesCount": 5,
       "closedIssuesCount": 0
     }
   ]

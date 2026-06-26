@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-25T07:54:55Z",
+  "generatedAt": "2026-06-26T08:02:41Z",
   "topic": "go",
-  "totalCount": 4,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1275444433",
@@ -9,15 +9,15 @@
       "nameWithOwner": "overflowy/make-look-scanned",
       "description": "Makes PDFs look scanned (CLI or in the browser via WASM)",
       "url": "https://github.com/overflowy/make-look-scanned",
-      "stargazerCount": 408,
-      "forkCount": 20,
+      "stargazerCount": 417,
+      "forkCount": 21,
       "languageName": "Go",
       "languageColor": null,
       "ownerLogin": "overflowy",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/98480250?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-20T17:39:59Z",
-      "updatedAt": "2026-06-25T06:48:39Z",
+      "updatedAt": "2026-06-26T06:21:00Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "go",
@@ -26,47 +26,6 @@
         "wasm"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1274056720",
-      "name": "lazyskills",
-      "nameWithOwner": "alvinunreal/lazyskills",
-      "description": "Blazing-fast mission control for agent skills.",
-      "url": "https://github.com/alvinunreal/lazyskills",
-      "stargazerCount": 99,
-      "forkCount": 4,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "alvinunreal",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/204474669?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-19T06:20:40Z",
-      "updatedAt": "2026-06-25T07:32:59Z",
-      "licenseName": "MIT",
-      "topics": [
-        "agent-skills",
-        "agent-tools",
-        "ai-agents",
-        "ai-tools",
-        "ai-workflow",
-        "claude-code",
-        "cli",
-        "coding-agents",
-        "command-line-tool",
-        "developer-tools",
-        "go",
-        "opencode",
-        "productivity-tools",
-        "skill-discovery",
-        "skill-management",
-        "skills",
-        "terminal-app",
-        "terminal-ui",
-        "tui",
-        "workflow-automation"
-      ],
-      "openIssuesCount": 17,
       "closedIssuesCount": 0
     },
     {
@@ -107,6 +66,36 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1279076036",
+      "name": "ncr-on-terminal",
+      "nameWithOwner": "adot-7/ncr-on-terminal",
+      "description": "Delhi NCR in your terminal",
+      "url": "https://github.com/adot-7/ncr-on-terminal",
+      "stargazerCount": 10,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "adot-7",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/60479470?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-24T10:54:06Z",
+      "updatedAt": "2026-06-25T23:58:02Z",
+      "licenseName": null,
+      "topics": [
+        "braille",
+        "bubbletea",
+        "delhi",
+        "go",
+        "india",
+        "mbtiles",
+        "openstreetmap",
+        "terminal",
+        "tui"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1275426982",
       "name": "tamga",
       "nameWithOwner": "yatuk/tamga",
@@ -135,6 +124,37 @@
         "prompt-injection"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1280592148",
+      "name": "qris-go",
+      "nameWithOwner": "ezha-payment/qris-go",
+      "description": "Go library for parsing, generating, validating, and converting QRIS payment payloads. Zero dependencies.",
+      "url": "https://github.com/ezha-payment/qris-go",
+      "stargazerCount": 8,
+      "forkCount": 2,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "ezha-payment",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/296949930?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-06-25T18:35:38Z",
+      "updatedAt": "2026-06-26T07:55:09Z",
+      "licenseName": "MIT",
+      "topics": [
+        "emv",
+        "emvco",
+        "fintech",
+        "go",
+        "golang",
+        "indonesia",
+        "payment",
+        "payment-gateway",
+        "qris",
+        "qris-payment"
+      ],
+      "openIssuesCount": 3,
       "closedIssuesCount": 0
     }
   ]

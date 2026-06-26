@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T07:54:55Z",
+  "generatedAt": "2026-06-26T08:02:41Z",
   "topic": "data-science",
   "totalCount": 1,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "muhammadibrahim313/btaji-crew-research-lab",
       "description": "Learn how to actually do research, one session at a time.",
       "url": "https://github.com/muhammadibrahim313/btaji-crew-research-lab",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/147333130?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-20T20:13:50Z",
-      "updatedAt": "2026-06-24T06:12:02Z",
+      "updatedAt": "2026-06-25T14:15:46Z",
       "licenseName": null,
       "topics": [
         "ai",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T07:54:55Z",
+  "generatedAt": "2026-06-26T08:02:41Z",
   "topic": "kotlin",
   "totalCount": 3,
   "repos": [
@@ -36,41 +36,6 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1274713100",
-      "name": "PortX",
-      "nameWithOwner": "mr-coder20/PortX",
-      "description": "\"A modern, high-performance, and multi-platform network security toolkit built with Kotlin Multiplatform and Compose.\"",
-      "url": "https://github.com/mr-coder20/PortX",
-      "stargazerCount": 9,
-      "forkCount": 0,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "mr-coder20",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/98449930?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-19T20:10:31Z",
-      "updatedAt": "2026-06-22T22:15:58Z",
-      "licenseName": null,
-      "topics": [
-        "android-development",
-        "compose-multiplatform",
-        "cross-platform",
-        "cybersecurity",
-        "desktop-application",
-        "kmp",
-        "kotlin",
-        "kotlin-multiplatform",
-        "ktor",
-        "network-scanning",
-        "penetration-testing",
-        "port-scanner",
-        "security-tools",
-        "sqldelight"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1275840897",
       "name": "MusicResync",
       "nameWithOwner": "DynamycSound/MusicResync",
@@ -84,7 +49,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/17333332?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-21T07:46:31Z",
-      "updatedAt": "2026-06-25T07:36:44Z",
+      "updatedAt": "2026-06-25T22:23:33Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "android",
@@ -97,6 +62,31 @@
         "samsung-music",
         "spotify",
         "synced-lyrics"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1276075652",
+      "name": "NovaBar",
+      "nameWithOwner": "VikrantRuhela/NovaBar",
+      "description": "Modern live activities for Android inspired by Samsung's Now Bar.",
+      "url": "https://github.com/VikrantRuhela/NovaBar",
+      "stargazerCount": 6,
+      "forkCount": 2,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "VikrantRuhela",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/113286905?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-21T14:09:30Z",
+      "updatedAt": "2026-06-25T19:23:47Z",
+      "licenseName": "MIT",
+      "topics": [
+        "android",
+        "android-customisation",
+        "jetpack-compose",
+        "kotlin"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

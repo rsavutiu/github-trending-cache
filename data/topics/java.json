@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-25T07:54:55Z",
+  "generatedAt": "2026-06-26T08:02:41Z",
   "topic": "java",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1275023575",
@@ -31,38 +31,6 @@
         "virtualization",
         "vue",
         "wails"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1279516492",
-      "name": "Vape-V4-Pro-Panel",
-      "nameWithOwner": "Prismforbarrier/Vape-V4-Pro-Panel",
-      "description": "updated version VAPE V4",
-      "url": "https://github.com/Prismforbarrier/Vape-V4-Pro-Panel",
-      "stargazerCount": 41,
-      "forkCount": 0,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "Prismforbarrier",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/279539318?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-24T19:03:10Z",
-      "updatedAt": "2026-06-24T21:13:12Z",
-      "licenseName": null,
-      "topics": [
-        "java",
-        "minecraft",
-        "minecraft-esp",
-        "minecraft-impact",
-        "minecraft-killaura",
-        "minecraft-killaura-vape",
-        "minecraft-vape",
-        "minecraft-vape-v4-download",
-        "minecraft-wurst",
-        "vape-v4-client",
-        "vape-v4-free-account"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
