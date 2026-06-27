@@ -1,8 +1,41 @@
 {
-  "generatedAt": "2026-06-26T08:02:41Z",
+  "generatedAt": "2026-06-27T07:27:07Z",
   "topic": "devops",
-  "totalCount": 5,
+  "totalCount": 6,
   "repos": [
+    {
+      "id": "1279907974",
+      "name": "mini-Cpanel",
+      "nameWithOwner": "jimbon25/mini-Cpanel",
+      "description": "A minimalist, self-hosted server orchestration dashboard designed to deploy, manage, and monitor personal web applications and background services.",
+      "url": "https://github.com/jimbon25/mini-Cpanel",
+      "stargazerCount": 26,
+      "forkCount": 14,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "jimbon25",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/218428619?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-25T05:37:35Z",
+      "updatedAt": "2026-06-27T06:50:23Z",
+      "licenseName": "MIT",
+      "topics": [
+        "dashboard",
+        "deployment-tools",
+        "developer-tools",
+        "devops",
+        "docker",
+        "fastapi",
+        "nextjs",
+        "python",
+        "self-hosted",
+        "server-orchestration",
+        "systemd",
+        "typescript"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1276275103",
       "name": "cloud-control-bot",
@@ -38,39 +71,6 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1279907974",
-      "name": "mini-Cpanel",
-      "nameWithOwner": "jimbon25/mini-Cpanel",
-      "description": "A minimalist, self-hosted server orchestration dashboard designed to deploy, manage, and monitor personal web applications and background services.",
-      "url": "https://github.com/jimbon25/mini-Cpanel",
-      "stargazerCount": 18,
-      "forkCount": 11,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "jimbon25",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/218428619?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-25T05:37:35Z",
-      "updatedAt": "2026-06-26T06:02:25Z",
-      "licenseName": "MIT",
-      "topics": [
-        "dashboard",
-        "deployment-tools",
-        "developer-tools",
-        "devops",
-        "docker",
-        "fastapi",
-        "nextjs",
-        "python",
-        "self-hosted",
-        "server-orchestration",
-        "systemd",
-        "typescript"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1277239862",
       "name": "zabbix-noc-alerter",
       "nameWithOwner": "opastorello/zabbix-noc-alerter",
@@ -84,7 +84,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/68306729?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-22T17:58:50Z",
-      "updatedAt": "2026-06-25T14:03:32Z",
+      "updatedAt": "2026-06-27T06:52:23Z",
       "licenseName": "MIT",
       "topics": [
         "alerting",
@@ -98,7 +98,7 @@
         "web-audio",
         "zabbix"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -139,7 +139,7 @@
       "nameWithOwner": "Holo795/CBMCoolifyBackup",
       "description": "Self-hosted backup & restore manager for Coolify — back up apps, services, volumes, bind mounts and databases to local, S3 or SSH/SFTP, deduplicated and encrypted with restic. Goes beyond Coolify's built-in database-only backups: full restore, restore-to-new, missed-backup alerts and multi-server.",
       "url": "https://github.com/Holo795/CBMCoolifyBackup",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -147,7 +147,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76647363?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-23T19:59:02Z",
-      "updatedAt": "2026-06-26T02:33:58Z",
+      "updatedAt": "2026-06-26T10:29:45Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "backup",
@@ -165,6 +165,43 @@
         "sftp"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1280098766",
+      "name": "sbt-osv",
+      "nameWithOwner": "nMoncho/sbt-osv",
+      "description": "SBT Plugin for OSV API. Monitor your dependencies and report if there are any publicly known vulnerabilities (e.g. CVEs).",
+      "url": "https://github.com/nMoncho/sbt-osv",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Scala",
+      "languageColor": null,
+      "ownerLogin": "nMoncho",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1565948?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-25T09:11:09Z",
+      "updatedAt": "2026-06-26T18:16:58Z",
+      "licenseName": "MIT",
+      "topics": [
+        "cve",
+        "cve-scanning",
+        "devops",
+        "infosec",
+        "sbt",
+        "sbt-plugin",
+        "scala",
+        "security",
+        "security-audit",
+        "security-automation",
+        "software-composition-analysis",
+        "software-security",
+        "static-analysis",
+        "vulnerabilities",
+        "vulnerability-detection",
+        "vulnerability-scanner"
+      ],
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]

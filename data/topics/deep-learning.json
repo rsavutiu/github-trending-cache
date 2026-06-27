@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-26T08:02:41Z",
+  "generatedAt": "2026-06-27T07:27:07Z",
   "topic": "deep-learning",
-  "totalCount": 4,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1278312228",
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/296234105?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-23T17:09:31Z",
-      "updatedAt": "2026-06-26T04:20:24Z",
+      "updatedAt": "2026-06-26T09:16:51Z",
       "licenseName": null,
       "topics": [
         "agent",
@@ -30,67 +30,6 @@
         "openai",
         "rag",
         "tutorial"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1275409602",
-      "name": "visible-ai",
-      "nameWithOwner": "dvbs2000/visible-ai",
-      "description": "看得见的 AI · The Visible AI —— 一本全图解、零基础到亲手构建的 AI 通识书,永久免费。30 章 / 6 阶段,元元×小满带你从一个神经元走到亲手搭 AI 应用。",
-      "url": "https://github.com/dvbs2000/visible-ai",
-      "stargazerCount": 39,
-      "forkCount": 1,
-      "languageName": "HTML",
-      "languageColor": null,
-      "ownerLogin": "dvbs2000",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/24581161?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-20T16:46:08Z",
-      "updatedAt": "2026-06-25T09:31:17Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "ai",
-        "ai-education",
-        "beginners",
-        "chinese",
-        "deep-learning",
-        "ebook",
-        "free-book",
-        "llm",
-        "llm-tutorial",
-        "machine-learning",
-        "transformer",
-        "tutorial"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1275161859",
-      "name": "aiml-daily-grind",
-      "nameWithOwner": "Sampath7890/aiml-daily-grind",
-      "description": "Day-by-day AI/ML roadmap — 5 phases, 33 weeks, 12 projects. From Python to GenAI. Built by a student, for students. 🚀",
-      "url": "https://github.com/Sampath7890/aiml-daily-grind",
-      "stargazerCount": 25,
-      "forkCount": 0,
-      "languageName": "HTML",
-      "languageColor": null,
-      "ownerLogin": "Sampath7890",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/179703002?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-20T10:31:46Z",
-      "updatedAt": "2026-06-25T19:15:08Z",
-      "licenseName": "MIT",
-      "topics": [
-        "ai-engineer",
-        "deep-learning",
-        "fastapi",
-        "genai",
-        "langchain",
-        "machine-learning",
-        "python"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

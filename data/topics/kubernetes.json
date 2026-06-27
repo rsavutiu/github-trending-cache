@@ -1,30 +1,31 @@
 {
-  "generatedAt": "2026-06-26T08:02:41Z",
+  "generatedAt": "2026-06-27T07:27:07Z",
   "topic": "kubernetes",
   "totalCount": 1,
   "repos": [
     {
-      "id": "1275412694",
-      "name": "helm-release-size-analyzer",
-      "nameWithOwner": "jkroepke/helm-release-size-analyzer",
-      "description": "A cluster-free CLI that measures the exact decoded Helm release Secret size and breaks it down by top-level property.",
-      "url": "https://github.com/jkroepke/helm-release-size-analyzer",
-      "stargazerCount": 10,
+      "id": "1280905644",
+      "name": "k3s-devops-lab",
+      "nameWithOwner": "Xeze-org/k3s-devops-lab",
+      "description": "Reproducible Kubernetes DevOps lab powered by Vagrant, Ansible, ArgoCD, and GitOps.",
+      "url": "https://github.com/Xeze-org/k3s-devops-lab",
+      "stargazerCount": 6,
       "forkCount": 0,
-      "languageName": "Go",
+      "languageName": "Shell",
       "languageColor": null,
-      "ownerLogin": "jkroepke",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1560587?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-20T16:50:31Z",
-      "updatedAt": "2026-06-24T21:03:49Z",
+      "ownerLogin": "Xeze-org",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/259008793?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-06-26T03:42:46Z",
+      "updatedAt": "2026-06-27T04:55:29Z",
       "licenseName": "Apache-2.0",
       "topics": [
-        "helm",
-        "helm-charts",
-        "kubernetes"
+        "ansible",
+        "kubernetes",
+        "vagrant",
+        "vmware-guest"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]
