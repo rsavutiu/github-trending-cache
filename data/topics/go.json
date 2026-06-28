@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-27T07:27:07Z",
+  "generatedAt": "2026-06-28T07:58:32Z",
   "topic": "go",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1280592148",
@@ -35,43 +35,6 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1275933813",
-      "name": "godig",
-      "nameWithOwner": "samber/godig",
-      "description": "🔌 CLI & MCP server for pkg.go.dev",
-      "url": "https://github.com/samber/godig",
-      "stargazerCount": 12,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "samber",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/2951285?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-21T10:27:49Z",
-      "updatedAt": "2026-06-26T18:59:53Z",
-      "licenseName": "MIT",
-      "topics": [
-        "agent",
-        "cli",
-        "client",
-        "dependencies",
-        "doc",
-        "go",
-        "golang",
-        "mcp",
-        "module",
-        "openapi",
-        "package",
-        "pkg",
-        "skills",
-        "symbol",
-        "version",
-        "vulnerability"
-      ],
-      "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1279076036",
       "name": "ncr-on-terminal",
       "nameWithOwner": "adot-7/ncr-on-terminal",
@@ -100,7 +63,7 @@
         "tui",
         "unicode-characters"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -109,7 +72,7 @@
       "nameWithOwner": "Menfre01/waveloom",
       "description": "为 DeepSeek 前缀缓存定制的终端 Code Agent（纯 Go），缓存命中率 95-99%，输入成本降至 1/50。A terminal coding agent optimized for DeepSeek prefix caching — 95-99% cache hit, 1/50th the cost.",
       "url": "https://github.com/Menfre01/waveloom",
-      "stargazerCount": 6,
+      "stargazerCount": 10,
       "forkCount": 1,
       "languageName": "Go",
       "languageColor": null,
@@ -117,7 +80,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/150517126?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-24T07:16:26Z",
-      "updatedAt": "2026-06-27T07:05:11Z",
+      "updatedAt": "2026-06-27T15:09:27Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ai",

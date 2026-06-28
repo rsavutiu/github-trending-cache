@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T07:27:07Z",
+  "generatedAt": "2026-06-28T07:58:32Z",
   "topic": "vue",
   "totalCount": 3,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "Neilooo/md-reader",
       "description": "一个轻量快速的 Markdown 阅读器 / Markdown viewer & reader for Windows. Tauri 2 + Vue 3, 5MB, supports KaTeX math, Mermaid diagrams, syntax highlighting, full-text search, and WYSIWYG PDF export via Edge",
       "url": "https://github.com/Neilooo/md-reader",
-      "stargazerCount": 64,
-      "forkCount": 4,
+      "stargazerCount": 71,
+      "forkCount": 5,
       "languageName": "Vue",
       "languageColor": null,
       "ownerLogin": "Neilooo",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/31474844?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-24T07:09:39Z",
-      "updatedAt": "2026-06-27T04:43:37Z",
+      "updatedAt": "2026-06-28T00:00:00Z",
       "licenseName": "MIT",
       "topics": [
         "markdown",

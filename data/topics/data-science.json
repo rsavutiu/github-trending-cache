@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T07:27:07Z",
+  "generatedAt": "2026-06-28T07:58:32Z",
   "topic": "data-science",
   "totalCount": 1,
   "repos": [
@@ -7,9 +7,9 @@
       "id": "1280990637",
       "name": "cf-difficulty-prediction",
       "nameWithOwner": "CmsChase/cf-difficulty-prediction",
-      "description": "A reproducible machine-learning project predicting Codeforces problem difficulty from public API metadata and solved statistics.",
+      "description": "A reproducible ML study of Codeforces difficulty prediction, solved-count exposure effects, cold-start limits, and temporal validation.",
       "url": "https://github.com/CmsChase/cf-difficulty-prediction",
-      "stargazerCount": 13,
+      "stargazerCount": 19,
       "forkCount": 5,
       "languageName": "Python",
       "languageColor": null,
@@ -17,18 +17,20 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/210003561?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-26T06:00:44Z",
-      "updatedAt": "2026-06-27T07:07:19Z",
+      "updatedAt": "2026-06-27T20:48:07Z",
       "licenseName": null,
       "topics": [
         "codeforces",
-        "competitve-programming",
+        "competitive-programming",
+        "concept-drift",
         "data-science",
         "difficulty-prediction",
         "machine-learning",
         "reproducible-research",
-        "scikit-learn"
+        "scikit-learn",
+        "temporal-validation"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

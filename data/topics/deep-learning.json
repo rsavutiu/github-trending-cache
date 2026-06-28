@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-27T07:27:07Z",
+  "generatedAt": "2026-06-28T07:58:32Z",
   "topic": "deep-learning",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1278312228",
@@ -9,7 +9,7 @@
       "nameWithOwner": "Reyzowter/Hello-Agents",
       "description": "🤖 Building AI Agent Systems from Scratch — A comprehensive, practical tutorial from fundamentals to production-grade multi-agent applications",
       "url": "https://github.com/Reyzowter/Hello-Agents",
-      "stargazerCount": 132,
+      "stargazerCount": 134,
       "forkCount": 3,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/296234105?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-23T17:09:31Z",
-      "updatedAt": "2026-06-26T09:16:51Z",
+      "updatedAt": "2026-06-27T13:42:59Z",
       "licenseName": null,
       "topics": [
         "agent",
@@ -30,39 +30,6 @@
         "openai",
         "rag",
         "tutorial"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1276252016",
-      "name": "voxpolish",
-      "nameWithOwner": "Jeevav62/voxpolish",
-      "description": "VoxPolish - a TTS dataset cleaner. Remove noise, trim silence, normalize loudness for text-to-speech training data in one command.",
-      "url": "https://github.com/Jeevav62/voxpolish",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "Jeevav62",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/221309275?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-21T18:28:57Z",
-      "updatedAt": "2026-06-23T11:38:39Z",
-      "licenseName": "MIT",
-      "topics": [
-        "audio-denoising",
-        "audio-processing",
-        "dataset-cleaner",
-        "dataset-cleaning",
-        "deep-learning",
-        "noise-reduction",
-        "python",
-        "speech-enhancement",
-        "text-to-speech",
-        "tts",
-        "tts-dataset",
-        "voice"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
