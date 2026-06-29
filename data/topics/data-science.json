@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-28T07:58:32Z",
+  "generatedAt": "2026-06-29T09:06:42Z",
   "topic": "data-science",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1280990637",
@@ -9,7 +9,7 @@
       "nameWithOwner": "CmsChase/cf-difficulty-prediction",
       "description": "A reproducible ML study of Codeforces difficulty prediction, solved-count exposure effects, cold-start limits, and temporal validation.",
       "url": "https://github.com/CmsChase/cf-difficulty-prediction",
-      "stargazerCount": 19,
+      "stargazerCount": 22,
       "forkCount": 5,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/210003561?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-26T06:00:44Z",
-      "updatedAt": "2026-06-27T20:48:07Z",
+      "updatedAt": "2026-06-29T05:29:24Z",
       "licenseName": null,
       "topics": [
         "codeforces",
@@ -29,6 +29,32 @@
         "reproducible-research",
         "scikit-learn",
         "temporal-validation"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1282515026",
+      "name": "care-risk-prediction-ml",
+      "nameWithOwner": "tasnem-tech/care-risk-prediction-ml",
+      "description": "🧠 Machine Learning system for predicting healthcare risk using Python, Scikit-learn, and Streamlit.",
+      "url": "https://github.com/tasnem-tech/care-risk-prediction-ml",
+      "stargazerCount": 17,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "tasnem-tech",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/260295037?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-27T21:52:45Z",
+      "updatedAt": "2026-06-28T12:42:50Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "ai-streamlit",
+        "data-science",
+        "data-science-competition",
+        "machine-learning-python",
+        "scikit-learn-healthcare"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
