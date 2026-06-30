@@ -1,37 +1,6 @@
 {
-  "generatedAt": "2026-06-29T09:06:42Z",
+  "generatedAt": "2026-06-30T08:01:35Z",
   "topic": "web",
-  "totalCount": 1,
-  "repos": [
-    {
-      "id": "1277503708",
-      "name": "Reframe",
-      "nameWithOwner": "Hrithwin123/Reframe",
-      "description": "A Chrome extension that lets you vibe code the internet. Redesign any website's UI instantly just by describing what you want to see.",
-      "url": "https://github.com/Hrithwin123/Reframe",
-      "stargazerCount": 9,
-      "forkCount": 1,
-      "languageName": "JavaScript",
-      "languageColor": null,
-      "ownerLogin": "Hrithwin123",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/182009798?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-23T00:37:37Z",
-      "updatedAt": "2026-06-25T17:07:08Z",
-      "licenseName": null,
-      "topics": [
-        "ai",
-        "browser-extension",
-        "chrome-extenstion",
-        "dom-",
-        "javascript",
-        "llm",
-        "productivity",
-        "vibe-coding",
-        "web"
-      ],
-      "openIssuesCount": 3,
-      "closedIssuesCount": 0
-    }
-  ]
+  "totalCount": 0,
+  "repos": []
 }

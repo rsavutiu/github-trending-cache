@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T09:06:42Z",
+  "generatedAt": "2026-06-30T08:01:35Z",
   "topic": "data-science",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "CmsChase/cf-difficulty-prediction",
       "description": "A reproducible ML study of Codeforces difficulty prediction, solved-count exposure effects, cold-start limits, and temporal validation.",
       "url": "https://github.com/CmsChase/cf-difficulty-prediction",
-      "stargazerCount": 22,
+      "stargazerCount": 27,
       "forkCount": 5,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/210003561?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-26T06:00:44Z",
-      "updatedAt": "2026-06-29T05:29:24Z",
+      "updatedAt": "2026-06-30T06:19:04Z",
       "licenseName": null,
       "topics": [
         "codeforces",
