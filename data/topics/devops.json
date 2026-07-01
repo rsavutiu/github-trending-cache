@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T08:01:35Z",
+  "generatedAt": "2026-07-01T08:21:27Z",
   "topic": "devops",
   "totalCount": 3,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "jimbon25/mini-Cpanel",
       "description": "A minimalist, self-hosted server orchestration dashboard designed to deploy, manage, and monitor personal web applications and background services.",
       "url": "https://github.com/jimbon25/mini-Cpanel",
-      "stargazerCount": 29,
-      "forkCount": 16,
+      "stargazerCount": 32,
+      "forkCount": 18,
       "languageName": "TypeScript",
       "languageColor": null,
       "ownerLogin": "jimbon25",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/218428619?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-25T05:37:35Z",
-      "updatedAt": "2026-06-30T06:24:31Z",
+      "updatedAt": "2026-07-01T04:36:58Z",
       "licenseName": "MIT",
       "topics": [
         "dashboard",
@@ -50,7 +50,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1565948?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-25T09:11:09Z",
-      "updatedAt": "2026-06-29T07:59:07Z",
+      "updatedAt": "2026-06-30T09:34:16Z",
       "licenseName": "MIT",
       "topics": [
         "cve",
@@ -87,14 +87,13 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/25735715?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-26T04:56:00Z",
-      "updatedAt": "2026-06-30T05:52:35Z",
+      "updatedAt": "2026-06-30T20:38:21Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "api-gateway",
         "asyncio",
         "devops",
         "distributed-systems",
-        "fastapi",
         "gpu-orchestration",
         "infrastructure",
         "kafka",
@@ -102,7 +101,7 @@
         "scale-to-zero",
         "vllm"
       ],
-      "openIssuesCount": 3,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]
