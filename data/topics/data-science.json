@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T07:44:05Z",
+  "generatedAt": "2026-07-03T07:35:02Z",
   "topic": "data-science",
   "totalCount": 5,
   "repos": [
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/53051277?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-28T20:39:18Z",
-      "updatedAt": "2026-07-02T07:29:46Z",
+      "updatedAt": "2026-07-03T06:30:32Z",
       "licenseName": null,
       "topics": [
         "business-inteligence",
@@ -52,7 +52,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/291514033?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-28T19:21:15Z",
-      "updatedAt": "2026-07-01T23:25:34Z",
+      "updatedAt": "2026-07-02T21:53:24Z",
       "licenseName": null,
       "topics": [
         "amazon",
@@ -70,36 +70,6 @@
         "powerbi-visuals",
         "powerbidashboard",
         "visualization"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1280990637",
-      "name": "cf-difficulty-prediction",
-      "nameWithOwner": "CmsChase/cf-difficulty-prediction",
-      "description": "A reproducible ML study of Codeforces difficulty prediction, solved-count exposure effects, cold-start limits, temporal validation, and statement-structure features.",
-      "url": "https://github.com/CmsChase/cf-difficulty-prediction",
-      "stargazerCount": 40,
-      "forkCount": 5,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "CmsChase",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/210003561?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-26T06:00:44Z",
-      "updatedAt": "2026-07-02T06:38:29Z",
-      "licenseName": "MIT",
-      "topics": [
-        "codeforces",
-        "competitive-programming",
-        "concept-drift",
-        "data-science",
-        "difficulty-prediction",
-        "machine-learning",
-        "reproducible-research",
-        "scikit-learn",
-        "temporal-validation"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -136,7 +106,7 @@
       "nameWithOwner": "mirkovicdev/CRASH-LANDSCAPES",
       "description": "Topological data analysis of market crashes: persistent homology of four US indices, 1992-2026. The signal measures decoupling, not crash size, and detects rather than predicts.",
       "url": "https://github.com/mirkovicdev/CRASH-LANDSCAPES",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 1,
       "languageName": "Jupyter Notebook",
       "languageColor": null,
@@ -144,7 +114,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/128740883?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-27T16:08:43Z",
-      "updatedAt": "2026-07-01T20:50:35Z",
+      "updatedAt": "2026-07-02T18:05:23Z",
       "licenseName": "MIT",
       "topics": [
         "computational-topology",
@@ -161,6 +131,30 @@
         "tda",
         "time-series",
         "topological-data-analysis"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1286517586",
+      "name": "Evalda",
+      "nameWithOwner": "YassWorks/Evalda",
+      "description": "Open-source ML competition platform.",
+      "url": "https://github.com/YassWorks/Evalda",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "YassWorks",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/166346524?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-01T21:33:55Z",
+      "updatedAt": "2026-07-02T10:57:31Z",
+      "licenseName": "MIT",
+      "topics": [
+        "competition",
+        "data-science",
+        "mlops"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

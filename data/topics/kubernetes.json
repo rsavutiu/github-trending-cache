@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-02T07:44:05Z",
+  "generatedAt": "2026-07-03T07:35:02Z",
   "topic": "kubernetes",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1283317110",
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/144251188?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-28T19:43:53Z",
-      "updatedAt": "2026-07-02T06:33:57Z",
+      "updatedAt": "2026-07-03T06:55:30Z",
       "licenseName": null,
       "topics": [
         "alibabacloud",
@@ -45,55 +45,37 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1281714645",
-      "name": "ebfw",
-      "nameWithOwner": "dvrkn/ebfw",
-      "description": "eBPF egress firewall for Kubernetes — see and enforce what every pod talks to (domains, HTTP paths, headers, IPs), attributed per pod, enforced in the kernel. No sidecar, no proxy, no TLS MITM.",
-      "url": "https://github.com/dvrkn/ebfw",
-      "stargazerCount": 15,
+      "id": "1284423701",
+      "name": "Valorant-External-Assistant-2026",
+      "nameWithOwner": "IvoryTradesmanPort/Valorant-External-Assistant-2026",
+      "description": "Monitor Valorant gameplay through an external overlay to track player stats and match data in real time.",
+      "url": "https://github.com/IvoryTradesmanPort/Valorant-External-Assistant-2026",
+      "stargazerCount": 100,
       "forkCount": 0,
-      "languageName": "Go",
+      "languageName": null,
       "languageColor": null,
-      "ownerLogin": "dvrkn",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4789422?v=4",
+      "ownerLogin": "IvoryTradesmanPort",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/270184711?v=4",
       "ownerType": "User",
-      "createdAt": "2026-06-26T21:04:42Z",
-      "updatedAt": "2026-07-01T20:06:08Z",
+      "createdAt": "2026-06-29T21:11:11Z",
+      "updatedAt": "2026-07-03T01:54:46Z",
       "licenseName": "MIT",
       "topics": [
-        "cgroup",
-        "ebpf",
-        "egress",
-        "firewall",
+        "2026",
+        "ai",
+        "attention",
+        "aws",
+        "discord-bot",
+        "dns",
+        "dns-providers",
+        "dns-servers",
+        "educational-rendering",
+        "ingress",
         "kubernetes",
-        "network-policy",
-        "observability",
-        "security"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1280905644",
-      "name": "k3s-devops-lab",
-      "nameWithOwner": "Xeze-org/k3s-devops-lab",
-      "description": "Reproducible Kubernetes DevOps lab powered by Vagrant, Ansible, ArgoCD, and GitOps.",
-      "url": "https://github.com/Xeze-org/k3s-devops-lab",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Shell",
-      "languageColor": null,
-      "ownerLogin": "Xeze-org",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/259008793?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-06-26T03:42:46Z",
-      "updatedAt": "2026-06-30T02:26:10Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "ansible",
-        "kubernetes",
-        "vagrant",
-        "vmware-guest"
+        "linear-layers",
+        "overlay",
+        "rocketmq",
+        "route53"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -104,7 +86,7 @@
       "nameWithOwner": "JiRaska/open-bank-oss",
       "description": "Cloud-native, open-source retail banking platform reference implementation (Kotlin/Quarkus, Next.js, event-driven microservices).",
       "url": "https://github.com/JiRaska/open-bank-oss",
-      "stargazerCount": 6,
+      "stargazerCount": 9,
       "forkCount": 2,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -112,7 +94,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/282635778?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-30T15:29:01Z",
-      "updatedAt": "2026-07-02T07:37:24Z",
+      "updatedAt": "2026-07-03T06:25:46Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "argocd",
@@ -128,7 +110,7 @@
         "psd2",
         "quarkus"
       ],
-      "openIssuesCount": 6,
+      "openIssuesCount": 14,
       "closedIssuesCount": 0
     }
   ]

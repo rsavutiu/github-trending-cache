@@ -1,37 +1,8 @@
 {
-  "generatedAt": "2026-07-02T07:44:05Z",
+  "generatedAt": "2026-07-03T07:35:02Z",
   "topic": "nextjs",
-  "totalCount": 10,
+  "totalCount": 9,
   "repos": [
-    {
-      "id": "1283334473",
-      "name": "manga-vault-nexus",
-      "nameWithOwner": "ubedshah/manga-vault-nexus",
-      "description": "Next.js MangaDex CBZ Reader & Downloader 2026",
-      "url": "https://github.com/ubedshah/manga-vault-nexus",
-      "stargazerCount": 151,
-      "forkCount": 0,
-      "languageName": "HTML",
-      "languageColor": null,
-      "ownerLogin": "ubedshah",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5380362?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-28T20:12:54Z",
-      "updatedAt": "2026-07-02T04:58:45Z",
-      "licenseName": null,
-      "topics": [
-        "cbz",
-        "manga",
-        "manga-downloader",
-        "mangadex",
-        "nextjs",
-        "react",
-        "tailwindcss",
-        "typescript"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1283329020",
       "name": "ironclaw-ai-vision",
@@ -46,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/78599834?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-28T20:03:41Z",
-      "updatedAt": "2026-07-02T07:30:00Z",
+      "updatedAt": "2026-07-03T06:30:49Z",
       "licenseName": null,
       "topics": [
         "agentic-ai",
@@ -68,6 +39,35 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1283334473",
+      "name": "manga-vault-nexus",
+      "nameWithOwner": "ubedshah/manga-vault-nexus",
+      "description": "Next.js MangaDex CBZ Reader & Downloader 2026",
+      "url": "https://github.com/ubedshah/manga-vault-nexus",
+      "stargazerCount": 151,
+      "forkCount": 0,
+      "languageName": "HTML",
+      "languageColor": null,
+      "ownerLogin": "ubedshah",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5380362?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-28T20:12:54Z",
+      "updatedAt": "2026-07-03T04:42:52Z",
+      "licenseName": null,
+      "topics": [
+        "cbz",
+        "manga",
+        "manga-downloader",
+        "mangadex",
+        "nextjs",
+        "react",
+        "tailwindcss",
+        "typescript"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1283345053",
       "name": "omni-verse-reader",
       "nameWithOwner": "RobinDoom/omni-verse-reader",
@@ -81,7 +81,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/41781376?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-28T20:32:37Z",
-      "updatedAt": "2026-07-02T06:32:35Z",
+      "updatedAt": "2026-07-03T06:23:22Z",
       "licenseName": null,
       "topics": [
         "cbz",
@@ -106,35 +106,6 @@
         "self-hosted"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1281140983",
-      "name": "github-roast",
-      "nameWithOwner": "hikariming/github-roast",
-      "description": "Savage GitHub Roast · Drop a handle, get a 0–100 value & trust score in 30s plus one brutally honest roast. Exposes PR farmers, AI bots & fork-hoarders. Deterministic scoring, self-hostable.",
-      "url": "https://github.com/hikariming/github-roast",
-      "stargazerCount": 91,
-      "forkCount": 14,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "hikariming",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/23065064?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-26T09:02:14Z",
-      "updatedAt": "2026-07-02T06:50:50Z",
-      "licenseName": "AGPL-3.0",
-      "topics": [
-        "ai",
-        "code-quality",
-        "developer-tools",
-        "github",
-        "leaderboard",
-        "nextjs",
-        "openai",
-        "roast"
-      ],
-      "openIssuesCount": 9,
       "closedIssuesCount": 0
     },
     {
@@ -179,7 +150,7 @@
       "nameWithOwner": "calesthio/PhantomReach",
       "description": "Free, open-source local business intelligence audits for marketers and agencies. Run on your machine with real public data, and agentic workflow",
       "url": "https://github.com/calesthio/PhantomReach",
-      "stargazerCount": 12,
+      "stargazerCount": 13,
       "forkCount": 5,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -187,7 +158,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/213189893?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-27T18:14:43Z",
-      "updatedAt": "2026-06-30T04:54:38Z",
+      "updatedAt": "2026-07-02T15:04:08Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "agentic-ai",
@@ -217,7 +188,7 @@
       "nameWithOwner": "chen2he/Yield",
       "description": "Self-hosted App Store Connect order & subscription dashboard on the Cloudflare edge — driven entirely by App Store Server Notifications V2.",
       "url": "https://github.com/chen2he/Yield",
-      "stargazerCount": 8,
+      "stargazerCount": 11,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -225,7 +196,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/290057470?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-30T16:51:07Z",
-      "updatedAt": "2026-07-02T06:56:48Z",
+      "updatedAt": "2026-07-03T06:31:16Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "app-store-connect",
@@ -246,6 +217,39 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1285212911",
+      "name": "open-bank-oss",
+      "nameWithOwner": "JiRaska/open-bank-oss",
+      "description": "Cloud-native, open-source retail banking platform reference implementation (Kotlin/Quarkus, Next.js, event-driven microservices).",
+      "url": "https://github.com/JiRaska/open-bank-oss",
+      "stargazerCount": 9,
+      "forkCount": 2,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "JiRaska",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/282635778?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-30T15:29:01Z",
+      "updatedAt": "2026-07-03T06:25:46Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "argocd",
+        "banking",
+        "fintech",
+        "hexagonal-architecture",
+        "kotlin",
+        "kubernetes",
+        "microservices",
+        "nextjs",
+        "open-banking",
+        "opentofu",
+        "psd2",
+        "quarkus"
+      ],
+      "openIssuesCount": 14,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1281825642",
       "name": "vzla-sismo-feed",
       "nameWithOwner": "renasarenas/vzla-sismo-feed",
@@ -259,7 +263,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/224004401?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-27T01:11:44Z",
-      "updatedAt": "2026-07-01T23:44:45Z",
+      "updatedAt": "2026-07-02T18:25:15Z",
       "licenseName": "MIT",
       "topics": [
         "humanitarian",
@@ -270,7 +274,7 @@
         "terremoto",
         "venezuela"
       ],
-      "openIssuesCount": 2,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -304,39 +308,6 @@
         "xterm"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1285212911",
-      "name": "open-bank-oss",
-      "nameWithOwner": "JiRaska/open-bank-oss",
-      "description": "Cloud-native, open-source retail banking platform reference implementation (Kotlin/Quarkus, Next.js, event-driven microservices).",
-      "url": "https://github.com/JiRaska/open-bank-oss",
-      "stargazerCount": 6,
-      "forkCount": 2,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "JiRaska",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/282635778?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-30T15:29:01Z",
-      "updatedAt": "2026-07-02T07:37:24Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "argocd",
-        "banking",
-        "fintech",
-        "hexagonal-architecture",
-        "kotlin",
-        "kubernetes",
-        "microservices",
-        "nextjs",
-        "open-banking",
-        "opentofu",
-        "psd2",
-        "quarkus"
-      ],
-      "openIssuesCount": 6,
       "closedIssuesCount": 0
     }
   ]

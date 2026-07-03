@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-02T07:44:05Z",
+  "generatedAt": "2026-07-03T07:35:02Z",
   "topic": "vue",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1283304456",
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/274288691?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-28T19:23:52Z",
-      "updatedAt": "2026-07-02T06:57:34Z",
+      "updatedAt": "2026-07-03T05:38:47Z",
       "licenseName": null,
       "topics": [
         "booru",
@@ -51,7 +51,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/120423006?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-28T20:47:34Z",
-      "updatedAt": "2026-07-02T04:11:02Z",
+      "updatedAt": "2026-07-02T08:17:05Z",
       "licenseName": null,
       "topics": [
         "booru",
@@ -84,7 +84,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/247095717?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-28T20:36:29Z",
-      "updatedAt": "2026-07-02T06:30:19Z",
+      "updatedAt": "2026-07-03T05:45:35Z",
       "licenseName": null,
       "topics": [
         "ai",
@@ -105,37 +105,6 @@
         "vue"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1281362103",
-      "name": "mengwei-local-leads-workbench",
-      "nameWithOwner": "22kk12/mengwei-local-leads-workbench",
-      "description": "Half-developed local leads workbench prototype for AI content, video automation, keyword research, account warming, and publishing workflow study.",
-      "url": "https://github.com/22kk12/mengwei-local-leads-workbench",
-      "stargazerCount": 15,
-      "forkCount": 3,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "22kk12",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/246262895?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-26T13:32:34Z",
-      "updatedAt": "2026-07-02T07:35:49Z",
-      "licenseName": "MIT",
-      "topics": [
-        "account-warmup",
-        "ai-content",
-        "fastapi",
-        "keyword-research",
-        "local-leads",
-        "research-prototype",
-        "tauri",
-        "video-automation",
-        "video-editing",
-        "vue"
-      ],
-      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]
