@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T07:35:02Z",
+  "generatedAt": "2026-07-04T07:13:58Z",
   "topic": "kotlin",
   "totalCount": 8,
   "repos": [
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/220628316?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-28T20:08:13Z",
-      "updatedAt": "2026-07-03T04:42:38Z",
+      "updatedAt": "2026-07-04T04:36:08Z",
       "licenseName": null,
       "topics": [
         "android",
@@ -48,7 +48,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134122307?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-28T20:27:20Z",
-      "updatedAt": "2026-07-03T07:20:23Z",
+      "updatedAt": "2026-07-04T06:21:20Z",
       "licenseName": null,
       "topics": [
         "android",
@@ -71,36 +71,6 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1283338584",
-      "name": "mihon-aria",
-      "nameWithOwner": "MTTECHTH/mihon-aria",
-      "description": "The Ultimate Manga Reading Experience for Android 2026",
-      "url": "https://github.com/MTTECHTH/mihon-aria",
-      "stargazerCount": 151,
-      "forkCount": 0,
-      "languageName": "HTML",
-      "languageColor": null,
-      "ownerLogin": "MTTECHTH",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/288195273?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-28T20:20:26Z",
-      "updatedAt": "2026-07-03T06:31:27Z",
-      "licenseName": null,
-      "topics": [
-        "android",
-        "kotlin",
-        "manga",
-        "manga-downloader",
-        "manga-reader",
-        "mangadownloader",
-        "mangareader",
-        "tachiyomi",
-        "tachiyomi-alternative"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1283331609",
       "name": "komikku-scans",
       "nameWithOwner": "meyamane37923-hash/komikku-scans",
@@ -114,7 +84,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/285352555?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-28T20:08:01Z",
-      "updatedAt": "2026-07-03T06:29:42Z",
+      "updatedAt": "2026-07-04T04:33:29Z",
       "licenseName": null,
       "topics": [
         "android",
@@ -137,6 +107,36 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1283338584",
+      "name": "mihon-aria",
+      "nameWithOwner": "MTTECHTH/mihon-aria",
+      "description": "The Ultimate Manga Reading Experience for Android 2026",
+      "url": "https://github.com/MTTECHTH/mihon-aria",
+      "stargazerCount": 151,
+      "forkCount": 0,
+      "languageName": "HTML",
+      "languageColor": null,
+      "ownerLogin": "MTTECHTH",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/288195273?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-28T20:20:26Z",
+      "updatedAt": "2026-07-04T06:18:33Z",
+      "licenseName": null,
+      "topics": [
+        "android",
+        "kotlin",
+        "manga",
+        "manga-downloader",
+        "manga-reader",
+        "mangadownloader",
+        "mangareader",
+        "tachiyomi",
+        "tachiyomi-alternative"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1283330914",
       "name": "manga-zen-reader",
       "nameWithOwner": "khaledmahmud5286-cmd/manga-zen-reader",
@@ -150,7 +150,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/265920966?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-28T20:06:59Z",
-      "updatedAt": "2026-07-03T06:23:06Z",
+      "updatedAt": "2026-07-04T06:11:38Z",
       "licenseName": null,
       "topics": [
         "android",
@@ -179,7 +179,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/105985334?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-28T20:06:52Z",
-      "updatedAt": "2026-07-03T07:24:54Z",
+      "updatedAt": "2026-07-04T06:49:54Z",
       "licenseName": null,
       "topics": [
         "android",
@@ -197,6 +197,39 @@
         "yiff"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1285212911",
+      "name": "open-bank-oss",
+      "nameWithOwner": "JiRaska/open-bank-oss",
+      "description": "Cloud-native, open-source retail banking platform reference implementation (Kotlin/Quarkus, Next.js, event-driven microservices).",
+      "url": "https://github.com/JiRaska/open-bank-oss",
+      "stargazerCount": 13,
+      "forkCount": 4,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "JiRaska",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/282635778?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-30T15:29:01Z",
+      "updatedAt": "2026-07-04T04:50:25Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "argocd",
+        "banking",
+        "fintech",
+        "hexagonal-architecture",
+        "kotlin",
+        "kubernetes",
+        "microservices",
+        "nextjs",
+        "open-banking",
+        "opentofu",
+        "psd2",
+        "quarkus"
+      ],
+      "openIssuesCount": 11,
       "closedIssuesCount": 0
     },
     {
@@ -226,39 +259,6 @@
         "notification-listener"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1285212911",
-      "name": "open-bank-oss",
-      "nameWithOwner": "JiRaska/open-bank-oss",
-      "description": "Cloud-native, open-source retail banking platform reference implementation (Kotlin/Quarkus, Next.js, event-driven microservices).",
-      "url": "https://github.com/JiRaska/open-bank-oss",
-      "stargazerCount": 9,
-      "forkCount": 2,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "JiRaska",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/282635778?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-30T15:29:01Z",
-      "updatedAt": "2026-07-03T06:25:46Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "argocd",
-        "banking",
-        "fintech",
-        "hexagonal-architecture",
-        "kotlin",
-        "kubernetes",
-        "microservices",
-        "nextjs",
-        "open-banking",
-        "opentofu",
-        "psd2",
-        "quarkus"
-      ],
-      "openIssuesCount": 14,
       "closedIssuesCount": 0
     }
   ]
