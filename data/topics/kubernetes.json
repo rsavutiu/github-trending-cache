@@ -1,49 +1,8 @@
 {
-  "generatedAt": "2026-07-04T07:13:58Z",
+  "generatedAt": "2026-07-05T07:36:41Z",
   "topic": "kubernetes",
   "totalCount": 5,
   "repos": [
-    {
-      "id": "1283317110",
-      "name": "docker-android-emulator-cluster",
-      "nameWithOwner": "hoangnd24/docker-android-emulator-cluster",
-      "description": "Android Container with noVNC & Video Recording 2026",
-      "url": "https://github.com/hoangnd24/docker-android-emulator-cluster",
-      "stargazerCount": 151,
-      "forkCount": 0,
-      "languageName": "HTML",
-      "languageColor": null,
-      "ownerLogin": "hoangnd24",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/144251188?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-28T19:43:53Z",
-      "updatedAt": "2026-07-04T06:12:50Z",
-      "licenseName": null,
-      "topics": [
-        "alibabacloud",
-        "android",
-        "android-emulator",
-        "aws",
-        "azure",
-        "cloud",
-        "docker",
-        "docker-android",
-        "emulator",
-        "gcp",
-        "genymotion",
-        "jenkins",
-        "kubernetes",
-        "mobile-app",
-        "mobile-web",
-        "novnc",
-        "saltstack",
-        "selenium",
-        "selenium-grid",
-        "terraform"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1284423701",
       "name": "Valorant-External-Assistant-2026",
@@ -94,7 +53,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/282635778?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-30T15:29:01Z",
-      "updatedAt": "2026-07-04T04:50:25Z",
+      "updatedAt": "2026-07-05T00:16:30Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "argocd",
@@ -110,7 +69,7 @@
         "psd2",
         "quarkus"
       ],
-      "openIssuesCount": 11,
+      "openIssuesCount": 8,
       "closedIssuesCount": 0
     },
     {
@@ -119,7 +78,7 @@
       "nameWithOwner": "syswe/AURA",
       "description": "Autonomous Understanding & Remediation Architecture",
       "url": "https://github.com/syswe/AURA",
-      "stargazerCount": 9,
+      "stargazerCount": 11,
       "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
@@ -127,7 +86,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/32529331?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-03T08:34:47Z",
-      "updatedAt": "2026-07-03T12:11:13Z",
+      "updatedAt": "2026-07-04T20:26:21Z",
       "licenseName": "MIT",
       "topics": [
         "artificial-intelligence",
@@ -145,7 +104,7 @@
       "nameWithOwner": "DevOpsAIguru123/awesome-agentic-devops",
       "description": "Curated official DevOps, Cloud, SRE, Platform, Security, IaC, MCP server, and agent-skill catalog.",
       "url": "https://github.com/DevOpsAIguru123/awesome-agentic-devops",
-      "stargazerCount": 6,
+      "stargazerCount": 8,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -153,7 +112,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/38119256?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-02T03:09:58Z",
-      "updatedAt": "2026-07-03T23:36:43Z",
+      "updatedAt": "2026-07-05T02:11:59Z",
       "licenseName": "MIT",
       "topics": [
         "agent-skills",
@@ -175,6 +134,33 @@
         "security",
         "sre",
         "terraform"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1288148102",
+      "name": "linux-foundation-certification-offers",
+      "nameWithOwner": "nisalgunawardhana/linux-foundation-certification-offers",
+      "description": "Looking for the latest Linux Foundation coupon codes? We've got you covered.  As part of supporting the DevOps community, we keep all the Linux Foundation coupons updated on this page. ",
+      "url": "https://github.com/nisalgunawardhana/linux-foundation-certification-offers",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "nisalgunawardhana",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127661397?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-03T10:13:09Z",
+      "updatedAt": "2026-07-04T11:40:57Z",
+      "licenseName": null,
+      "topics": [
+        "certification",
+        "coupons",
+        "k8s",
+        "kubernetes",
+        "linux",
+        "linux-foundation"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
