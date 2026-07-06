@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-07-05T07:36:41Z",
+  "generatedAt": "2026-07-06T08:40:51Z",
   "topic": "kotlin",
-  "totalCount": 2,
+  "totalCount": 4,
   "repos": [
+    {
+      "id": "1289784624",
+      "name": "dmt",
+      "nameWithOwner": "imjyotiraditya/dmt",
+      "description": "a tui-inspired local music player for android. dear music, thanks.",
+      "url": "https://github.com/imjyotiraditya/dmt",
+      "stargazerCount": 35,
+      "forkCount": 1,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "imjyotiraditya",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/81803340?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-05T07:43:10Z",
+      "updatedAt": "2026-07-06T08:27:21Z",
+      "licenseName": "GPL-3.0",
+      "topics": [
+        "android",
+        "jetpack-compose",
+        "kotlin",
+        "media3",
+        "music-player",
+        "tui"
+      ],
+      "openIssuesCount": 3,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1285212911",
       "name": "open-bank-oss",
@@ -17,7 +44,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/282635778?v=4",
       "ownerType": "User",
       "createdAt": "2026-06-30T15:29:01Z",
-      "updatedAt": "2026-07-05T00:16:30Z",
+      "updatedAt": "2026-07-06T07:30:23Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "argocd",
@@ -33,7 +60,7 @@
         "psd2",
         "quarkus"
       ],
-      "openIssuesCount": 8,
+      "openIssuesCount": 13,
       "closedIssuesCount": 0
     },
     {
@@ -61,6 +88,35 @@
         "chauffeur",
         "kotlin",
         "notification-listener"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1287321349",
+      "name": "composer",
+      "nameWithOwner": "cinkhangin/composer",
+      "description": "Figma-like visual UI designer in the browser that generates clean, idiomatic Compose Multiplatform code. Built with Compose Multiplatform on Kotlin/Wasm.",
+      "url": "https://github.com/cinkhangin/composer",
+      "stargazerCount": 6,
+      "forkCount": 1,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "cinkhangin",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/62807678?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-02T15:22:07Z",
+      "updatedAt": "2026-07-06T05:23:36Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "code-generation",
+        "compose-multiplatform",
+        "design-tool",
+        "jetpack-compose",
+        "kotlin",
+        "kotlin-wasm",
+        "ui-designer",
+        "webassembly"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-05T07:36:41Z",
+  "generatedAt": "2026-07-06T08:40:51Z",
   "topic": "data-science",
-  "totalCount": 3,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1287166964",
@@ -97,6 +97,39 @@
         "competition",
         "data-science",
         "mlops"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1285162771",
+      "name": "steel-quality-prediction-",
+      "nameWithOwner": "sheyda2021/steel-quality-prediction-",
+      "description": "A machine learning pipeline for predicting steel quality scores using ensemble techniques (LightGBM, XGBoost, CatBoost) and feature engineering.",
+      "url": "https://github.com/sheyda2021/steel-quality-prediction-",
+      "stargazerCount": 7,
+      "forkCount": 1,
+      "languageName": "Jupyter Notebook",
+      "languageColor": null,
+      "ownerLogin": "sheyda2021",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/89081577?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-06-30T14:36:44Z",
+      "updatedAt": "2026-07-05T20:34:18Z",
+      "licenseName": "MIT",
+      "topics": [
+        "catboost",
+        "data-science",
+        "ensemble-learning",
+        "feature-engineering",
+        "lightgbm",
+        "machine-learning",
+        "optuna",
+        "predection",
+        "python",
+        "regression",
+        "steel-quality-prediction",
+        "xgboost"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

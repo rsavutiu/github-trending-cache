@@ -1,36 +1,6 @@
 {
-  "generatedAt": "2026-07-05T07:36:41Z",
+  "generatedAt": "2026-07-06T08:40:51Z",
   "topic": "web",
-  "totalCount": 1,
-  "repos": [
-    {
-      "id": "1283870052",
-      "name": "fastic",
-      "nameWithOwner": "amodemoli/fastic",
-      "description": "Fastic is web framewok, powered by fasthttp and golang.",
-      "url": "https://github.com/amodemoli/fastic",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "amodemoli",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/208295434?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-29T10:07:11Z",
-      "updatedAt": "2026-07-04T12:06:09Z",
-      "licenseName": "MIT",
-      "topics": [
-        "fast",
-        "fasthttp",
-        "framework",
-        "go",
-        "golang",
-        "performance",
-        "speed",
-        "web"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    }
-  ]
+  "totalCount": 0,
+  "repos": []
 }
