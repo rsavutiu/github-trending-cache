@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-06T08:40:51Z",
+  "generatedAt": "2026-07-07T07:52:00Z",
   "topic": "flutter",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1285649662",
@@ -34,31 +34,6 @@
         "rust",
         "sandbox",
         "sdk"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1284658028",
-      "name": "AssetGenie",
-      "nameWithOwner": "aditzeb/AssetGenie",
-      "description": "A complete, local Model Context Protocol (MCP) server written in pure Dart to automate, audit, and optimize Flutter project assets and localization structure.",
-      "url": "https://github.com/aditzeb/AssetGenie",
-      "stargazerCount": 25,
-      "forkCount": 0,
-      "languageName": "Dart",
-      "languageColor": null,
-      "ownerLogin": "aditzeb",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/53120949?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-30T04:40:51Z",
-      "updatedAt": "2026-07-05T09:43:12Z",
-      "licenseName": "MIT",
-      "topics": [
-        "dart",
-        "flutter",
-        "mcp",
-        "mcp-tools"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

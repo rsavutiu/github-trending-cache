@@ -1,41 +1,8 @@
 {
-  "generatedAt": "2026-07-06T08:40:51Z",
+  "generatedAt": "2026-07-07T07:52:00Z",
   "topic": "kubernetes",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
-    {
-      "id": "1285212911",
-      "name": "open-bank-oss",
-      "nameWithOwner": "JiRaska/open-bank-oss",
-      "description": "Cloud-native, open-source retail banking platform reference implementation (Kotlin/Quarkus, Next.js, event-driven microservices).",
-      "url": "https://github.com/JiRaska/open-bank-oss",
-      "stargazerCount": 13,
-      "forkCount": 4,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "JiRaska",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/282635778?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-06-30T15:29:01Z",
-      "updatedAt": "2026-07-06T07:30:23Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "argocd",
-        "banking",
-        "fintech",
-        "hexagonal-architecture",
-        "kotlin",
-        "kubernetes",
-        "microservices",
-        "nextjs",
-        "open-banking",
-        "opentofu",
-        "psd2",
-        "quarkus"
-      ],
-      "openIssuesCount": 13,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1288059458",
       "name": "AURA",
@@ -68,7 +35,7 @@
       "nameWithOwner": "DevOpsAIguru123/awesome-agentic-devops",
       "description": "Curated + scored map of official MCP servers and agents for DevOps, Cloud, SRE, and Platform Engineering — every entry rated on production access, approval gates, and audit evidence.",
       "url": "https://github.com/DevOpsAIguru123/awesome-agentic-devops",
-      "stargazerCount": 10,
+      "stargazerCount": 11,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -76,7 +43,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/38119256?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-02T03:09:58Z",
-      "updatedAt": "2026-07-06T04:07:58Z",
+      "updatedAt": "2026-07-06T19:24:13Z",
       "licenseName": "MIT",
       "topics": [
         "agent-skills",
@@ -100,7 +67,7 @@
         "sre",
         "terraform"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
