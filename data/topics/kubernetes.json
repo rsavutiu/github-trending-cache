@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-09T07:57:17Z",
+  "generatedAt": "2026-07-10T07:50:43Z",
   "topic": "kubernetes",
-  "totalCount": 6,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1290954656",
@@ -9,15 +9,15 @@
       "nameWithOwner": "olemeyer/rocketplaneIO",
       "description": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
       "url": "https://github.com/olemeyer/rocketplaneIO",
-      "stargazerCount": 121,
-      "forkCount": 0,
+      "stargazerCount": 126,
+      "forkCount": 2,
       "languageName": "Go",
       "languageColor": null,
       "ownerLogin": "olemeyer",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-06T11:24:01Z",
-      "updatedAt": "2026-07-09T06:41:48Z",
+      "updatedAt": "2026-07-10T07:01:25Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ai-agent",
@@ -46,7 +46,7 @@
       "nameWithOwner": "srelens/srelens",
       "description": "Fast, lightweight Kubernetes IDE built with Tauri v2 and a pure-Rust core — every capability doubles as an MCP tool for AI agents",
       "url": "https://github.com/srelens/srelens",
-      "stargazerCount": 29,
+      "stargazerCount": 40,
       "forkCount": 1,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -54,7 +54,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/300509080?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-06T14:15:14Z",
-      "updatedAt": "2026-07-09T07:25:57Z",
+      "updatedAt": "2026-07-10T06:24:26Z",
       "licenseName": "MIT",
       "topics": [
         "desktop-app",
@@ -66,7 +66,35 @@
         "sre",
         "tauri"
       ],
-      "openIssuesCount": 34,
+      "openIssuesCount": 32,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1295320736",
+      "name": "prompt-mac",
+      "nameWithOwner": "dunglas/prompt-mac",
+      "description": "one-shot, AI-first macOS setup for Apple Silicon",
+      "url": "https://github.com/dunglas/prompt-mac",
+      "stargazerCount": 30,
+      "forkCount": 1,
+      "languageName": "Shell",
+      "languageColor": null,
+      "ownerLogin": "dunglas",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/57224?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-09T13:52:25Z",
+      "updatedAt": "2026-07-10T07:41:38Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ai",
+        "coding-agent",
+        "development",
+        "devops",
+        "kubernetes",
+        "macos",
+        "starter"
+      ],
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -137,59 +165,6 @@
         "self-hosted",
         "terraform",
         "terraform-cloud-alternative"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1288059458",
-      "name": "AURA",
-      "nameWithOwner": "syswe/AURA",
-      "description": "Autonomous Understanding & Remediation Architecture",
-      "url": "https://github.com/syswe/AURA",
-      "stargazerCount": 11,
-      "forkCount": 1,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "syswe",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/32529331?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-03T08:34:47Z",
-      "updatedAt": "2026-07-04T20:26:21Z",
-      "licenseName": "MIT",
-      "topics": [
-        "artificial-intelligence",
-        "kubernetes",
-        "llm",
-        "remedition",
-        "self-healing"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1288148102",
-      "name": "linux-foundation-certification-offers",
-      "nameWithOwner": "nisalgunawardhana/linux-foundation-certification-offers",
-      "description": "Looking for the latest Linux Foundation coupon codes? We've got you covered.  As part of supporting the DevOps community, we keep all the Linux Foundation coupons updated on this page. ",
-      "url": "https://github.com/nisalgunawardhana/linux-foundation-certification-offers",
-      "stargazerCount": 8,
-      "forkCount": 1,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "nisalgunawardhana",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127661397?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-03T10:13:09Z",
-      "updatedAt": "2026-07-08T03:08:10Z",
-      "licenseName": null,
-      "topics": [
-        "certification",
-        "coupons",
-        "k8s",
-        "kubernetes",
-        "linux",
-        "linux-foundation"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

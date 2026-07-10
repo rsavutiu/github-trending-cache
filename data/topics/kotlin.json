@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-09T07:57:17Z",
+  "generatedAt": "2026-07-10T07:50:43Z",
   "topic": "kotlin",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1289784624",
@@ -9,15 +9,15 @@
       "nameWithOwner": "imjyotiraditya/dmt",
       "description": "a tui-inspired local music player for android. dear music, thanks.",
       "url": "https://github.com/imjyotiraditya/dmt",
-      "stargazerCount": 58,
-      "forkCount": 1,
+      "stargazerCount": 60,
+      "forkCount": 2,
       "languageName": "Kotlin",
       "languageColor": null,
       "ownerLogin": "imjyotiraditya",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/81803340?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-05T07:43:10Z",
-      "updatedAt": "2026-07-09T01:05:20Z",
+      "updatedAt": "2026-07-09T18:13:23Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "android",
@@ -27,7 +27,7 @@
         "music-player",
         "tui"
       ],
-      "openIssuesCount": 5,
+      "openIssuesCount": 6,
       "closedIssuesCount": 0
     },
     {
@@ -62,43 +62,12 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1288333046",
-      "name": "AhSilence",
-      "nameWithOwner": "AhmadHassan-BTed/AhSilence",
-      "description": "An open-source Android Active Noise Cancellation (ANC) engine. Leveraging low-latency DSP to neutralize environmental hums and help you reclaim your quiet.",
-      "url": "https://github.com/AhmadHassan-BTed/AhSilence",
-      "stargazerCount": 16,
-      "forkCount": 0,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "AhmadHassan-BTed",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/123323526?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-03T13:52:34Z",
-      "updatedAt": "2026-07-08T18:11:28Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "acoustics",
-        "active-noise-cancellation",
-        "android",
-        "audio-processing",
-        "clean-architecture",
-        "digital-signal-processing",
-        "dsp",
-        "fft",
-        "jetpack-compose",
-        "kotlin"
-      ],
-      "openIssuesCount": 5,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1293204376",
       "name": "tickle-android",
       "nameWithOwner": "wangdachui886/tickle-android",
       "description": "一个想把「记一笔」压到 3 秒以内的 Android 记账小工具。",
       "url": "https://github.com/wangdachui886/tickle-android",
-      "stargazerCount": 9,
+      "stargazerCount": 14,
       "forkCount": 0,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -106,7 +75,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/130818951?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-08T07:14:34Z",
-      "updatedAt": "2026-07-09T07:20:40Z",
+      "updatedAt": "2026-07-10T07:10:30Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "android",

@@ -1,8 +1,33 @@
 {
-  "generatedAt": "2026-07-09T07:57:17Z",
+  "generatedAt": "2026-07-10T07:50:43Z",
   "topic": "deep-learning",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
+    {
+      "id": "1295383219",
+      "name": "x-jepa",
+      "nameWithOwner": "lucidrains/x-jepa",
+      "description": "Explorations into some of the approaches advocated by Yann LeCun, and just a more wholistic architecture (JEPA) in general",
+      "url": "https://github.com/lucidrains/x-jepa",
+      "stargazerCount": 10,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "lucidrains",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-09T14:37:09Z",
+      "updatedAt": "2026-07-10T03:26:25Z",
+      "licenseName": "MIT",
+      "topics": [
+        "artificial-intelligence",
+        "deep-learning",
+        "jepa",
+        "world-models"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1289544417",
       "name": "fucina",
@@ -17,7 +42,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5662657?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-04T22:24:32Z",
-      "updatedAt": "2026-07-08T13:12:50Z",
+      "updatedAt": "2026-07-09T21:38:21Z",
       "licenseName": "MIT",
       "topics": [
         "apple-silicon",

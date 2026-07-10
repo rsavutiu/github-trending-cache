@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-09T07:57:17Z",
+  "generatedAt": "2026-07-10T07:50:43Z",
   "topic": "devops",
-  "totalCount": 8,
+  "totalCount": 7,
   "repos": [
     {
       "id": "1289077633",
@@ -9,7 +9,7 @@
       "nameWithOwner": "programmersd21/flow",
       "description": "🌊 see your network breathe",
       "url": "https://github.com/programmersd21/flow",
-      "stargazerCount": 184,
+      "stargazerCount": 208,
       "forkCount": 6,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-04T10:09:41Z",
-      "updatedAt": "2026-07-09T06:45:41Z",
+      "updatedAt": "2026-07-10T07:00:19Z",
       "licenseName": "MIT",
       "topics": [
         "bandwidth",
@@ -50,15 +50,15 @@
       "nameWithOwner": "olemeyer/rocketplaneIO",
       "description": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
       "url": "https://github.com/olemeyer/rocketplaneIO",
-      "stargazerCount": 121,
-      "forkCount": 0,
+      "stargazerCount": 126,
+      "forkCount": 2,
       "languageName": "Go",
       "languageColor": null,
       "ownerLogin": "olemeyer",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-06T11:24:01Z",
-      "updatedAt": "2026-07-09T06:41:48Z",
+      "updatedAt": "2026-07-10T07:01:25Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ai-agent",
@@ -87,15 +87,15 @@
       "nameWithOwner": "suiyuebaobao/C-SSH",
       "description": "Native cross-platform SSH ops: persistent tmux sessions × always-on monitoring × built-in AI assistant. Windows/Android, free forever, open-source soon. 原生跨平台 SSH 运维 · tmux 持久化 · 常驻监控 · 内置 AI 助手",
       "url": "https://github.com/suiyuebaobao/C-SSH",
-      "stargazerCount": 53,
-      "forkCount": 5,
+      "stargazerCount": 59,
+      "forkCount": 6,
       "languageName": null,
       "languageColor": null,
       "ownerLogin": "suiyuebaobao",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/227290432?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-06T11:18:21Z",
-      "updatedAt": "2026-07-09T07:56:27Z",
+      "updatedAt": "2026-07-10T03:31:23Z",
       "licenseName": null,
       "topics": [
         "ai",
@@ -119,7 +119,7 @@
         "vue",
         "windows"
       ],
-      "openIssuesCount": 14,
+      "openIssuesCount": 4,
       "closedIssuesCount": 0
     },
     {
@@ -128,7 +128,7 @@
       "nameWithOwner": "srelens/srelens",
       "description": "Fast, lightweight Kubernetes IDE built with Tauri v2 and a pure-Rust core — every capability doubles as an MCP tool for AI agents",
       "url": "https://github.com/srelens/srelens",
-      "stargazerCount": 29,
+      "stargazerCount": 40,
       "forkCount": 1,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -136,7 +136,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/300509080?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-06T14:15:14Z",
-      "updatedAt": "2026-07-09T07:25:57Z",
+      "updatedAt": "2026-07-10T06:24:26Z",
       "licenseName": "MIT",
       "topics": [
         "desktop-app",
@@ -148,7 +148,35 @@
         "sre",
         "tauri"
       ],
-      "openIssuesCount": 34,
+      "openIssuesCount": 32,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1295320736",
+      "name": "prompt-mac",
+      "nameWithOwner": "dunglas/prompt-mac",
+      "description": "one-shot, AI-first macOS setup for Apple Silicon",
+      "url": "https://github.com/dunglas/prompt-mac",
+      "stargazerCount": 30,
+      "forkCount": 1,
+      "languageName": "Shell",
+      "languageColor": null,
+      "ownerLogin": "dunglas",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/57224?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-09T13:52:25Z",
+      "updatedAt": "2026-07-10T07:41:38Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ai",
+        "coding-agent",
+        "development",
+        "devops",
+        "kubernetes",
+        "macos",
+        "starter"
+      ],
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -157,7 +185,7 @@
       "nameWithOwner": "LearnAIHubC/LearnSSH",
       "description": "LearnSSH: secure SSH server operations for Codex by alias, with remote commands, SFTP upload/download, local tunnels, jump hosts, and encrypted credentials.",
       "url": "https://github.com/LearnAIHubC/LearnSSH",
-      "stargazerCount": 17,
+      "stargazerCount": 18,
       "forkCount": 0,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -165,7 +193,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/291653024?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-04T05:59:41Z",
-      "updatedAt": "2026-07-07T01:59:56Z",
+      "updatedAt": "2026-07-09T22:54:32Z",
       "licenseName": "MIT",
       "topics": [
         "codex",
@@ -182,36 +210,6 @@
         "sftp",
         "ssh",
         "ssh-client"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1288363236",
-      "name": "cosmosmith",
-      "nameWithOwner": "devnomad-byte/cosmosmith",
-      "description": "Give AI coding agents product, spec, task, QA, and release workflows in one command.",
-      "url": "https://github.com/devnomad-byte/cosmosmith",
-      "stargazerCount": 14,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "devnomad-byte",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/50169713?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-03T14:25:39Z",
-      "updatedAt": "2026-07-07T14:02:27Z",
-      "licenseName": "MIT",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "codex",
-        "cursor",
-        "devops",
-        "devtools",
-        "spec-driven-development"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -245,42 +243,6 @@
         "terraform-cloud-alternative"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1287858287",
-      "name": "cloudflare-ops-survival-guide",
-      "nameWithOwner": "Mer3y1338/cloudflare-ops-survival-guide",
-      "description": "🛡️ Cloudflare 运维踩坑宝典 — 13篇实战 SOP，覆盖 522/525/1014/9106 等玄学报错的终极排查指南",
-      "url": "https://github.com/Mer3y1338/cloudflare-ops-survival-guide",
-      "stargazerCount": 10,
-      "forkCount": 1,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "Mer3y1338",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/122072519?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-03T04:15:52Z",
-      "updatedAt": "2026-07-05T16:40:39Z",
-      "licenseName": "MIT",
-      "topics": [
-        "522",
-        "525",
-        "cdn",
-        "chinese",
-        "cloudflare",
-        "cloudflare-pages",
-        "cloudflare-workers",
-        "devops",
-        "dns",
-        "edgeone",
-        "origin-rules",
-        "ssl",
-        "survival-guide",
-        "troubleshooting",
-        "wrangler"
-      ],
-      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]
