@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-10T07:50:43Z",
+  "generatedAt": "2026-07-11T06:25:28Z",
   "topic": "kotlin",
-  "totalCount": 3,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1289784624",
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/81803340?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-05T07:43:10Z",
-      "updatedAt": "2026-07-09T18:13:23Z",
+      "updatedAt": "2026-07-11T01:14:15Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "android",
@@ -67,7 +67,7 @@
       "nameWithOwner": "wangdachui886/tickle-android",
       "description": "一个想把「记一笔」压到 3 秒以内的 Android 记账小工具。",
       "url": "https://github.com/wangdachui886/tickle-android",
-      "stargazerCount": 14,
+      "stargazerCount": 15,
       "forkCount": 0,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -75,7 +75,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/130818951?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-08T07:14:34Z",
-      "updatedAt": "2026-07-10T07:10:30Z",
+      "updatedAt": "2026-07-11T06:24:10Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "android",
@@ -95,6 +95,36 @@
         "privacy-first"
       ],
       "openIssuesCount": 5,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1293737294",
+      "name": "android-notification-forwarder",
+      "nameWithOwner": "karuhun-developer/android-notification-forwarder",
+      "description": "A flexible Android application built with Kotlin to intercept system notifications from specific apps and forward them to custom API webhooks based on user-defined rules.",
+      "url": "https://github.com/karuhun-developer/android-notification-forwarder",
+      "stargazerCount": 7,
+      "forkCount": 1,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "karuhun-developer",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/169523822?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-07-08T14:46:11Z",
+      "updatedAt": "2026-07-11T03:24:07Z",
+      "licenseName": null,
+      "topics": [
+        "android",
+        "api-forwarding",
+        "background-service",
+        "jetpack-compose",
+        "kotlin",
+        "notification-listener",
+        "okhttp",
+        "room-database",
+        "webhook"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

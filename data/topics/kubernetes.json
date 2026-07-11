@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T07:50:43Z",
+  "generatedAt": "2026-07-11T06:25:28Z",
   "topic": "kubernetes",
   "totalCount": 5,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "olemeyer/rocketplaneIO",
       "description": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
       "url": "https://github.com/olemeyer/rocketplaneIO",
-      "stargazerCount": 126,
+      "stargazerCount": 127,
       "forkCount": 2,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-06T11:24:01Z",
-      "updatedAt": "2026-07-10T07:01:25Z",
+      "updatedAt": "2026-07-11T05:50:04Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ai-agent",
@@ -44,7 +44,7 @@
       "id": "1291114277",
       "name": "srelens",
       "nameWithOwner": "srelens/srelens",
-      "description": "Fast, lightweight Kubernetes IDE built with Tauri v2 and a pure-Rust core — every capability doubles as an MCP tool for AI agents",
+      "description": "The Kubernetes control room—built in Rust, ready for engineers and AI agents.",
       "url": "https://github.com/srelens/srelens",
       "stargazerCount": 40,
       "forkCount": 1,
@@ -54,7 +54,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/300509080?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-06T14:15:14Z",
-      "updatedAt": "2026-07-10T06:24:26Z",
+      "updatedAt": "2026-07-10T22:15:50Z",
       "licenseName": "MIT",
       "topics": [
         "desktop-app",
@@ -66,7 +66,7 @@
         "sre",
         "tauri"
       ],
-      "openIssuesCount": 32,
+      "openIssuesCount": 33,
       "closedIssuesCount": 0
     },
     {
@@ -75,7 +75,7 @@
       "nameWithOwner": "dunglas/prompt-mac",
       "description": "one-shot, AI-first macOS setup for Apple Silicon",
       "url": "https://github.com/dunglas/prompt-mac",
-      "stargazerCount": 30,
+      "stargazerCount": 37,
       "forkCount": 1,
       "languageName": "Shell",
       "languageColor": null,
@@ -83,7 +83,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/57224?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-09T13:52:25Z",
-      "updatedAt": "2026-07-10T07:41:38Z",
+      "updatedAt": "2026-07-10T20:29:36Z",
       "licenseName": "MIT",
       "topics": [
         "ai",

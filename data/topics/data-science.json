@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T07:50:43Z",
+  "generatedAt": "2026-07-11T06:25:28Z",
   "topic": "data-science",
   "totalCount": 2,
   "repos": [
@@ -52,13 +52,13 @@
       "url": "https://github.com/DereC4/internships-and-newgrad",
       "stargazerCount": 6,
       "forkCount": 0,
-      "languageName": null,
+      "languageName": "Go",
       "languageColor": null,
       "ownerLogin": "DereC4",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-09T11:10:40Z",
-      "updatedAt": "2026-07-09T20:52:27Z",
+      "updatedAt": "2026-07-11T04:00:09Z",
       "licenseName": "MIT",
       "topics": [
         "college",
