@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T06:25:28Z",
+  "generatedAt": "2026-07-12T06:45:46Z",
   "topic": "vue",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "suiyuebaobao/C-SSH",
       "description": "Native cross-platform SSH ops: persistent tmux sessions × always-on monitoring × built-in AI assistant. Windows/Android, free forever, open-source soon. 原生跨平台 SSH 运维 · tmux 持久化 · 常驻监控 · 内置 AI 助手",
       "url": "https://github.com/suiyuebaobao/C-SSH",
-      "stargazerCount": 59,
+      "stargazerCount": 61,
       "forkCount": 6,
       "languageName": null,
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/227290432?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-06T11:18:21Z",
-      "updatedAt": "2026-07-11T06:20:29Z",
+      "updatedAt": "2026-07-12T00:44:39Z",
       "licenseName": null,
       "topics": [
         "ai",
@@ -58,7 +58,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/275877517?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-08T03:24:31Z",
-      "updatedAt": "2026-07-10T09:50:00Z",
+      "updatedAt": "2026-07-11T09:27:37Z",
       "licenseName": "MIT",
       "topics": [
         "admin-template",

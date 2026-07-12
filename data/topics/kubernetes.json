@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T06:25:28Z",
+  "generatedAt": "2026-07-12T06:45:46Z",
   "topic": "kubernetes",
   "totalCount": 5,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "olemeyer/rocketplaneIO",
       "description": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
       "url": "https://github.com/olemeyer/rocketplaneIO",
-      "stargazerCount": 127,
+      "stargazerCount": 131,
       "forkCount": 2,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-06T11:24:01Z",
-      "updatedAt": "2026-07-11T05:50:04Z",
+      "updatedAt": "2026-07-12T06:08:43Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ai-agent",
@@ -46,7 +46,7 @@
       "nameWithOwner": "srelens/srelens",
       "description": "The Kubernetes control room—built in Rust, ready for engineers and AI agents.",
       "url": "https://github.com/srelens/srelens",
-      "stargazerCount": 40,
+      "stargazerCount": 41,
       "forkCount": 1,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -54,7 +54,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/300509080?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-06T14:15:14Z",
-      "updatedAt": "2026-07-10T22:15:50Z",
+      "updatedAt": "2026-07-11T17:21:27Z",
       "licenseName": "MIT",
       "topics": [
         "desktop-app",
@@ -66,7 +66,7 @@
         "sre",
         "tauri"
       ],
-      "openIssuesCount": 33,
+      "openIssuesCount": 31,
       "closedIssuesCount": 0
     },
     {
@@ -75,7 +75,7 @@
       "nameWithOwner": "dunglas/prompt-mac",
       "description": "one-shot, AI-first macOS setup for Apple Silicon",
       "url": "https://github.com/dunglas/prompt-mac",
-      "stargazerCount": 37,
+      "stargazerCount": 40,
       "forkCount": 1,
       "languageName": "Shell",
       "languageColor": null,
@@ -83,7 +83,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/57224?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-09T13:52:25Z",
-      "updatedAt": "2026-07-10T20:29:36Z",
+      "updatedAt": "2026-07-12T03:05:59Z",
       "licenseName": "MIT",
       "topics": [
         "ai",

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-11T06:25:28Z",
+  "generatedAt": "2026-07-12T06:45:46Z",
   "topic": "devops",
-  "totalCount": 6,
+  "totalCount": 7,
   "repos": [
     {
       "id": "1290954656",
@@ -9,7 +9,7 @@
       "nameWithOwner": "olemeyer/rocketplaneIO",
       "description": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
       "url": "https://github.com/olemeyer/rocketplaneIO",
-      "stargazerCount": 127,
+      "stargazerCount": 131,
       "forkCount": 2,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/12031071?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-06T11:24:01Z",
-      "updatedAt": "2026-07-11T05:50:04Z",
+      "updatedAt": "2026-07-12T06:08:43Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ai-agent",
@@ -46,7 +46,7 @@
       "nameWithOwner": "suiyuebaobao/C-SSH",
       "description": "Native cross-platform SSH ops: persistent tmux sessions × always-on monitoring × built-in AI assistant. Windows/Android, free forever, open-source soon. 原生跨平台 SSH 运维 · tmux 持久化 · 常驻监控 · 内置 AI 助手",
       "url": "https://github.com/suiyuebaobao/C-SSH",
-      "stargazerCount": 59,
+      "stargazerCount": 61,
       "forkCount": 6,
       "languageName": null,
       "languageColor": null,
@@ -54,7 +54,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/227290432?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-06T11:18:21Z",
-      "updatedAt": "2026-07-11T06:20:29Z",
+      "updatedAt": "2026-07-12T00:44:39Z",
       "licenseName": null,
       "topics": [
         "ai",
@@ -87,7 +87,7 @@
       "nameWithOwner": "srelens/srelens",
       "description": "The Kubernetes control room—built in Rust, ready for engineers and AI agents.",
       "url": "https://github.com/srelens/srelens",
-      "stargazerCount": 40,
+      "stargazerCount": 41,
       "forkCount": 1,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -95,7 +95,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/300509080?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-06T14:15:14Z",
-      "updatedAt": "2026-07-10T22:15:50Z",
+      "updatedAt": "2026-07-11T17:21:27Z",
       "licenseName": "MIT",
       "topics": [
         "desktop-app",
@@ -107,7 +107,7 @@
         "sre",
         "tauri"
       ],
-      "openIssuesCount": 33,
+      "openIssuesCount": 31,
       "closedIssuesCount": 0
     },
     {
@@ -116,7 +116,7 @@
       "nameWithOwner": "dunglas/prompt-mac",
       "description": "one-shot, AI-first macOS setup for Apple Silicon",
       "url": "https://github.com/dunglas/prompt-mac",
-      "stargazerCount": 37,
+      "stargazerCount": 40,
       "forkCount": 1,
       "languageName": "Shell",
       "languageColor": null,
@@ -124,7 +124,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/57224?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-09T13:52:25Z",
-      "updatedAt": "2026-07-10T20:29:36Z",
+      "updatedAt": "2026-07-12T03:05:59Z",
       "licenseName": "MIT",
       "topics": [
         "ai",
@@ -136,6 +136,45 @@
         "starter"
       ],
       "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1294327943",
+      "name": "bloblens",
+      "nameWithOwner": "haseeb-140/bloblens",
+      "description": "Self-hosted full-text search for Azure Blob Storage. Search inside PDFs/DOCX across containers. One docker compose up, $0/month",
+      "url": "https://github.com/haseeb-140/bloblens",
+      "stargazerCount": 21,
+      "forkCount": 3,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "haseeb-140",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/170651574?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-08T22:25:42Z",
+      "updatedAt": "2026-07-11T23:25:58Z",
+      "licenseName": "MIT",
+      "topics": [
+        "azure",
+        "azure-storage",
+        "blob-storage",
+        "cloud",
+        "developer-tools",
+        "devops",
+        "docker",
+        "docker-compose",
+        "docx",
+        "fastapi",
+        "full-text-search",
+        "information-retrieval",
+        "meilisearch",
+        "pdf",
+        "python",
+        "search",
+        "search-engine",
+        "self-hosted"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
