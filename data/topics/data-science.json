@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T06:45:46Z",
+  "generatedAt": "2026-07-13T07:35:50Z",
   "topic": "data-science",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "teerthsharma/topological-ml-toolkit",
       "description": "Rust + Python Topological ML Toolkit for persistent homology, Betti-curve features, manifold embeddings, topology docs, backend contracts, and E2E benchmarks for sklearn/PyTorch/TensorFlow-style pipelines.",
       "url": "https://github.com/teerthsharma/topological-ml-toolkit",
-      "stargazerCount": 6,
+      "stargazerCount": 9,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/78080953?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-08T22:40:18Z",
-      "updatedAt": "2026-07-11T21:23:10Z",
+      "updatedAt": "2026-07-13T04:01:51Z",
       "licenseName": "MIT",
       "topics": [
         "assembly",

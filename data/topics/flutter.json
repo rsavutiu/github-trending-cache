@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-12T06:45:46Z",
+  "generatedAt": "2026-07-13T07:35:50Z",
   "topic": "flutter",
-  "totalCount": 2,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1291857896",
@@ -9,7 +9,7 @@
       "nameWithOwner": "briankariuki/number_flow_flutter",
       "description": "Beautiful animated numbers for Flutter — digit-by-digit rolling transitions   with locale-aware formatting, springs, and motion blur.",
       "url": "https://github.com/briankariuki/number_flow_flutter",
-      "stargazerCount": 11,
+      "stargazerCount": 12,
       "forkCount": 0,
       "languageName": "Dart",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/34672053?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-07T06:18:21Z",
-      "updatedAt": "2026-07-11T23:34:10Z",
+      "updatedAt": "2026-07-12T09:54:13Z",
       "licenseName": "MIT",
       "topics": [
         "animation",
@@ -34,7 +34,7 @@
       "nameWithOwner": "Hellz0wnzJ00/hellzgate",
       "description": "HellzGate C5 — an independent, multi-node ESP32-C5 passive wireless survey array. Site: hellzgate.com",
       "url": "https://github.com/Hellz0wnzJ00/hellzgate",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 0,
       "languageName": "HTML",
       "languageColor": null,
@@ -42,7 +42,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/252754033?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-10T11:14:53Z",
-      "updatedAt": "2026-07-11T20:02:11Z",
+      "updatedAt": "2026-07-12T21:56:11Z",
       "licenseName": null,
       "topics": [
         "ble",
@@ -61,6 +61,34 @@
         "wifi",
         "wigle",
         "wireless"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1296979614",
+      "name": "haptify",
+      "nameWithOwner": "imedboumalek/haptify",
+      "description": "Generate haptic feedback files from audio — .ahap for iOS Core Haptics plus Android waveforms, via a pure Dart CLI",
+      "url": "https://github.com/imedboumalek/haptify",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Dart",
+      "languageColor": null,
+      "ownerLogin": "imedboumalek",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/49253934?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-10T23:35:25Z",
+      "updatedAt": "2026-07-13T01:53:19Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ahap",
+        "cli",
+        "core-haptics",
+        "dart",
+        "flutter",
+        "haptics",
+        "vibration"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

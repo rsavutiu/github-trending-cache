@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-12T06:45:46Z",
+  "generatedAt": "2026-07-13T07:35:50Z",
   "topic": "deep-learning",
-  "totalCount": 2,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1295383219",
@@ -9,7 +9,7 @@
       "nameWithOwner": "lucidrains/x-jepa",
       "description": "Explorations into some of the approaches advocated by Yann LeCun, and just a more wholistic architecture (JEPA) in general",
       "url": "https://github.com/lucidrains/x-jepa",
-      "stargazerCount": 15,
+      "stargazerCount": 18,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-09T14:37:09Z",
-      "updatedAt": "2026-07-12T04:21:29Z",
+      "updatedAt": "2026-07-13T06:11:27Z",
       "licenseName": "MIT",
       "topics": [
         "artificial-intelligence",
@@ -48,6 +48,40 @@
         "artificial-intelligence",
         "deep-learning",
         "goal-conditioned-reinforcement-learning"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1294811371",
+      "name": "mlcraft",
+      "nameWithOwner": "mxslr/mlcraft",
+      "description": "A research-first AI/ML research-engineer workflow for Claude Code",
+      "url": "https://github.com/mxslr/mlcraft",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "mxslr",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/88484262?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-09T07:27:09Z",
+      "updatedAt": "2026-07-13T06:33:40Z",
+      "licenseName": "MIT",
+      "topics": [
+        "claude-code",
+        "claude-code-plugin",
+        "claude-plugin",
+        "computer-vision",
+        "deep-learning",
+        "fine-tuning",
+        "llm",
+        "machine-learning",
+        "medical-imaging",
+        "nlp",
+        "research",
+        "tabular",
+        "time-series"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
