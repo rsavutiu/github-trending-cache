@@ -1,33 +1,8 @@
 {
-  "generatedAt": "2026-07-13T07:35:50Z",
+  "generatedAt": "2026-07-14T06:23:30Z",
   "topic": "flutter",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
-    {
-      "id": "1291857896",
-      "name": "number_flow_flutter",
-      "nameWithOwner": "briankariuki/number_flow_flutter",
-      "description": "Beautiful animated numbers for Flutter — digit-by-digit rolling transitions   with locale-aware formatting, springs, and motion blur.",
-      "url": "https://github.com/briankariuki/number_flow_flutter",
-      "stargazerCount": 12,
-      "forkCount": 0,
-      "languageName": "Dart",
-      "languageColor": null,
-      "ownerLogin": "briankariuki",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/34672053?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-07T06:18:21Z",
-      "updatedAt": "2026-07-12T09:54:13Z",
-      "licenseName": "MIT",
-      "topics": [
-        "animation",
-        "dart",
-        "flutter",
-        "numberflow"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1296416378",
       "name": "hellzgate",
@@ -79,7 +54,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/49253934?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-10T23:35:25Z",
-      "updatedAt": "2026-07-13T01:53:19Z",
+      "updatedAt": "2026-07-13T09:46:07Z",
       "licenseName": "MIT",
       "topics": [
         "ahap",
@@ -90,7 +65,7 @@
         "haptics",
         "vibration"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]

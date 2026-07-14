@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-13T07:35:50Z",
+  "generatedAt": "2026-07-14T06:23:30Z",
   "topic": "devops",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1295320736",
@@ -9,7 +9,7 @@
       "nameWithOwner": "dunglas/prompt-mac",
       "description": "one-shot, AI-first macOS setup for Apple Silicon",
       "url": "https://github.com/dunglas/prompt-mac",
-      "stargazerCount": 44,
+      "stargazerCount": 46,
       "forkCount": 1,
       "languageName": "Shell",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/57224?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-09T13:52:25Z",
-      "updatedAt": "2026-07-13T04:46:46Z",
+      "updatedAt": "2026-07-13T19:29:39Z",
       "licenseName": "MIT",
       "topics": [
         "ai",
@@ -66,37 +66,6 @@
         "search",
         "search-engine",
         "self-hosted"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1292341837",
-      "name": "terraducktel",
-      "nameWithOwner": "mormor83/terraducktel",
-      "description": "Self-hosted Terraform & Helm orchestration - plan, gate, apply, and track drift, no SaaS required",
-      "url": "https://github.com/mormor83/terraducktel",
-      "stargazerCount": 12,
-      "forkCount": 2,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "mormor83",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4963720?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-07T13:03:40Z",
-      "updatedAt": "2026-07-12T07:20:26Z",
-      "licenseName": "MIT",
-      "topics": [
-        "devops",
-        "docker",
-        "fastapi",
-        "helm",
-        "infrastructure-as-code",
-        "kubernetes",
-        "react",
-        "self-hosted",
-        "terraform",
-        "terraform-cloud-alternative"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

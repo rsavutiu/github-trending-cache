@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-13T07:35:50Z",
+  "generatedAt": "2026-07-14T06:23:30Z",
   "topic": "kotlin",
-  "totalCount": 3,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1293204376",
@@ -53,7 +53,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/169523822?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-08T14:46:11Z",
-      "updatedAt": "2026-07-11T18:05:44Z",
+      "updatedAt": "2026-07-13T14:28:26Z",
       "licenseName": null,
       "topics": [
         "android",
@@ -75,7 +75,7 @@
       "nameWithOwner": "karmakrafts/kPlatform",
       "description": "Lightweight platform info for Kotlin Multiplatform.",
       "url": "https://github.com/karmakrafts/kPlatform",
-      "stargazerCount": 10,
+      "stargazerCount": 11,
       "forkCount": 0,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -83,7 +83,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/129058515?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-10T23:44:49Z",
-      "updatedAt": "2026-07-13T04:45:36Z",
+      "updatedAt": "2026-07-14T05:33:13Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "api",
@@ -101,6 +101,39 @@
         "system-info",
         "system-stats",
         "system-status"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1298085495",
+      "name": "TeXslate",
+      "nameWithOwner": "thobgg/TeXslate",
+      "description": "Nativer LaTeX/XeTeX-Editor für Android — Tablet-first (Compose + Tectonic)",
+      "url": "https://github.com/thobgg/TeXslate",
+      "stargazerCount": 10,
+      "forkCount": 1,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "thobgg",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/286859289?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-12T07:45:18Z",
+      "updatedAt": "2026-07-14T05:30:38Z",
+      "licenseName": "GPL-3.0",
+      "topics": [
+        "android",
+        "foss",
+        "jetpack-compose",
+        "kotlin",
+        "latex",
+        "latex-editor",
+        "offline-first",
+        "pdf",
+        "rust",
+        "tablet",
+        "tectonic",
+        "xetex"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

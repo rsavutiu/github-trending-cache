@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T07:35:50Z",
+  "generatedAt": "2026-07-14T06:23:30Z",
   "topic": "vue",
   "totalCount": 1,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "LoD-Dawn/Fast-Vben-Admin",
       "description": "FastAPI + Vue Vben Admin full-stack admin template with RBAC, dynamic menus, and Docker Compose support.",
       "url": "https://github.com/LoD-Dawn/Fast-Vben-Admin",
-      "stargazerCount": 19,
+      "stargazerCount": 25,
       "forkCount": 5,
       "languageName": "Vue",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/275877517?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-08T03:24:31Z",
-      "updatedAt": "2026-07-11T09:27:37Z",
+      "updatedAt": "2026-07-14T06:11:56Z",
       "licenseName": "MIT",
       "topics": [
         "admin-template",
