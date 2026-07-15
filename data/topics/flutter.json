@@ -1,8 +1,36 @@
 {
-  "generatedAt": "2026-07-14T06:23:30Z",
+  "generatedAt": "2026-07-15T06:27:00Z",
   "topic": "flutter",
   "totalCount": 2,
   "repos": [
+    {
+      "id": "1296979614",
+      "name": "haptify",
+      "nameWithOwner": "imedboumalek/haptify",
+      "description": "Generate haptic feedback files from audio — .ahap for iOS Core Haptics plus Android waveforms, via a pure Dart CLI",
+      "url": "https://github.com/imedboumalek/haptify",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": "Dart",
+      "languageColor": null,
+      "ownerLogin": "imedboumalek",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/49253934?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-10T23:35:25Z",
+      "updatedAt": "2026-07-15T03:40:39Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ahap",
+        "cli",
+        "core-haptics",
+        "dart",
+        "flutter",
+        "haptics",
+        "vibration"
+      ],
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1296416378",
       "name": "hellzgate",
@@ -17,7 +45,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/252754033?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-10T11:14:53Z",
-      "updatedAt": "2026-07-12T21:56:11Z",
+      "updatedAt": "2026-07-14T13:32:05Z",
       "licenseName": null,
       "topics": [
         "ble",
@@ -38,34 +66,6 @@
         "wireless"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1296979614",
-      "name": "haptify",
-      "nameWithOwner": "imedboumalek/haptify",
-      "description": "Generate haptic feedback files from audio — .ahap for iOS Core Haptics plus Android waveforms, via a pure Dart CLI",
-      "url": "https://github.com/imedboumalek/haptify",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Dart",
-      "languageColor": null,
-      "ownerLogin": "imedboumalek",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/49253934?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-10T23:35:25Z",
-      "updatedAt": "2026-07-13T09:46:07Z",
-      "licenseName": "MIT",
-      "topics": [
-        "ahap",
-        "cli",
-        "core-haptics",
-        "dart",
-        "flutter",
-        "haptics",
-        "vibration"
-      ],
-      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]

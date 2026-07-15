@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-14T06:23:30Z",
+  "generatedAt": "2026-07-15T06:27:00Z",
   "topic": "deep-learning",
-  "totalCount": 5,
+  "totalCount": 6,
   "repos": [
     {
       "id": "1295383219",
@@ -9,15 +9,15 @@
       "nameWithOwner": "lucidrains/x-jepa",
       "description": "Explorations into some of the approaches advocated by Yann LeCun, and just a more wholistic architecture (JEPA) in general",
       "url": "https://github.com/lucidrains/x-jepa",
-      "stargazerCount": 58,
-      "forkCount": 4,
+      "stargazerCount": 84,
+      "forkCount": 7,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "lucidrains",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-09T14:37:09Z",
-      "updatedAt": "2026-07-14T06:18:45Z",
+      "updatedAt": "2026-07-15T06:14:28Z",
       "licenseName": "MIT",
       "topics": [
         "artificial-intelligence",
@@ -25,7 +25,7 @@
         "jepa",
         "world-models"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -34,7 +34,7 @@
       "nameWithOwner": "Y0oshi/Text-LLM-Training-from-scratch",
       "description": "A from-scratch implementation of the language-model training pipeline in PyTorch: tokenization, pretraining, SFT, and preference-based alignment.",
       "url": "https://github.com/Y0oshi/Text-LLM-Training-from-scratch",
-      "stargazerCount": 18,
+      "stargazerCount": 20,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -42,7 +42,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/93845925?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-12T23:48:13Z",
-      "updatedAt": "2026-07-14T01:30:47Z",
+      "updatedAt": "2026-07-14T09:15:22Z",
       "licenseName": "MIT",
       "topics": [
         "alignment",
@@ -115,6 +115,32 @@
         "numpy",
         "pandas",
         "python"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1295906109",
+      "name": "rf-detr-feature-visualization",
+      "nameWithOwner": "farukalamai/rf-detr-feature-visualization",
+      "description": "Visualize what RF-DETR's backbone sees during inference. ",
+      "url": "https://github.com/farukalamai/rf-detr-feature-visualization",
+      "stargazerCount": 7,
+      "forkCount": 1,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "farukalamai",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/92469073?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-10T00:46:13Z",
+      "updatedAt": "2026-07-14T22:38:12Z",
+      "licenseName": null,
+      "topics": [
+        "computer-vision",
+        "deep-learning",
+        "dinov2",
+        "object-detection",
+        "rf-detr"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
