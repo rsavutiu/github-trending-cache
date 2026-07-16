@@ -1,43 +1,6 @@
 {
-  "generatedAt": "2026-07-15T06:27:00Z",
+  "generatedAt": "2026-07-16T06:30:23Z",
   "topic": "data-science",
-  "totalCount": 1,
-  "repos": [
-    {
-      "id": "1295119691",
-      "name": "internships-and-newgrad",
-      "nameWithOwner": "DereC4/internships-and-newgrad",
-      "description": "Coming soon! The ultimate aggregated, deduplicated, and cleaned master list of 2026-2027 Tech Internships and New Grad positions. Auto-updated daily from top GitHub trackers.",
-      "url": "https://github.com/DereC4/internships-and-newgrad",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "DereC4",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/53978637?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-09T11:10:40Z",
-      "updatedAt": "2026-07-15T03:44:59Z",
-      "licenseName": "MIT",
-      "topics": [
-        "college",
-        "computer-science",
-        "cs-internship",
-        "data-science",
-        "hiring",
-        "internship",
-        "internships",
-        "interviews",
-        "jobs",
-        "software-engineering",
-        "software-internships",
-        "summer-internship",
-        "swe",
-        "swe-internships",
-        "university"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    }
-  ]
+  "totalCount": 0,
+  "repos": []
 }

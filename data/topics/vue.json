@@ -1,8 +1,34 @@
 {
-  "generatedAt": "2026-07-15T06:27:00Z",
+  "generatedAt": "2026-07-16T06:30:23Z",
   "topic": "vue",
   "totalCount": 2,
   "repos": [
+    {
+      "id": "1299945564",
+      "name": "vue-bill-print",
+      "nameWithOwner": "1476989162/vue-bill-print",
+      "description": "vue3通用打印组件",
+      "url": "https://github.com/1476989162/vue-bill-print",
+      "stargazerCount": 11,
+      "forkCount": 2,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "1476989162",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/77477248?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-14T03:03:04Z",
+      "updatedAt": "2026-07-16T06:24:58Z",
+      "licenseName": "MIT",
+      "topics": [
+        "bill",
+        "designer",
+        "print",
+        "vue",
+        "vue3"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1299203967",
       "name": "Moyun",
@@ -17,39 +43,13 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/288063784?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-13T11:20:15Z",
-      "updatedAt": "2026-07-15T01:38:59Z",
+      "updatedAt": "2026-07-15T10:52:30Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "ai-writing",
         "frontend",
         "novel-writing",
         "vue"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1299945564",
-      "name": "vue-bill-print",
-      "nameWithOwner": "1476989162/vue-bill-print",
-      "description": "vue3通用打印组件",
-      "url": "https://github.com/1476989162/vue-bill-print",
-      "stargazerCount": 9,
-      "forkCount": 1,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "1476989162",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/77477248?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-14T03:03:04Z",
-      "updatedAt": "2026-07-15T06:25:51Z",
-      "licenseName": "MIT",
-      "topics": [
-        "bill",
-        "designer",
-        "print",
-        "vue",
-        "vue3"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

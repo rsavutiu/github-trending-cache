@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T06:27:00Z",
+  "generatedAt": "2026-07-16T06:30:23Z",
   "topic": "kubernetes",
   "totalCount": 5,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "William-Lu-stack/Flawless",
       "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
       "url": "https://github.com/William-Lu-stack/Flawless",
-      "stargazerCount": 619,
-      "forkCount": 95,
+      "stargazerCount": 651,
+      "forkCount": 118,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "William-Lu-stack",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/66623266?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-10T05:57:02Z",
-      "updatedAt": "2026-07-15T05:27:44Z",
+      "updatedAt": "2026-07-16T06:31:02Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "agenticops",
@@ -33,34 +33,6 @@
         "observability",
         "sre"
       ],
-      "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1295320736",
-      "name": "prompt-mac",
-      "nameWithOwner": "dunglas/prompt-mac",
-      "description": "one-shot, AI-first macOS setup for Apple Silicon",
-      "url": "https://github.com/dunglas/prompt-mac",
-      "stargazerCount": 49,
-      "forkCount": 1,
-      "languageName": "Shell",
-      "languageColor": null,
-      "ownerLogin": "dunglas",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/57224?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-09T13:52:25Z",
-      "updatedAt": "2026-07-15T05:36:15Z",
-      "licenseName": "MIT",
-      "topics": [
-        "ai",
-        "coding-agent",
-        "development",
-        "devops",
-        "kubernetes",
-        "macos",
-        "starter"
-      ],
       "openIssuesCount": 2,
       "closedIssuesCount": 0
     },
@@ -70,7 +42,7 @@
       "nameWithOwner": "vicotrbb/devboxes",
       "description": "Self-hosted, ephemeral development environments on Kubernetes",
       "url": "https://github.com/vicotrbb/devboxes",
-      "stargazerCount": 12,
+      "stargazerCount": 16,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -78,7 +50,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/26542434?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-13T03:13:21Z",
-      "updatedAt": "2026-07-15T04:09:39Z",
+      "updatedAt": "2026-07-15T15:13:18Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "development-environments",
@@ -90,6 +62,61 @@
         "tmux"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1297534990",
+      "name": "okf-crossplane-v2",
+      "nameWithOwner": "jkroepke/okf-crossplane-v2",
+      "description": "LLM-wiki in OKF (Open Knowledge Format) for Crossplane v2",
+      "url": "https://github.com/jkroepke/okf-crossplane-v2",
+      "stargazerCount": 10,
+      "forkCount": 1,
+      "languageName": "Shell",
+      "languageColor": null,
+      "ownerLogin": "jkroepke",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1560587?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-11T14:59:05Z",
+      "updatedAt": "2026-07-16T05:14:49Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "cloud-native",
+        "crossplane",
+        "idp",
+        "kubernetes",
+        "llm-wiki",
+        "okf",
+        "wiki"
+      ],
+      "openIssuesCount": 2,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1298131006",
+      "name": "KubePilot",
+      "nameWithOwner": "DevOpsHan/KubePilot",
+      "description": "AI-native Kubernetes operations assistant for multi-cluster diagnosis, approval-gated remediation, and auditable recovery.",
+      "url": "https://github.com/DevOpsHan/KubePilot",
+      "stargazerCount": 8,
+      "forkCount": 4,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "DevOpsHan",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/302117841?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-12T09:00:47Z",
+      "updatedAt": "2026-07-15T08:27:55Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "aiops",
+        "devops",
+        "docker-compose",
+        "golang",
+        "kubernetes",
+        "react"
+      ],
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -106,7 +133,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/304068287?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-12T15:18:30Z",
-      "updatedAt": "2026-07-14T22:53:03Z",
+      "updatedAt": "2026-07-16T06:17:16Z",
       "licenseName": "MIT",
       "topics": [
         "ai-agents",
@@ -119,33 +146,6 @@
         "orchestration",
         "sre",
         "typescript"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1298131006",
-      "name": "KubePilot",
-      "nameWithOwner": "DevOpsHan/KubePilot",
-      "description": "AI-native Kubernetes operations assistant for multi-cluster diagnosis, approval-gated remediation, and auditable recovery.",
-      "url": "https://github.com/DevOpsHan/KubePilot",
-      "stargazerCount": 6,
-      "forkCount": 4,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "DevOpsHan",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/302117841?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-12T09:00:47Z",
-      "updatedAt": "2026-07-15T06:21:17Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "aiops",
-        "devops",
-        "docker-compose",
-        "golang",
-        "kubernetes",
-        "react"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T06:27:00Z",
+  "generatedAt": "2026-07-16T06:30:23Z",
   "topic": "java",
   "totalCount": 3,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "youxiandechilun/Guido",
       "description": "景区导览服务 AI 数字人：基于 Spring Boot、Vue 3、UniApp 与本地 RAG 的智能导览系统。",
       "url": "https://github.com/youxiandechilun/Guido",
-      "stargazerCount": 102,
+      "stargazerCount": 103,
       "forkCount": 1,
       "languageName": "Java",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/148163576?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-11T06:23:14Z",
-      "updatedAt": "2026-07-14T23:53:28Z",
+      "updatedAt": "2026-07-16T03:02:25Z",
       "licenseName": null,
       "topics": [
         "ai",
@@ -74,7 +74,7 @@
       "nameWithOwner": "hashimsaffarini/Data-Structures-Course-Round3",
       "description": "Complete Java Data Structures course with custom implementations, problem-solving, and clean examples. Perfect for students and self-learners.",
       "url": "https://github.com/hashimsaffarini/Data-Structures-Course-Round3",
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "forkCount": 0,
       "languageName": "Java",
       "languageColor": null,
@@ -82,7 +82,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/124286269?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-13T11:57:44Z",
-      "updatedAt": "2026-07-14T12:36:59Z",
+      "updatedAt": "2026-07-15T16:52:43Z",
       "licenseName": null,
       "topics": [
         "algorithms",
