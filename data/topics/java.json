@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T06:30:23Z",
+  "generatedAt": "2026-07-17T06:26:40Z",
   "topic": "java",
   "totalCount": 3,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "youxiandechilun/Guido",
       "description": "景区导览服务 AI 数字人：基于 Spring Boot、Vue 3、UniApp 与本地 RAG 的智能导览系统。",
       "url": "https://github.com/youxiandechilun/Guido",
-      "stargazerCount": 103,
-      "forkCount": 1,
+      "stargazerCount": 105,
+      "forkCount": 2,
       "languageName": "Java",
       "languageColor": null,
       "ownerLogin": "youxiandechilun",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/148163576?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-11T06:23:14Z",
-      "updatedAt": "2026-07-16T03:02:25Z",
+      "updatedAt": "2026-07-17T03:38:27Z",
       "licenseName": null,
       "topics": [
         "ai",

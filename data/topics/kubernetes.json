@@ -1,41 +1,8 @@
 {
-  "generatedAt": "2026-07-16T06:30:23Z",
+  "generatedAt": "2026-07-17T06:26:40Z",
   "topic": "kubernetes",
   "totalCount": 5,
   "repos": [
-    {
-      "id": "1296107475",
-      "name": "Flawless",
-      "nameWithOwner": "William-Lu-stack/Flawless",
-      "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-      "url": "https://github.com/William-Lu-stack/Flawless",
-      "stargazerCount": 651,
-      "forkCount": 118,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "William-Lu-stack",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/66623266?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-10T05:57:02Z",
-      "updatedAt": "2026-07-16T06:31:02Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "agenticops",
-        "ai",
-        "aiops",
-        "aisre",
-        "cloud",
-        "cloud-native",
-        "devops",
-        "kubernetes",
-        "llm",
-        "mcp",
-        "observability",
-        "sre"
-      ],
-      "openIssuesCount": 2,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1298813869",
       "name": "devboxes",
@@ -78,7 +45,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1560587?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-11T14:59:05Z",
-      "updatedAt": "2026-07-16T05:14:49Z",
+      "updatedAt": "2026-07-16T12:18:28Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "cloud-native",
@@ -89,7 +56,7 @@
         "okf",
         "wiki"
       ],
-      "openIssuesCount": 2,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -133,7 +100,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/304068287?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-12T15:18:30Z",
-      "updatedAt": "2026-07-16T06:17:16Z",
+      "updatedAt": "2026-07-16T11:28:24Z",
       "licenseName": "MIT",
       "topics": [
         "ai-agents",
@@ -148,6 +115,44 @@
         "typescript"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1302051423",
+      "name": "skyportalai",
+      "nameWithOwner": "SkyportalAi/skyportalai",
+      "description": "SkyPortal SDK & CLI - Open Source",
+      "url": "https://github.com/SkyportalAi/skyportalai",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "SkyportalAi",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/180767655?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-07-15T21:31:25Z",
+      "updatedAt": "2026-07-17T06:26:29Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ai-observability",
+        "anthropic",
+        "artificial-intelligence",
+        "devops",
+        "gpu-monitoring",
+        "grafana",
+        "inference",
+        "kubernetes",
+        "llm-observability",
+        "machine-learning",
+        "mlops",
+        "openai",
+        "opentelemetry",
+        "otel",
+        "prometheus",
+        "sre",
+        "vllm"
+      ],
+      "openIssuesCount": 8,
       "closedIssuesCount": 0
     }
   ]

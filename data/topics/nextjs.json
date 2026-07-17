@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-16T06:30:23Z",
+  "generatedAt": "2026-07-17T06:26:40Z",
   "topic": "nextjs",
-  "totalCount": 10,
+  "totalCount": 11,
   "repos": [
     {
       "id": "1300024503",
@@ -9,7 +9,7 @@
       "nameWithOwner": "QuantumByteOSS/quantumbyte",
       "description": "Open-source app builder engine — intent to working app",
       "url": "https://github.com/QuantumByteOSS/quantumbyte",
-      "stargazerCount": 313,
+      "stargazerCount": 315,
       "forkCount": 42,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/305254032?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-14T04:53:39Z",
-      "updatedAt": "2026-07-16T04:48:58Z",
+      "updatedAt": "2026-07-17T06:25:36Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "agents",
@@ -38,7 +38,7 @@
       "nameWithOwner": "Gianluca-Improta/cinekive",
       "description": "Local-first cinematic visual archive for filmmakers — search stills by look, mood & technique; ingest video/URLs; moodboards. Own your frames (FilmGrab / Flim / Kive style, on your machine).",
       "url": "https://github.com/Gianluca-Improta/cinekive",
-      "stargazerCount": 30,
+      "stargazerCount": 39,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -46,7 +46,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/78716448?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-11T03:02:19Z",
-      "updatedAt": "2026-07-16T05:18:13Z",
+      "updatedAt": "2026-07-17T05:11:04Z",
       "licenseName": "MIT",
       "topics": [
         "archive",
@@ -141,32 +141,6 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1296442906",
-      "name": "ou-image-hosting",
-      "nameWithOwner": "cshaizhihao/ou-image-hosting",
-      "description": "OU-Image Hosting 欧记图床：以视觉体验为核心的现代自托管图床与图片资产管理平台",
-      "url": "https://github.com/cshaizhihao/ou-image-hosting",
-      "stargazerCount": 15,
-      "forkCount": 0,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "cshaizhihao",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127094080?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-10T11:47:16Z",
-      "updatedAt": "2026-07-13T16:16:34Z",
-      "licenseName": "MIT",
-      "topics": [
-        "image-hosting",
-        "nextjs",
-        "s3",
-        "self-hosted",
-        "typescript"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1297937750",
       "name": "relay-status-monitor",
       "nameWithOwner": "yigehaozi/relay-status-monitor",
@@ -195,6 +169,39 @@
         "sub2api",
         "typescript",
         "uptime-monitoring"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1303424682",
+      "name": "agentcore-agui-starter",
+      "nameWithOwner": "fahmidme/agentcore-agui-starter",
+      "description": "Streaming Strands agents from Amazon Bedrock AgentCore to a Next.js CopilotKit UI over AG-UI.",
+      "url": "https://github.com/fahmidme/agentcore-agui-starter",
+      "stargazerCount": 10,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "fahmidme",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/16950663?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-17T01:34:34Z",
+      "updatedAt": "2026-07-17T05:02:31Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ag-ui",
+        "agentcore",
+        "ai-agents",
+        "amazon-bedrock",
+        "aws",
+        "copilotkit",
+        "generative-ai",
+        "nextjs",
+        "python",
+        "server-sent-events",
+        "strands-agents",
+        "typescript"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -290,7 +297,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/304068287?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-12T15:18:30Z",
-      "updatedAt": "2026-07-16T06:17:16Z",
+      "updatedAt": "2026-07-16T11:28:24Z",
       "licenseName": "MIT",
       "topics": [
         "ai-agents",
@@ -305,6 +312,35 @@
         "typescript"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1301213286",
+      "name": "moyu",
+      "nameWithOwner": "Moyu-xin/moyu",
+      "description": "摸鱼机 DDDD",
+      "url": "https://github.com/Moyu-xin/moyu",
+      "stargazerCount": 6,
+      "forkCount": 3,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "Moyu-xin",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/200099055?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-15T04:56:46Z",
+      "updatedAt": "2026-07-16T17:08:24Z",
+      "licenseName": "MIT",
+      "topics": [
+        "docker-compose",
+        "fastapi",
+        "inventory-management",
+        "local-dashboard",
+        "moyu",
+        "nextjs",
+        "python",
+        "typescript"
+      ],
+      "openIssuesCount": 10,
       "closedIssuesCount": 0
     }
   ]
