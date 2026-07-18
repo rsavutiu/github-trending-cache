@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-17T06:26:40Z",
+  "generatedAt": "2026-07-18T06:17:07Z",
   "topic": "machine-learning",
-  "totalCount": 5,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1298699871",
@@ -40,32 +40,6 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1297122378",
-      "name": "ML-Executable-Malware-Detector",
-      "nameWithOwner": "surajsinghm/ML-Executable-Malware-Detector",
-      "description": "An offline, machine learning-powered static analysis tool that detects malware in Windows executables using LightGBM and the EMBER dataset.",
-      "url": "https://github.com/surajsinghm/ML-Executable-Malware-Detector",
-      "stargazerCount": 24,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "surajsinghm",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/89487452?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-11T04:28:20Z",
-      "updatedAt": "2026-07-17T06:06:07Z",
-      "licenseName": null,
-      "topics": [
-        "cybersecurity-tools",
-        "machine-learning",
-        "malware",
-        "malware-detection",
-        "ml"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1300241319",
       "name": "10-ai-careers-roadmap",
       "nameWithOwner": "Moh4696/10-ai-careers-roadmap",
@@ -97,32 +71,35 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1297731029",
-      "name": "ai-engineering-school",
-      "nameWithOwner": "amirmasoud-iravani/ai-engineering-school",
-      "description": "A beginner-friendly AI Engineering school from Python fundamentals to ML, Deep Learning, MLOps, and AI applications.",
-      "url": "https://github.com/amirmasoud-iravani/ai-engineering-school",
+      "id": "1304260727",
+      "name": "ai-agent-architecture",
+      "nameWithOwner": "Drobiazkin/ai-agent-architecture",
+      "description": "Build LLM systems you actually control. A free, open engineering book + course — from tokenization to serving your own models. Mechanisms, trade-offs, and numbers, not prompt tips",
+      "url": "https://github.com/Drobiazkin/ai-agent-architecture",
       "stargazerCount": 9,
-      "forkCount": 0,
-      "languageName": "Jupyter Notebook",
+      "forkCount": 1,
+      "languageName": "HTML",
       "languageColor": null,
-      "ownerLogin": "amirmasoud-iravani",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/221885550?v=4",
+      "ownerLogin": "Drobiazkin",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/121391064?v=4",
       "ownerType": "User",
-      "createdAt": "2026-07-11T19:33:27Z",
-      "updatedAt": "2026-07-16T14:16:21Z",
-      "licenseName": null,
+      "createdAt": "2026-07-17T17:57:55Z",
+      "updatedAt": "2026-07-18T05:48:52Z",
+      "licenseName": "CC-BY-SA-4.0",
       "topics": [
-        "ai-engineering",
-        "deep-learning",
-        "jupyter-notebook",
-        "learning-path",
+        "agentic-ai",
+        "ai-agents",
+        "distributed-systems",
+        "llm",
+        "llm-inference",
+        "llmops",
         "machine-learning",
-        "matplotlib",
-        "mlops",
-        "numpy",
-        "pandas",
-        "python"
+        "mcp",
+        "open-source-book",
+        "prompt-engineering",
+        "rag",
+        "self-hosted",
+        "transformers"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -141,7 +118,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/180767655?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-15T21:31:25Z",
-      "updatedAt": "2026-07-17T06:26:29Z",
+      "updatedAt": "2026-07-18T01:52:12Z",
       "licenseName": "MIT",
       "topics": [
         "ai-observability",
@@ -162,7 +139,7 @@
         "sre",
         "vllm"
       ],
-      "openIssuesCount": 8,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

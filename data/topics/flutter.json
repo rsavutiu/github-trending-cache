@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T06:26:40Z",
+  "generatedAt": "2026-07-18T06:17:07Z",
   "topic": "flutter",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "NihalMishra3009/XENECOSYS",
       "description": "XENECOSYS is a communication ecosystem for emergency coordination and hub management",
       "url": "https://github.com/NihalMishra3009/XENECOSYS",
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "forkCount": 3,
       "languageName": "Dart",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/222169388?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-16T15:03:29Z",
-      "updatedAt": "2026-07-17T04:11:17Z",
+      "updatedAt": "2026-07-17T15:27:56Z",
       "licenseName": "MIT",
       "topics": [
         "android",

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-17T06:26:40Z",
+  "generatedAt": "2026-07-18T06:17:07Z",
   "topic": "devops",
-  "totalCount": 7,
+  "totalCount": 8,
   "repos": [
     {
       "id": "1301362254",
@@ -9,16 +9,16 @@
       "nameWithOwner": "stephrobert/dsoxlab",
       "description": "DevSecOps XL Labs — a domain-agnostic CLI framework to drive hands-on learning labs across multiple repositories",
       "url": "https://github.com/stephrobert/dsoxlab",
-      "stargazerCount": 40,
-      "forkCount": 2,
+      "stargazerCount": 44,
+      "forkCount": 3,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "stephrobert",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/681788?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-15T08:06:15Z",
-      "updatedAt": "2026-07-16T21:51:22Z",
-      "licenseName": "NOASSERTION",
+      "updatedAt": "2026-07-17T12:53:36Z",
+      "licenseName": "Apache-2.0",
       "topics": [
         "ansible",
         "cli",
@@ -40,7 +40,7 @@
       "nameWithOwner": "programmersd21/wlocks",
       "description": "📂 see which processes hold your files open: a smooth tui alternative to lsof/fuser with auto-refresh, fuzzy search, sort modes, and themes",
       "url": "https://github.com/programmersd21/wlocks",
-      "stargazerCount": 10,
+      "stargazerCount": 13,
       "forkCount": 0,
       "languageName": "Go",
       "languageColor": null,
@@ -48,7 +48,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-14T15:12:51Z",
-      "updatedAt": "2026-07-17T04:30:50Z",
+      "updatedAt": "2026-07-17T16:56:39Z",
       "licenseName": "MIT",
       "topics": [
         "bubbletea",
@@ -76,6 +76,35 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1299986993",
+      "name": "OpenAgentPack",
+      "nameWithOwner": "modelstudioai/OpenAgentPack",
+      "description": "Manage, review, and migrate cloud AI agents with Git and YAML.  The open-source IaC control plane for managed AI agents.",
+      "url": "https://github.com/modelstudioai/OpenAgentPack",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "modelstudioai",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/283556804?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-07-14T03:59:01Z",
+      "updatedAt": "2026-07-17T12:15:23Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "agent-infrastructure",
+        "agents-as-code",
+        "ai-agents",
+        "devops",
+        "infrastructure-as-code",
+        "mcp",
+        "multi-provider",
+        "typescript"
+      ],
+      "openIssuesCount": 5,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1298131006",
       "name": "KubePilot",
       "nameWithOwner": "DevOpsHan/KubePilot",
@@ -100,35 +129,6 @@
         "react"
       ],
       "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1299986993",
-      "name": "OpenAgentPack",
-      "nameWithOwner": "modelstudioai/OpenAgentPack",
-      "description": "Manage, review, and migrate cloud AI agents with Git and YAML.  The open-source IaC control plane for managed AI agents.",
-      "url": "https://github.com/modelstudioai/OpenAgentPack",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "modelstudioai",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/283556804?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-07-14T03:59:01Z",
-      "updatedAt": "2026-07-17T05:31:04Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "agent-infrastructure",
-        "agents-as-code",
-        "ai-agents",
-        "devops",
-        "infrastructure-as-code",
-        "mcp",
-        "multi-provider",
-        "typescript"
-      ],
-      "openIssuesCount": 3,
       "closedIssuesCount": 0
     },
     {
@@ -176,7 +176,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/42131590?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-15T00:48:53Z",
-      "updatedAt": "2026-07-16T03:47:48Z",
+      "updatedAt": "2026-07-18T00:20:32Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "agentic-kit",
@@ -211,7 +211,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/180767655?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-15T21:31:25Z",
-      "updatedAt": "2026-07-17T06:26:29Z",
+      "updatedAt": "2026-07-18T01:52:12Z",
       "licenseName": "MIT",
       "topics": [
         "ai-observability",
@@ -232,7 +232,37 @@
         "sre",
         "vllm"
       ],
-      "openIssuesCount": 8,
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1303263145",
+      "name": "kubectl-peek",
+      "nameWithOwner": "pierinho13/kubectl-peek",
+      "description": "A simple interactive kubectl plugin to browse Kubernetes Secrets, reveal decoded values, and discover which workloads use them.",
+      "url": "https://github.com/pierinho13/kubectl-peek",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "pierinho13",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/17799110?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-16T21:26:14Z",
+      "updatedAt": "2026-07-17T15:41:39Z",
+      "licenseName": "MIT",
+      "topics": [
+        "cli",
+        "cloud-native",
+        "devops",
+        "golang",
+        "kubectl",
+        "kubectl-plugin",
+        "kubernetes",
+        "kubernetes-secrets",
+        "tui"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

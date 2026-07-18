@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T06:26:40Z",
+  "generatedAt": "2026-07-18T06:17:07Z",
   "topic": "go",
   "totalCount": 4,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "rengwu/wayfinder-maps",
       "description": "Planetary visualization tool for /wayfinder maps",
       "url": "https://github.com/rengwu/wayfinder-maps",
-      "stargazerCount": 58,
+      "stargazerCount": 59,
       "forkCount": 1,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/12826717?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-12T04:40:27Z",
-      "updatedAt": "2026-07-17T02:57:17Z",
+      "updatedAt": "2026-07-17T19:15:27Z",
       "licenseName": "MIT",
       "topics": [
         "agent-skills",
@@ -58,12 +58,41 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1302464336",
+      "name": "ghost-captcha",
+      "nameWithOwner": "rohitkhatri1st/ghost-captcha",
+      "description": "Animated Font and CAPTCHA library for Go — invisible in any single frame, only readable in motion. Resists OCR and AI vision models.",
+      "url": "https://github.com/rohitkhatri1st/ghost-captcha",
+      "stargazerCount": 9,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "rohitkhatri1st",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/53299308?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-16T07:25:09Z",
+      "updatedAt": "2026-07-17T14:23:06Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "anti-bot",
+        "bot-detection",
+        "captcha",
+        "gif",
+        "go",
+        "golang",
+        "security",
+        "webassembly"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1300842713",
       "name": "nansen-go",
       "nameWithOwner": "tigusigalpa/nansen-go",
       "description": "A lightweight, dependency-free Golang client for the Nansen AI API. Context-aware, concurrency-safe, and fully typed, with functional options, automatic retries and exponential backoff on rate limits, and rich, typed error handling. Covers Smart Money, Token God Mode, Profiler, Portfolio, and historical backtesting endpoints.",
       "url": "https://github.com/tigusigalpa/nansen-go",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 0,
       "languageName": "Go",
       "languageColor": null,
@@ -71,7 +100,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/2721390?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-14T18:44:02Z",
-      "updatedAt": "2026-07-17T04:54:23Z",
+      "updatedAt": "2026-07-17T19:13:55Z",
       "licenseName": "MIT",
       "topics": [
         "api",
@@ -86,33 +115,6 @@
         "smartmoney"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1297116634",
-      "name": "krate",
-      "nameWithOwner": "krigsherre/krate",
-      "description": "High-performance Go distributed rate limiter. Cuts Redis traffic 99% & latency 4,000x via local token borrowing, mesh peer forwarding, and Top-N Delta Gossip.",
-      "url": "https://github.com/krigsherre/krate",
-      "stargazerCount": 6,
-      "forkCount": 1,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "krigsherre",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/32642225?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-11T04:17:20Z",
-      "updatedAt": "2026-07-16T23:03:45Z",
-      "licenseName": "MIT",
-      "topics": [
-        "distributed-systems",
-        "go",
-        "gossip-protocol",
-        "rate-limiter",
-        "redis",
-        "scalability"
-      ],
-      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T06:26:40Z",
+  "generatedAt": "2026-07-18T06:17:07Z",
   "topic": "kubernetes",
   "totalCount": 5,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "vicotrbb/devboxes",
       "description": "Self-hosted, ephemeral development environments on Kubernetes",
       "url": "https://github.com/vicotrbb/devboxes",
-      "stargazerCount": 16,
+      "stargazerCount": 17,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/26542434?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-13T03:13:21Z",
-      "updatedAt": "2026-07-15T15:13:18Z",
+      "updatedAt": "2026-07-17T21:25:27Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "development-environments",
@@ -29,34 +29,6 @@
         "tmux"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1297534990",
-      "name": "okf-crossplane-v2",
-      "nameWithOwner": "jkroepke/okf-crossplane-v2",
-      "description": "LLM-wiki in OKF (Open Knowledge Format) for Crossplane v2",
-      "url": "https://github.com/jkroepke/okf-crossplane-v2",
-      "stargazerCount": 10,
-      "forkCount": 1,
-      "languageName": "Shell",
-      "languageColor": null,
-      "ownerLogin": "jkroepke",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1560587?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-11T14:59:05Z",
-      "updatedAt": "2026-07-16T12:18:28Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "cloud-native",
-        "crossplane",
-        "idp",
-        "kubernetes",
-        "llm-wiki",
-        "okf",
-        "wiki"
-      ],
-      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -118,6 +90,36 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1303263145",
+      "name": "kubectl-peek",
+      "nameWithOwner": "pierinho13/kubectl-peek",
+      "description": "A simple interactive kubectl plugin to browse Kubernetes Secrets, reveal decoded values, and discover which workloads use them.",
+      "url": "https://github.com/pierinho13/kubectl-peek",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "pierinho13",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/17799110?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-16T21:26:14Z",
+      "updatedAt": "2026-07-17T15:41:39Z",
+      "licenseName": "MIT",
+      "topics": [
+        "cli",
+        "cloud-native",
+        "devops",
+        "golang",
+        "kubectl",
+        "kubectl-plugin",
+        "kubernetes",
+        "kubernetes-secrets",
+        "tui"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1302051423",
       "name": "skyportalai",
       "nameWithOwner": "SkyportalAi/skyportalai",
@@ -131,7 +133,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/180767655?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-15T21:31:25Z",
-      "updatedAt": "2026-07-17T06:26:29Z",
+      "updatedAt": "2026-07-18T01:52:12Z",
       "licenseName": "MIT",
       "topics": [
         "ai-observability",
@@ -152,7 +154,7 @@
         "sre",
         "vllm"
       ],
-      "openIssuesCount": 8,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

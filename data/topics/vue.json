@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T06:26:40Z",
+  "generatedAt": "2026-07-18T06:17:07Z",
   "topic": "vue",
   "totalCount": 2,
   "repos": [
@@ -10,7 +10,7 @@
       "description": "vue3通用打印组件",
       "url": "https://github.com/1476989162/vue-bill-print",
       "stargazerCount": 11,
-      "forkCount": 2,
+      "forkCount": 3,
       "languageName": "TypeScript",
       "languageColor": null,
       "ownerLogin": "1476989162",
