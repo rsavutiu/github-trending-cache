@@ -1,8 +1,34 @@
 {
-  "generatedAt": "2026-07-18T06:17:07Z",
+  "generatedAt": "2026-07-19T06:42:20Z",
   "topic": "vue",
-  "totalCount": 2,
+  "totalCount": 4,
   "repos": [
+    {
+      "id": "1299334645",
+      "name": "Axolotl",
+      "nameWithOwner": "Mystic-Stars/Axolotl",
+      "description": "A free, cross-platform Minecraft launcher",
+      "url": "https://github.com/Mystic-Stars/Axolotl",
+      "stargazerCount": 55,
+      "forkCount": 0,
+      "languageName": "Rust",
+      "languageColor": null,
+      "ownerLogin": "Mystic-Stars",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/97295993?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-13T13:39:11Z",
+      "updatedAt": "2026-07-19T06:27:37Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "minecraft",
+        "minecraft-launcher",
+        "rust",
+        "tauri",
+        "vue"
+      ],
+      "openIssuesCount": 19,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1299945564",
       "name": "vue-bill-print",
@@ -50,6 +76,37 @@
         "frontend",
         "novel-writing",
         "vue"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1301111408",
+      "name": "dither-ui",
+      "nameWithOwner": "drvova/dither-ui",
+      "description": "A dithered UI toolkit for Vue 3 — charts, primitives and Base UI-parity components on one ordered-dither canvas engine, everything seed-generative.",
+      "url": "https://github.com/drvova/dither-ui",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": "Vue",
+      "languageColor": null,
+      "ownerLogin": "drvova",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/166897058?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-15T02:10:33Z",
+      "updatedAt": "2026-07-19T05:02:31Z",
+      "licenseName": "MIT",
+      "topics": [
+        "canvas",
+        "charts",
+        "component-library",
+        "data-visualization",
+        "dithering",
+        "pixel-art",
+        "typescript",
+        "ui-kit",
+        "vue",
+        "vue3"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
