@@ -1,43 +1,15 @@
 {
-  "generatedAt": "2026-07-19T06:42:20Z",
+  "generatedAt": "2026-07-20T07:27:27Z",
   "topic": "kubernetes",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
-    {
-      "id": "1298813869",
-      "name": "devboxes",
-      "nameWithOwner": "vicotrbb/devboxes",
-      "description": "Self-hosted, ephemeral development environments on Kubernetes",
-      "url": "https://github.com/vicotrbb/devboxes",
-      "stargazerCount": 17,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "vicotrbb",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/26542434?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-13T03:13:21Z",
-      "updatedAt": "2026-07-17T21:25:27Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "development-environments",
-        "helm",
-        "kubernetes",
-        "rust",
-        "self-hosted",
-        "ssh",
-        "tmux"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1303263145",
       "name": "kubectl-peek",
       "nameWithOwner": "pierinho13/kubectl-peek",
       "description": "A simple interactive kubectl plugin to browse Kubernetes Secrets, reveal decoded values, and discover which workloads use them.",
       "url": "https://github.com/pierinho13/kubectl-peek",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 0,
       "languageName": "Go",
       "languageColor": null,
@@ -45,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/17799110?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-16T21:26:14Z",
-      "updatedAt": "2026-07-18T13:00:06Z",
+      "updatedAt": "2026-07-19T08:39:04Z",
       "licenseName": "MIT",
       "topics": [
         "cli",
@@ -67,7 +39,7 @@
       "nameWithOwner": "SkyportalAi/skyportalai",
       "description": "SkyPortal SDK & CLI - Open Source",
       "url": "https://github.com/SkyportalAi/skyportalai",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -75,7 +47,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/180767655?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-15T21:31:25Z",
-      "updatedAt": "2026-07-18T01:52:12Z",
+      "updatedAt": "2026-07-19T20:31:07Z",
       "licenseName": "MIT",
       "topics": [
         "ai-observability",
@@ -96,7 +68,7 @@
         "sre",
         "vllm"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 2,
       "closedIssuesCount": 0
     }
   ]

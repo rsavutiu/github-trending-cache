@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T06:42:20Z",
+  "generatedAt": "2026-07-20T07:27:27Z",
   "topic": "docker",
   "totalCount": 8,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "CyberSunil/LLMVault",
       "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
       "url": "https://github.com/CyberSunil/LLMVault",
-      "stargazerCount": 190,
-      "forkCount": 45,
+      "stargazerCount": 205,
+      "forkCount": 51,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "CyberSunil",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/143227935?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-15T08:18:22Z",
-      "updatedAt": "2026-07-19T06:28:25Z",
+      "updatedAt": "2026-07-20T07:06:33Z",
       "licenseName": "MIT",
       "topics": [
         "agent-security",
@@ -51,14 +51,14 @@
       "description": "Your services. Your data. Your digital haven. A security-first homelab stack for self-hosted media, private cloud, identity, and observability across Unraid and NAS.",
       "url": "https://github.com/shuntps/HavenStack",
       "stargazerCount": 13,
-      "forkCount": 1,
+      "forkCount": 2,
       "languageName": null,
       "languageColor": null,
       "ownerLogin": "shuntps",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/21080923?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-15T15:12:08Z",
-      "updatedAt": "2026-07-18T10:28:19Z",
+      "updatedAt": "2026-07-19T21:23:02Z",
       "licenseName": "MIT",
       "topics": [
         "authelia",
@@ -82,7 +82,7 @@
         "vaultwarden",
         "zero-trust"
       ],
-      "openIssuesCount": 3,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -91,7 +91,7 @@
       "nameWithOwner": "raum-so/shelter",
       "description": "Give your code a home — open-source deployment infrastructure with the simplicity of a platform and the ownership of your own VPS.",
       "url": "https://github.com/raum-so/shelter",
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -99,7 +99,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/306461838?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-15T07:24:19Z",
-      "updatedAt": "2026-07-18T11:25:12Z",
+      "updatedAt": "2026-07-19T07:32:52Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "cloudflare",
@@ -112,6 +112,32 @@
         "vps"
       ],
       "openIssuesCount": 3,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1302881022",
+      "name": "docker-cloudflared-controller",
+      "nameWithOwner": "ronaldmiranda/docker-cloudflared-controller",
+      "description": "Cloudflare Tunnel controller for Docker, with Traefik-style label-based discovery",
+      "url": "https://github.com/ronaldmiranda/docker-cloudflared-controller",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "ronaldmiranda",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14340100?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-16T14:30:14Z",
+      "updatedAt": "2026-07-19T17:29:30Z",
+      "licenseName": "MIT",
+      "topics": [
+        "cloudflared",
+        "dns",
+        "docker",
+        "homelab",
+        "tunnel"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -174,32 +200,6 @@
         "self-hosted",
         "sync",
         "twitter"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1302881022",
-      "name": "docker-cloudflared-controller",
-      "nameWithOwner": "ronaldmiranda/docker-cloudflared-controller",
-      "description": "Cloudflare Tunnel controller for Docker, with Traefik-style label-based discovery",
-      "url": "https://github.com/ronaldmiranda/docker-cloudflared-controller",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "ronaldmiranda",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14340100?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-16T14:30:14Z",
-      "updatedAt": "2026-07-19T05:48:36Z",
-      "licenseName": "MIT",
-      "topics": [
-        "cloudflared",
-        "dns",
-        "docker",
-        "homelab",
-        "tunnel"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
