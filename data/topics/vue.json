@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-20T07:27:27Z",
+  "generatedAt": "2026-07-21T06:40:35Z",
   "topic": "vue",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1305023899",
@@ -9,7 +9,7 @@
       "nameWithOwner": "2921323707/CPA_Orbit",
       "description": "From K12 price radar to CPA proxy operations: a local-first console for offers, subscriptions, quotas, GPT Plus, and SMS.",
       "url": "https://github.com/2921323707/CPA_Orbit",
-      "stargazerCount": 26,
+      "stargazerCount": 40,
       "forkCount": 1,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/184733054?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-18T15:42:12Z",
-      "updatedAt": "2026-07-20T04:43:26Z",
+      "updatedAt": "2026-07-21T06:33:17Z",
       "licenseName": "MIT",
       "topics": [
         "ai-accounts",
@@ -40,32 +40,6 @@
         "typescript",
         "vue"
       ],
-      "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1299945564",
-      "name": "vue-bill-print",
-      "nameWithOwner": "1476989162/vue-bill-print",
-      "description": "vue3通用打印组件",
-      "url": "https://github.com/1476989162/vue-bill-print",
-      "stargazerCount": 11,
-      "forkCount": 3,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "1476989162",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/77477248?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-14T03:03:04Z",
-      "updatedAt": "2026-07-17T02:49:54Z",
-      "licenseName": "MIT",
-      "topics": [
-        "bill",
-        "designer",
-        "print",
-        "vue",
-        "vue3"
-      ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
@@ -75,7 +49,7 @@
       "nameWithOwner": "Audreator/Simlect-AI-Mall",
       "description": "把对话导购和智能客服融入到传统电商中：Spring Cloud 微服务 + Python Agent，支持搜商品、查订单、售后提案确认。在线体验 www.simlect.com",
       "url": "https://github.com/Audreator/Simlect-AI-Mall",
-      "stargazerCount": 10,
+      "stargazerCount": 19,
       "forkCount": 0,
       "languageName": "Java",
       "languageColor": null,
@@ -83,7 +57,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/228322419?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-18T17:16:26Z",
-      "updatedAt": "2026-07-20T05:21:38Z",
+      "updatedAt": "2026-07-21T05:55:46Z",
       "licenseName": "MIT",
       "topics": [
         "elasticsearch",
@@ -114,7 +88,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/166897058?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-15T02:10:33Z",
-      "updatedAt": "2026-07-20T01:42:14Z",
+      "updatedAt": "2026-07-20T15:25:34Z",
       "licenseName": "MIT",
       "topics": [
         "canvas",

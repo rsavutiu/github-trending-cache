@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-20T07:27:27Z",
+  "generatedAt": "2026-07-21T06:40:35Z",
   "topic": "flutter",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1302917040",
@@ -32,33 +32,6 @@
         "rsc",
         "sqlite",
         "topology"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1300377207",
-      "name": "PiliPalaX-Community-Fix",
-      "nameWithOwner": "shenshiaba/PiliPalaX-Community-Fix",
-      "description": "PiliPalaX 的非官方、一次性社区修复版本：修复直播首页 -352 与动态页解析问题。",
-      "url": "https://github.com/shenshiaba/PiliPalaX-Community-Fix",
-      "stargazerCount": 8,
-      "forkCount": 0,
-      "languageName": "Dart",
-      "languageColor": null,
-      "ownerLogin": "shenshiaba",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/163744754?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-14T11:02:31Z",
-      "updatedAt": "2026-07-19T23:36:47Z",
-      "licenseName": "GPL-3.0",
-      "topics": [
-        "android",
-        "bilibili",
-        "community-fix",
-        "flutter",
-        "pilipala",
-        "pilipalax"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

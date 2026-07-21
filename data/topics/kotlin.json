@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-20T07:27:27Z",
+  "generatedAt": "2026-07-21T06:40:35Z",
   "topic": "kotlin",
-  "totalCount": 3,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1301827233",
@@ -9,7 +9,7 @@
       "nameWithOwner": "ZethRise/Aethery",
       "description": "One-click mobile GUI for the Aether censorship-circumvention tunnel — Kotlin & Rust",
       "url": "https://github.com/ZethRise/Aethery",
-      "stargazerCount": 178,
+      "stargazerCount": 208,
       "forkCount": 9,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/284843906?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-15T16:30:13Z",
-      "updatedAt": "2026-07-20T07:03:57Z",
+      "updatedAt": "2026-07-21T06:22:00Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "aether",
@@ -37,7 +37,7 @@
       "nameWithOwner": "weebzone/ForwardX",
       "description": "ForwardX is an Android app that automatically copies messages from one Telegram chat to another, using your own account. Its Free, Automatic, Filterable and Always ON",
       "url": "https://github.com/weebzone/ForwardX",
-      "stargazerCount": 15,
+      "stargazerCount": 16,
       "forkCount": 9,
       "languageName": null,
       "languageColor": null,
@@ -45,7 +45,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/113664541?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-15T19:17:08Z",
-      "updatedAt": "2026-07-19T07:19:48Z",
+      "updatedAt": "2026-07-21T05:26:49Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "android",
@@ -80,7 +80,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/225853084?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-15T04:48:39Z",
-      "updatedAt": "2026-07-19T16:15:25Z",
+      "updatedAt": "2026-07-20T17:15:13Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "android",
@@ -90,6 +90,70 @@
         "typeless"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1306542918",
+      "name": "playstore-adblock",
+      "nameWithOwner": "hxreborn/playstore-adblock",
+      "description": "Xposed module to remove sponsored listings and ads from the Google Play Store",
+      "url": "https://github.com/hxreborn/playstore-adblock",
+      "stargazerCount": 7,
+      "forkCount": 1,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "hxreborn",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/32096750?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-20T11:37:31Z",
+      "updatedAt": "2026-07-21T05:26:07Z",
+      "licenseName": "GPL-3.0",
+      "topics": [
+        "adblock",
+        "ads",
+        "android",
+        "google-play",
+        "kotlin",
+        "lsposed",
+        "play-store",
+        "root",
+        "sponsored",
+        "xposed"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1306100717",
+      "name": "FridaBox",
+      "nameWithOwner": "QM4RS/FridaBox",
+      "description": "Android research workspace for per-app Frida Gadget instrumentation: on-device JavaScript, desktop attach, and clean launches without root or APK patching.",
+      "url": "https://github.com/QM4RS/FridaBox",
+      "stargazerCount": 7,
+      "forkCount": 2,
+      "languageName": "Java",
+      "languageColor": null,
+      "ownerLogin": "QM4RS",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76250959?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-20T00:47:34Z",
+      "updatedAt": "2026-07-21T04:09:49Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "android",
+        "android-security",
+        "arm64",
+        "dynamic-analysis",
+        "frida",
+        "frida-gadget",
+        "instrumentation",
+        "kotlin",
+        "mobile-security",
+        "research",
+        "reverse-engineering",
+        "virtualization"
+      ],
+      "openIssuesCount": 9,
       "closedIssuesCount": 0
     }
   ]

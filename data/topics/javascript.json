@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T07:27:27Z",
+  "generatedAt": "2026-07-21T06:40:35Z",
   "topic": "javascript",
   "totalCount": 6,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "JasonSTong/codex-theme-studio",
       "description": "Local-first visual theme editor and hot-reload theme manager for Codex Desktop on macOS.",
       "url": "https://github.com/JasonSTong/codex-theme-studio",
-      "stargazerCount": 91,
+      "stargazerCount": 112,
       "forkCount": 1,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/12725601?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-16T10:25:23Z",
-      "updatedAt": "2026-07-19T23:20:41Z",
+      "updatedAt": "2026-07-21T00:46:46Z",
       "licenseName": null,
       "topics": [
         "cdp",
@@ -42,7 +42,7 @@
       "nameWithOwner": "rubenmarcus/csbrasil",
       "description": "FPS de navegador estilo CS 1.6 — arena de sniper satírica Petistas × Bolsonaristas numa Brasília fictícia. 100% Three.js + vanilla JS, zero build, gerado com Kimi K3.",
       "url": "https://github.com/rubenmarcus/csbrasil",
-      "stargazerCount": 36,
+      "stargazerCount": 46,
       "forkCount": 9,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -50,7 +50,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/8454267?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-17T16:15:28Z",
-      "updatedAt": "2026-07-19T14:56:17Z",
+      "updatedAt": "2026-07-20T20:48:32Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "ai-generated",
@@ -66,7 +66,7 @@
         "vercel",
         "webgl"
       ],
-      "openIssuesCount": 17,
+      "openIssuesCount": 18,
       "closedIssuesCount": 0
     },
     {
@@ -75,7 +75,7 @@
       "nameWithOwner": "KuiChi-x/reverseloom",
       "description": "Open-source AI browser agent for web reverse engineering. Turn websites into browser-free API clients and crawlers with CDP, network tracing, and JavaScript analysis. | 开源 AI 浏览器 Agent（智能体）：自动完成网页逆向，生成脱离浏览器运行的 API 客户端和爬虫。",
       "url": "https://github.com/KuiChi-x/reverseloom",
-      "stargazerCount": 24,
+      "stargazerCount": 25,
       "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
@@ -83,7 +83,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/53677056?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-16T13:36:10Z",
-      "updatedAt": "2026-07-19T15:53:48Z",
+      "updatedAt": "2026-07-20T18:09:38Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ai",
@@ -142,7 +142,7 @@
       "nameWithOwner": "Sunrisepeak/mbun",
       "description": "Rewrite Bun in MC++ - Just for fun",
       "url": "https://github.com/Sunrisepeak/mbun",
-      "stargazerCount": 9,
+      "stargazerCount": 11,
       "forkCount": 1,
       "languageName": "C++",
       "languageColor": null,
@@ -150,7 +150,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/38786181?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-18T01:09:06Z",
-      "updatedAt": "2026-07-19T21:01:32Z",
+      "updatedAt": "2026-07-21T02:39:33Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "bun",
@@ -162,7 +162,7 @@
         "runtime",
         "typescript"
       ],
-      "openIssuesCount": 13,
+      "openIssuesCount": 11,
       "closedIssuesCount": 0
     },
     {

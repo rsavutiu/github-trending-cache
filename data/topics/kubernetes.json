@@ -1,13 +1,47 @@
 {
-  "generatedAt": "2026-07-20T07:27:27Z",
+  "generatedAt": "2026-07-21T06:40:35Z",
   "topic": "kubernetes",
-  "totalCount": 2,
+  "totalCount": 4,
   "repos": [
+    {
+      "id": "1302812797",
+      "name": "jenkins-security-lab",
+      "nameWithOwner": "amirhosssein0/jenkins-security-lab",
+      "description": "Jenkins CI (dynamic K8s agents) → signed, SBOM'd supply chain (Syft + Cosign/Sigstore) → enforced at admission by Kyverno, watched at runtime by Falco, backed up by Velero. Local-first on kind.",
+      "url": "https://github.com/amirhosssein0/jenkins-security-lab",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": "Dockerfile",
+      "languageColor": null,
+      "ownerLogin": "amirhosssein0",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/195568080?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-16T13:24:41Z",
+      "updatedAt": "2026-07-20T15:38:15Z",
+      "licenseName": "MIT",
+      "topics": [
+        "checkov-scan",
+        "cosign",
+        "devsecops",
+        "falco",
+        "go",
+        "jenkins",
+        "kubernetes",
+        "kyverno",
+        "sbom",
+        "sigstore",
+        "supply-chain-security",
+        "trivy",
+        "velero"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1303263145",
       "name": "kubectl-peek",
       "nameWithOwner": "pierinho13/kubectl-peek",
-      "description": "A simple interactive kubectl plugin to browse Kubernetes Secrets, reveal decoded values, and discover which workloads use them.",
+      "description": "An interactive kubectl plugin to inspect Kubernetes Secrets, reveal decoded values, discover resource relationships, select namespaces, and open isolated context-aware shells backed by temporary kubeconfigs.",
       "url": "https://github.com/pierinho13/kubectl-peek",
       "stargazerCount": 7,
       "forkCount": 0,
@@ -17,7 +51,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/17799110?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-16T21:26:14Z",
-      "updatedAt": "2026-07-19T08:39:04Z",
+      "updatedAt": "2026-07-20T13:38:51Z",
       "licenseName": "MIT",
       "topics": [
         "cli",
@@ -27,6 +61,7 @@
         "kubectl",
         "kubectl-plugin",
         "kubernetes",
+        "kubernetes-namespaces",
         "kubernetes-secrets",
         "tui"
       ],
@@ -47,7 +82,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/180767655?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-15T21:31:25Z",
-      "updatedAt": "2026-07-19T20:31:07Z",
+      "updatedAt": "2026-07-20T22:06:44Z",
       "licenseName": "MIT",
       "topics": [
         "ai-observability",
@@ -68,7 +103,34 @@
         "sre",
         "vllm"
       ],
-      "openIssuesCount": 2,
+      "openIssuesCount": 5,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1305704141",
+      "name": "devops-vn-blog",
+      "nameWithOwner": "VersusControl/devops-vn-blog",
+      "description": "DevOps VN is a website that shares knowledge about DevOps and Cloud Computing.",
+      "url": "https://github.com/VersusControl/devops-vn-blog",
+      "stargazerCount": 6,
+      "forkCount": 2,
+      "languageName": "HCL",
+      "languageColor": null,
+      "ownerLogin": "VersusControl",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/197741460?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-07-19T12:48:32Z",
+      "updatedAt": "2026-07-20T16:44:40Z",
+      "licenseName": null,
+      "topics": [
+        "ai",
+        "aws",
+        "cloud",
+        "devops",
+        "kubernetes",
+        "sre"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]
