@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-21T06:40:35Z",
+  "generatedAt": "2026-07-22T06:41:34Z",
   "topic": "vue",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1305023899",
@@ -9,7 +9,7 @@
       "nameWithOwner": "2921323707/CPA_Orbit",
       "description": "From K12 price radar to CPA proxy operations: a local-first console for offers, subscriptions, quotas, GPT Plus, and SMS.",
       "url": "https://github.com/2921323707/CPA_Orbit",
-      "stargazerCount": 40,
+      "stargazerCount": 49,
       "forkCount": 1,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/184733054?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-18T15:42:12Z",
-      "updatedAt": "2026-07-21T06:33:17Z",
+      "updatedAt": "2026-07-22T02:53:56Z",
       "licenseName": "MIT",
       "topics": [
         "ai-accounts",
@@ -49,7 +49,7 @@
       "nameWithOwner": "Audreator/Simlect-AI-Mall",
       "description": "把对话导购和智能客服融入到传统电商中：Spring Cloud 微服务 + Python Agent，支持搜商品、查订单、售后提案确认。在线体验 www.simlect.com",
       "url": "https://github.com/Audreator/Simlect-AI-Mall",
-      "stargazerCount": 19,
+      "stargazerCount": 23,
       "forkCount": 0,
       "languageName": "Java",
       "languageColor": null,
@@ -57,7 +57,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/228322419?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-18T17:16:26Z",
-      "updatedAt": "2026-07-21T05:55:46Z",
+      "updatedAt": "2026-07-22T02:03:50Z",
       "licenseName": "MIT",
       "topics": [
         "elasticsearch",
@@ -70,37 +70,6 @@
         "springboot",
         "springcloud",
         "vue"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1301111408",
-      "name": "dither-ui",
-      "nameWithOwner": "drvova/dither-ui",
-      "description": "A dithered UI toolkit for Vue 3 — charts, primitives and Base UI-parity components on one ordered-dither canvas engine, everything seed-generative.",
-      "url": "https://github.com/drvova/dither-ui",
-      "stargazerCount": 7,
-      "forkCount": 1,
-      "languageName": "Vue",
-      "languageColor": null,
-      "ownerLogin": "drvova",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/166897058?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-15T02:10:33Z",
-      "updatedAt": "2026-07-20T15:25:34Z",
-      "licenseName": "MIT",
-      "topics": [
-        "canvas",
-        "charts",
-        "component-library",
-        "data-visualization",
-        "dithering",
-        "pixel-art",
-        "typescript",
-        "ui-kit",
-        "vue",
-        "vue3"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

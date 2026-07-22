@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T06:40:35Z",
+  "generatedAt": "2026-07-22T06:41:34Z",
   "topic": "deep-learning",
   "totalCount": 3,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
       "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
       "url": "https://github.com/haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
-      "stargazerCount": 24,
+      "stargazerCount": 44,
       "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/141123184?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-20T12:55:19Z",
-      "updatedAt": "2026-07-21T06:13:26Z",
+      "updatedAt": "2026-07-22T00:15:40Z",
       "licenseName": "MIT",
       "topics": [
         "awesome",
@@ -44,7 +44,7 @@
       "nameWithOwner": "MisterBooo/llm-interview-questions",
       "description": "100 道大模型面试题与 100 张 SVG 图解，覆盖 LLM、RAG、Agent、微调、推理优化和评估。",
       "url": "https://github.com/MisterBooo/llm-interview-questions",
-      "stargazerCount": 12,
+      "stargazerCount": 13,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -52,7 +52,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/15308811?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-19T02:55:27Z",
-      "updatedAt": "2026-07-20T14:18:16Z",
+      "updatedAt": "2026-07-21T07:11:21Z",
       "licenseName": "CC-BY-SA-4.0",
       "topics": [
         "ai-agents",
@@ -74,7 +74,7 @@
       "nameWithOwner": "Ali-hey-0/audio-ai-field-guide",
       "description": "A mental-model-first field guide to Audio AI — from raw waveforms to production voice systems. Covers ASR, TTS, audio classification, Transformer architectures (CTC/Seq2Seq), fine-tuning, and real-world pipelines like voice assistants and meeting transcription. Bilingual (EN/FA).",
       "url": "https://github.com/Ali-hey-0/audio-ai-field-guide",
-      "stargazerCount": 8,
+      "stargazerCount": 9,
       "forkCount": 1,
       "languageName": null,
       "languageColor": null,
@@ -82,7 +82,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/157505360?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-16T01:28:47Z",
-      "updatedAt": "2026-07-17T03:32:20Z",
+      "updatedAt": "2026-07-21T09:46:14Z",
       "licenseName": "MIT",
       "topics": [
         "asr",

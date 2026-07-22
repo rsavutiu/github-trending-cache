@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-21T06:40:35Z",
+  "generatedAt": "2026-07-22T06:41:34Z",
   "topic": "javascript",
-  "totalCount": 6,
+  "totalCount": 7,
   "repos": [
     {
       "id": "1302643506",
@@ -10,7 +10,7 @@
       "description": "Local-first visual theme editor and hot-reload theme manager for Codex Desktop on macOS.",
       "url": "https://github.com/JasonSTong/codex-theme-studio",
       "stargazerCount": 112,
-      "forkCount": 1,
+      "forkCount": 2,
       "languageName": "JavaScript",
       "languageColor": null,
       "ownerLogin": "JasonSTong",
@@ -33,7 +33,7 @@
         "theme-editor",
         "theme-manager"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -42,15 +42,15 @@
       "nameWithOwner": "rubenmarcus/csbrasil",
       "description": "FPS de navegador estilo CS 1.6 — arena de sniper satírica Petistas × Bolsonaristas numa Brasília fictícia. 100% Three.js + vanilla JS, zero build, gerado com Kimi K3.",
       "url": "https://github.com/rubenmarcus/csbrasil",
-      "stargazerCount": 46,
-      "forkCount": 9,
+      "stargazerCount": 49,
+      "forkCount": 12,
       "languageName": "TypeScript",
       "languageColor": null,
       "ownerLogin": "rubenmarcus",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/8454267?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-17T16:15:28Z",
-      "updatedAt": "2026-07-20T20:48:32Z",
+      "updatedAt": "2026-07-22T03:15:07Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "ai-generated",
@@ -83,7 +83,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/53677056?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-16T13:36:10Z",
-      "updatedAt": "2026-07-20T18:09:38Z",
+      "updatedAt": "2026-07-22T04:21:53Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ai",
@@ -106,32 +106,6 @@
         "unofficial-api",
         "web-crawler",
         "web-scraping"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1301870117",
-      "name": "doudizhu",
-      "nameWithOwner": "AurexloveU/doudizhu",
-      "description": "Aevi 家庭斗地主：实时裁判、AI 命令适配器与完整牌桌素材",
-      "url": "https://github.com/AurexloveU/doudizhu",
-      "stargazerCount": 21,
-      "forkCount": 4,
-      "languageName": "JavaScript",
-      "languageColor": null,
-      "ownerLogin": "AurexloveU",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/300345779?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-15T17:17:09Z",
-      "updatedAt": "2026-07-19T09:18:26Z",
-      "licenseName": "MIT",
-      "topics": [
-        "card-game",
-        "doudizhu",
-        "javascript",
-        "nodejs",
-        "websocket"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -163,6 +137,38 @@
         "typescript"
       ],
       "openIssuesCount": 11,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1306503911",
+      "name": "Polyhymnia",
+      "nameWithOwner": "GourangaDasSamrat/Polyhymnia",
+      "description": "The Ultimate Overengineered Random Quote Generator.",
+      "url": "https://github.com/GourangaDasSamrat/Polyhymnia",
+      "stargazerCount": 8,
+      "forkCount": 2,
+      "languageName": "Rust",
+      "languageColor": null,
+      "ownerLogin": "GourangaDasSamrat",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/146644902?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-20T10:48:16Z",
+      "updatedAt": "2026-07-21T16:53:48Z",
+      "licenseName": "MIT",
+      "topics": [
+        "cmake",
+        "cpp",
+        "docker",
+        "docker-compose",
+        "docker-image",
+        "go",
+        "grpc",
+        "grpc-go",
+        "javascript",
+        "protobuf",
+        "rust"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -201,6 +207,47 @@
         "teachers",
         "university",
         "viewer"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1306530468",
+      "name": "voxrt-kws-browser",
+      "nameWithOwner": "VoxRT/voxrt-kws-browser",
+      "description": "On-device 14-way keyword spotting in the browser — WebAssembly + SIMD128, ~1.5 MB total (runtime + model), no server. Same runtime as voxrt-kws-{linux,android,ios}.",
+      "url": "https://github.com/VoxRT/voxrt-kws-browser",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "VoxRT",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/284906586?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-07-20T11:21:38Z",
+      "updatedAt": "2026-07-21T17:12:56Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "browser",
+        "javascript",
+        "keyword-spotting",
+        "kws",
+        "npm",
+        "on-device-ai",
+        "real-time",
+        "rust",
+        "speech-processing",
+        "streaming",
+        "typescript",
+        "voice-command",
+        "voice-ui",
+        "voxrt",
+        "wasm",
+        "wasm-bindgen",
+        "wasm-pack",
+        "wasm-simd",
+        "web-audio-api",
+        "webassembly"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

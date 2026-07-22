@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-21T06:40:35Z",
+  "generatedAt": "2026-07-22T06:41:34Z",
   "topic": "kubernetes",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1302812797",
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/195568080?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-16T13:24:41Z",
-      "updatedAt": "2026-07-20T15:38:15Z",
+      "updatedAt": "2026-07-21T07:06:07Z",
       "licenseName": "MIT",
       "topics": [
         "checkov-scan",
@@ -51,7 +51,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/17799110?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-16T21:26:14Z",
-      "updatedAt": "2026-07-20T13:38:51Z",
+      "updatedAt": "2026-07-22T06:26:44Z",
       "licenseName": "MIT",
       "topics": [
         "cli",
@@ -66,44 +66,6 @@
         "tui"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1302051423",
-      "name": "skyportalai",
-      "nameWithOwner": "SkyportalAi/skyportalai",
-      "description": "SkyPortal SDK & CLI - Open Source",
-      "url": "https://github.com/SkyportalAi/skyportalai",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "SkyportalAi",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/180767655?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-07-15T21:31:25Z",
-      "updatedAt": "2026-07-20T22:06:44Z",
-      "licenseName": "MIT",
-      "topics": [
-        "ai-observability",
-        "anthropic",
-        "artificial-intelligence",
-        "devops",
-        "gpu-monitoring",
-        "grafana",
-        "inference",
-        "kubernetes",
-        "llm-observability",
-        "machine-learning",
-        "mlops",
-        "openai",
-        "opentelemetry",
-        "otel",
-        "prometheus",
-        "sre",
-        "vllm"
-      ],
-      "openIssuesCount": 5,
       "closedIssuesCount": 0
     },
     {
