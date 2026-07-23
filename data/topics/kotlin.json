@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T06:41:34Z",
+  "generatedAt": "2026-07-23T06:39:15Z",
   "topic": "kotlin",
   "totalCount": 4,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "hxreborn/playstore-adblock",
       "description": "Xposed module to remove sponsored listings and ads from the Google Play Store",
       "url": "https://github.com/hxreborn/playstore-adblock",
-      "stargazerCount": 13,
+      "stargazerCount": 18,
       "forkCount": 1,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/32096750?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-20T11:37:31Z",
-      "updatedAt": "2026-07-21T17:00:07Z",
+      "updatedAt": "2026-07-23T03:19:45Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "adblock",
@@ -36,7 +36,7 @@
         "xposed",
         "xposed-module"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -45,7 +45,7 @@
       "nameWithOwner": "c77Xa7/static_internet_radio",
       "description": "STATIC - a side-loadable Android internet radio app with user-curated stations, a live map, and SoundCloud/Mixcloud DJ mix bookmarking. Kotlin + Compose + Media3 + Room, no accounts or cloud sync.",
       "url": "https://github.com/c77Xa7/static_internet_radio",
-      "stargazerCount": 7,
+      "stargazerCount": 10,
       "forkCount": 0,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -53,7 +53,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/307222459?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-20T17:43:06Z",
-      "updatedAt": "2026-07-22T02:26:34Z",
+      "updatedAt": "2026-07-22T18:05:14Z",
       "licenseName": "MIT",
       "topics": [
         "android",
@@ -71,15 +71,15 @@
       "nameWithOwner": "QM4RS/FridaBox",
       "description": "Android research workspace for per-app Frida Gadget instrumentation: on-device JavaScript, desktop attach, and clean launches without root or APK patching.",
       "url": "https://github.com/QM4RS/FridaBox",
-      "stargazerCount": 7,
-      "forkCount": 2,
+      "stargazerCount": 10,
+      "forkCount": 3,
       "languageName": "Java",
       "languageColor": null,
       "ownerLogin": "QM4RS",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76250959?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-20T00:47:34Z",
-      "updatedAt": "2026-07-21T04:09:49Z",
+      "updatedAt": "2026-07-22T17:08:36Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "android",
@@ -104,15 +104,15 @@
       "nameWithOwner": "stevancarlon/omni",
       "description": "Open-source Android computer-use agent with a self-hostable backend",
       "url": "https://github.com/stevancarlon/omni",
-      "stargazerCount": 6,
-      "forkCount": 1,
+      "stargazerCount": 8,
+      "forkCount": 2,
       "languageName": "Kotlin",
       "languageColor": null,
       "ownerLogin": "stevancarlon",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6991569?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-21T17:15:39Z",
-      "updatedAt": "2026-07-22T02:40:27Z",
+      "updatedAt": "2026-07-22T13:45:06Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "accessibility",
@@ -124,7 +124,7 @@
         "phoenix",
         "self-hosted"
       ],
-      "openIssuesCount": 15,
+      "openIssuesCount": 16,
       "closedIssuesCount": 0
     }
   ]

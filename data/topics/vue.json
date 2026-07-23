@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-22T06:41:34Z",
+  "generatedAt": "2026-07-23T06:39:15Z",
   "topic": "vue",
-  "totalCount": 2,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1305023899",
@@ -9,7 +9,7 @@
       "nameWithOwner": "2921323707/CPA_Orbit",
       "description": "From K12 price radar to CPA proxy operations: a local-first console for offers, subscriptions, quotas, GPT Plus, and SMS.",
       "url": "https://github.com/2921323707/CPA_Orbit",
-      "stargazerCount": 49,
+      "stargazerCount": 54,
       "forkCount": 1,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/184733054?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-18T15:42:12Z",
-      "updatedAt": "2026-07-22T02:53:56Z",
+      "updatedAt": "2026-07-22T15:11:13Z",
       "licenseName": "MIT",
       "topics": [
         "ai-accounts",
@@ -40,7 +40,7 @@
         "typescript",
         "vue"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -49,7 +49,7 @@
       "nameWithOwner": "Audreator/Simlect-AI-Mall",
       "description": "把对话导购和智能客服融入到传统电商中：Spring Cloud 微服务 + Python Agent，支持搜商品、查订单、售后提案确认。在线体验 www.simlect.com",
       "url": "https://github.com/Audreator/Simlect-AI-Mall",
-      "stargazerCount": 23,
+      "stargazerCount": 25,
       "forkCount": 0,
       "languageName": "Java",
       "languageColor": null,
@@ -57,7 +57,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/228322419?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-18T17:16:26Z",
-      "updatedAt": "2026-07-22T02:03:50Z",
+      "updatedAt": "2026-07-23T03:41:19Z",
       "licenseName": "MIT",
       "topics": [
         "elasticsearch",
@@ -70,6 +70,68 @@
         "springboot",
         "springcloud",
         "vue"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1306138051",
+      "name": "arcvellum",
+      "nameWithOwner": "o-1717986918/arcvellum",
+      "description": "ArcVellum：面向长篇小说、剧本与伪记录作品的本地 Agent 创作平台，提供文学工程硬门禁、正式正文阅读器、主动创作顾问与叙事观测仪。",
+      "url": "https://github.com/o-1717986918/arcvellum",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "o-1717986918",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/224815980?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-20T02:12:17Z",
+      "updatedAt": "2026-07-23T04:51:33Z",
+      "licenseName": null,
+      "topics": [
+        "agent",
+        "agent-workflow",
+        "ai-writing",
+        "claude-code",
+        "codex-cli",
+        "creative-writing",
+        "fastapi",
+        "long-form-writing",
+        "opencode",
+        "python",
+        "tauri",
+        "vue"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1306983146",
+      "name": "typeflow",
+      "nameWithOwner": "qorinex/typeflow",
+      "description": "Typed node graphs with type inference and ready-to-use Vue Flow components",
+      "url": "https://github.com/qorinex/typeflow",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "qorinex",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/60511189?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-20T20:16:16Z",
+      "updatedAt": "2026-07-22T23:08:50Z",
+      "licenseName": null,
+      "topics": [
+        "blueprints-visual-scripting",
+        "graph-editor",
+        "node-graph",
+        "type-inference",
+        "typescript",
+        "visual-programming",
+        "vue",
+        "vue-flow"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
