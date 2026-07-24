@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T06:39:15Z",
+  "generatedAt": "2026-07-24T06:38:30Z",
   "topic": "flutter",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "deadseti/pim",
       "description": "Serverless peer-to-peer file, text, notes & task exchange across your own devices over local Wi-Fi. Flutter (Windows + Android).",
       "url": "https://github.com/deadseti/pim",
-      "stargazerCount": 12,
+      "stargazerCount": 15,
       "forkCount": 1,
       "languageName": "Dart",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/89665915?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-21T12:54:38Z",
-      "updatedAt": "2026-07-23T05:37:10Z",
+      "updatedAt": "2026-07-24T05:07:59Z",
       "licenseName": "MIT",
       "topics": [
         "android",

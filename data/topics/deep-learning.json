@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T06:39:15Z",
+  "generatedAt": "2026-07-24T06:38:30Z",
   "topic": "deep-learning",
   "totalCount": 3,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
       "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
       "url": "https://github.com/haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
-      "stargazerCount": 56,
+      "stargazerCount": 66,
       "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/141123184?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-20T12:55:19Z",
-      "updatedAt": "2026-07-23T06:32:29Z",
+      "updatedAt": "2026-07-23T06:47:20Z",
       "licenseName": "MIT",
       "topics": [
         "awesome",
@@ -44,7 +44,7 @@
       "nameWithOwner": "MisterBooo/llm-interview-questions",
       "description": "100 道大模型面试题与 100 张 SVG 图解，覆盖 LLM、RAG、Agent、微调、推理优化和评估。",
       "url": "https://github.com/MisterBooo/llm-interview-questions",
-      "stargazerCount": 15,
+      "stargazerCount": 16,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -52,7 +52,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/15308811?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-19T02:55:27Z",
-      "updatedAt": "2026-07-22T23:59:38Z",
+      "updatedAt": "2026-07-23T15:25:56Z",
       "licenseName": "CC-BY-SA-4.0",
       "topics": [
         "ai-agents",
@@ -74,7 +74,7 @@
       "nameWithOwner": "adamghaida/ai-hall-of-fame",
       "description": "A curated, well-sourced collection of documented cases where AI did something genuinely remarkable — across math, physics, chemistry, biology, medicine, and more.",
       "url": "https://github.com/adamghaida/ai-hall-of-fame",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -82,7 +82,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/44762129?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-21T08:24:24Z",
-      "updatedAt": "2026-07-22T22:53:59Z",
+      "updatedAt": "2026-07-23T07:08:25Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "ai-research",

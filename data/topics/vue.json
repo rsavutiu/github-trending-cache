@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-23T06:39:15Z",
+  "generatedAt": "2026-07-24T06:38:30Z",
   "topic": "vue",
-  "totalCount": 4,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1305023899",
@@ -9,7 +9,7 @@
       "nameWithOwner": "2921323707/CPA_Orbit",
       "description": "From K12 price radar to CPA proxy operations: a local-first console for offers, subscriptions, quotas, GPT Plus, and SMS.",
       "url": "https://github.com/2921323707/CPA_Orbit",
-      "stargazerCount": 54,
+      "stargazerCount": 57,
       "forkCount": 1,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/184733054?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-18T15:42:12Z",
-      "updatedAt": "2026-07-22T15:11:13Z",
+      "updatedAt": "2026-07-24T03:58:04Z",
       "licenseName": "MIT",
       "topics": [
         "ai-accounts",
@@ -81,7 +81,7 @@
       "description": "ArcVellum：面向长篇小说、剧本与伪记录作品的本地 Agent 创作平台，提供文学工程硬门禁、正式正文阅读器、主动创作顾问与叙事观测仪。",
       "url": "https://github.com/o-1717986918/arcvellum",
       "stargazerCount": 8,
-      "forkCount": 0,
+      "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "o-1717986918",
@@ -104,7 +104,7 @@
         "tauri",
         "vue"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 2,
       "closedIssuesCount": 0
     },
     {
@@ -113,7 +113,7 @@
       "nameWithOwner": "qorinex/typeflow",
       "description": "Typed node graphs with type inference and ready-to-use Vue Flow components",
       "url": "https://github.com/qorinex/typeflow",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -121,7 +121,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/60511189?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-20T20:16:16Z",
-      "updatedAt": "2026-07-22T23:08:50Z",
+      "updatedAt": "2026-07-23T10:34:47Z",
       "licenseName": null,
       "topics": [
         "blueprints-visual-scripting",
@@ -132,6 +132,39 @@
         "visual-programming",
         "vue",
         "vue-flow"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1310028365",
+      "name": "vue-devtools-rstack",
+      "nameWithOwner": "OskarLebuda/vue-devtools-rstack",
+      "description": "Vue DevTools for Rspack and Rsbuild - full feature parity with the Vite plugin",
+      "url": "https://github.com/OskarLebuda/vue-devtools-rstack",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "OskarLebuda",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/10373127?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-23T14:24:58Z",
+      "updatedAt": "2026-07-24T05:48:48Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "developer-tools",
+        "devtools",
+        "rsbuild",
+        "rsbuild-plugin",
+        "rspack",
+        "rspack-plugin",
+        "rstack",
+        "typescript",
+        "vue",
+        "vue-devtools",
+        "vue3",
+        "vuejs"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

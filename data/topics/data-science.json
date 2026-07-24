@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-23T06:39:15Z",
+  "generatedAt": "2026-07-24T06:38:30Z",
   "topic": "data-science",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1307082261",
@@ -29,37 +29,6 @@
         "python",
         "scikit-learn",
         "stroke-prediction"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1304361524",
-      "name": "open-mlpipe",
-      "nameWithOwner": "loisekk/open-mlpipe",
-      "description": "Production-level automated ML pipeline — from raw data to deployed model in one line",
-      "url": "https://github.com/loisekk/open-mlpipe",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "loisekk",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/245922535?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-17T20:20:30Z",
-      "updatedAt": "2026-07-21T11:21:56Z",
-      "licenseName": null,
-      "topics": [
-        "artificial-intelligence",
-        "automl",
-        "data-science",
-        "lightgbm",
-        "machine-learning",
-        "mlops",
-        "pipeline",
-        "python",
-        "scikit-learn",
-        "xgboost"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
