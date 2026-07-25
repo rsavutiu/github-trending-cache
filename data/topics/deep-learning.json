@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T06:38:30Z",
+  "generatedAt": "2026-07-25T06:28:31Z",
   "topic": "deep-learning",
   "totalCount": 3,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
       "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
       "url": "https://github.com/haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
-      "stargazerCount": 66,
+      "stargazerCount": 91,
       "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/141123184?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-20T12:55:19Z",
-      "updatedAt": "2026-07-23T06:47:20Z",
+      "updatedAt": "2026-07-25T01:39:42Z",
       "licenseName": "MIT",
       "topics": [
         "awesome",
@@ -82,7 +82,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/44762129?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-21T08:24:24Z",
-      "updatedAt": "2026-07-23T07:08:25Z",
+      "updatedAt": "2026-07-24T16:52:04Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "ai-research",

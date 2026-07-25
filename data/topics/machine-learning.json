@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-24T06:38:30Z",
+  "generatedAt": "2026-07-25T06:28:31Z",
   "topic": "machine-learning",
-  "totalCount": 10,
+  "totalCount": 9,
   "repos": [
     {
       "id": "1306607268",
@@ -9,7 +9,7 @@
       "nameWithOwner": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
       "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
       "url": "https://github.com/haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
-      "stargazerCount": 66,
+      "stargazerCount": 91,
       "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/141123184?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-20T12:55:19Z",
-      "updatedAt": "2026-07-23T06:47:20Z",
+      "updatedAt": "2026-07-25T01:39:42Z",
       "licenseName": "MIT",
       "topics": [
         "awesome",
@@ -44,15 +44,15 @@
       "nameWithOwner": "itshamzabendelladj/AIGuardSIEM",
       "description": "A production-grade SIEM/XDR platform for 1M+ EPS ingestion with sub-15ms detection latency. Built with C++, Go, and Python. Features DPDK capture, ONNX ML inference, Sigma rules, eBPF monitoring, and SOAR.",
       "url": "https://github.com/itshamzabendelladj/AIGuardSIEM",
-      "stargazerCount": 66,
-      "forkCount": 6,
+      "stargazerCount": 70,
+      "forkCount": 7,
       "languageName": "C++",
       "languageColor": null,
       "ownerLogin": "itshamzabendelladj",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/208038094?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-21T13:28:34Z",
-      "updatedAt": "2026-07-24T05:29:29Z",
+      "updatedAt": "2026-07-24T13:14:28Z",
       "licenseName": null,
       "topics": [
         "anomaly-detection",
@@ -109,6 +109,32 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1307024852",
+      "name": "language-model-builder",
+      "nameWithOwner": "felixrieseberg/language-model-builder",
+      "description": "An educational macOS app: build and chat with a tiny language model, trained on your Mac",
+      "url": "https://github.com/felixrieseberg/language-model-builder",
+      "stargazerCount": 14,
+      "forkCount": 1,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "felixrieseberg",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1426799?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-20T21:20:56Z",
+      "updatedAt": "2026-07-24T20:58:24Z",
+      "licenseName": null,
+      "topics": [
+        "ai",
+        "llm",
+        "llm-tools",
+        "machine-learning",
+        "mlx"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1307934389",
       "name": "ITLR-Fullstack-Recommender-RAG",
       "nameWithOwner": "taovietducofficial/ITLR-Fullstack-Recommender-RAG",
@@ -147,59 +173,6 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1307024852",
-      "name": "language-model-builder",
-      "nameWithOwner": "felixrieseberg/language-model-builder",
-      "description": "An educational macOS app: build and chat with a tiny language model, trained on your Mac",
-      "url": "https://github.com/felixrieseberg/language-model-builder",
-      "stargazerCount": 12,
-      "forkCount": 1,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "felixrieseberg",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1426799?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-20T21:20:56Z",
-      "updatedAt": "2026-07-23T23:51:17Z",
-      "licenseName": null,
-      "topics": [
-        "ai",
-        "llm",
-        "llm-tools",
-        "machine-learning",
-        "mlx"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1304802486",
-      "name": "mlsentinel",
-      "nameWithOwner": "Narasimha440/mlsentinel",
-      "description": "MLSentinel monitors machine learning models, detects data drift and performance degradation, generates health reports, and provides actionable recommendations for reliable AI deployment.",
-      "url": "https://github.com/Narasimha440/mlsentinel",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "Narasimha440",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/172923041?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-18T10:17:27Z",
-      "updatedAt": "2026-07-24T06:26:34Z",
-      "licenseName": "MIT",
-      "topics": [
-        "artificial-intelligence",
-        "fastapi",
-        "machine-learning",
-        "mlops",
-        "pypi-package",
-        "python"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1307457585",
       "name": "ai-hall-of-fame",
       "nameWithOwner": "adamghaida/ai-hall-of-fame",
@@ -213,7 +186,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/44762129?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-21T08:24:24Z",
-      "updatedAt": "2026-07-23T07:08:25Z",
+      "updatedAt": "2026-07-24T16:52:04Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "ai-research",
