@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-25T06:28:31Z",
+  "generatedAt": "2026-07-26T06:48:02Z",
   "topic": "deep-learning",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1306607268",
@@ -9,7 +9,7 @@
       "nameWithOwner": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
       "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
       "url": "https://github.com/haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
-      "stargazerCount": 91,
+      "stargazerCount": 106,
       "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/141123184?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-20T12:55:19Z",
-      "updatedAt": "2026-07-25T01:39:42Z",
+      "updatedAt": "2026-07-26T01:46:43Z",
       "licenseName": "MIT",
       "topics": [
         "awesome",
@@ -34,36 +34,6 @@
         "spiking-neural-networks",
         "spiking-transformer",
         "surrogate-gradient"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1305375036",
-      "name": "llm-interview-questions",
-      "nameWithOwner": "MisterBooo/llm-interview-questions",
-      "description": "100 道大模型面试题与 100 张 SVG 图解，覆盖 LLM、RAG、Agent、微调、推理优化和评估。",
-      "url": "https://github.com/MisterBooo/llm-interview-questions",
-      "stargazerCount": 16,
-      "forkCount": 0,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "MisterBooo",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/15308811?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-19T02:55:27Z",
-      "updatedAt": "2026-07-23T15:25:56Z",
-      "licenseName": "CC-BY-SA-4.0",
-      "topics": [
-        "ai-agents",
-        "artificial-intelligence",
-        "chinese",
-        "deep-learning",
-        "interview-questions",
-        "large-language-models",
-        "llm",
-        "machine-learning",
-        "rag"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

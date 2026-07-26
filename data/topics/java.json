@@ -1,8 +1,38 @@
 {
-  "generatedAt": "2026-07-25T06:28:31Z",
+  "generatedAt": "2026-07-26T06:48:02Z",
   "topic": "java",
   "totalCount": 4,
   "repos": [
+    {
+      "id": "1307748705",
+      "name": "CPL",
+      "nameWithOwner": "enzocapitani/CPL",
+      "description": "Biblioteca utilitária para desenvolvimento de aplicações em console e terminal utilizando Java.",
+      "url": "https://github.com/enzocapitani/CPL",
+      "stargazerCount": 18,
+      "forkCount": 0,
+      "languageName": "Java",
+      "languageColor": null,
+      "ownerLogin": "enzocapitani",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/74476135?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-21T13:44:35Z",
+      "updatedAt": "2026-07-25T22:55:49Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ansi",
+        "beginner-friendly",
+        "cli",
+        "console",
+        "console-library",
+        "java",
+        "library",
+        "terminal-ui",
+        "utilities"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1306330232",
       "name": "symbolpeek-mcp",
@@ -17,7 +47,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/53976385?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-20T07:19:01Z",
-      "updatedAt": "2026-07-25T03:15:59Z",
+      "updatedAt": "2026-07-25T14:14:11Z",
       "licenseName": "MIT",
       "topics": [
         "agent-mcp",
@@ -32,36 +62,6 @@
         "rust",
         "ts",
         "typescript"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1307748705",
-      "name": "CPL",
-      "nameWithOwner": "enzocapitani/CPL",
-      "description": "Biblioteca utilitária para desenvolvimento de aplicações em console e terminal utilizando Java.",
-      "url": "https://github.com/enzocapitani/CPL",
-      "stargazerCount": 15,
-      "forkCount": 0,
-      "languageName": "Java",
-      "languageColor": null,
-      "ownerLogin": "enzocapitani",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/74476135?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-21T13:44:35Z",
-      "updatedAt": "2026-07-24T19:59:41Z",
-      "licenseName": "MIT",
-      "topics": [
-        "ansi",
-        "beginner-friendly",
-        "cli",
-        "console",
-        "console-library",
-        "java",
-        "library",
-        "terminal-ui",
-        "utilities"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -102,7 +102,7 @@
       "nameWithOwner": "satwiktelang18/FinTrack",
       "description": "A full-stack personal finance tracker built with React, Spring Boot, JWT Authentication, and MySQL for secure income and expense management",
       "url": "https://github.com/satwiktelang18/FinTrack",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 0,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -110,7 +110,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/157908277?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-23T04:22:39Z",
-      "updatedAt": "2026-07-25T06:09:41Z",
+      "updatedAt": "2026-07-25T16:48:57Z",
       "licenseName": null,
       "topics": [
         "expense-tracker",

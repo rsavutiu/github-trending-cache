@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-25T06:28:31Z",
+  "generatedAt": "2026-07-26T06:48:02Z",
   "topic": "kubernetes",
-  "totalCount": 4,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1307733763",
@@ -9,7 +9,7 @@
       "nameWithOwner": "itshamzabendelladj/AIGuardSIEM",
       "description": "A production-grade SIEM/XDR platform for 1M+ EPS ingestion with sub-15ms detection latency. Built with C++, Go, and Python. Features DPDK capture, ONNX ML inference, Sigma rules, eBPF monitoring, and SOAR.",
       "url": "https://github.com/itshamzabendelladj/AIGuardSIEM",
-      "stargazerCount": 70,
+      "stargazerCount": 73,
       "forkCount": 7,
       "languageName": "C++",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/208038094?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-21T13:28:34Z",
-      "updatedAt": "2026-07-24T13:14:28Z",
+      "updatedAt": "2026-07-26T01:10:25Z",
       "licenseName": null,
       "topics": [
         "anomaly-detection",
@@ -39,33 +39,6 @@
         "soar",
         "soc",
         "xdr"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1305704141",
-      "name": "devops-vn-blog",
-      "nameWithOwner": "VersusControl/devops-vn-blog",
-      "description": "DevOps VN is a website that shares knowledge about DevOps and Cloud Computing.",
-      "url": "https://github.com/VersusControl/devops-vn-blog",
-      "stargazerCount": 27,
-      "forkCount": 13,
-      "languageName": "HCL",
-      "languageColor": null,
-      "ownerLogin": "VersusControl",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/197741460?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-07-19T12:48:32Z",
-      "updatedAt": "2026-07-24T17:18:23Z",
-      "licenseName": null,
-      "topics": [
-        "ai",
-        "aws",
-        "cloud",
-        "devops",
-        "kubernetes",
-        "sre"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -106,35 +79,6 @@
         "vllm"
       ],
       "openIssuesCount": 2,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1305656955",
-      "name": "mamori",
-      "nameWithOwner": "xavidop/mamori",
-      "description": "Typed, watchable config and secrets for Go: load from 30+ providers into validated structs, reconciled at runtime without a restart.",
-      "url": "https://github.com/xavidop/mamori",
-      "stargazerCount": 7,
-      "forkCount": 1,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "xavidop",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4416096?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-19T11:33:42Z",
-      "updatedAt": "2026-07-24T12:05:18Z",
-      "licenseName": "MIT",
-      "topics": [
-        "config",
-        "feature-flags",
-        "go",
-        "golang",
-        "kubernetes",
-        "secrets",
-        "secrets-management",
-        "vault"
-      ],
-      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]
