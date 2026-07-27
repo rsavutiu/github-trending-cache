@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-07-26T06:48:02Z",
+  "generatedAt": "2026-07-27T07:48:21Z",
   "topic": "web",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 1,
+  "repos": [
+    {
+      "id": "1311349557",
+      "name": "PureTavern",
+      "nameWithOwner": "Lianues/PureTavern",
+      "description": "A pure frontend, backend-free third-party SillyTavern.",
+      "url": "https://github.com/Lianues/PureTavern",
+      "stargazerCount": 7,
+      "forkCount": 1,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "Lianues",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/141826977?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-24T19:03:12Z",
+      "updatedAt": "2026-07-27T06:04:55Z",
+      "licenseName": "AGPL-3.0",
+      "topics": [
+        "html",
+        "llm",
+        "online",
+        "roleplay",
+        "sillytavern",
+        "typescript",
+        "web"
+      ],
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    }
+  ]
 }

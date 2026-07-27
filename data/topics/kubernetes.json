@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-26T06:48:02Z",
+  "generatedAt": "2026-07-27T07:48:21Z",
   "topic": "kubernetes",
-  "totalCount": 2,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1307733763",
@@ -9,7 +9,7 @@
       "nameWithOwner": "itshamzabendelladj/AIGuardSIEM",
       "description": "A production-grade SIEM/XDR platform for 1M+ EPS ingestion with sub-15ms detection latency. Built with C++, Go, and Python. Features DPDK capture, ONNX ML inference, Sigma rules, eBPF monitoring, and SOAR.",
       "url": "https://github.com/itshamzabendelladj/AIGuardSIEM",
-      "stargazerCount": 73,
+      "stargazerCount": 75,
       "forkCount": 7,
       "languageName": "C++",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/208038094?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-21T13:28:34Z",
-      "updatedAt": "2026-07-26T01:10:25Z",
+      "updatedAt": "2026-07-26T22:34:40Z",
       "licenseName": null,
       "topics": [
         "anomaly-detection",
@@ -41,6 +41,33 @@
         "xdr"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1308393984",
+      "name": "NanoJob",
+      "nameWithOwner": "135a/NanoJob",
+      "description": "NanoJob 是一款基于 Go + etcd 研发的高性能云原生任务调度引擎。它 100% 兼容传统 XXL-Job   的通讯协议，通过引入时间轮算法与无状态化架构，彻底解决了大规模微服务下的调度延迟与数据库轮询瓶颈，是 Kubernetes 时代的轻量级调度解决方案。",
+      "url": "https://github.com/135a/NanoJob",
+      "stargazerCount": 14,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "135a",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/160730493?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-22T04:54:07Z",
+      "updatedAt": "2026-07-27T05:15:39Z",
+      "licenseName": null,
+      "topics": [
+        "cloud-native",
+        "distributed-systems",
+        "etcd",
+        "golang",
+        "kubernetes",
+        "scheduler"
+      ],
+      "openIssuesCount": 3,
       "closedIssuesCount": 0
     },
     {
@@ -79,6 +106,40 @@
         "vllm"
       ],
       "openIssuesCount": 2,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1312040366",
+      "name": "torque",
+      "nameWithOwner": "g0ldyy/torque",
+      "description": "Tor's fastest rotating proxy.",
+      "url": "https://github.com/g0ldyy/torque",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "g0ldyy",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/153996346?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-25T14:15:53Z",
+      "updatedAt": "2026-07-26T18:05:20Z",
+      "licenseName": "GPL-3.0",
+      "topics": [
+        "docker",
+        "forward-proxy",
+        "golang",
+        "http-proxy",
+        "https-proxy",
+        "ip-rotation",
+        "kubernetes",
+        "proxy-rotation",
+        "proxy-server",
+        "rotating-proxy",
+        "tor",
+        "tor-network",
+        "tor-proxy"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]
