@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-27T07:48:21Z",
+  "generatedAt": "2026-07-28T06:39:07Z",
   "topic": "devops",
-  "totalCount": 3,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1308654552",
@@ -9,15 +9,15 @@
       "nameWithOwner": "armourinfosec/Linux-Administration-and-Server-Hardening",
       "description": "Lab-driven, dual-distro (CentOS Stream 10 / Debian 12) Linux Administration & Server Hardening course — 29 modules, 20 labs, 10 enterprise projects, RHCSA/LFCS-aligned.",
       "url": "https://github.com/armourinfosec/Linux-Administration-and-Server-Hardening",
-      "stargazerCount": 67,
-      "forkCount": 23,
+      "stargazerCount": 69,
+      "forkCount": 24,
       "languageName": null,
       "languageColor": null,
       "ownerLogin": "armourinfosec",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/118471684?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-22T09:53:36Z",
-      "updatedAt": "2026-07-27T07:45:31Z",
+      "updatedAt": "2026-07-27T13:34:34Z",
       "licenseName": "CC-BY-4.0",
       "topics": [
         "centos",
@@ -47,7 +47,7 @@
       "nameWithOwner": "ricmmartins/azure-sre-agent-skills",
       "description": "Custom proactive skills for Azure SRE Agent — governance, cost intelligence, architecture quality, AI workload posture",
       "url": "https://github.com/ricmmartins/azure-sre-agent-skills",
-      "stargazerCount": 49,
+      "stargazerCount": 60,
       "forkCount": 11,
       "languageName": null,
       "languageColor": null,
@@ -55,7 +55,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/44813563?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-22T14:36:11Z",
-      "updatedAt": "2026-07-27T06:58:08Z",
+      "updatedAt": "2026-07-28T05:45:42Z",
       "licenseName": "MIT",
       "topics": [
         "ai-foundry",
@@ -86,7 +86,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/193538494?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-22T08:34:23Z",
-      "updatedAt": "2026-07-26T12:24:52Z",
+      "updatedAt": "2026-07-28T04:01:01Z",
       "licenseName": "MIT",
       "topics": [
         "agent-skills",
@@ -99,6 +99,35 @@
         "github-actions"
       ],
       "openIssuesCount": 8,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1312770166",
+      "name": "Git-Deployment-Beginner",
+      "nameWithOwner": "taovietducofficial/Git-Deployment-Beginner",
+      "description": "Beginner-friendly guide and scripts for deploying projects with Git, focused on practical Shell-based workflows, basic automation, and simple deployment best practices.",
+      "url": "https://github.com/taovietducofficial/Git-Deployment-Beginner",
+      "stargazerCount": 7,
+      "forkCount": 1,
+      "languageName": "Shell",
+      "languageColor": null,
+      "ownerLogin": "taovietducofficial",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/95725645?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-26T12:11:08Z",
+      "updatedAt": "2026-07-28T00:42:57Z",
+      "licenseName": null,
+      "topics": [
+        "automation",
+        "bash",
+        "beginner-friendly",
+        "ci-cd",
+        "devops",
+        "git",
+        "gitdeployment",
+        "shell"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

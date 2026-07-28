@@ -1,45 +1,15 @@
 {
-  "generatedAt": "2026-07-27T07:48:21Z",
+  "generatedAt": "2026-07-28T06:39:07Z",
   "topic": "flutter",
   "totalCount": 2,
   "repos": [
-    {
-      "id": "1307701621",
-      "name": "pim",
-      "nameWithOwner": "deadseti/pim",
-      "description": "Serverless peer-to-peer file, text, notes & task exchange across your own devices over local Wi-Fi. Flutter (Windows + Android).",
-      "url": "https://github.com/deadseti/pim",
-      "stargazerCount": 18,
-      "forkCount": 1,
-      "languageName": "Dart",
-      "languageColor": null,
-      "ownerLogin": "deadseti",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/89665915?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-21T12:54:38Z",
-      "updatedAt": "2026-07-26T09:20:08Z",
-      "licenseName": "MIT",
-      "topics": [
-        "android",
-        "dart",
-        "file-transfer",
-        "flutter",
-        "lan",
-        "offline-first",
-        "p2p",
-        "peer-to-peer",
-        "windows"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1311454770",
       "name": "iPASide",
       "nameWithOwner": "pwnapplehat/iPASide",
       "description": "Free, open-source iOS sideloading for Windows. Install any .ipa with just your Apple ID - no jailbreak, no paid developer account.",
       "url": "https://github.com/pwnapplehat/iPASide",
-      "stargazerCount": 16,
+      "stargazerCount": 23,
       "forkCount": 0,
       "languageName": "Dart",
       "languageColor": null,
@@ -47,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/166584503?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-24T21:44:26Z",
-      "updatedAt": "2026-07-27T06:19:24Z",
+      "updatedAt": "2026-07-27T23:08:08Z",
       "licenseName": "MIT",
       "topics": [
         "apple-id",
@@ -68,7 +38,38 @@
         "windows",
         "zsign"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1310170482",
+      "name": "fathom",
+      "nameWithOwner": "Fathom-Media/fathom",
+      "description": "A modern desktop client for Jellyfin, with an optional built-in YouTube player and Seerr requests.",
+      "url": "https://github.com/Fathom-Media/fathom",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": "Dart",
+      "languageColor": null,
+      "ownerLogin": "Fathom-Media",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/308459872?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-07-23T16:52:17Z",
+      "updatedAt": "2026-07-28T00:54:02Z",
+      "licenseName": "AGPL-3.0",
+      "topics": [
+        "desktop-app",
+        "flutter",
+        "jellyfin",
+        "jellyfin-client",
+        "libmpv",
+        "linux",
+        "media-player",
+        "mpv",
+        "seerr",
+        "youtube"
+      ],
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]
