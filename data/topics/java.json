@@ -1,15 +1,42 @@
 {
-  "generatedAt": "2026-07-28T06:39:07Z",
+  "generatedAt": "2026-07-29T06:43:54Z",
   "topic": "java",
   "totalCount": 4,
   "repos": [
+    {
+      "id": "1311193568",
+      "name": "jolta",
+      "nameWithOwner": "OneAppPlatform/jolta",
+      "description": "Like Volta, but for Java — automatic per-project JDK switching via .java-version",
+      "url": "https://github.com/OneAppPlatform/jolta",
+      "stargazerCount": 17,
+      "forkCount": 0,
+      "languageName": "Rust",
+      "languageColor": null,
+      "ownerLogin": "OneAppPlatform",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/237311652?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-07-24T15:49:06Z",
+      "updatedAt": "2026-07-28T21:25:05Z",
+      "licenseName": "MIT",
+      "topics": [
+        "cli",
+        "java",
+        "jdk",
+        "rust",
+        "version-manager",
+        "volta"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1312447621",
       "name": "w4me-station",
       "nameWithOwner": "mulfyx/w4me-station",
       "description": "Run WASM-4 games on Java ME phones — CLDC 1.1 / MIDP 2.0",
       "url": "https://github.com/mulfyx/w4me-station",
-      "stargazerCount": 15,
+      "stargazerCount": 16,
       "forkCount": 0,
       "languageName": "Java",
       "languageColor": null,
@@ -17,7 +44,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/34765569?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-26T02:46:02Z",
-      "updatedAt": "2026-07-27T22:40:45Z",
+      "updatedAt": "2026-07-28T23:20:00Z",
       "licenseName": "MIT",
       "topics": [
         "cldc",
@@ -39,39 +66,12 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1311193568",
-      "name": "jolta",
-      "nameWithOwner": "OneAppPlatform/jolta",
-      "description": "Like Volta, but for Java — automatic per-project JDK switching via .java-version",
-      "url": "https://github.com/OneAppPlatform/jolta",
-      "stargazerCount": 12,
-      "forkCount": 0,
-      "languageName": "Rust",
-      "languageColor": null,
-      "ownerLogin": "OneAppPlatform",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/237311652?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-07-24T15:49:06Z",
-      "updatedAt": "2026-07-27T17:44:49Z",
-      "licenseName": "MIT",
-      "topics": [
-        "cli",
-        "java",
-        "jdk",
-        "rust",
-        "version-manager",
-        "volta"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1311504367",
       "name": "latte-doom",
       "nameWithOwner": "blackwithersteve/latte-doom",
       "description": "A DOOM source port for Minecraft. A vendored Mocha Doom engine runs inside Minecraft's JVM and owns all simulation, while the level is rendered as walkable 3D geometry around the player.",
       "url": "https://github.com/blackwithersteve/latte-doom",
-      "stargazerCount": 9,
+      "stargazerCount": 10,
       "forkCount": 1,
       "languageName": "Java",
       "languageColor": null,
@@ -79,7 +79,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/308923997?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-24T23:18:21Z",
-      "updatedAt": "2026-07-28T00:28:44Z",
+      "updatedAt": "2026-07-28T19:12:11Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "doom",
@@ -88,7 +88,7 @@
         "minecraft",
         "sourceport"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -105,7 +105,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/157908277?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-23T04:22:39Z",
-      "updatedAt": "2026-07-25T16:48:57Z",
+      "updatedAt": "2026-07-28T07:14:39Z",
       "licenseName": null,
       "topics": [
         "expense-tracker",
