@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T06:43:54Z",
+  "generatedAt": "2026-07-30T06:39:58Z",
   "topic": "devops",
   "totalCount": 3,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "lyu0805/pixshell",
       "description": "跨平台 SSH / SFTP 桌面客户端 · 终端 · 连接管理 · 文件传输 | Cross-platform SSH/SFTP desktop client for macOS, Windows ",
       "url": "https://github.com/lyu0805/pixshell",
-      "stargazerCount": 24,
-      "forkCount": 1,
+      "stargazerCount": 139,
+      "forkCount": 10,
       "languageName": "Swift",
       "languageColor": null,
       "ownerLogin": "lyu0805",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-25T20:30:31Z",
-      "updatedAt": "2026-07-29T03:48:04Z",
+      "updatedAt": "2026-07-30T06:39:16Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "cross-platform",
@@ -36,7 +36,7 @@
         "windows",
         "xterm"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -45,15 +45,15 @@
       "nameWithOwner": "taovietducofficial/Git-Deployment-Beginner",
       "description": "Beginner-friendly guide and scripts for deploying projects with Git, focused on practical Shell-based workflows, basic automation, and simple deployment best practices.",
       "url": "https://github.com/taovietducofficial/Git-Deployment-Beginner",
-      "stargazerCount": 11,
-      "forkCount": 1,
+      "stargazerCount": 14,
+      "forkCount": 2,
       "languageName": "Shell",
       "languageColor": null,
       "ownerLogin": "taovietducofficial",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/95725645?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-26T12:11:08Z",
-      "updatedAt": "2026-07-29T01:09:33Z",
+      "updatedAt": "2026-07-29T14:41:46Z",
       "licenseName": null,
       "topics": [
         "automation",
@@ -74,7 +74,7 @@
       "nameWithOwner": "pythonsaber2/dockly",
       "description": "A lightweight, self-hosted deployment platform for Dockerized applications.",
       "url": "https://github.com/pythonsaber2/dockly",
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "forkCount": 0,
       "languageName": "CSS",
       "languageColor": null,
@@ -82,7 +82,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/245373087?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-28T02:11:16Z",
-      "updatedAt": "2026-07-29T06:35:36Z",
+      "updatedAt": "2026-07-29T12:03:36Z",
       "licenseName": "MIT",
       "topics": [
         "continuous-deployment",

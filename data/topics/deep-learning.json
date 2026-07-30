@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-29T06:43:54Z",
+  "generatedAt": "2026-07-30T06:39:58Z",
   "topic": "deep-learning",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1314300684",
@@ -9,7 +9,7 @@
       "nameWithOwner": "lucidrains/robo_ttt",
       "description": "Implementation of RoboTTT proposed by Yunfan Jiang et al. of Stanford and Nvidia",
       "url": "https://github.com/lucidrains/robo_ttt",
-      "stargazerCount": 24,
+      "stargazerCount": 28,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -17,13 +17,41 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-27T21:43:26Z",
-      "updatedAt": "2026-07-29T04:59:20Z",
+      "updatedAt": "2026-07-29T16:18:55Z",
       "licenseName": "MIT",
       "topics": [
         "artificial-intelligence",
         "deep-learning",
         "robotics",
         "test-time-training"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1315862117",
+      "name": "NPU-E2E",
+      "nameWithOwner": "YutongChenVictor/NPU-E2E",
+      "description": "End-to-End NPU: RTL systolic array → AXI4 SoC → TVM compiler → FPGA inference",
+      "url": "https://github.com/YutongChenVictor/NPU-E2E",
+      "stargazerCount": 16,
+      "forkCount": 1,
+      "languageName": "Verilog",
+      "languageColor": null,
+      "ownerLogin": "YutongChenVictor",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/116343013?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-29T08:05:13Z",
+      "updatedAt": "2026-07-30T06:24:06Z",
+      "licenseName": "AGPL-3.0",
+      "topics": [
+        "axidma",
+        "deep-learning",
+        "fpga",
+        "npu",
+        "systolic-array",
+        "tvm",
+        "verilog"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

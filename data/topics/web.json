@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T06:43:54Z",
+  "generatedAt": "2026-07-30T06:39:58Z",
   "topic": "web",
   "totalCount": 1,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "Lianues/PureTavern",
       "description": "A pure frontend, backend-free third-party SillyTavern.",
       "url": "https://github.com/Lianues/PureTavern",
-      "stargazerCount": 10,
+      "stargazerCount": 11,
       "forkCount": 1,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/141826977?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-24T19:03:12Z",
-      "updatedAt": "2026-07-29T00:47:28Z",
+      "updatedAt": "2026-07-30T06:32:59Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "html",

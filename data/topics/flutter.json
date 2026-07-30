@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-29T06:43:54Z",
+  "generatedAt": "2026-07-30T06:39:58Z",
   "topic": "flutter",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1314535038",
@@ -9,15 +9,15 @@
       "nameWithOwner": "starling-build/starling",
       "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
       "url": "https://github.com/starling-build/starling",
-      "stargazerCount": 37,
-      "forkCount": 2,
+      "stargazerCount": 111,
+      "forkCount": 6,
       "languageName": "Swift",
       "languageColor": null,
       "ownerLogin": "starling-build",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/306918147?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-28T04:31:38Z",
-      "updatedAt": "2026-07-29T06:33:43Z",
+      "updatedAt": "2026-07-30T06:34:23Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ai",
@@ -36,7 +36,7 @@
         "window-manager",
         "x11"
       ],
-      "openIssuesCount": 3,
+      "openIssuesCount": 4,
       "closedIssuesCount": 0
     },
     {
@@ -78,43 +78,12 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1310170482",
-      "name": "fathom",
-      "nameWithOwner": "Fathom-Media/fathom",
-      "description": "A modern desktop client for Jellyfin, with an optional built-in YouTube player and Seerr requests.",
-      "url": "https://github.com/Fathom-Media/fathom",
-      "stargazerCount": 9,
-      "forkCount": 0,
-      "languageName": "Dart",
-      "languageColor": null,
-      "ownerLogin": "Fathom-Media",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/308459872?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-07-23T16:52:17Z",
-      "updatedAt": "2026-07-28T08:34:33Z",
-      "licenseName": "AGPL-3.0",
-      "topics": [
-        "desktop-app",
-        "flutter",
-        "jellyfin",
-        "jellyfin-client",
-        "libmpv",
-        "linux",
-        "media-player",
-        "mpv",
-        "seerr",
-        "youtube"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1311690122",
       "name": "Flule34",
       "nameWithOwner": "Hanestl/Flule34",
       "description": "一个 Rule34Video 第三方 Android 客户端",
       "url": "https://github.com/Hanestl/Flule34",
-      "stargazerCount": 8,
+      "stargazerCount": 9,
       "forkCount": 0,
       "languageName": "Dart",
       "languageColor": null,
@@ -122,7 +91,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/308706562?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-25T05:29:59Z",
-      "updatedAt": "2026-07-29T04:27:37Z",
+      "updatedAt": "2026-07-30T05:03:31Z",
       "licenseName": "MIT",
       "topics": [
         "android",

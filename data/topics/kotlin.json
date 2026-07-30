@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T06:43:54Z",
+  "generatedAt": "2026-07-30T06:39:58Z",
   "topic": "kotlin",
   "totalCount": 6,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "streamflix-reborn2/streamflix",
       "description": null,
       "url": "https://github.com/streamflix-reborn2/streamflix",
-      "stargazerCount": 36,
-      "forkCount": 4,
+      "stargazerCount": 52,
+      "forkCount": 6,
       "languageName": "Kotlin",
       "languageColor": null,
       "ownerLogin": "streamflix-reborn2",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/309847445?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-27T17:25:09Z",
-      "updatedAt": "2026-07-29T02:40:31Z",
+      "updatedAt": "2026-07-30T05:41:27Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "android",
@@ -30,7 +30,7 @@
         "streaming",
         "tv-shows"
       ],
-      "openIssuesCount": 8,
+      "openIssuesCount": 27,
       "closedIssuesCount": 0
     },
     {
@@ -67,12 +67,37 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1313842927",
+      "name": "muchToman",
+      "nameWithOwner": "doxigo/muchToman",
+      "description": "An android app for our moms and dads who can't keep track of their assets besides their active bank account.",
+      "url": "https://github.com/doxigo/muchToman",
+      "stargazerCount": 17,
+      "forkCount": 4,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "doxigo",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/811655?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-27T12:53:48Z",
+      "updatedAt": "2026-07-29T13:00:46Z",
+      "licenseName": "MIT",
+      "topics": [
+        "android",
+        "compose",
+        "iran",
+        "kotlin"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1312236093",
       "name": "BiliOne",
       "nameWithOwner": "HGODLK/BiliOne",
       "description": "专注统一视觉、流畅体验与直觉动效的非官方哔哩哔哩 Android 平板客户端",
       "url": "https://github.com/HGODLK/BiliOne",
-      "stargazerCount": 15,
+      "stargazerCount": 16,
       "forkCount": 0,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -80,7 +105,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/144580101?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-25T18:55:25Z",
-      "updatedAt": "2026-07-28T17:39:10Z",
+      "updatedAt": "2026-07-29T13:28:30Z",
       "licenseName": "MIT",
       "topics": [
         "android",
@@ -93,37 +118,12 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1313842927",
-      "name": "muchToman",
-      "nameWithOwner": "doxigo/muchToman",
-      "description": "An android app for our moms and dads who can't keep track of their assets besides their active bank account.",
-      "url": "https://github.com/doxigo/muchToman",
-      "stargazerCount": 13,
-      "forkCount": 4,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "doxigo",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/811655?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-27T12:53:48Z",
-      "updatedAt": "2026-07-29T06:20:19Z",
-      "licenseName": "MIT",
-      "topics": [
-        "android",
-        "compose",
-        "iran",
-        "kotlin"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1315358423",
       "name": "signaldock",
       "nameWithOwner": "jizizr/signaldock",
       "description": "HyperOS 取餐码上岛",
       "url": "https://github.com/jizizr/signaldock",
-      "stargazerCount": 10,
+      "stargazerCount": 11,
       "forkCount": 0,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -131,7 +131,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/78908842?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-28T19:22:38Z",
-      "updatedAt": "2026-07-29T06:31:24Z",
+      "updatedAt": "2026-07-29T11:38:32Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "android",
@@ -150,7 +150,7 @@
       "nameWithOwner": "nudou350/Xreal-tools",
       "description": "Hands-free mouse for XREAL One Pro AR glasses on Samsung DeX — a gesture cursor driven by the glasses' Eye camera and MediaPipe hand tracking. No proprietary blobs.",
       "url": "https://github.com/nudou350/Xreal-tools",
-      "stargazerCount": 8,
+      "stargazerCount": 9,
       "forkCount": 3,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -158,7 +158,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/39420000?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-24T04:42:00Z",
-      "updatedAt": "2026-07-27T07:54:26Z",
+      "updatedAt": "2026-07-29T07:00:07Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "accessibility-service",

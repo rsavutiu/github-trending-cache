@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T06:43:54Z",
+  "generatedAt": "2026-07-30T06:39:58Z",
   "topic": "kubernetes",
   "totalCount": 4,
   "repos": [
@@ -7,9 +7,9 @@
       "id": "1314587317",
       "name": "axern",
       "nameWithOwner": "cofy-x/axern",
-      "description": "Open-source agentic infrastructure for running AI agents in isolated, stateful sandboxes.",
+      "description": "Open-source sandboxes for AI agents, untrusted code execution, and durable services.",
       "url": "https://github.com/cofy-x/axern",
-      "stargazerCount": 24,
+      "stargazerCount": 30,
       "forkCount": 1,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/225628682?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-28T05:45:33Z",
-      "updatedAt": "2026-07-29T06:36:53Z",
+      "updatedAt": "2026-07-30T05:37:36Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "agent-sandbox",
@@ -39,7 +39,7 @@
       "nameWithOwner": "g0ldyy/torque",
       "description": "Tor's fastest rotating proxy.",
       "url": "https://github.com/g0ldyy/torque",
-      "stargazerCount": 8,
+      "stargazerCount": 9,
       "forkCount": 0,
       "languageName": "Go",
       "languageColor": null,
@@ -47,7 +47,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/153996346?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-25T14:15:53Z",
-      "updatedAt": "2026-07-28T11:30:41Z",
+      "updatedAt": "2026-07-29T15:31:41Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "docker",
@@ -119,7 +119,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/102369788?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-28T08:39:27Z",
-      "updatedAt": "2026-07-29T01:52:18Z",
+      "updatedAt": "2026-07-29T09:29:23Z",
       "licenseName": null,
       "topics": [
         "cdi",
