@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-30T06:39:58Z",
+  "generatedAt": "2026-07-31T07:12:46Z",
   "topic": "java",
-  "totalCount": 4,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1312447621",
@@ -9,7 +9,7 @@
       "nameWithOwner": "mulfyx/w4me-station",
       "description": "Run WASM-4 games on Java ME phones — CLDC 1.1 / MIDP 2.0",
       "url": "https://github.com/mulfyx/w4me-station",
-      "stargazerCount": 17,
+      "stargazerCount": 16,
       "forkCount": 0,
       "languageName": "Java",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/34765569?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-26T02:46:02Z",
-      "updatedAt": "2026-07-30T03:42:24Z",
+      "updatedAt": "2026-07-31T01:27:41Z",
       "licenseName": "MIT",
       "topics": [
         "cldc",
@@ -34,59 +34,6 @@
         "wasm",
         "wasm4",
         "webassembly"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1311193568",
-      "name": "jolta",
-      "nameWithOwner": "OneAppPlatform/jolta",
-      "description": "Like Volta, but for Java — automatic per-project JDK switching via .java-version",
-      "url": "https://github.com/OneAppPlatform/jolta",
-      "stargazerCount": 17,
-      "forkCount": 0,
-      "languageName": "Rust",
-      "languageColor": null,
-      "ownerLogin": "OneAppPlatform",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/237311652?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-07-24T15:49:06Z",
-      "updatedAt": "2026-07-28T21:25:05Z",
-      "licenseName": "MIT",
-      "topics": [
-        "cli",
-        "java",
-        "jdk",
-        "rust",
-        "version-manager",
-        "volta"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1311504367",
-      "name": "latte-doom",
-      "nameWithOwner": "blackwithersteve/latte-doom",
-      "description": "A DOOM source port for Minecraft. A vendored Mocha Doom engine runs inside Minecraft's JVM and owns all simulation, while the level is rendered as walkable 3D geometry around the player.",
-      "url": "https://github.com/blackwithersteve/latte-doom",
-      "stargazerCount": 11,
-      "forkCount": 1,
-      "languageName": "Java",
-      "languageColor": null,
-      "ownerLogin": "blackwithersteve",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/308923997?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-24T23:18:21Z",
-      "updatedAt": "2026-07-29T19:14:29Z",
-      "licenseName": "GPL-3.0",
-      "topics": [
-        "doom",
-        "fabricmc",
-        "java",
-        "minecraft",
-        "sourceport"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

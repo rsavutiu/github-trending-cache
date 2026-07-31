@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-30T06:39:58Z",
+  "generatedAt": "2026-07-31T07:12:46Z",
   "topic": "devops",
-  "totalCount": 3,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1312288602",
@@ -9,15 +9,15 @@
       "nameWithOwner": "lyu0805/pixshell",
       "description": "跨平台 SSH / SFTP 桌面客户端 · 终端 · 连接管理 · 文件传输 | Cross-platform SSH/SFTP desktop client for macOS, Windows ",
       "url": "https://github.com/lyu0805/pixshell",
-      "stargazerCount": 139,
-      "forkCount": 10,
+      "stargazerCount": 241,
+      "forkCount": 17,
       "languageName": "Swift",
       "languageColor": null,
       "ownerLogin": "lyu0805",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/53092331?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-25T20:30:31Z",
-      "updatedAt": "2026-07-30T06:39:16Z",
+      "updatedAt": "2026-07-31T06:11:02Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "cross-platform",
@@ -36,7 +36,37 @@
         "windows",
         "xterm"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 3,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1315642195",
+      "name": "LunarDump",
+      "nameWithOwner": "indhifarhandika/LunarDump",
+      "description": "A lightweight, zero-trust CLI tool built in Python to automate, encrypt, and stream database backups directly to multi-cloud storage.",
+      "url": "https://github.com/indhifarhandika/LunarDump",
+      "stargazerCount": 19,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "indhifarhandika",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/28488788?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-29T03:20:05Z",
+      "updatedAt": "2026-07-31T04:22:50Z",
+      "licenseName": "MIT",
+      "topics": [
+        "database",
+        "developer-tools",
+        "devops",
+        "devtools",
+        "mongodb",
+        "mysql",
+        "mysqldump",
+        "postgresql",
+        "python"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -45,7 +75,7 @@
       "nameWithOwner": "taovietducofficial/Git-Deployment-Beginner",
       "description": "Beginner-friendly guide and scripts for deploying projects with Git, focused on practical Shell-based workflows, basic automation, and simple deployment best practices.",
       "url": "https://github.com/taovietducofficial/Git-Deployment-Beginner",
-      "stargazerCount": 14,
+      "stargazerCount": 15,
       "forkCount": 2,
       "languageName": "Shell",
       "languageColor": null,
@@ -53,7 +83,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/95725645?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-26T12:11:08Z",
-      "updatedAt": "2026-07-29T14:41:46Z",
+      "updatedAt": "2026-07-30T09:39:17Z",
       "licenseName": null,
       "topics": [
         "automation",
@@ -74,7 +104,7 @@
       "nameWithOwner": "pythonsaber2/dockly",
       "description": "A lightweight, self-hosted deployment platform for Dockerized applications.",
       "url": "https://github.com/pythonsaber2/dockly",
-      "stargazerCount": 8,
+      "stargazerCount": 9,
       "forkCount": 0,
       "languageName": "CSS",
       "languageColor": null,
@@ -82,7 +112,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/245373087?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-28T02:11:16Z",
-      "updatedAt": "2026-07-29T12:03:36Z",
+      "updatedAt": "2026-07-31T04:28:12Z",
       "licenseName": "MIT",
       "topics": [
         "continuous-deployment",
@@ -95,6 +125,35 @@
         "self-hosted"
       ],
       "openIssuesCount": 3,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1317036455",
+      "name": "Overseer",
+      "nameWithOwner": "Audi-dask/Overseer",
+      "description": "面向企业内部研发团队的 Agent 代码审查平台，自动分析 GitLab MR 与 Push，并回填总评和行内 Discussion。",
+      "url": "https://github.com/Audi-dask/Overseer",
+      "stargazerCount": 6,
+      "forkCount": 1,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "Audi-dask",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/49541315?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-30T08:36:22Z",
+      "updatedAt": "2026-07-31T07:12:40Z",
+      "licenseName": "AGPL-3.0",
+      "topics": [
+        "ai-code-review",
+        "code-review",
+        "devops",
+        "gitlab",
+        "golang",
+        "llm",
+        "self-hosted",
+        "static-analysis"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

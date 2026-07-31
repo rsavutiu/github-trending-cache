@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T06:39:58Z",
+  "generatedAt": "2026-07-31T07:12:46Z",
   "topic": "go",
   "totalCount": 4,
   "repos": [
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/179420349?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-28T04:00:00Z",
-      "updatedAt": "2026-07-30T06:14:36Z",
+      "updatedAt": "2026-07-30T14:22:53Z",
       "licenseName": "MIT",
       "topics": [
         "agentic-ai",
@@ -39,7 +39,7 @@
       "nameWithOwner": "Zazza/svoi-oss",
       "description": "Self-hosted, open-source personal AI assistant — streaming chat with agentic tools, long-term memory, RAG, tasks & reminders. Go + Vue 3 + PostgreSQL/pgvector. AGPL-3.0.",
       "url": "https://github.com/Zazza/svoi-oss",
-      "stargazerCount": 8,
+      "stargazerCount": 9,
       "forkCount": 1,
       "languageName": "Go",
       "languageColor": null,
@@ -47,7 +47,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/722091?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-26T04:46:27Z",
-      "updatedAt": "2026-07-30T00:17:38Z",
+      "updatedAt": "2026-07-30T19:24:34Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "agentic",
@@ -112,7 +112,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/109786221?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-25T17:35:43Z",
-      "updatedAt": "2026-07-29T06:14:45Z",
+      "updatedAt": "2026-07-30T12:37:33Z",
       "licenseName": "MIT",
       "topics": [
         "cli",
