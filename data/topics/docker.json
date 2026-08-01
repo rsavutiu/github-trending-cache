@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T07:12:46Z",
+  "generatedAt": "2026-08-01T06:40:11Z",
   "topic": "docker",
   "totalCount": 9,
   "repos": [
@@ -32,40 +32,6 @@
         "python",
         "rag",
         "retrieval-augmented-generation"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1312040366",
-      "name": "torque",
-      "nameWithOwner": "g0ldyy/torque",
-      "description": "Tor's fastest rotating proxy.",
-      "url": "https://github.com/g0ldyy/torque",
-      "stargazerCount": 9,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "g0ldyy",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/153996346?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-25T14:15:53Z",
-      "updatedAt": "2026-07-29T15:31:41Z",
-      "licenseName": "GPL-3.0",
-      "topics": [
-        "docker",
-        "forward-proxy",
-        "golang",
-        "http-proxy",
-        "https-proxy",
-        "ip-rotation",
-        "kubernetes",
-        "proxy-rotation",
-        "proxy-server",
-        "rotating-proxy",
-        "tor",
-        "tor-network",
-        "tor-proxy"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -137,34 +103,6 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1314157838",
-      "name": "still-running",
-      "nameWithOwner": "selinihtyr/still-running",
-      "description": "Finds the containers, simulators and dev servers you forgot were running, and stops them. A macOS menu bar app.",
-      "url": "https://github.com/selinihtyr/still-running",
-      "stargazerCount": 9,
-      "forkCount": 0,
-      "languageName": "Swift",
-      "languageColor": null,
-      "ownerLogin": "selinihtyr",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/122679970?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-27T18:28:22Z",
-      "updatedAt": "2026-07-30T17:32:32Z",
-      "licenseName": "MIT",
-      "topics": [
-        "developer-tools",
-        "docker",
-        "macos",
-        "macos-app",
-        "menubar",
-        "swift",
-        "swiftui"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1312500338",
       "name": "svoi-oss",
       "nameWithOwner": "Zazza/svoi-oss",
@@ -201,6 +139,70 @@
         "self-hosted",
         "vector-database",
         "vue"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1314157838",
+      "name": "still-running",
+      "nameWithOwner": "selinihtyr/still-running",
+      "description": "Finds the containers, simulators and dev servers you forgot were running, and stops them. A macOS menu bar app.",
+      "url": "https://github.com/selinihtyr/still-running",
+      "stargazerCount": 9,
+      "forkCount": 0,
+      "languageName": "Swift",
+      "languageColor": null,
+      "ownerLogin": "selinihtyr",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/122679970?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-27T18:28:22Z",
+      "updatedAt": "2026-07-30T17:32:32Z",
+      "licenseName": "MIT",
+      "topics": [
+        "developer-tools",
+        "docker",
+        "macos",
+        "macos-app",
+        "menubar",
+        "swift",
+        "swiftui"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1315993576",
+      "name": "community-website",
+      "nameWithOwner": "NEXT-GEN-PROGRAMMING/community-website",
+      "description": "Official website for the NEXT-GEN Programmers Discord community.",
+      "url": "https://github.com/NEXT-GEN-PROGRAMMING/community-website",
+      "stargazerCount": 8,
+      "forkCount": 5,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "NEXT-GEN-PROGRAMMING",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/310541234?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-07-29T10:24:10Z",
+      "updatedAt": "2026-08-01T02:45:50Z",
+      "licenseName": "MIT",
+      "topics": [
+        "docker",
+        "docker-compose",
+        "fastify",
+        "iconify",
+        "motion-vue",
+        "nuxt4",
+        "nuxtui",
+        "pinia",
+        "postgresql",
+        "prisma",
+        "redis",
+        "tailwindcss",
+        "typescript",
+        "vue",
+        "vueuse"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -247,7 +249,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/272658442?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-28T10:45:19Z",
-      "updatedAt": "2026-07-31T04:58:29Z",
+      "updatedAt": "2026-08-01T05:59:49Z",
       "licenseName": "MIT",
       "topics": [
         "arr",
@@ -262,7 +264,7 @@
         "roms",
         "self-hosted"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {

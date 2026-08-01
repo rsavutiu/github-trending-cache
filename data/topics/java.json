@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T07:12:46Z",
+  "generatedAt": "2026-08-01T06:40:11Z",
   "topic": "java",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "mulfyx/w4me-station",
       "description": "Run WASM-4 games on Java ME phones — CLDC 1.1 / MIDP 2.0",
       "url": "https://github.com/mulfyx/w4me-station",
-      "stargazerCount": 16,
+      "stargazerCount": 18,
       "forkCount": 0,
       "languageName": "Java",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/34765569?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-26T02:46:02Z",
-      "updatedAt": "2026-07-31T01:27:41Z",
+      "updatedAt": "2026-07-31T22:55:37Z",
       "licenseName": "MIT",
       "topics": [
         "cldc",

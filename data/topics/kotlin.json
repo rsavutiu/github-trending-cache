@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-31T07:12:46Z",
+  "generatedAt": "2026-08-01T06:40:11Z",
   "topic": "kotlin",
-  "totalCount": 6,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1314104163",
@@ -9,15 +9,15 @@
       "nameWithOwner": "streamflix-reborn2/streamflix",
       "description": null,
       "url": "https://github.com/streamflix-reborn2/streamflix",
-      "stargazerCount": 63,
-      "forkCount": 10,
+      "stargazerCount": 70,
+      "forkCount": 13,
       "languageName": "Kotlin",
       "languageColor": null,
       "ownerLogin": "streamflix-reborn2",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/309847445?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-27T17:25:09Z",
-      "updatedAt": "2026-07-31T04:28:29Z",
+      "updatedAt": "2026-08-01T04:40:46Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "android",
@@ -30,40 +30,7 @@
         "streaming",
         "tv-shows"
       ],
-      "openIssuesCount": 33,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1311667713",
-      "name": "vortex",
-      "nameWithOwner": "zoir-dev/vortex",
-      "description": "Secure Bridge between Android and Linux — notification mirror, calls & SMS, clipboard, smart audio hand-off, screen mirror. No cloud, no account, E2E encrypted over BLE + LAN.",
-      "url": "https://github.com/zoir-dev/vortex",
-      "stargazerCount": 19,
-      "forkCount": 2,
-      "languageName": "Rust",
-      "languageColor": null,
-      "ownerLogin": "zoir-dev",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/93870476?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-25T04:47:21Z",
-      "updatedAt": "2026-07-31T06:36:52Z",
-      "licenseName": "GPL-3.0",
-      "topics": [
-        "android",
-        "ble",
-        "bluetooth-le",
-        "continuity",
-        "e2e-encryption",
-        "kde-connect-alternative",
-        "kotlin",
-        "linux",
-        "notification-mirror",
-        "phone-integration",
-        "rust",
-        "tauri"
-      ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 38,
       "closedIssuesCount": 0
     },
     {
@@ -92,38 +59,12 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1312236093",
-      "name": "BiliOne",
-      "nameWithOwner": "HGODLK/BiliOne",
-      "description": "专注统一视觉、流畅体验与直觉动效的非官方哔哩哔哩 Android 平板客户端",
-      "url": "https://github.com/HGODLK/BiliOne",
-      "stargazerCount": 16,
-      "forkCount": 0,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "HGODLK",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/144580101?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-25T18:55:25Z",
-      "updatedAt": "2026-07-29T13:28:30Z",
-      "licenseName": "MIT",
-      "topics": [
-        "android",
-        "bilibili",
-        "kotlin",
-        "tablet",
-        "video-client"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1315358423",
       "name": "signaldock",
       "nameWithOwner": "jizizr/signaldock",
       "description": "HyperOS 取餐码上岛",
       "url": "https://github.com/jizizr/signaldock",
-      "stargazerCount": 12,
+      "stargazerCount": 14,
       "forkCount": 0,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -131,7 +72,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/78908842?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-28T19:22:38Z",
-      "updatedAt": "2026-07-30T16:02:47Z",
+      "updatedAt": "2026-07-31T18:25:21Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "android",
@@ -140,6 +81,31 @@
         "kotlin",
         "rust",
         "shizuku"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1313981272",
+      "name": "materialexp",
+      "nameWithOwner": "isaiahscape/materialexp",
+      "description": "A material file explorer made with MD3, Kotlin, and Java for Android.",
+      "url": "https://github.com/isaiahscape/materialexp",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "isaiahscape",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/39789245?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-27T15:13:47Z",
+      "updatedAt": "2026-07-31T16:12:59Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "android",
+        "explorer",
+        "files",
+        "kotlin"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

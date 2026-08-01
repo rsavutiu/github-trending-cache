@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-31T07:12:46Z",
+  "generatedAt": "2026-08-01T06:40:11Z",
   "topic": "kubernetes",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1314587317",
@@ -9,7 +9,7 @@
       "nameWithOwner": "cofy-x/axern",
       "description": "Open-source sandboxes for AI agents, untrusted code execution, and durable services.",
       "url": "https://github.com/cofy-x/axern",
-      "stargazerCount": 30,
+      "stargazerCount": 36,
       "forkCount": 1,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/225628682?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-28T05:45:33Z",
-      "updatedAt": "2026-07-30T15:44:20Z",
+      "updatedAt": "2026-08-01T04:01:51Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "agent-sandbox",
@@ -30,41 +30,7 @@
         "sandbox",
         "self-hosted"
       ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1312040366",
-      "name": "torque",
-      "nameWithOwner": "g0ldyy/torque",
-      "description": "Tor's fastest rotating proxy.",
-      "url": "https://github.com/g0ldyy/torque",
-      "stargazerCount": 9,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "g0ldyy",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/153996346?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-25T14:15:53Z",
-      "updatedAt": "2026-07-29T15:31:41Z",
-      "licenseName": "GPL-3.0",
-      "topics": [
-        "docker",
-        "forward-proxy",
-        "golang",
-        "http-proxy",
-        "https-proxy",
-        "ip-rotation",
-        "kubernetes",
-        "proxy-rotation",
-        "proxy-server",
-        "rotating-proxy",
-        "tor",
-        "tor-network",
-        "tor-proxy"
-      ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
