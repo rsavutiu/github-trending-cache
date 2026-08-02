@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T06:40:11Z",
+  "generatedAt": "2026-08-02T06:44:26Z",
   "topic": "kubernetes",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "cofy-x/axern",
       "description": "Open-source sandboxes for AI agents, untrusted code execution, and durable services.",
       "url": "https://github.com/cofy-x/axern",
-      "stargazerCount": 36,
+      "stargazerCount": 46,
       "forkCount": 1,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/225628682?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-28T05:45:33Z",
-      "updatedAt": "2026-08-01T04:01:51Z",
+      "updatedAt": "2026-08-01T23:32:23Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "agent-sandbox",

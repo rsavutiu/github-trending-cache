@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T06:40:11Z",
+  "generatedAt": "2026-08-02T06:44:26Z",
   "topic": "devops",
   "totalCount": 4,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "indhifarhandika/LunarDump",
       "description": "A lightweight, zero-trust CLI tool built in Python to automate, encrypt, and stream database backups directly to multi-cloud storage.",
       "url": "https://github.com/indhifarhandika/LunarDump",
-      "stargazerCount": 22,
+      "stargazerCount": 33,
       "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/28488788?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-29T03:20:05Z",
-      "updatedAt": "2026-08-01T02:42:39Z",
+      "updatedAt": "2026-08-02T02:38:22Z",
       "licenseName": "MIT",
       "topics": [
         "database",
@@ -34,41 +34,12 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1312770166",
-      "name": "Git-Deployment-Beginner",
-      "nameWithOwner": "taovietducofficial/Git-Deployment-Beginner",
-      "description": "Beginner-friendly guide and scripts for deploying projects with Git, focused on practical Shell-based workflows, basic automation, and simple deployment best practices.",
-      "url": "https://github.com/taovietducofficial/Git-Deployment-Beginner",
-      "stargazerCount": 16,
-      "forkCount": 2,
-      "languageName": "Shell",
-      "languageColor": null,
-      "ownerLogin": "taovietducofficial",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/95725645?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-26T12:11:08Z",
-      "updatedAt": "2026-07-31T10:56:32Z",
-      "licenseName": null,
-      "topics": [
-        "automation",
-        "bash",
-        "beginner-friendly",
-        "ci-cd",
-        "devops",
-        "git",
-        "gitdeployment",
-        "shell"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1314446291",
       "name": "dockly",
       "nameWithOwner": "pythonsaber2/dockly",
       "description": "A lightweight, self-hosted deployment platform for Dockerized applications.",
       "url": "https://github.com/pythonsaber2/dockly",
-      "stargazerCount": 9,
+      "stargazerCount": 10,
       "forkCount": 0,
       "languageName": "CSS",
       "languageColor": null,
@@ -76,7 +47,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/245373087?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-28T02:11:16Z",
-      "updatedAt": "2026-07-31T04:28:12Z",
+      "updatedAt": "2026-08-01T07:12:12Z",
       "licenseName": "MIT",
       "topics": [
         "continuous-deployment",
@@ -117,6 +88,34 @@
         "llm",
         "self-hosted",
         "static-analysis"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1318156309",
+      "name": "linux-for-engineers",
+      "nameWithOwner": "jeresoftx/linux-for-engineers",
+      "description": "Curso de Linux para Ingenieros de Jeresoft Academy: terminal, procesos, permisos, redes, servicios y automatización segura.",
+      "url": "https://github.com/jeresoftx/linux-for-engineers",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Shell",
+      "languageColor": null,
+      "ownerLogin": "jeresoftx",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/139817810?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-31T09:05:07Z",
+      "updatedAt": "2026-08-02T01:21:51Z",
+      "licenseName": null,
+      "topics": [
+        "bash",
+        "devops",
+        "docker",
+        "jeresoft-academy",
+        "linux",
+        "shell",
+        "system-administration"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

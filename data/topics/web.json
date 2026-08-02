@@ -1,45 +1,6 @@
 {
-  "generatedAt": "2026-08-01T06:40:11Z",
+  "generatedAt": "2026-08-02T06:44:26Z",
   "topic": "web",
-  "totalCount": 1,
-  "repos": [
-    {
-      "id": "1313251065",
-      "name": "sycorax_cressida",
-      "nameWithOwner": "ikhsan3adi/sycorax_cressida",
-      "description": "Cross-platform expressive IPTV player app. Watch free TVs around the world.",
-      "url": "https://github.com/ikhsan3adi/sycorax_cressida",
-      "stargazerCount": 6,
-      "forkCount": 1,
-      "languageName": "Dart",
-      "languageColor": null,
-      "ownerLogin": "ikhsan3adi",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/93766033?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-26T23:54:09Z",
-      "updatedAt": "2026-07-30T11:41:30Z",
-      "licenseName": "GPL-3.0",
-      "topics": [
-        "android",
-        "cross-platform",
-        "desktop-app",
-        "flutter",
-        "hls",
-        "ios",
-        "iptv",
-        "material-expressive",
-        "material3",
-        "multiplatform",
-        "multiplatform-app",
-        "streaming",
-        "tv",
-        "tv-series",
-        "tv-shows",
-        "tvos",
-        "web"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    }
-  ]
+  "totalCount": 0,
+  "repos": []
 }
