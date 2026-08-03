@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T06:44:26Z",
+  "generatedAt": "2026-08-03T07:44:44Z",
   "topic": "devops",
   "totalCount": 4,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "indhifarhandika/LunarDump",
       "description": "A lightweight, zero-trust CLI tool built in Python to automate, encrypt, and stream database backups directly to multi-cloud storage.",
       "url": "https://github.com/indhifarhandika/LunarDump",
-      "stargazerCount": 33,
+      "stargazerCount": 34,
       "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/28488788?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-29T03:20:05Z",
-      "updatedAt": "2026-08-02T02:38:22Z",
+      "updatedAt": "2026-08-03T01:44:55Z",
       "licenseName": "MIT",
       "topics": [
         "database",
@@ -39,7 +39,7 @@
       "nameWithOwner": "pythonsaber2/dockly",
       "description": "A lightweight, self-hosted deployment platform for Dockerized applications.",
       "url": "https://github.com/pythonsaber2/dockly",
-      "stargazerCount": 10,
+      "stargazerCount": 11,
       "forkCount": 0,
       "languageName": "CSS",
       "languageColor": null,
@@ -47,7 +47,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/245373087?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-28T02:11:16Z",
-      "updatedAt": "2026-08-01T07:12:12Z",
+      "updatedAt": "2026-08-02T17:03:51Z",
       "licenseName": "MIT",
       "topics": [
         "continuous-deployment",
@@ -68,7 +68,7 @@
       "nameWithOwner": "Audi-dask/Overseer",
       "description": "面向企业内部研发团队的 Agent 代码审查平台，自动分析 GitLab MR 与 Push，并回填总评和行内 Discussion。",
       "url": "https://github.com/Audi-dask/Overseer",
-      "stargazerCount": 8,
+      "stargazerCount": 9,
       "forkCount": 2,
       "languageName": "Go",
       "languageColor": null,
@@ -76,7 +76,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/49541315?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-30T08:36:22Z",
-      "updatedAt": "2026-07-31T08:38:57Z",
+      "updatedAt": "2026-08-03T02:38:08Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "ai-code-review",
@@ -98,7 +98,7 @@
       "nameWithOwner": "jeresoftx/linux-for-engineers",
       "description": "Curso de Linux para Ingenieros de Jeresoft Academy: terminal, procesos, permisos, redes, servicios y automatización segura.",
       "url": "https://github.com/jeresoftx/linux-for-engineers",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 0,
       "languageName": "Shell",
       "languageColor": null,
@@ -106,7 +106,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/139817810?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-31T09:05:07Z",
-      "updatedAt": "2026-08-02T01:21:51Z",
+      "updatedAt": "2026-08-02T17:36:20Z",
       "licenseName": null,
       "topics": [
         "bash",

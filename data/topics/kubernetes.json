@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-02T06:44:26Z",
+  "generatedAt": "2026-08-03T07:44:44Z",
   "topic": "kubernetes",
-  "totalCount": 2,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1314587317",
@@ -9,15 +9,15 @@
       "nameWithOwner": "cofy-x/axern",
       "description": "Open-source sandboxes for AI agents, untrusted code execution, and durable services.",
       "url": "https://github.com/cofy-x/axern",
-      "stargazerCount": 46,
-      "forkCount": 1,
+      "stargazerCount": 61,
+      "forkCount": 3,
       "languageName": "Go",
       "languageColor": null,
       "ownerLogin": "cofy-x",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/225628682?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-28T05:45:33Z",
-      "updatedAt": "2026-08-01T23:32:23Z",
+      "updatedAt": "2026-08-03T01:41:54Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "agent-sandbox",
@@ -30,7 +30,35 @@
         "sandbox",
         "self-hosted"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 2,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1321101753",
+      "name": "lens-kubernetes-2026",
+      "nameWithOwner": "FiscalCutter/lens-kubernetes-2026",
+      "description": "Lens Kubernetes — Lens Kubernetes Windows setup — software landing repository with install notes, workflow checklists, and session logs. Unofficial Windows setup notes and session logs.",
+      "url": "https://github.com/FiscalCutter/lens-kubernetes-2026",
+      "stargazerCount": 10,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "FiscalCutter",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/307274064?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-03T02:19:32Z",
+      "updatedAt": "2026-08-03T03:41:44Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "desktop-app",
+        "kubernetes",
+        "lens",
+        "lens-kubernetes-2026",
+        "setup",
+        "software",
+        "windows"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {

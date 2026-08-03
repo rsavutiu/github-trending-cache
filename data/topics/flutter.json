@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-02T06:44:26Z",
+  "generatedAt": "2026-08-03T07:44:44Z",
   "topic": "flutter",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1314535038",
@@ -9,15 +9,15 @@
       "nameWithOwner": "starling-build/starling",
       "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
       "url": "https://github.com/starling-build/starling",
-      "stargazerCount": 235,
-      "forkCount": 14,
+      "stargazerCount": 264,
+      "forkCount": 15,
       "languageName": "Swift",
       "languageColor": null,
       "ownerLogin": "starling-build",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/306918147?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-28T04:31:38Z",
-      "updatedAt": "2026-08-02T06:35:52Z",
+      "updatedAt": "2026-08-03T07:07:00Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ai",
@@ -36,7 +36,42 @@
         "window-manager",
         "x11"
       ],
-      "openIssuesCount": 2,
+      "openIssuesCount": 3,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1314553634",
+      "name": "aimux",
+      "nameWithOwner": "arcships/aimux",
+      "description": "Unified LLM access layer in Rust — one API for 325 AI providers. 统一 LLM 服务接入层：一套 API 接入 325 家 AI 服务商。",
+      "url": "https://github.com/arcships/aimux",
+      "stargazerCount": 149,
+      "forkCount": 5,
+      "languageName": "Rust",
+      "languageColor": null,
+      "ownerLogin": "arcships",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/272712626?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-07-28T04:58:46Z",
+      "updatedAt": "2026-08-03T07:17:08Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ai",
+        "c",
+        "flutter",
+        "go",
+        "java",
+        "kotlin",
+        "llm",
+        "llm-api",
+        "llm-providers",
+        "nodejs",
+        "openai-compatible",
+        "python",
+        "rust",
+        "swift"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]
