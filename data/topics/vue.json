@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-04T06:39:35Z",
+  "generatedAt": "2026-08-05T06:40:44Z",
   "topic": "vue",
-  "totalCount": 6,
+  "totalCount": 7,
   "repos": [
     {
       "id": "1318819711",
       "name": "asset-node.com",
       "nameWithOwner": "elixio-io/asset-node.com",
-      "description": "ITSM OPEN SOURCE",
+      "description": "ITAM OPEN SOURCE",
       "url": "https://github.com/elixio-io/asset-node.com",
       "stargazerCount": 22,
       "forkCount": 3,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/311598258?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-31T23:23:41Z",
-      "updatedAt": "2026-08-03T20:13:26Z",
+      "updatedAt": "2026-08-04T13:03:43Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "ai-agents",
@@ -38,7 +38,7 @@
         "typescript",
         "vue"
       ],
-      "openIssuesCount": 2,
+      "openIssuesCount": 3,
       "closedIssuesCount": 0
     },
     {
@@ -55,7 +55,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/131567472?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-02T00:33:24Z",
-      "updatedAt": "2026-08-04T02:21:22Z",
+      "updatedAt": "2026-08-04T16:42:30Z",
       "licenseName": "MIT",
       "topics": [
         "docker",
@@ -88,7 +88,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/214466518?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-30T08:34:46Z",
-      "updatedAt": "2026-08-04T06:16:03Z",
+      "updatedAt": "2026-08-05T05:18:20Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "nuxt",
@@ -104,7 +104,7 @@
       "nameWithOwner": "frappe/shop",
       "description": "B2C e-commerce storefront powered by ERPNext and Frappe Builder (work in progress, not production ready)",
       "url": "https://github.com/frappe/shop",
-      "stargazerCount": 9,
+      "stargazerCount": 10,
       "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
@@ -112,7 +112,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/836974?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-31T11:39:12Z",
-      "updatedAt": "2026-08-03T16:34:11Z",
+      "updatedAt": "2026-08-04T19:01:04Z",
       "licenseName": "MIT",
       "topics": [
         "ecommerce",
@@ -122,42 +122,6 @@
         "python",
         "storefront",
         "vue"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1315993576",
-      "name": "community-website",
-      "nameWithOwner": "NEXT-GEN-PROGRAMMING/community-website",
-      "description": "Official website for the NEXT-GEN Programmers Discord community.",
-      "url": "https://github.com/NEXT-GEN-PROGRAMMING/community-website",
-      "stargazerCount": 8,
-      "forkCount": 6,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "NEXT-GEN-PROGRAMMING",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/310541234?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-07-29T10:24:10Z",
-      "updatedAt": "2026-08-02T21:06:07Z",
-      "licenseName": "MIT",
-      "topics": [
-        "docker",
-        "docker-compose",
-        "fastify",
-        "iconify",
-        "motion-vue",
-        "nuxt4",
-        "nuxtui",
-        "pinia",
-        "postgresql",
-        "prisma",
-        "redis",
-        "tailwindcss",
-        "typescript",
-        "vue",
-        "vueuse"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -176,7 +140,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/12377074?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-30T00:55:37Z",
-      "updatedAt": "2026-08-04T03:17:26Z",
+      "updatedAt": "2026-08-05T06:33:14Z",
       "licenseName": null,
       "topics": [
         "astro",
@@ -194,6 +158,64 @@
         "vite",
         "vue",
         "vue-router"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1318242396",
+      "name": "yotsuba-gantt",
+      "nameWithOwner": "isla4ever/yotsuba-gantt",
+      "description": "跨框架甘特图组件：TypeScript Core、Vue 3、多图联动、六档时间视图与自动聚焦",
+      "url": "https://github.com/isla4ever/yotsuba-gantt",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": "Vue",
+      "languageColor": null,
+      "ownerLogin": "isla4ever",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/144573387?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-07-31T10:46:23Z",
+      "updatedAt": "2026-08-05T06:32:49Z",
+      "licenseName": "MIT",
+      "topics": [
+        "flutter",
+        "gantt",
+        "open-source",
+        "project-management",
+        "react",
+        "timeline",
+        "typescript",
+        "virtualization",
+        "vue"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1321179035",
+      "name": "vkeyboardhand",
+      "nameWithOwner": "ayuday/vkeyboardhand",
+      "description": "By integrating SVG keyboard graphics, SVG gesture graphics, and JavaScript event-driven interaction, an interactive virtual keyboard and fingering display teaching system is realized! 通过 SVG 键盘图 + SVG 手势图 + JavaScript 事件驱动 联动，实现一个交互式虚拟键盘及指法显示教学系统!",
+      "url": "https://github.com/ayuday/vkeyboardhand",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "HTML",
+      "languageColor": null,
+      "ownerLogin": "ayuday",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/12504837?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-03T03:46:56Z",
+      "updatedAt": "2026-08-05T05:51:43Z",
+      "licenseName": "MIT",
+      "topics": [
+        "html5",
+        "javascript",
+        "npm",
+        "npm-package",
+        "react",
+        "svg",
+        "vue"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

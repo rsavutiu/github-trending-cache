@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-04T06:39:35Z",
+  "generatedAt": "2026-08-05T06:40:44Z",
   "topic": "java",
-  "totalCount": 5,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1317295717",
@@ -42,7 +42,7 @@
       "nameWithOwner": "888newstep/ai-agent-platform",
       "description": "企业级 AI Agent 平台 | Spring Boot 3 + LangChain4j | ReAct 推理 + 多路召回 RAG + 语义缓存 + 多智能体协作",
       "url": "https://github.com/888newstep/ai-agent-platform",
-      "stargazerCount": 30,
+      "stargazerCount": 54,
       "forkCount": 0,
       "languageName": "Java",
       "languageColor": null,
@@ -50,7 +50,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/275442820?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-31T15:43:16Z",
-      "updatedAt": "2026-08-04T06:23:44Z",
+      "updatedAt": "2026-08-05T06:26:54Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "ai-agent",
@@ -74,7 +74,7 @@
       "nameWithOwner": "EveryArrow/everyarrow",
       "description": "EveryArrow source foundation: DITTOE pipelines, Event Manager, and shared Java utilities.",
       "url": "https://github.com/EveryArrow/everyarrow",
-      "stargazerCount": 12,
+      "stargazerCount": 13,
       "forkCount": 0,
       "languageName": "Java",
       "languageColor": null,
@@ -82,7 +82,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/146293832?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-07-31T01:23:07Z",
-      "updatedAt": "2026-08-03T23:26:17Z",
+      "updatedAt": "2026-08-04T20:53:00Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "data-integration",
@@ -95,67 +95,6 @@
         "webhooks"
       ],
       "openIssuesCount": 8,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1316637388",
-      "name": "MapGUI",
-      "nameWithOwner": "FloG99/MapGUI",
-      "description": "Clickable menus and video walls, made of maps. A real GUI framework for Paper.",
-      "url": "https://github.com/FloG99/MapGUI",
-      "stargazerCount": 7,
-      "forkCount": 1,
-      "languageName": "Java",
-      "languageColor": null,
-      "ownerLogin": "FloG99",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/63739845?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-29T23:13:09Z",
-      "updatedAt": "2026-08-02T08:29:43Z",
-      "licenseName": "LGPL-3.0",
-      "topics": [
-        "bukkit",
-        "gui",
-        "java",
-        "layout-engine",
-        "minecraft",
-        "paper",
-        "paper-plugin"
-      ],
-      "openIssuesCount": 10,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1315799120",
-      "name": "limitly",
-      "nameWithOwner": "onizukaTP/limitly",
-      "description": "Production-grade Redis-backed rate limiter Spring Boot starter. Features atomic Lua execution, Token Bucket & Sliding Window algorithms, SpEL resolution, and Micrometer metrics.",
-      "url": "https://github.com/onizukaTP/limitly",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Java",
-      "languageColor": null,
-      "ownerLogin": "onizukaTP",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/56309565?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-29T06:55:26Z",
-      "updatedAt": "2026-08-02T06:32:45Z",
-      "licenseName": null,
-      "topics": [
-        "java",
-        "java21",
-        "lua",
-        "micrometer",
-        "rate-limiter",
-        "rate-limiting",
-        "redis",
-        "resilience",
-        "sliding-window",
-        "spring-boot",
-        "spring-boot-starter",
-        "token-bucket"
-      ],
-      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

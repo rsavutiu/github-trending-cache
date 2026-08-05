@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-04T06:39:35Z",
+  "generatedAt": "2026-08-05T06:40:44Z",
   "topic": "deep-learning",
-  "totalCount": 7,
+  "totalCount": 6,
   "repos": [
     {
       "id": "1319154759",
@@ -9,15 +9,15 @@
       "nameWithOwner": "FareedKhan-dev/kimi-k3-in-c",
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-      "stargazerCount": 1389,
-      "forkCount": 216,
+      "stargazerCount": 2166,
+      "forkCount": 355,
       "languageName": "C",
       "languageColor": null,
       "ownerLogin": "FareedKhan-dev",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/63067900?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-01T09:29:38Z",
-      "updatedAt": "2026-08-04T06:37:25Z",
+      "updatedAt": "2026-08-05T06:40:00Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "avx2",
@@ -41,7 +41,7 @@
         "transformer",
         "zero-dependencies"
       ],
-      "openIssuesCount": 5,
+      "openIssuesCount": 7,
       "closedIssuesCount": 0
     },
     {
@@ -50,7 +50,7 @@
       "nameWithOwner": "ArisuLoveASMR/ArisuLoveASMR",
       "description": "Ноутбук для Гугл коллаба, в котором вы сможете к абсолютно любому медиа добавить субтитры и автоматически их первести на любой язык",
       "url": "https://github.com/ArisuLoveASMR/ArisuLoveASMR",
-      "stargazerCount": 64,
+      "stargazerCount": 52,
       "forkCount": 0,
       "languageName": "Jupyter Notebook",
       "languageColor": null,
@@ -58,7 +58,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/309134303?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-31T22:45:44Z",
-      "updatedAt": "2026-08-03T23:48:29Z",
+      "updatedAt": "2026-08-04T11:52:38Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "anime",
@@ -109,34 +109,6 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1315862117",
-      "name": "NPU-E2E",
-      "nameWithOwner": "YutongChenVictor/NPU-E2E",
-      "description": "End-to-End NPU: RTL systolic array → AXI4 SoC → TVM compiler → FPGA inference",
-      "url": "https://github.com/YutongChenVictor/NPU-E2E",
-      "stargazerCount": 27,
-      "forkCount": 2,
-      "languageName": "Verilog",
-      "languageColor": null,
-      "ownerLogin": "YutongChenVictor",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/116343013?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-29T08:05:13Z",
-      "updatedAt": "2026-08-04T05:29:38Z",
-      "licenseName": "AGPL-3.0",
-      "topics": [
-        "axidma",
-        "deep-learning",
-        "fpga",
-        "npu",
-        "systolic-array",
-        "tvm",
-        "verilog"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1319105099",
       "name": "Lightweight-Speech-Enhancement",
       "nameWithOwner": "j128djsj/Lightweight-Speech-Enhancement",
@@ -150,7 +122,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/221670642?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-01T08:17:45Z",
-      "updatedAt": "2026-08-03T16:14:12Z",
+      "updatedAt": "2026-08-05T04:23:44Z",
       "licenseName": "MIT",
       "topics": [
         "audio-processing",
@@ -163,34 +135,32 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1315912081",
-      "name": "soroban",
-      "nameWithOwner": "tamnd/soroban",
-      "description": "Learn to train neural networks by hand: paper arithmetic, asserted code, and a from-scratch Go autograd, one lesson at a time",
-      "url": "https://github.com/tamnd/soroban",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "Jupyter Notebook",
+      "id": "1321574929",
+      "name": "awesome-geospatial-super-resolution",
+      "nameWithOwner": "khlaifiabilel/awesome-geospatial-super-resolution",
+      "description": "A curated list of algorithms, datasets, models, code, and papers for super-resolution of geospatial and remote sensing data (Sentinel-2 and beyond)",
+      "url": "https://github.com/khlaifiabilel/awesome-geospatial-super-resolution",
+      "stargazerCount": 9,
+      "forkCount": 1,
+      "languageName": null,
       "languageColor": null,
-      "ownerLogin": "tamnd",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1218621?v=4",
+      "ownerLogin": "khlaifiabilel",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/31816208?v=4",
       "ownerType": "User",
-      "createdAt": "2026-07-29T08:55:51Z",
-      "updatedAt": "2026-07-31T12:09:39Z",
-      "licenseName": "MIT",
+      "createdAt": "2026-08-03T10:13:42Z",
+      "updatedAt": "2026-08-04T11:03:16Z",
+      "licenseName": "CC0-1.0",
       "topics": [
-        "autograd",
+        "awesome-list",
         "deep-learning",
-        "education",
-        "from-scratch",
-        "golang",
-        "gradient-descent",
-        "jupyter-notebook",
-        "machine-learning",
-        "manim",
-        "neural-networks",
-        "python",
-        "tutorial"
+        "earth-observation",
+        "geospatial",
+        "image-fusion",
+        "pansharpening",
+        "remote-sensing",
+        "satellite-imagery",
+        "sentinel-2",
+        "super-resolution"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -209,7 +179,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/31608692?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-30T10:06:41Z",
-      "updatedAt": "2026-08-03T19:54:27Z",
+      "updatedAt": "2026-08-04T21:15:23Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "benchmark",
@@ -230,7 +200,7 @@
         "ultralytics",
         "yolo"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

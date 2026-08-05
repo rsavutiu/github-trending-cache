@@ -1,38 +1,8 @@
 {
-  "generatedAt": "2026-08-04T06:39:35Z",
+  "generatedAt": "2026-08-05T06:40:44Z",
   "topic": "devops",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
-    {
-      "id": "1315642195",
-      "name": "LunarDump",
-      "nameWithOwner": "indhifarhandika/LunarDump",
-      "description": "A lightweight, zero-trust CLI tool built in Python to automate, encrypt, and stream database backups directly to multi-cloud storage.",
-      "url": "https://github.com/indhifarhandika/LunarDump",
-      "stargazerCount": 34,
-      "forkCount": 1,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "indhifarhandika",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/28488788?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-29T03:20:05Z",
-      "updatedAt": "2026-08-03T01:44:55Z",
-      "licenseName": "MIT",
-      "topics": [
-        "database",
-        "developer-tools",
-        "devops",
-        "devtools",
-        "mongodb",
-        "mysql",
-        "mysqldump",
-        "postgresql",
-        "python"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1317036455",
       "name": "Overseer",
