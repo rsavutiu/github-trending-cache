@@ -1,37 +1,8 @@
 {
-  "generatedAt": "2026-08-05T06:40:44Z",
+  "generatedAt": "2026-08-06T06:44:04Z",
   "topic": "web",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
-    {
-      "id": "1317190160",
-      "name": "claude-copy",
-      "nameWithOwner": "HarKro753/claude-copy",
-      "description": "Copy any reference pixel perfect  in mintes",
-      "url": "https://github.com/HarKro753/claude-copy",
-      "stargazerCount": 15,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "HarKro753",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/176216959?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-30T11:25:51Z",
-      "updatedAt": "2026-08-04T02:53:16Z",
-      "licenseName": "MIT",
-      "topics": [
-        "ai",
-        "ai-agent",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "web",
-        "website"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1322436540",
       "name": "EZSSH",
@@ -39,7 +10,7 @@
       "description": "原生 SSH / SFTP 驱动的轻量干净、可视化的服务器 / VPS 自托管中心化 Web 网关，GO 驱动，服务器无需任何 Agent，安全可控。A native SSH/SFTP-powered, lightweight, clean, and visualized centralized web gateway for self-hosted server/VPS management. Built with Go, it requires no agent on the server side, and is secure and fully controllable.",
       "url": "https://github.com/pureages/EZSSH",
       "stargazerCount": 7,
-      "forkCount": 0,
+      "forkCount": 1,
       "languageName": "TypeScript",
       "languageColor": null,
       "ownerLogin": "pureages",

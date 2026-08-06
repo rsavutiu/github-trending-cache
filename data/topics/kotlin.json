@@ -1,48 +1,15 @@
 {
-  "generatedAt": "2026-08-05T06:40:44Z",
+  "generatedAt": "2026-08-06T06:44:04Z",
   "topic": "kotlin",
-  "totalCount": 6,
+  "totalCount": 7,
   "repos": [
-    {
-      "id": "1317498675",
-      "name": "opentv",
-      "nameWithOwner": "opentvproject/opentv",
-      "description": "Free, open-source IPTV player for Android TV, Fire TV, phones and tablets. No account, no subscription, no server.",
-      "url": "https://github.com/opentvproject/opentv",
-      "stargazerCount": 17,
-      "forkCount": 1,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "opentvproject",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/311127668?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-07-30T16:59:58Z",
-      "updatedAt": "2026-08-05T03:01:58Z",
-      "licenseName": "GPL-3.0",
-      "topics": [
-        "android-tv",
-        "epg",
-        "exoplayer",
-        "fire-tv",
-        "google-tv",
-        "iptv",
-        "jetpack-compose",
-        "kotlin",
-        "m3u",
-        "media3",
-        "xmltv",
-        "xtream-codes"
-      ],
-      "openIssuesCount": 2,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1319271676",
       "name": "RiseDiary",
       "nameWithOwner": "sky-shunfengjun/RiseDiary",
       "description": "一款记录机长起飞的安卓APP，提供数据统计，拥有液态玻璃视觉效果。",
       "url": "https://github.com/sky-shunfengjun/RiseDiary",
-      "stargazerCount": 16,
+      "stargazerCount": 26,
       "forkCount": 0,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -50,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/178266368?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-01T12:21:28Z",
-      "updatedAt": "2026-08-05T04:30:43Z",
+      "updatedAt": "2026-08-06T04:38:24Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "android",
@@ -62,7 +29,7 @@
         "personal-tracker",
         "room"
       ],
-      "openIssuesCount": 2,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -79,7 +46,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/11042077?v=4",
       "ownerType": "User",
       "createdAt": "2026-07-31T11:16:53Z",
-      "updatedAt": "2026-08-04T12:53:52Z",
+      "updatedAt": "2026-08-05T14:13:24Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "android",
@@ -95,6 +62,37 @@
         "xposed"
       ],
       "openIssuesCount": 10,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1323677868",
+      "name": "astrion-ha-dashboard",
+      "nameWithOwner": "vvaters/astrion-ha-dashboard",
+      "description": "Native Android dashboard for the Sanytron Astrion HA100 smart remote, talking straight to Home Assistant over one WebSocket. Replaces the stock vendor app: config-driven swipeable pages, tappable floorplan, physical button + IR mapping, HA Assist voice, Plex posters. Kotlin + Compose. No Lovelace, no WebView, no cloud.",
+      "url": "https://github.com/vvaters/astrion-ha-dashboard",
+      "stargazerCount": 11,
+      "forkCount": 0,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "vvaters",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/118854631?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-05T05:46:43Z",
+      "updatedAt": "2026-08-06T04:18:49Z",
+      "licenseName": "MIT",
+      "topics": [
+        "android",
+        "astrion-remote",
+        "home-assistant",
+        "home-automation",
+        "infrared",
+        "iot",
+        "jetpack-compose",
+        "kotlin",
+        "sanytron",
+        "smart-home"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -180,6 +178,35 @@
         "password-manager",
         "privacy",
         "totp"
+      ],
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1321939154",
+      "name": "compose-task-manager",
+      "nameWithOwner": "Godark14/compose-task-manager",
+      "description": "A polished task manager app built with Jetpack Compose & Material 3. Categories, priorities, subtask checklists, due-date reminders, calendar view, and Canvas-drawn stats — backed by Room for local persistence. 100% Kotlin, no XML layouts.",
+      "url": "https://github.com/Godark14/compose-task-manager",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "Godark14",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/112069533?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-03T15:27:56Z",
+      "updatedAt": "2026-08-05T17:36:17Z",
+      "licenseName": "MIT",
+      "topics": [
+        "android",
+        "android-development",
+        "compose-ui",
+        "jetpack-compose",
+        "kotlin",
+        "material-design-3",
+        "task-manager",
+        "todo-app"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

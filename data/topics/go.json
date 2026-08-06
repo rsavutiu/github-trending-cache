@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-05T06:40:44Z",
+  "generatedAt": "2026-08-06T06:44:04Z",
   "topic": "go",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1318987224",
@@ -9,7 +9,7 @@
       "nameWithOwner": "ikhsan3adi/gemini-web2api",
       "description": "Blazing fast Go port of gemini-web2api. Convert Google Gemini web into OpenAI-compatible API. Zero cost, single static binary.",
       "url": "https://github.com/ikhsan3adi/gemini-web2api",
-      "stargazerCount": 21,
+      "stargazerCount": 22,
       "forkCount": 4,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/93766033?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-01T05:13:33Z",
-      "updatedAt": "2026-08-03T01:55:02Z",
+      "updatedAt": "2026-08-05T13:02:16Z",
       "licenseName": "MIT",
       "topics": [
         "9router",
@@ -40,6 +40,44 @@
         "proxy",
         "rewrite",
         "web2api"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1322998826",
+      "name": "cooldeck",
+      "nameWithOwner": "Resetnak/cooldeck",
+      "description": "Keyboard-first terminal dashboard for Coolify: deployments, live logs across your whole fleet, and an MCP server for your agent",
+      "url": "https://github.com/Resetnak/cooldeck",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "Resetnak",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/15822378?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-04T13:45:25Z",
+      "updatedAt": "2026-08-06T06:05:12Z",
+      "licenseName": "MIT",
+      "topics": [
+        "bubbletea",
+        "charmbracelet",
+        "cli",
+        "coolify",
+        "coolify-api",
+        "dashboard",
+        "deployment",
+        "devops",
+        "go",
+        "golang",
+        "logs",
+        "mcp",
+        "model-context-protocol",
+        "paas",
+        "self-hosted",
+        "terminal",
+        "tui"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

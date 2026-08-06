@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T06:40:44Z",
+  "generatedAt": "2026-08-06T06:44:04Z",
   "topic": "data-science",
   "totalCount": 1,
   "repos": [
@@ -10,7 +10,7 @@
       "description": "Upload spreadsheets, ask questions via chat, and auto-generate chart reports. No coding required, gain instant insights and unlock data value effortlessly. ｜上传表格，像聊天一样提问，系统自动分析生成图表报告。无需编程，即时洞察，数据价值触手可及。",
       "url": "https://github.com/MrXujiang/opne-aureka",
       "stargazerCount": 26,
-      "forkCount": 8,
+      "forkCount": 10,
       "languageName": "TypeScript",
       "languageColor": null,
       "ownerLogin": "MrXujiang",
