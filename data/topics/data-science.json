@@ -1,37 +1,6 @@
 {
-  "generatedAt": "2026-08-06T06:44:04Z",
+  "generatedAt": "2026-08-07T05:49:57Z",
   "topic": "data-science",
-  "totalCount": 1,
-  "repos": [
-    {
-      "id": "1317946380",
-      "name": "opne-aureka",
-      "nameWithOwner": "MrXujiang/opne-aureka",
-      "description": "Upload spreadsheets, ask questions via chat, and auto-generate chart reports. No coding required, gain instant insights and unlock data value effortlessly. ｜上传表格，像聊天一样提问，系统自动分析生成图表报告。无需编程，即时洞察，数据价值触手可及。",
-      "url": "https://github.com/MrXujiang/opne-aureka",
-      "stargazerCount": 26,
-      "forkCount": 10,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "MrXujiang",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/28833634?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-31T04:58:07Z",
-      "updatedAt": "2026-08-05T03:58:27Z",
-      "licenseName": "GPL-3.0",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "data-engineering",
-        "data-science",
-        "database",
-        "echarts",
-        "editor",
-        "visual-studio-code",
-        "visualization"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    }
-  ]
+  "totalCount": 0,
+  "repos": []
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T06:44:04Z",
+  "generatedAt": "2026-08-07T05:49:57Z",
   "topic": "go",
   "totalCount": 2,
   "repos": [
@@ -50,7 +50,7 @@
       "nameWithOwner": "Resetnak/cooldeck",
       "description": "Keyboard-first terminal dashboard for Coolify: deployments, live logs across your whole fleet, and an MCP server for your agent",
       "url": "https://github.com/Resetnak/cooldeck",
-      "stargazerCount": 6,
+      "stargazerCount": 8,
       "forkCount": 0,
       "languageName": "Go",
       "languageColor": null,
@@ -58,7 +58,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/15822378?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-04T13:45:25Z",
-      "updatedAt": "2026-08-06T06:05:12Z",
+      "updatedAt": "2026-08-06T15:15:51Z",
       "licenseName": "MIT",
       "topics": [
         "bubbletea",
@@ -79,7 +79,7 @@
         "terminal",
         "tui"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 5,
       "closedIssuesCount": 0
     }
   ]

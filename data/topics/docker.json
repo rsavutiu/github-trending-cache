@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-06T06:44:04Z",
+  "generatedAt": "2026-08-07T05:49:57Z",
   "topic": "docker",
-  "totalCount": 11,
+  "totalCount": 9,
   "repos": [
     {
       "id": "1321050149",
@@ -9,7 +9,7 @@
       "nameWithOwner": "Mr-funny/hbg-classical-poem-silk-video",
       "description": "Agent Skill for turning Chinese classical poems into vertical Chinese-art videos with ImageGen stills, Docker I2V, calligraphy captions, retained ambience, BGM and final MP4 QA.",
       "url": "https://github.com/Mr-funny/hbg-classical-poem-silk-video",
-      "stargazerCount": 173,
+      "stargazerCount": 182,
       "forkCount": 27,
       "languageName": "Shell",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/26950296?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-03T01:04:46Z",
-      "updatedAt": "2026-08-06T06:23:12Z",
+      "updatedAt": "2026-08-07T04:22:47Z",
       "licenseName": "MIT",
       "topics": [
         "agent-skill",
@@ -45,7 +45,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/219390163?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-01T05:54:08Z",
-      "updatedAt": "2026-08-06T02:15:28Z",
+      "updatedAt": "2026-08-07T01:20:56Z",
       "licenseName": "MIT",
       "topics": [
         "ai",
@@ -59,38 +59,6 @@
         "python",
         "recording",
         "surveillance"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1318504079",
-      "name": "ai-agent-platform",
-      "nameWithOwner": "888newstep/ai-agent-platform",
-      "description": "企业级 AI Agent 平台 | Spring Boot 3 + LangChain4j | ReAct 推理 + 多路召回 RAG + 语义缓存 + 多智能体协作",
-      "url": "https://github.com/888newstep/ai-agent-platform",
-      "stargazerCount": 70,
-      "forkCount": 0,
-      "languageName": "Java",
-      "languageColor": null,
-      "ownerLogin": "888newstep",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/275442820?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-31T15:43:16Z",
-      "updatedAt": "2026-08-06T06:07:33Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "ai-agent",
-        "docker",
-        "java",
-        "langchain4j",
-        "llm",
-        "milvus",
-        "rag",
-        "react-agent",
-        "retrieval-augmented-generation",
-        "semantic-cache",
-        "spring-boot"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -158,7 +126,7 @@
       "nameWithOwner": "liyupi/yu-ai-learn",
       "description": "2026 年编程导航 AI 编程实战新项目，基于 Taro + React + FastAPI + DeepSeek 的 AI 闯关学习小程序，支持一句话 / 文本主题 AI 出题、闯关答题与即时讲解、联网搜索增强、RAG 私有知识库出题、AI 生图配图、微信登录与通关复盘报告。覆盖 LangChain / LangGraph、Chroma 向量库、MySQL、JWT、腾讯云 COS、Tavily 联网搜索、阿里云百炼、微信小程序与云托管。用一套教程掌握 AI 编程全流程，从需求调研到部署上线，不到一周学完，给你的简历增加竞争力",
       "url": "https://github.com/liyupi/yu-ai-learn",
-      "stargazerCount": 11,
+      "stargazerCount": 12,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -166,7 +134,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/26037703?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-05T06:16:50Z",
-      "updatedAt": "2026-08-06T03:42:05Z",
+      "updatedAt": "2026-08-06T17:10:34Z",
       "licenseName": "MIT",
       "topics": [
         "agent",
@@ -230,34 +198,6 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1318156309",
-      "name": "linux-for-engineers",
-      "nameWithOwner": "jeresoftx/linux-for-engineers",
-      "description": "Curso de Linux para Ingenieros de Jeresoft Academy: terminal, procesos, permisos, redes, servicios y automatización segura.",
-      "url": "https://github.com/jeresoftx/linux-for-engineers",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "Shell",
-      "languageColor": null,
-      "ownerLogin": "jeresoftx",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/139817810?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-07-31T09:05:07Z",
-      "updatedAt": "2026-08-03T17:57:13Z",
-      "licenseName": null,
-      "topics": [
-        "bash",
-        "devops",
-        "docker",
-        "jeresoft-academy",
-        "linux",
-        "shell",
-        "system-administration"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1319743115",
       "name": "vohive-qdc507-nas-docker",
       "nameWithOwner": "hei85/vohive-qdc507-nas-docker",
@@ -271,7 +211,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/155975526?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-02T01:58:26Z",
-      "updatedAt": "2026-08-04T13:28:19Z",
+      "updatedAt": "2026-08-07T03:35:25Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "docker",
@@ -281,6 +221,37 @@
         "vohive"
       ],
       "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1319578899",
+      "name": "TaskLabs",
+      "nameWithOwner": "Matthew-kabiu/TaskLabs",
+      "description": "TaskLabs is a free, open source task and calendar manager that you host yourself. It gives you Kanban boards, a shared calendar, realtime updates, Telegram reminders, and a built-in MCP endpoint for AI agents — running entirely on your own infrastructure, under the MIT license, with no per-seat fees and no customer data leaving your environment.",
+      "url": "https://github.com/Matthew-kabiu/TaskLabs",
+      "stargazerCount": 6,
+      "forkCount": 2,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "Matthew-kabiu",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/102014650?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-01T19:40:13Z",
+      "updatedAt": "2026-08-06T17:24:25Z",
+      "licenseName": "MIT",
+      "topics": [
+        "convex",
+        "docker",
+        "docker-compose",
+        "nextauth",
+        "nextjs",
+        "postgresql",
+        "react",
+        "shadcn-ui",
+        "tailwindcss",
+        "typescript"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -305,37 +276,6 @@
         "docker",
         "market-research",
         "self-hosted"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1319578899",
-      "name": "TaskLabs",
-      "nameWithOwner": "Matthew-kabiu/TaskLabs",
-      "description": "TaskLabs is a free, open source task and calendar manager that you host yourself. It gives you Kanban boards, a shared calendar, realtime updates, Telegram reminders, and a built-in MCP endpoint for AI agents — running entirely on your own infrastructure, under the MIT license, with no per-seat fees and no customer data leaving your environment.",
-      "url": "https://github.com/Matthew-kabiu/TaskLabs",
-      "stargazerCount": 6,
-      "forkCount": 2,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "Matthew-kabiu",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/102014650?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-01T19:40:13Z",
-      "updatedAt": "2026-08-05T18:44:29Z",
-      "licenseName": "MIT",
-      "topics": [
-        "convex",
-        "docker",
-        "docker-compose",
-        "nextauth",
-        "nextjs",
-        "postgresql",
-        "react",
-        "shadcn-ui",
-        "tailwindcss",
-        "typescript"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
