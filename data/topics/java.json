@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T05:49:57Z",
+  "generatedAt": "2026-08-08T05:09:20Z",
   "topic": "java",
   "totalCount": 4,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "PatilShreyas/debroid",
       "description": "Autonomous, headless Android debugger designed for AI coding agents. Inspect runtime memory, set breakpoints, and debug live apps.",
       "url": "https://github.com/PatilShreyas/debroid",
-      "stargazerCount": 70,
+      "stargazerCount": 89,
       "forkCount": 4,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/19620536?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-02T15:58:29Z",
-      "updatedAt": "2026-08-07T04:06:30Z",
+      "updatedAt": "2026-08-08T05:05:46Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "agentic-ai",
@@ -33,7 +33,7 @@
         "java",
         "kotlin"
       ],
-      "openIssuesCount": 6,
+      "openIssuesCount": 4,
       "closedIssuesCount": 0
     },
     {
@@ -42,15 +42,15 @@
       "nameWithOwner": "AnctyEnly453/mc-architect-mcp",
       "description": "Minecraft Java Fabric mod and MCP server for AI-assisted world inspection, building, validation, screenshots, and persistent undo.",
       "url": "https://github.com/AnctyEnly453/mc-architect-mcp",
-      "stargazerCount": 15,
-      "forkCount": 0,
+      "stargazerCount": 17,
+      "forkCount": 1,
       "languageName": "JavaScript",
       "languageColor": null,
       "ownerLogin": "AnctyEnly453",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/245800481?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-05T06:53:40Z",
-      "updatedAt": "2026-08-06T12:34:26Z",
+      "updatedAt": "2026-08-07T16:30:21Z",
       "licenseName": "MIT",
       "topics": [
         "ai",
@@ -62,7 +62,7 @@
         "model-context-protocol",
         "typescript"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -71,7 +71,7 @@
       "nameWithOwner": "unknowbug/CoreSwap",
       "description": "We took the 'Java' out of Minecraft Java Edition. Same mods. Same worlds. Different FPS.",
       "url": "https://github.com/unknowbug/CoreSwap",
-      "stargazerCount": 12,
+      "stargazerCount": 13,
       "forkCount": 3,
       "languageName": "C++",
       "languageColor": null,
@@ -79,7 +79,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/239323551?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-04T18:37:16Z",
-      "updatedAt": "2026-08-07T03:54:10Z",
+      "updatedAt": "2026-08-07T19:37:40Z",
       "licenseName": null,
       "topics": [
         "c-plus-plus",
@@ -100,7 +100,7 @@
         "world-generation",
         "worldgen"
       ],
-      "openIssuesCount": 2,
+      "openIssuesCount": 4,
       "closedIssuesCount": 0
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T05:49:57Z",
+  "generatedAt": "2026-08-08T05:09:20Z",
   "topic": "flutter",
   "totalCount": 3,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "ZaryabKhan/Loopweek",
       "description": "A free, open-source weekly to-do app for Android. One screen, seven days, nothing else. Built with Flutter. No accounts, no cloud sync, no ads, no tracking.",
       "url": "https://github.com/ZaryabKhan/Loopweek",
-      "stargazerCount": 8,
-      "forkCount": 0,
+      "stargazerCount": 10,
+      "forkCount": 1,
       "languageName": "Dart",
       "languageColor": null,
       "ownerLogin": "ZaryabKhan",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/7141743?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-03T19:24:44Z",
-      "updatedAt": "2026-08-06T21:27:31Z",
+      "updatedAt": "2026-08-07T18:10:12Z",
       "licenseName": "MIT",
       "topics": [
         "android",
