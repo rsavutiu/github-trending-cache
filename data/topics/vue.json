@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-08T05:09:20Z",
+  "generatedAt": "2026-08-09T05:17:33Z",
   "topic": "vue",
-  "totalCount": 4,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1324240706",
@@ -9,7 +9,7 @@
       "nameWithOwner": "eticmedya/vibecodingex",
       "description": "AI destekli yerel işletme keşif ve saha satış aracı. Google Places ile çevredeki işletmeleri bul, Gemini ile her biri için özel yazılım fikri + satış pitch'i üret. Nuxt 4, SQLite, %100 yerel.",
       "url": "https://github.com/eticmedya/vibecodingex",
-      "stargazerCount": 68,
+      "stargazerCount": 71,
       "forkCount": 18,
       "languageName": "Vue",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/181075989?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-05T16:04:32Z",
-      "updatedAt": "2026-08-07T08:04:12Z",
+      "updatedAt": "2026-08-08T16:52:33Z",
       "licenseName": "MIT",
       "topics": [
         "ai",
@@ -32,39 +32,6 @@
         "vue"
       ],
       "openIssuesCount": 2,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1319710733",
-      "name": "openmail",
-      "nameWithOwner": "IanShaw027/openmail",
-      "description": "Local-first multi-source mailbox console: browser vault, FastAPI proxy fetch, Graph/IMAP/mail.com/HttpApi, Docker.",
-      "url": "https://github.com/IanShaw027/openmail",
-      "stargazerCount": 14,
-      "forkCount": 3,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "IanShaw027",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/131567472?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-02T00:33:24Z",
-      "updatedAt": "2026-08-07T12:39:52Z",
-      "licenseName": "MIT",
-      "topics": [
-        "docker",
-        "email",
-        "fastapi",
-        "imap",
-        "local-first",
-        "mail",
-        "microsoft-graph",
-        "privacy",
-        "self-hosted",
-        "totp",
-        "vite",
-        "vue"
-      ],
-      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -91,34 +58,6 @@
         "react",
         "svg",
         "vue"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1319870867",
-      "name": "home-icon-motion",
-      "nameWithOwner": "youwenjiujiu/home-icon-motion",
-      "description": "Generate and integrate a polished semantic Home icon motion for React, Vue, Web Components, and video.",
-      "url": "https://github.com/youwenjiujiu/home-icon-motion",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "youwenjiujiu",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/203141334?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-02T06:03:54Z",
-      "updatedAt": "2026-08-07T18:06:35Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "agent-skills",
-        "codex",
-        "motion-design",
-        "react",
-        "svg-animation",
-        "vue",
-        "web-components"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

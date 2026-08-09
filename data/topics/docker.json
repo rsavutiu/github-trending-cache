@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-08T05:09:20Z",
+  "generatedAt": "2026-08-09T05:17:33Z",
   "topic": "docker",
-  "totalCount": 7,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1321050149",
@@ -9,15 +9,15 @@
       "nameWithOwner": "Mr-funny/hbg-classical-poem-silk-video",
       "description": "Agent Skill for turning Chinese classical poems into vertical Chinese-art videos with ImageGen stills, Docker I2V, calligraphy captions, retained ambience, BGM and final MP4 QA.",
       "url": "https://github.com/Mr-funny/hbg-classical-poem-silk-video",
-      "stargazerCount": 187,
-      "forkCount": 28,
+      "stargazerCount": 190,
+      "forkCount": 29,
       "languageName": "Shell",
       "languageColor": null,
       "ownerLogin": "Mr-funny",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/26950296?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-03T01:04:46Z",
-      "updatedAt": "2026-08-07T11:58:14Z",
+      "updatedAt": "2026-08-08T15:34:55Z",
       "licenseName": "MIT",
       "topics": [
         "agent-skill",
@@ -56,45 +56,12 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1319710733",
-      "name": "openmail",
-      "nameWithOwner": "IanShaw027/openmail",
-      "description": "Local-first multi-source mailbox console: browser vault, FastAPI proxy fetch, Graph/IMAP/mail.com/HttpApi, Docker.",
-      "url": "https://github.com/IanShaw027/openmail",
-      "stargazerCount": 14,
-      "forkCount": 3,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "IanShaw027",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/131567472?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-02T00:33:24Z",
-      "updatedAt": "2026-08-07T12:39:52Z",
-      "licenseName": "MIT",
-      "topics": [
-        "docker",
-        "email",
-        "fastapi",
-        "imap",
-        "local-first",
-        "mail",
-        "microsoft-graph",
-        "privacy",
-        "self-hosted",
-        "totp",
-        "vite",
-        "vue"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1323701867",
       "name": "yu-ai-learn",
       "nameWithOwner": "liyupi/yu-ai-learn",
       "description": "2026 年编程导航 AI 编程实战新项目，基于 Taro + React + FastAPI + DeepSeek 的 AI 闯关学习小程序，支持一句话 / 文本主题 AI 出题、闯关答题与即时讲解、联网搜索增强、RAG 私有知识库出题、AI 生图配图、微信登录与通关复盘报告。覆盖 LangChain / LangGraph、Chroma 向量库、MySQL、JWT、腾讯云 COS、Tavily 联网搜索、阿里云百炼、微信小程序与云托管。用一套教程掌握 AI 编程全流程，从需求调研到部署上线，不到一周学完，给你的简历增加竞争力",
       "url": "https://github.com/liyupi/yu-ai-learn",
-      "stargazerCount": 12,
+      "stargazerCount": 13,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -102,7 +69,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/26037703?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-05T06:16:50Z",
-      "updatedAt": "2026-08-06T17:10:34Z",
+      "updatedAt": "2026-08-08T12:58:11Z",
       "licenseName": "MIT",
       "topics": [
         "agent",
@@ -163,32 +130,6 @@
         "vite"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1319743115",
-      "name": "vohive-qdc507-nas-docker",
-      "nameWithOwner": "hei85/vohive-qdc507-nas-docker",
-      "description": "面向绿联 NAS 的 VoHive QDC507 Docker 部署项目：提供可直接导入的镜像、QMI 驱动绑定、USB 热插拔恢复脚本和中文部署指南。",
-      "url": "https://github.com/hei85/vohive-qdc507-nas-docker",
-      "stargazerCount": 8,
-      "forkCount": 3,
-      "languageName": "Shell",
-      "languageColor": null,
-      "ownerLogin": "hei85",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/155975526?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-02T01:58:26Z",
-      "updatedAt": "2026-08-07T14:57:24Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "docker",
-        "nas",
-        "qmi",
-        "ugreen",
-        "vohive"
-      ],
-      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {

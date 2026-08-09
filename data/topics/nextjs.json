@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T05:09:20Z",
+  "generatedAt": "2026-08-09T05:17:33Z",
   "topic": "nextjs",
   "totalCount": 3,
   "repos": [
@@ -41,7 +41,7 @@
       "nameWithOwner": "gquthier/autonomous-learning-os",
       "description": "AGENTIC · LEARNING — Hand this repo to your agent. It interviews you, hunts down the best sources in the world on your subject, and builds you a learning dashboard. Zero shared keys.",
       "url": "https://github.com/gquthier/autonomous-learning-os",
-      "stargazerCount": 10,
+      "stargazerCount": 11,
       "forkCount": 1,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -49,7 +49,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/178818388?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-03T14:56:48Z",
-      "updatedAt": "2026-08-07T20:12:02Z",
+      "updatedAt": "2026-08-08T13:50:26Z",
       "licenseName": "MIT",
       "topics": [
         "ai-agents",
@@ -78,7 +78,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/311669582?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-08-04T07:43:39Z",
-      "updatedAt": "2026-08-05T07:50:13Z",
+      "updatedAt": "2026-08-08T15:37:24Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "ai-agent",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T05:09:20Z",
+  "generatedAt": "2026-08-09T05:17:33Z",
   "topic": "deep-learning",
   "totalCount": 3,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "lucidrains/light-loco-parkour",
       "description": "Implementation of Light Loco Parkour, Versatile Perceptive Whole-Body Locomotion via Multi-Skill Distillation, out of Light Origins Labs",
       "url": "https://github.com/lucidrains/light-loco-parkour",
-      "stargazerCount": 11,
-      "forkCount": 1,
+      "stargazerCount": 13,
+      "forkCount": 2,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "lucidrains",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-05T13:06:07Z",
-      "updatedAt": "2026-08-07T18:48:25Z",
+      "updatedAt": "2026-08-09T01:39:58Z",
       "licenseName": "MIT",
       "topics": [
         "artificial-intelligence",
@@ -73,7 +73,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/240566314?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-03T13:27:15Z",
-      "updatedAt": "2026-08-07T10:36:12Z",
+      "updatedAt": "2026-08-09T03:15:18Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "deep-learning",

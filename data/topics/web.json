@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T05:09:20Z",
+  "generatedAt": "2026-08-09T05:17:33Z",
   "topic": "web",
   "totalCount": 2,
   "repos": [
@@ -35,26 +35,23 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1320472444",
-      "name": "ismotype_test",
-      "nameWithOwner": "LISparrowC1/ismotype_test",
-      "description": "IsmoType 是一个综合性格与思想倾向的在线测试工具",
-      "url": "https://github.com/LISparrowC1/ismotype_test",
+      "id": "1321987196",
+      "name": "elc1090-2026b",
+      "nameWithOwner": "AndreaInfUFSM/elc1090-2026b",
+      "description": "ELC1090 - Desenvolvimento de Software para a Web - UFSM - 2026b",
+      "url": "https://github.com/AndreaInfUFSM/elc1090-2026b",
       "stargazerCount": 6,
-      "forkCount": 1,
-      "languageName": "JavaScript",
+      "forkCount": 0,
+      "languageName": null,
       "languageColor": null,
-      "ownerLogin": "LISparrowC1",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/124140056?v=4",
+      "ownerLogin": "AndreaInfUFSM",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/13708765?v=4",
       "ownerType": "User",
-      "createdAt": "2026-08-02T18:16:59Z",
-      "updatedAt": "2026-08-04T22:06:38Z",
-      "licenseName": "MIT",
+      "createdAt": "2026-08-03T16:13:37Z",
+      "updatedAt": "2026-08-09T00:48:56Z",
+      "licenseName": null,
       "topics": [
-        "mbti",
-        "mbti-test",
-        "web",
-        "website"
+        "web"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

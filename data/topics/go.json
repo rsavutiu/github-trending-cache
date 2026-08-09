@@ -1,8 +1,39 @@
 {
-  "generatedAt": "2026-08-08T05:09:20Z",
+  "generatedAt": "2026-08-09T05:17:33Z",
   "topic": "go",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
+    {
+      "id": "1326737916",
+      "name": "leo2api",
+      "nameWithOwner": "LImingcheng07/leo2api",
+      "description": "🔥 Leonardo 视频生成 API 网关：Token 池自动调度 + JWT 自动保活 + OpenAI 风格接口，支持 Seedance 2.0 / Sora 2 / Kling O3 / MiniMax H3",
+      "url": "https://github.com/LImingcheng07/leo2api",
+      "stargazerCount": 11,
+      "forkCount": 8,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "LImingcheng07",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/117246122?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-07T13:57:35Z",
+      "updatedAt": "2026-08-09T04:59:32Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ai-video",
+        "api-gateway",
+        "free-api",
+        "go",
+        "leonardo",
+        "openai-api",
+        "reverse-proxy",
+        "seedance",
+        "token-pool",
+        "video-generation"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1322998826",
       "name": "cooldeck",
