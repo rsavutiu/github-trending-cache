@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-10T05:43:08Z",
+  "generatedAt": "2026-08-11T05:21:33Z",
   "topic": "java",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1323731499",
@@ -30,44 +30,6 @@
         "typescript"
       ],
       "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1323268661",
-      "name": "CoreSwap",
-      "nameWithOwner": "unknowbug/CoreSwap",
-      "description": "We took the 'Java' out of Minecraft Java Edition. Same mods. Same worlds. Different FPS.",
-      "url": "https://github.com/unknowbug/CoreSwap",
-      "stargazerCount": 12,
-      "forkCount": 2,
-      "languageName": "C++",
-      "languageColor": null,
-      "ownerLogin": "unknowbug",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/239323551?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-04T18:37:16Z",
-      "updatedAt": "2026-08-09T06:13:13Z",
-      "licenseName": null,
-      "topics": [
-        "c-plus-plus",
-        "chunk-generator",
-        "cpp",
-        "fabri",
-        "fabric",
-        "fabric-mod",
-        "fabricmc",
-        "java",
-        "jni",
-        "minecraf-mod",
-        "minecraft-optimization-pc",
-        "modding",
-        "native",
-        "optimization",
-        "performance",
-        "world-generation",
-        "worldgen"
-      ],
-      "openIssuesCount": 4,
       "closedIssuesCount": 0
     }
   ]
