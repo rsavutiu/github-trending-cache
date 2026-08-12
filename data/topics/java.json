@@ -1,36 +1,6 @@
 {
-  "generatedAt": "2026-08-11T05:21:33Z",
+  "generatedAt": "2026-08-12T05:45:16Z",
   "topic": "java",
-  "totalCount": 1,
-  "repos": [
-    {
-      "id": "1323731499",
-      "name": "mc-architect-mcp",
-      "nameWithOwner": "AnctyEnly453/mc-architect-mcp",
-      "description": "Minecraft Java Fabric mod and MCP server for AI-assisted world inspection, building, validation, screenshots, and persistent undo.",
-      "url": "https://github.com/AnctyEnly453/mc-architect-mcp",
-      "stargazerCount": 17,
-      "forkCount": 1,
-      "languageName": "JavaScript",
-      "languageColor": null,
-      "ownerLogin": "AnctyEnly453",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/245800481?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-05T06:53:40Z",
-      "updatedAt": "2026-08-07T16:30:21Z",
-      "licenseName": "MIT",
-      "topics": [
-        "ai",
-        "building-tools",
-        "fabric",
-        "java",
-        "mcp",
-        "minecraft",
-        "model-context-protocol",
-        "typescript"
-      ],
-      "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    }
-  ]
+  "totalCount": 0,
+  "repos": []
 }

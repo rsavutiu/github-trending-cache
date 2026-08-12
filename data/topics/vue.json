@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-11T05:21:33Z",
+  "generatedAt": "2026-08-12T05:45:16Z",
   "topic": "vue",
-  "totalCount": 3,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1327842802",
@@ -9,15 +9,15 @@
       "nameWithOwner": "forever94yu/icloud-prime",
       "description": "Self-hosted iCloud Hide My Email management console with Windows portable releases",
       "url": "https://github.com/forever94yu/icloud-prime",
-      "stargazerCount": 70,
-      "forkCount": 28,
+      "stargazerCount": 72,
+      "forkCount": 30,
       "languageName": "Go",
       "languageColor": null,
       "ownerLogin": "forever94yu",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-08T14:35:00Z",
-      "updatedAt": "2026-08-11T05:19:33Z",
+      "updatedAt": "2026-08-12T02:15:52Z",
       "licenseName": "MIT",
       "topics": [
         "email",
@@ -31,68 +31,6 @@
         "windows"
       ],
       "openIssuesCount": 6,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1324240706",
-      "name": "vibecodingex",
-      "nameWithOwner": "eticmedya/vibecodingex",
-      "description": "AI destekli yerel işletme keşif ve saha satış aracı. Google Places ile çevredeki işletmeleri bul, Gemini ile her biri için özel yazılım fikri + satış pitch'i üret. Nuxt 4, SQLite, %100 yerel.",
-      "url": "https://github.com/eticmedya/vibecodingex",
-      "stargazerCount": 70,
-      "forkCount": 19,
-      "languageName": "Vue",
-      "languageColor": null,
-      "ownerLogin": "eticmedya",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/181075989?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-05T16:04:32Z",
-      "updatedAt": "2026-08-09T21:11:21Z",
-      "licenseName": "MIT",
-      "topics": [
-        "ai",
-        "gemini-api",
-        "google-places-api",
-        "nuxt",
-        "sales-tool",
-        "sqlite",
-        "tailwindcss",
-        "turkiye",
-        "typescript",
-        "vue"
-      ],
-      "openIssuesCount": 2,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1323956645",
-      "name": "VueFluentWidgets",
-      "nameWithOwner": "Cyrene2008/VueFluentWidgets",
-      "description": "适用于 Vue 3 的 Fluent Design 组件库",
-      "url": "https://github.com/Cyrene2008/VueFluentWidgets",
-      "stargazerCount": 6,
-      "forkCount": 1,
-      "languageName": "Vue",
-      "languageColor": null,
-      "ownerLogin": "Cyrene2008",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/180080264?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-05T11:12:40Z",
-      "updatedAt": "2026-08-10T04:40:47Z",
-      "licenseName": "MIT",
-      "topics": [
-        "fluent",
-        "fluent-design",
-        "vue",
-        "vue-fluent-widgets",
-        "vue-router",
-        "vue3",
-        "widgets",
-        "widgets-bundle",
-        "widgets-library",
-        "widgets-pack"
-      ],
-      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]
