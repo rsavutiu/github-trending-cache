@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-13T05:47:42Z",
+  "generatedAt": "2026-08-14T05:45:08Z",
   "topic": "kubernetes",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1328275149",
@@ -9,7 +9,7 @@
       "nameWithOwner": "ahmetb/limac",
       "description": "Control Lima VMs from macOS menu bar",
       "url": "https://github.com/ahmetb/limac",
-      "stargazerCount": 17,
+      "stargazerCount": 18,
       "forkCount": 0,
       "languageName": "Swift",
       "languageColor": null,
@@ -17,13 +17,42 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/159209?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-09T00:07:45Z",
-      "updatedAt": "2026-08-12T11:42:05Z",
+      "updatedAt": "2026-08-13T11:19:47Z",
       "licenseName": "MIT",
       "topics": [
         "kubernetes",
         "lima",
         "macos",
         "menubar"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1331732980",
+      "name": "leandro",
+      "nameWithOwner": "SoulKyu/leandro",
+      "description": "AI SRE agent diagnosing Kubernetes incidents over Google Chat — security-first sandbox: NixOS VM, default-deny egress, hard tool denylist against prompt injection",
+      "url": "https://github.com/SoulKyu/leandro",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "SoulKyu",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/30684712?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-12T07:17:09Z",
+      "updatedAt": "2026-08-13T21:53:41Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ai-agents",
+        "kubernetes",
+        "llm",
+        "mcp",
+        "nixos",
+        "prompt-injection",
+        "security",
+        "sre"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

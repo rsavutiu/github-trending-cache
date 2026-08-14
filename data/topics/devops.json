@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-13T05:47:42Z",
+  "generatedAt": "2026-08-14T05:45:08Z",
   "topic": "devops",
-  "totalCount": 2,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1328879530",
@@ -9,7 +9,7 @@
       "nameWithOwner": "aethrox/doctrine",
       "description": "Software engineering discipline grounded in named primary standards (OWASP, ITIL, IETF RFCs, ISO, BABOK, SBAR, and more), shipped as a Claude Code plugin and an MCP server.",
       "url": "https://github.com/aethrox/doctrine",
-      "stargazerCount": 16,
+      "stargazerCount": 17,
       "forkCount": 2,
       "languageName": "Astro",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/69115453?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-09T14:23:28Z",
-      "updatedAt": "2026-08-11T11:48:07Z",
+      "updatedAt": "2026-08-13T19:41:33Z",
       "licenseName": "MIT",
       "topics": [
         "ai-agents",
@@ -51,7 +51,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/315693884?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-11T09:51:38Z",
-      "updatedAt": "2026-08-12T12:17:40Z",
+      "updatedAt": "2026-08-13T06:28:18Z",
       "licenseName": "MIT",
       "topics": [
         "cloud",
@@ -63,6 +63,42 @@
         "mysql",
         "nodejs",
         "vultr"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1329767070",
+      "name": "Software-Release-Radar",
+      "nameWithOwner": "muhdusama/Software-Release-Radar",
+      "description": "Self-hosted release and deployment intelligence for tracking upstream software, deployed versions and update decisions.",
+      "url": "https://github.com/muhdusama/Software-Release-Radar",
+      "stargazerCount": 6,
+      "forkCount": 1,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "muhdusama",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/46465291?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-10T11:49:41Z",
+      "updatedAt": "2026-08-13T11:46:10Z",
+      "licenseName": "AGPL-3.0",
+      "topics": [
+        "devops",
+        "docker",
+        "docker-compose",
+        "flask",
+        "github-releases",
+        "homelab",
+        "monitoring",
+        "open-source",
+        "portainer",
+        "python",
+        "release-management",
+        "release-monitoring",
+        "self-hosted",
+        "software-updates",
+        "version-tracking"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

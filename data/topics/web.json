@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T05:47:42Z",
+  "generatedAt": "2026-08-14T05:45:08Z",
   "topic": "web",
   "totalCount": 1,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "lexmount/moli",
       "description": "Best browser for AI agents, built in Rust.",
       "url": "https://github.com/lexmount/moli",
-      "stargazerCount": 203,
-      "forkCount": 16,
+      "stargazerCount": 266,
+      "forkCount": 19,
       "languageName": "Rust",
       "languageColor": null,
       "ownerLogin": "lexmount",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-08-10T13:20:30Z",
-      "updatedAt": "2026-08-13T05:43:36Z",
+      "updatedAt": "2026-08-14T05:41:22Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "ai-agents",
@@ -31,7 +31,7 @@
         "servo",
         "web"
       ],
-      "openIssuesCount": 4,
+      "openIssuesCount": 3,
       "closedIssuesCount": 0
     }
   ]

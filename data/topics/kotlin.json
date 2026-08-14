@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-13T05:47:42Z",
+  "generatedAt": "2026-08-14T05:45:08Z",
   "topic": "kotlin",
-  "totalCount": 7,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1327442884",
@@ -9,7 +9,7 @@
       "nameWithOwner": "skydoves/pokedex-kmp",
       "description": "🗡️ Pokedex KMP demonstrates modern Kotlin Multiplatform development with Compose Multiplatform, running from one shared codebase on Android, iOS, desktop, and the web.",
       "url": "https://github.com/skydoves/pokedex-kmp",
-      "stargazerCount": 71,
+      "stargazerCount": 72,
       "forkCount": 7,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/24237865?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-08T05:26:29Z",
-      "updatedAt": "2026-08-13T01:56:20Z",
+      "updatedAt": "2026-08-13T22:42:31Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "android",
@@ -32,46 +32,12 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1326100627",
-      "name": "bilby",
-      "nameWithOwner": "NihilDigit/bilby",
-      "description": "安卓原生 bilibili 客户端，提供无推荐流的订阅式设计、优化的听视频功能和 Agentic 搜索推荐能力。",
-      "url": "https://github.com/NihilDigit/bilby",
-      "stargazerCount": 23,
-      "forkCount": 0,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "NihilDigit",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/49825792?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-07T02:10:51Z",
-      "updatedAt": "2026-08-13T03:23:23Z",
-      "licenseName": "GPL-3.0",
-      "topics": [
-        "ai-agent",
-        "android",
-        "bilibili",
-        "bilibili-client",
-        "danmaku",
-        "exoplayer",
-        "jetpack-compose",
-        "kotlin",
-        "material-you",
-        "material3",
-        "media3",
-        "sponsorblock",
-        "video-player"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1328097327",
       "name": "miwayomi",
       "nameWithOwner": "miwayomi/miwayomi",
       "description": "Run Tachiyomi/Aniyomi extensions on PC, Mac or Linux — no Android or emulator needed. Manga & anime, streaming, web UI and REST API.",
       "url": "https://github.com/miwayomi/miwayomi",
-      "stargazerCount": 15,
+      "stargazerCount": 17,
       "forkCount": 2,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -79,7 +45,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/117120691?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-08T19:30:09Z",
-      "updatedAt": "2026-08-13T01:39:15Z",
+      "updatedAt": "2026-08-14T01:59:28Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "anime",
@@ -92,34 +58,7 @@
         "streaming",
         "tachiyomi"
       ],
-      "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1326329993",
-      "name": "ScanIt",
-      "nameWithOwner": "Majkey25/ScanIt",
-      "description": "Simple, ad-free Android document scanner: scan, save, and share PDF.",
-      "url": "https://github.com/Majkey25/ScanIt",
-      "stargazerCount": 11,
-      "forkCount": 2,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "Majkey25",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/81610648?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-07T07:10:48Z",
-      "updatedAt": "2026-08-12T23:07:11Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "android",
-        "document-scanner",
-        "jetpack-compose",
-        "kotlin",
-        "ml-kit",
-        "pdf"
-      ],
-      "openIssuesCount": 2,
+      "openIssuesCount": 3,
       "closedIssuesCount": 0
     },
     {
