@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-14T05:45:08Z",
+  "generatedAt": "2026-08-15T04:45:36Z",
   "topic": "web",
-  "totalCount": 1,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1329849289",
@@ -9,7 +9,7 @@
       "nameWithOwner": "lexmount/moli",
       "description": "Best browser for AI agents, built in Rust.",
       "url": "https://github.com/lexmount/moli",
-      "stargazerCount": 266,
+      "stargazerCount": 292,
       "forkCount": 19,
       "languageName": "Rust",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-08-10T13:20:30Z",
-      "updatedAt": "2026-08-14T05:41:22Z",
+      "updatedAt": "2026-08-15T04:00:36Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "ai-agents",
@@ -31,7 +31,66 @@
         "servo",
         "web"
       ],
-      "openIssuesCount": 3,
+      "openIssuesCount": 7,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1333447648",
+      "name": "dsh-webui-market-plugin",
+      "nameWithOwner": "Sanqi-normal/dsh-webui-market-plugin",
+      "description": "dsh Web GUI 社区插件市场：浏览 awesome-dsh-plugin.com 插件目录，一键安装/卸载到 profile。Community plugin market for the DeepSeek Harness (dsh) web GUI: browse, install and uninstall plugins into a profile.",
+      "url": "https://github.com/Sanqi-normal/dsh-webui-market-plugin",
+      "stargazerCount": 28,
+      "forkCount": 1,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "Sanqi-normal",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/191078933?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-13T18:59:30Z",
+      "updatedAt": "2026-08-15T03:59:09Z",
+      "licenseName": "MIT",
+      "topics": [
+        "agent-harness",
+        "deepseek",
+        "dsh-plugin",
+        "plugin-market",
+        "ui",
+        "web"
+      ],
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1332435127",
+      "name": "jsglobe",
+      "nameWithOwner": "samalstudios/jsglobe",
+      "description": "Hundreds of free, open-source web tools for developers, creators, and everyday tasks. No signup, no ads, no limits.",
+      "url": "https://github.com/samalstudios/jsglobe",
+      "stargazerCount": 19,
+      "forkCount": 3,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "samalstudios",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/299070137?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-08-12T20:50:14Z",
+      "updatedAt": "2026-08-15T04:29:05Z",
+      "licenseName": "MIT",
+      "topics": [
+        "developer-tools",
+        "devtools",
+        "free-tools",
+        "frontend",
+        "javscript",
+        "online-tools",
+        "opensource",
+        "tools",
+        "utilities",
+        "web",
+        "web-tools"
+      ],
+      "openIssuesCount": 2,
       "closedIssuesCount": 0
     }
   ]

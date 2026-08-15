@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-14T05:45:08Z",
+  "generatedAt": "2026-08-15T04:45:36Z",
   "topic": "vue",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1332621372",
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/316407928?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-13T02:26:28Z",
-      "updatedAt": "2026-08-14T04:00:30Z",
+      "updatedAt": "2026-08-15T04:09:11Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "accessibility",
@@ -36,69 +36,12 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1327842802",
-      "name": "icloud-prime",
-      "nameWithOwner": "forever94yu/icloud-prime",
-      "description": "Self-hosted iCloud Hide My Email management console with Windows portable releases",
-      "url": "https://github.com/forever94yu/icloud-prime",
-      "stargazerCount": 84,
-      "forkCount": 37,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "forever94yu",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/27388133?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-08T14:35:00Z",
-      "updatedAt": "2026-08-14T05:37:03Z",
-      "licenseName": "MIT",
-      "topics": [
-        "email",
-        "go",
-        "hide-my-email",
-        "icloud",
-        "open-source",
-        "privacy",
-        "self-hosted",
-        "vue",
-        "windows"
-      ],
-      "openIssuesCount": 6,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1330908114",
-      "name": "macvue",
-      "nameWithOwner": "antonreshetov/macvue",
-      "description": "macOS-inspired controls, built for Vue.",
-      "url": "https://github.com/antonreshetov/macvue",
-      "stargazerCount": 19,
-      "forkCount": 0,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "antonreshetov",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/17480987?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-11T12:37:56Z",
-      "updatedAt": "2026-08-13T21:12:32Z",
-      "licenseName": "MIT",
-      "topics": [
-        "component-library",
-        "liquid-glass",
-        "macos",
-        "ui-components",
-        "vue",
-        "vue-components"
-      ],
-      "openIssuesCount": 2,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1330136241",
       "name": "getting-started-with-devextreme-selectbox",
       "nameWithOwner": "christophercruz98112/getting-started-with-devextreme-selectbox",
       "description": "Stores the source code for the Getting Started with DevExtreme SelectBox tutorial.",
       "url": "https://github.com/christophercruz98112/getting-started-with-devextreme-selectbox",
-      "stargazerCount": 8,
+      "stargazerCount": 23,
       "forkCount": 0,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -106,7 +49,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/307099242?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-10T18:32:57Z",
-      "updatedAt": "2026-08-13T20:29:08Z",
+      "updatedAt": "2026-08-15T02:05:35Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "angular",
@@ -120,6 +63,33 @@
         "vue"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1330908114",
+      "name": "macvue",
+      "nameWithOwner": "antonreshetov/macvue",
+      "description": "macOS-inspired controls, built for Vue.",
+      "url": "https://github.com/antonreshetov/macvue",
+      "stargazerCount": 22,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "antonreshetov",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/17480987?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-11T12:37:56Z",
+      "updatedAt": "2026-08-15T03:43:41Z",
+      "licenseName": "MIT",
+      "topics": [
+        "component-library",
+        "liquid-glass",
+        "macos",
+        "ui-components",
+        "vue",
+        "vue-components"
+      ],
+      "openIssuesCount": 2,
       "closedIssuesCount": 0
     }
   ]
