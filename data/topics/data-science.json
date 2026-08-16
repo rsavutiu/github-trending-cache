@@ -1,40 +1,6 @@
 {
-  "generatedAt": "2026-08-15T04:45:36Z",
+  "generatedAt": "2026-08-16T04:49:13Z",
   "topic": "data-science",
-  "totalCount": 1,
-  "repos": [
-    {
-      "id": "1328812934",
-      "name": "Ai-Engineering-Roadmap",
-      "nameWithOwner": "ahmetmelihcalis/Ai-Engineering-Roadmap",
-      "description": "A free bilingual AI engineering roadmap with notes, code examples, and learning resources.",
-      "url": "https://github.com/ahmetmelihcalis/Ai-Engineering-Roadmap",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "MDX",
-      "languageColor": null,
-      "ownerLogin": "ahmetmelihcalis",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/182358572?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-09T13:08:15Z",
-      "updatedAt": "2026-08-14T03:25:12Z",
-      "licenseName": "MIT",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "ai-engineering",
-        "ai-roadmap",
-        "data-science",
-        "deep-learning",
-        "developer-roadmap",
-        "learning-roadmap",
-        "llm",
-        "machine-learning",
-        "mcp",
-        "python"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    }
-  ]
+  "totalCount": 0,
+  "repos": []
 }

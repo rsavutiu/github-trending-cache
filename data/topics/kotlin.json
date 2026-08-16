@@ -1,8 +1,59 @@
 {
-  "generatedAt": "2026-08-15T04:45:36Z",
+  "generatedAt": "2026-08-16T04:49:13Z",
   "topic": "kotlin",
-  "totalCount": 4,
+  "totalCount": 5,
   "repos": [
+    {
+      "id": "1333629201",
+      "name": "dsh-mobile-apk",
+      "nameWithOwner": "kelai141/dsh-mobile-apk",
+      "description": "dsh 安卓壳 APK——WebView UI + 内嵌 Termux 运行时快照（解压即跑）、SAF 目录桥、保活服务、看门狗、运行时在线更新。",
+      "url": "https://github.com/kelai141/dsh-mobile-apk",
+      "stargazerCount": 32,
+      "forkCount": 7,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "kelai141",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/252583569?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-13T23:55:34Z",
+      "updatedAt": "2026-08-16T03:58:25Z",
+      "licenseName": "MIT",
+      "topics": [
+        "android",
+        "dsh-plugin",
+        "kotlin",
+        "termux",
+        "webview"
+      ],
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1330900291",
+      "name": "expo-share-content",
+      "nameWithOwner": "ngocdevv/expo-share-content",
+      "description": null,
+      "url": "https://github.com/ngocdevv/expo-share-content",
+      "stargazerCount": 9,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "ngocdevv",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/57235287?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-11T12:29:14Z",
+      "updatedAt": "2026-08-16T02:29:39Z",
+      "licenseName": "MIT",
+      "topics": [
+        "expo",
+        "kotlin",
+        "react-native",
+        "swift"
+      ],
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1329619635",
       "name": "SPW-Lyrics",
@@ -30,32 +81,6 @@
         "ttml",
         "winui3",
         "word-synced-lyrics"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1333629201",
-      "name": "dsh-mobile-apk",
-      "nameWithOwner": "kelai141/dsh-mobile-apk",
-      "description": "dsh 安卓壳 APK——WebView UI + 内嵌 Termux 运行时快照（解压即跑）、SAF 目录桥、保活服务、看门狗、运行时在线更新。",
-      "url": "https://github.com/kelai141/dsh-mobile-apk",
-      "stargazerCount": 8,
-      "forkCount": 3,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "kelai141",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/252583569?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-13T23:55:34Z",
-      "updatedAt": "2026-08-15T04:19:25Z",
-      "licenseName": "MIT",
-      "topics": [
-        "android",
-        "dsh-plugin",
-        "kotlin",
-        "termux",
-        "webview"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
