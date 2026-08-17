@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-16T04:49:13Z",
+  "generatedAt": "2026-08-17T04:56:23Z",
   "topic": "data-science",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 1,
+  "repos": [
+    {
+      "id": "1334975305",
+      "name": "car-price-predictor-eda",
+      "nameWithOwner": "seif-a096/car-price-predictor-eda",
+      "description": "In-depth Exploratory Data Analysis (EDA) and statistical hypothesis testing on the 1985 Automobile Dataset. Covers Pearson correlation matrices, Chi-Square tests of independence, feature selection, and baseline regression models.",
+      "url": "https://github.com/seif-a096/car-price-predictor-eda",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Jupyter Notebook",
+      "languageColor": null,
+      "ownerLogin": "seif-a096",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/67086255?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-15T09:57:46Z",
+      "updatedAt": "2026-08-17T03:05:52Z",
+      "licenseName": null,
+      "topics": [
+        "chi-square-test",
+        "data-analysis",
+        "data-science",
+        "data-visualization",
+        "eda",
+        "numpy",
+        "pandas",
+        "pearson-correlation",
+        "scikit-learn",
+        "scipy",
+        "statistics"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    }
+  ]
 }

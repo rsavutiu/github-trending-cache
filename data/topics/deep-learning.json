@@ -1,45 +1,15 @@
 {
-  "generatedAt": "2026-08-16T04:49:13Z",
+  "generatedAt": "2026-08-17T04:56:23Z",
   "topic": "deep-learning",
   "totalCount": 3,
   "repos": [
-    {
-      "id": "1334410695",
-      "name": "Turbo-Learning",
-      "nameWithOwner": "zhaozhen2333/Turbo-Learning",
-      "description": "Official implementation of “A Turbo-Inference Strategy for Object Detection and Instance Segmentation” (CVIU 2026). A training-free framework for iterative   refinement between object detection and instance segmentation.",
-      "url": "https://github.com/zhaozhen2333/Turbo-Learning",
-      "stargazerCount": 23,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "zhaozhen2333",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/69673166?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-14T17:13:56Z",
-      "updatedAt": "2026-08-15T21:16:22Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "computer-vision",
-        "deep-learning",
-        "instance-segmentation",
-        "mmdetection",
-        "object-detection",
-        "segmentation",
-        "training-free",
-        "turbo",
-        "turbo-inference"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1335460253",
       "name": "LabLLM",
       "nameWithOwner": "Greninja9257/LabLLM",
       "description": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
       "url": "https://github.com/Greninja9257/LabLLM",
-      "stargazerCount": 14,
+      "stargazerCount": 33,
       "forkCount": 0,
       "languageName": "Swift",
       "languageColor": null,
@@ -47,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/169415895?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-15T22:16:40Z",
-      "updatedAt": "2026-08-16T04:16:57Z",
+      "updatedAt": "2026-08-17T04:34:06Z",
       "licenseName": "MIT",
       "topics": [
         "ai",
@@ -72,6 +42,36 @@
         "transformers"
       ],
       "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1334410695",
+      "name": "Turbo-Learning",
+      "nameWithOwner": "zhaozhen2333/Turbo-Learning",
+      "description": "Official implementation of “A Turbo-Inference Strategy for Object Detection and Instance Segmentation” (CVIU 2026). A training-free framework for iterative   refinement between object detection and instance segmentation.",
+      "url": "https://github.com/zhaozhen2333/Turbo-Learning",
+      "stargazerCount": 26,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "zhaozhen2333",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/69673166?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-14T17:13:56Z",
+      "updatedAt": "2026-08-17T03:18:05Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "computer-vision",
+        "deep-learning",
+        "instance-segmentation",
+        "mmdetection",
+        "object-detection",
+        "segmentation",
+        "training-free",
+        "turbo",
+        "turbo-inference"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
