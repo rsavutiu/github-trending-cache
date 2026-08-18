@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T04:56:23Z",
+  "generatedAt": "2026-08-18T04:50:09Z",
   "topic": "kubernetes",
   "totalCount": 4,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "inevolin/k8s-cpu-limits-analyzed",
       "description": "Kubernetes CPU limits make your apps (very) slow and costly",
       "url": "https://github.com/inevolin/k8s-cpu-limits-analyzed",
-      "stargazerCount": 82,
+      "stargazerCount": 89,
       "forkCount": 3,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/53948000?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-14T10:13:52Z",
-      "updatedAt": "2026-08-17T04:53:23Z",
+      "updatedAt": "2026-08-17T19:32:46Z",
       "licenseName": "MIT",
       "topics": [
         "cfs",
@@ -39,7 +39,7 @@
       "nameWithOwner": "runzhliu/deepseek-harness-docker",
       "description": "Community Docker and Kubernetes packaging for DeepSeek Harness (@deepseek-ai/dsh), with a hardened image, Compose stack, Helm chart, Web UI, and headless CLI.",
       "url": "https://github.com/runzhliu/deepseek-harness-docker",
-      "stargazerCount": 16,
+      "stargazerCount": 19,
       "forkCount": 4,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -47,7 +47,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/20874664?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-13T15:41:41Z",
-      "updatedAt": "2026-08-17T04:24:43Z",
+      "updatedAt": "2026-08-17T11:57:19Z",
       "licenseName": "MIT",
       "topics": [
         "agent-runtime",

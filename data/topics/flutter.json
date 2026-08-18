@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-17T04:56:23Z",
+  "generatedAt": "2026-08-18T04:50:09Z",
   "topic": "flutter",
-  "totalCount": 2,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1335343942",
@@ -9,7 +9,7 @@
       "nameWithOwner": "KickNext/morphnext",
       "description": "Interruptible vector icon morphing for Flutter.",
       "url": "https://github.com/KickNext/morphnext",
-      "stargazerCount": 100,
+      "stargazerCount": 115,
       "forkCount": 2,
       "languageName": "Dart",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/8277386?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-15T19:07:40Z",
-      "updatedAt": "2026-08-17T03:48:50Z",
+      "updatedAt": "2026-08-18T01:32:38Z",
       "licenseName": "MIT",
       "topics": [
         "animation",
@@ -36,7 +36,7 @@
       "nameWithOwner": "yementechcollective/aweasome-yemeni-open-source",
       "description": "A curated directory of Hundreds of open-source projects by Yemeni developers —PHP Laravel, Flutter, Python, AI, payments, and Arabic/RTL tooling.",
       "url": "https://github.com/yementechcollective/aweasome-yemeni-open-source",
-      "stargazerCount": 27,
+      "stargazerCount": 29,
       "forkCount": 13,
       "languageName": "Python",
       "languageColor": null,
@@ -44,7 +44,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/314413524?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-08-12T22:53:56Z",
-      "updatedAt": "2026-08-16T22:46:24Z",
+      "updatedAt": "2026-08-17T23:08:46Z",
       "licenseName": "MIT",
       "topics": [
         "arabic",
@@ -66,6 +66,39 @@
         "ytctf"
       ],
       "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1334980307",
+      "name": "dmx",
+      "nameWithOwner": "Nimblesite/dmx",
+      "description": "Fast Dart code generation on every save, with no generated part files: built-in macros, team-owned Mustache templates, custom Dart macros, and validated inline output.",
+      "url": "https://github.com/Nimblesite/dmx",
+      "stargazerCount": 9,
+      "forkCount": 0,
+      "languageName": "Rust",
+      "languageColor": null,
+      "ownerLogin": "Nimblesite",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/178527684?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-08-15T10:06:06Z",
+      "updatedAt": "2026-08-17T19:09:44Z",
+      "licenseName": "BSD-3-Clause",
+      "topics": [
+        "code-generation",
+        "codegen",
+        "dart",
+        "dmx",
+        "flutter",
+        "json",
+        "macros",
+        "metaprogramming",
+        "mustache",
+        "rust",
+        "serialization",
+        "vscode-extension"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]
