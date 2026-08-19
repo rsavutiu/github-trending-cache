@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-08-18T04:50:09Z",
+  "generatedAt": "2026-08-19T04:50:21Z",
   "topic": "devops",
-  "totalCount": 4,
+  "totalCount": 7,
   "repos": [
+    {
+      "id": "1334051605",
+      "name": "k8s-cpu-limits-analyzed",
+      "nameWithOwner": "inevolin/k8s-cpu-limits-analyzed",
+      "description": "Kubernetes CPU limits make your apps (very) slow and costly. CPU throttling analyzed, with proof.",
+      "url": "https://github.com/inevolin/k8s-cpu-limits-analyzed",
+      "stargazerCount": 93,
+      "forkCount": 3,
+      "languageName": "Shell",
+      "languageColor": null,
+      "ownerLogin": "inevolin",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/53948000?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-14T10:13:52Z",
+      "updatedAt": "2026-08-18T21:52:43Z",
+      "licenseName": "MIT",
+      "topics": [
+        "cfs",
+        "cgroups",
+        "cpu",
+        "cpu-limits",
+        "cpu-throttling",
+        "devops",
+        "finops",
+        "kubectl",
+        "kubernetes",
+        "kubernetes-cluster",
+        "kubernetes-resources",
+        "oomkilled",
+        "performance-analysis",
+        "performance-optimization",
+        "sre"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1335018935",
       "name": "production-readiness-checklist",
@@ -78,6 +114,37 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1335206253",
+      "name": "infra-lang",
+      "nameWithOwner": "TuviDev/infra-lang",
+      "description": "Write infrastructure once, compile it to Kubernetes, Compose, or GitHub Actions",
+      "url": "https://github.com/TuviDev/infra-lang",
+      "stargazerCount": 9,
+      "forkCount": 2,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "TuviDev",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/65566423?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-15T15:40:11Z",
+      "updatedAt": "2026-08-19T04:19:14Z",
+      "licenseName": "MIT",
+      "topics": [
+        "devops",
+        "docker-compose",
+        "dsl",
+        "github-actions",
+        "helm",
+        "iac",
+        "infrastructure-as-code",
+        "kubernetes",
+        "lsp",
+        "python"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1333230331",
       "name": "andromeda-lyra",
       "nameWithOwner": "eminerolll/andromeda-lyra",
@@ -108,6 +175,33 @@
         "systemd"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1333312695",
+      "name": "ctty",
+      "nameWithOwner": "zsuroy/ctty",
+      "description": "A lightweight, all-in-one connection manager — SSH, serial, and SFTP in a single TUI 🔥",
+      "url": "https://github.com/zsuroy/ctty",
+      "stargazerCount": 7,
+      "forkCount": 1,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "zsuroy",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/77138019?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-13T16:21:03Z",
+      "updatedAt": "2026-08-19T03:14:50Z",
+      "licenseName": "MIT",
+      "topics": [
+        "devops",
+        "serialport",
+        "sftp",
+        "ssh",
+        "terminal",
+        "tui"
+      ],
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {

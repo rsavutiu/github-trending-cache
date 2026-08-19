@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-18T04:50:09Z",
+  "generatedAt": "2026-08-19T04:50:21Z",
   "topic": "web",
-  "totalCount": 5,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1333447648",
@@ -9,7 +9,7 @@
       "nameWithOwner": "Sanqi-normal/dsh-webui-market-plugin",
       "description": "dsh Web GUI 社区插件市场：浏览 awesome-dsh-plugin.com 插件目录，一键安装/卸载到 profile。Community plugin market for the DeepSeek Harness (dsh) web GUI: browse, install and uninstall plugins into a profile.",
       "url": "https://github.com/Sanqi-normal/dsh-webui-market-plugin",
-      "stargazerCount": 81,
+      "stargazerCount": 87,
       "forkCount": 3,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/191078933?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-13T18:59:30Z",
-      "updatedAt": "2026-08-18T04:43:26Z",
+      "updatedAt": "2026-08-18T19:14:51Z",
       "licenseName": "MIT",
       "topics": [
         "agent-harness",
@@ -31,44 +31,12 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1332435127",
-      "name": "jsglobe",
-      "nameWithOwner": "samalstudios/jsglobe",
-      "description": "Hundreds of free, open-source web tools for developers, creators, and everyday tasks. No signup, no ads, no limits.",
-      "url": "https://github.com/samalstudios/jsglobe",
-      "stargazerCount": 30,
-      "forkCount": 8,
-      "languageName": "JavaScript",
-      "languageColor": null,
-      "ownerLogin": "samalstudios",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/299070137?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-08-12T20:50:14Z",
-      "updatedAt": "2026-08-17T17:04:43Z",
-      "licenseName": "MIT",
-      "topics": [
-        "developer-tools",
-        "devtools",
-        "free-tools",
-        "frontend",
-        "javscript",
-        "online-tools",
-        "opensource",
-        "tools",
-        "utilities",
-        "web",
-        "web-tools"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1333317835",
       "name": "dsh-market",
       "nameWithOwner": "2BingLing/dsh-market",
       "description": "DeepSeek Harness 插件市场 · 持续收录 1500+ DSH 插件：中文搜索 + 实用五维评分 + 一键安装。Web 版与 DSH 侧边栏插件双形态。Plugin marketplace for DeepSeek Harness: 1500+ plugins, Chinese search, 5-dim scoring, one-click install.",
       "url": "https://github.com/2BingLing/dsh-market",
-      "stargazerCount": 23,
+      "stargazerCount": 28,
       "forkCount": 1,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -76,7 +44,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/43088998?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-13T16:26:50Z",
-      "updatedAt": "2026-08-18T04:04:34Z",
+      "updatedAt": "2026-08-19T04:02:51Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "deepseek-harness",
@@ -96,7 +64,7 @@
         "plugin-search",
         "web"
       ],
-      "openIssuesCount": 3,
+      "openIssuesCount": 6,
       "closedIssuesCount": 0
     },
     {
@@ -131,7 +99,7 @@
       "nameWithOwner": "songoao25/dsh-bottom-info-bar",
       "description": "Bottom Info Bar — an information bar plugin for DeepSeek Harness: provider/model, live balance, peak/off-peak pricing with countdown, and real persisted per-session spend in a single line.",
       "url": "https://github.com/songoao25/dsh-bottom-info-bar",
-      "stargazerCount": 6,
+      "stargazerCount": 8,
       "forkCount": 0,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -139,7 +107,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/269614376?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-15T00:39:20Z",
-      "updatedAt": "2026-08-17T08:52:54Z",
+      "updatedAt": "2026-08-18T16:17:51Z",
       "licenseName": "MIT",
       "topics": [
         "awesome-dsh-plugin",
