@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-19T04:50:21Z",
+  "generatedAt": "2026-08-20T04:51:40Z",
   "topic": "flutter",
-  "totalCount": 3,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1335343942",
@@ -9,7 +9,7 @@
       "nameWithOwner": "KickNext/morphnext",
       "description": "Interruptible vector icon morphing for Flutter.",
       "url": "https://github.com/KickNext/morphnext",
-      "stargazerCount": 120,
+      "stargazerCount": 131,
       "forkCount": 2,
       "languageName": "Dart",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/8277386?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-15T19:07:40Z",
-      "updatedAt": "2026-08-18T16:54:42Z",
+      "updatedAt": "2026-08-20T04:06:33Z",
       "licenseName": "MIT",
       "topics": [
         "animation",
@@ -36,7 +36,7 @@
       "nameWithOwner": "Nimblesite/dmx",
       "description": "Fast Dart code generation on every save, with no generated part files: built-in macros, team-owned Mustache templates, custom Dart macros, and validated inline output.",
       "url": "https://github.com/Nimblesite/dmx",
-      "stargazerCount": 14,
+      "stargazerCount": 17,
       "forkCount": 0,
       "languageName": "Rust",
       "languageColor": null,
@@ -44,7 +44,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/178527684?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-08-15T10:06:06Z",
-      "updatedAt": "2026-08-19T03:02:54Z",
+      "updatedAt": "2026-08-20T01:17:26Z",
       "licenseName": "BSD-3-Clause",
       "topics": [
         "code-generation",
@@ -69,7 +69,7 @@
       "nameWithOwner": "fluttercandies/seeko",
       "description": "High-performance target navigation and synchronization for Flutter's native scrollables.",
       "url": "https://github.com/fluttercandies/seeko",
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "forkCount": 0,
       "languageName": "Dart",
       "languageColor": null,
@@ -77,7 +77,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/47586449?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-08-16T17:43:39Z",
-      "updatedAt": "2026-08-19T02:34:03Z",
+      "updatedAt": "2026-08-19T12:04:30Z",
       "licenseName": "MIT",
       "topics": [
         "dart",
@@ -89,6 +89,68 @@
         "synchronization"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1337609024",
+      "name": "serval",
+      "nameWithOwner": "Flickersoft/serval",
+      "description": "Self-hosted NVR with on-device AI — 24/7 recording, sub-second live view, and object, scene and speech understanding that never leaves your network.",
+      "url": "https://github.com/Flickersoft/serval",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": "Dart",
+      "languageColor": null,
+      "ownerLogin": "Flickersoft",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/316791849?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-08-17T20:09:53Z",
+      "updatedAt": "2026-08-20T03:33:59Z",
+      "licenseName": "AGPL-3.0",
+      "topics": [
+        "computer-vision",
+        "dotnet",
+        "ffmpeg",
+        "flutter",
+        "nvr",
+        "object-detection",
+        "onnx",
+        "onvif",
+        "rtsp",
+        "security-camera",
+        "self-hosted",
+        "speech-recognition",
+        "surveillance",
+        "video-surveillance",
+        "webrtc"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1338034111",
+      "name": "base-ui-flutter",
+      "nameWithOwner": "SpringHgui/base-ui-flutter",
+      "description": "A productivity-first Flutter desktop UI component library ; WinForms implementation in Flutter",
+      "url": "https://github.com/SpringHgui/base-ui-flutter",
+      "stargazerCount": 8,
+      "forkCount": 1,
+      "languageName": "Dart",
+      "languageColor": null,
+      "ownerLogin": "SpringHgui",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/22363718?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-18T06:01:45Z",
+      "updatedAt": "2026-08-20T04:27:18Z",
+      "licenseName": "MIT",
+      "topics": [
+        "dart",
+        "desktop-app",
+        "flutter",
+        "ui",
+        "winform"
+      ],
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]
