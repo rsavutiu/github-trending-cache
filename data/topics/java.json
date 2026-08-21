@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T04:51:40Z",
+  "generatedAt": "2026-08-21T04:52:35Z",
   "topic": "java",
   "totalCount": 7,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "taovietducofficial/OOP-Student",
       "description": "OOP-Student is the next level after OOP-Beginner, helping learners move from basic OOP to practical object-oriented design with Java, C++, and Python through abstraction, composition, SOLID principles, design patterns, and real-world exercises.",
       "url": "https://github.com/taovietducofficial/OOP-Student",
-      "stargazerCount": 37,
+      "stargazerCount": 38,
       "forkCount": 8,
       "languageName": "Java",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/95725645?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-15T05:52:12Z",
-      "updatedAt": "2026-08-19T17:54:16Z",
+      "updatedAt": "2026-08-21T04:17:50Z",
       "licenseName": null,
       "topics": [
         "abstraction",
@@ -89,7 +89,7 @@
       "nameWithOwner": "runtimepoet/simplecard",
       "description": "Self-hosted digital goods delivery platform: Spring Boot 3 API + Next.js 16 storefront, Epay/USDT payment pipeline, risk control, full admin panel",
       "url": "https://github.com/runtimepoet/simplecard",
-      "stargazerCount": 31,
+      "stargazerCount": 36,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -97,7 +97,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5982384?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-17T11:29:57Z",
-      "updatedAt": "2026-08-19T12:25:51Z",
+      "updatedAt": "2026-08-21T04:48:18Z",
       "licenseName": "MIT",
       "topics": [
         "docker",
@@ -118,7 +118,7 @@
       "nameWithOwner": "Ettacent/NimarkoGram",
       "description": "Open-source, unofficial Telegram client for Android with advanced customization, media tools and plugin support.",
       "url": "https://github.com/Ettacent/NimarkoGram",
-      "stargazerCount": 29,
+      "stargazerCount": 30,
       "forkCount": 1,
       "languageName": "Java",
       "languageColor": null,
@@ -126,7 +126,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/317892824?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-17T12:57:22Z",
-      "updatedAt": "2026-08-19T18:28:51Z",
+      "updatedAt": "2026-08-20T18:53:10Z",
       "licenseName": "GPL-2.0",
       "topics": [
         "android",
@@ -140,7 +140,7 @@
         "telegram",
         "telegram-client"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -149,7 +149,7 @@
       "nameWithOwner": "taovietducofficial/OOP-Competitive",
       "description": "Master OOP beyond the basics with SOLID, Clean Code, Design Patterns, Testing, and Software Architecture through practical Java, C++, and Python projects.",
       "url": "https://github.com/taovietducofficial/OOP-Competitive",
-      "stargazerCount": 25,
+      "stargazerCount": 26,
       "forkCount": 5,
       "languageName": "Java",
       "languageColor": null,
@@ -157,7 +157,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/95725645?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-16T04:08:46Z",
-      "updatedAt": "2026-08-20T03:38:25Z",
+      "updatedAt": "2026-08-21T02:24:06Z",
       "licenseName": null,
       "topics": [
         "clean-code",

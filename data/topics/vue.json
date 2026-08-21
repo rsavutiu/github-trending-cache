@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-20T04:51:40Z",
+  "generatedAt": "2026-08-21T04:52:35Z",
   "topic": "vue",
-  "totalCount": 5,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1335104760",
@@ -9,15 +9,15 @@
       "nameWithOwner": "jeremy-prt/bloub",
       "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
       "url": "https://github.com/jeremy-prt/bloub",
-      "stargazerCount": 546,
-      "forkCount": 58,
+      "stargazerCount": 584,
+      "forkCount": 65,
       "languageName": "TypeScript",
       "languageColor": null,
       "ownerLogin": "jeremy-prt",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-15T13:21:23Z",
-      "updatedAt": "2026-08-20T04:48:09Z",
+      "updatedAt": "2026-08-21T04:19:15Z",
       "licenseName": "MIT",
       "topics": [
         "animation",
@@ -28,7 +28,7 @@
         "typescript",
         "vue"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 2,
       "closedIssuesCount": 0
     },
     {
@@ -37,7 +37,7 @@
       "nameWithOwner": "Tao-tao520/planar-wayline",
       "description": "纯前端大疆面状航线规划：正射/倾斜、仿地，导出 KMZ（WPMZ）兼容司空 2",
       "url": "https://github.com/Tao-tao520/planar-wayline",
-      "stargazerCount": 49,
+      "stargazerCount": 52,
       "forkCount": 4,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -45,7 +45,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/119919952?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-19T06:51:41Z",
-      "updatedAt": "2026-08-20T03:12:36Z",
+      "updatedAt": "2026-08-21T03:25:14Z",
       "licenseName": null,
       "topics": [
         "cesium",
@@ -67,7 +67,7 @@
       "description": "AI 驱动的自主渗透测试平台：输入目标，AI agent 自动完成侦察→规划→主动测试→漏洞验证→报告生成。黑板引擎+多 worker+SRC 验收门禁。仅供学术与安全研究使用。",
       "url": "https://github.com/Dest1ny-Sec/dhunter",
       "stargazerCount": 40,
-      "forkCount": 4,
+      "forkCount": 5,
       "languageName": "Go",
       "languageColor": null,
       "ownerLogin": "Dest1ny-Sec",
@@ -99,34 +99,6 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1334389803",
-      "name": "sub2api-plus",
-      "nameWithOwner": "zcj-ui/sub2api-plus",
-      "description": "Enhanced Sub2API distribution focused on OpenAI/Codex account operations, quota inventory, proxy routing, and upstream compatibility.",
-      "url": "https://github.com/zcj-ui/sub2api-plus",
-      "stargazerCount": 10,
-      "forkCount": 1,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "zcj-ui",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/184645922?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-14T16:48:54Z",
-      "updatedAt": "2026-08-20T01:51:19Z",
-      "licenseName": "LGPL-3.0",
-      "topics": [
-        "api-gateway",
-        "codex",
-        "golang",
-        "llm-proxy",
-        "openai",
-        "sub2api",
-        "vue"
-      ],
-      "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1337087599",
       "name": "Miracle",
       "nameWithOwner": "Miralous/Miracle",
@@ -150,7 +122,7 @@
         "vitepress",
         "vue"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]
