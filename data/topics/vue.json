@@ -1,36 +1,8 @@
 {
-  "generatedAt": "2026-08-21T04:52:35Z",
+  "generatedAt": "2026-08-22T04:47:52Z",
   "topic": "vue",
-  "totalCount": 4,
+  "totalCount": 2,
   "repos": [
-    {
-      "id": "1335104760",
-      "name": "bloub",
-      "nameWithOwner": "jeremy-prt/bloub",
-      "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
-      "url": "https://github.com/jeremy-prt/bloub",
-      "stargazerCount": 584,
-      "forkCount": 65,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "jeremy-prt",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/57547133?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-15T13:21:23Z",
-      "updatedAt": "2026-08-21T04:19:15Z",
-      "licenseName": "MIT",
-      "topics": [
-        "animation",
-        "avatar",
-        "morphing",
-        "svg",
-        "svg-animation",
-        "typescript",
-        "vue"
-      ],
-      "openIssuesCount": 2,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1339204821",
       "name": "planar-wayline",
@@ -45,8 +17,8 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/119919952?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-19T06:51:41Z",
-      "updatedAt": "2026-08-21T03:25:14Z",
-      "licenseName": null,
+      "updatedAt": "2026-08-21T06:29:15Z",
+      "licenseName": "MIT",
       "topics": [
         "cesium",
         "dji",
@@ -58,44 +30,6 @@
         "wpml"
       ],
       "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1335198054",
-      "name": "dhunter",
-      "nameWithOwner": "Dest1ny-Sec/dhunter",
-      "description": "AI 驱动的自主渗透测试平台：输入目标，AI agent 自动完成侦察→规划→主动测试→漏洞验证→报告生成。黑板引擎+多 worker+SRC 验收门禁。仅供学术与安全研究使用。",
-      "url": "https://github.com/Dest1ny-Sec/dhunter",
-      "stargazerCount": 40,
-      "forkCount": 5,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "Dest1ny-Sec",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/239099195?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-15T15:28:31Z",
-      "updatedAt": "2026-08-20T02:00:26Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "agent",
-        "ai-agent",
-        "autonomous-agent",
-        "bug-bounty",
-        "cybersecurity",
-        "golang",
-        "llm",
-        "offensive-security",
-        "penetration-testing",
-        "pentest",
-        "python",
-        "reconnaissance",
-        "red-team",
-        "security",
-        "vue",
-        "vulnerability-discovery",
-        "web-security"
-      ],
-      "openIssuesCount": 2,
       "closedIssuesCount": 0
     },
     {
@@ -112,7 +46,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/286329492?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-08-17T11:40:59Z",
-      "updatedAt": "2026-08-18T12:04:03Z",
+      "updatedAt": "2026-08-21T11:53:32Z",
       "licenseName": "MIT",
       "topics": [
         "blog",
@@ -122,7 +56,7 @@
         "vitepress",
         "vue"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]
