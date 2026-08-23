@@ -1,8 +1,40 @@
 {
-  "generatedAt": "2026-08-22T04:47:52Z",
+  "generatedAt": "2026-08-23T04:51:13Z",
   "topic": "devops",
-  "totalCount": 1,
+  "totalCount": 3,
   "repos": [
+    {
+      "id": "1341363831",
+      "name": "ansible-static-lint",
+      "nameWithOwner": "arhuman/ansible-static-lint",
+      "description": "Static Ansible linting in Go: the 38 ansible-lint rules decidable from YAML alone, byte-for-byte pep8 output, no Ansible runtime.",
+      "url": "https://github.com/arhuman/ansible-static-lint",
+      "stargazerCount": 13,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "arhuman",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/283991?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-21T03:35:17Z",
+      "updatedAt": "2026-08-22T18:49:38Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ansible",
+        "ansible-lint",
+        "ci",
+        "devops",
+        "devops-tools",
+        "github-actions",
+        "golang",
+        "linter",
+        "pre-commit",
+        "sarif",
+        "static-analysis"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1339406548",
       "name": "Git-Deployment-Student",
@@ -10,7 +42,7 @@
       "description": "A practical Git & Deployment roadmap for IT students. Builds on Git-Deployment-Beginner with Git workflows, branching, pull requests, CI/CD basics, Docker, environment configuration, and cloud deployment for real-world projects.",
       "url": "https://github.com/taovietducofficial/Git-Deployment-Student",
       "stargazerCount": 7,
-      "forkCount": 1,
+      "forkCount": 2,
       "languageName": "Shell",
       "languageColor": null,
       "ownerLogin": "taovietducofficial",
@@ -31,6 +63,30 @@
         "software-engineering",
         "student",
         "version-control"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1340972824",
+      "name": "cultos",
+      "nameWithOwner": "thesmithdao/cultos",
+      "description": "GitHub-native work for the agent economy.",
+      "url": "https://github.com/thesmithdao/cultos",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "thesmithdao",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/43218493?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-20T17:31:07Z",
+      "updatedAt": "2026-08-23T01:46:32Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ai-tool",
+        "devops",
+        "virtuals-protocol"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
