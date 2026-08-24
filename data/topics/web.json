@@ -1,6 +1,31 @@
 {
-  "generatedAt": "2026-08-23T04:51:13Z",
+  "generatedAt": "2026-08-24T04:59:50Z",
   "topic": "web",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 1,
+  "repos": [
+    {
+      "id": "1338137360",
+      "name": "xyzw-web-helper",
+      "nameWithOwner": "gterryd/xyzw-web-helper",
+      "description": "咸鱼之王助手 - 前后端版（Vue3 + Node.js），还有盐场自动布阵、后端推关等",
+      "url": "https://github.com/gterryd/xyzw-web-helper",
+      "stargazerCount": 10,
+      "forkCount": 6,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "gterryd",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/46960982?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-18T08:03:53Z",
+      "updatedAt": "2026-08-24T03:14:13Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "js",
+        "web",
+        "xyzw"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    }
+  ]
 }

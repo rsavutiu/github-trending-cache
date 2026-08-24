@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-23T04:51:13Z",
+  "generatedAt": "2026-08-24T04:59:50Z",
   "topic": "devops",
-  "totalCount": 3,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1341363831",
@@ -9,7 +9,7 @@
       "nameWithOwner": "arhuman/ansible-static-lint",
       "description": "Static Ansible linting in Go: the 38 ansible-lint rules decidable from YAML alone, byte-for-byte pep8 output, no Ansible runtime.",
       "url": "https://github.com/arhuman/ansible-static-lint",
-      "stargazerCount": 13,
+      "stargazerCount": 14,
       "forkCount": 0,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/283991?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-21T03:35:17Z",
-      "updatedAt": "2026-08-22T18:49:38Z",
+      "updatedAt": "2026-08-24T03:09:22Z",
       "licenseName": "MIT",
       "topics": [
         "ansible",
@@ -41,15 +41,15 @@
       "nameWithOwner": "taovietducofficial/Git-Deployment-Student",
       "description": "A practical Git & Deployment roadmap for IT students. Builds on Git-Deployment-Beginner with Git workflows, branching, pull requests, CI/CD basics, Docker, environment configuration, and cloud deployment for real-world projects.",
       "url": "https://github.com/taovietducofficial/Git-Deployment-Student",
-      "stargazerCount": 7,
-      "forkCount": 2,
+      "stargazerCount": 9,
+      "forkCount": 3,
       "languageName": "Shell",
       "languageColor": null,
       "ownerLogin": "taovietducofficial",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/95725645?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-19T10:04:19Z",
-      "updatedAt": "2026-08-21T05:19:05Z",
+      "updatedAt": "2026-08-23T20:43:57Z",
       "licenseName": null,
       "topics": [
         "cicd",
@@ -68,6 +68,33 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1341276826",
+      "name": "exevra",
+      "nameWithOwner": "Exevra/exevra",
+      "description": "Check that your JUnit tests run in CI. Flag missing suites, reduced counts, and test-set drift.",
+      "url": "https://github.com/Exevra/exevra",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "Exevra",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/316692905?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-08-21T01:12:50Z",
+      "updatedAt": "2026-08-23T06:50:22Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ci",
+        "devops",
+        "github-actions",
+        "junit",
+        "maven",
+        "testing-tools"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1340972824",
       "name": "cultos",
       "nameWithOwner": "thesmithdao/cultos",
@@ -81,7 +108,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/43218493?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-20T17:31:07Z",
-      "updatedAt": "2026-08-23T01:46:32Z",
+      "updatedAt": "2026-08-24T04:29:15Z",
       "licenseName": "MIT",
       "topics": [
         "ai-tool",
