@@ -1,62 +1,8 @@
 {
-  "generatedAt": "2026-08-24T04:59:50Z",
+  "generatedAt": "2026-08-25T04:52:17Z",
   "topic": "nextjs",
-  "totalCount": 12,
+  "totalCount": 11,
   "repos": [
-    {
-      "id": "1338031879",
-      "name": "free-ecom-app",
-      "nameWithOwner": "Nour-yahyaoui/free-ecom-app",
-      "description": "A ready-to-run e-commerce stack built for cheap, vertically-scaled hosting — no Stripe, cash-on-delivery only, no admin dashboard yet",
-      "url": "https://github.com/Nour-yahyaoui/free-ecom-app",
-      "stargazerCount": 78,
-      "forkCount": 1,
-      "languageName": "Rust",
-      "languageColor": null,
-      "ownerLogin": "Nour-yahyaoui",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/177131499?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-18T05:58:54Z",
-      "updatedAt": "2026-08-22T20:08:12Z",
-      "licenseName": null,
-      "topics": [
-        "full-stack",
-        "nextjs",
-        "pgsql",
-        "rust"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1338445797",
-      "name": "Companion-Space",
-      "nameWithOwner": "Johnson-Durui/Companion-Space",
-      "description": "本地优先的二次元陪伴学习应用 · Local-first anime companion and study app.",
-      "url": "https://github.com/Johnson-Durui/Companion-Space",
-      "stargazerCount": 24,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "Johnson-Durui",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/270115233?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-18T13:35:32Z",
-      "updatedAt": "2026-08-23T19:26:54Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "ai-companion",
-        "fastapi",
-        "local-first",
-        "nextjs",
-        "rag",
-        "self-hosted",
-        "voice-ai",
-        "vrm"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1341247419",
       "name": "Electronics-eCommerce-Shop-With-Admin-Dashboard-NextJS-NodeJS",
@@ -95,7 +41,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/318696284?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-08-20T19:41:10Z",
-      "updatedAt": "2026-08-23T22:53:09Z",
+      "updatedAt": "2026-08-24T22:36:29Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "chess",
@@ -111,7 +57,37 @@
         "typescript",
         "vite"
       ],
-      "openIssuesCount": 16,
+      "openIssuesCount": 20,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1343701672",
+      "name": "NSOSYAL",
+      "nameWithOwner": "CALISKAN-EMRE/NSOSYAL",
+      "description": "TEKNOFEST 2026 NSosyal İnovasyon — Explainable recommendations, semantic context cards and Turkish AI moderation.",
+      "url": "https://github.com/CALISKAN-EMRE/NSOSYAL",
+      "stargazerCount": 9,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "CALISKAN-EMRE",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/230567011?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-23T11:38:15Z",
+      "updatedAt": "2026-08-25T01:28:57Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "content-moderation",
+        "explainable-ai",
+        "fastapi",
+        "machine-learning",
+        "nextjs",
+        "nlp",
+        "teknofest",
+        "teknofest2026",
+        "turkish-nlp"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -208,37 +184,6 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1338106901",
-      "name": "monitor-de-gravata",
-      "nameWithOwner": "steinhauserhzs/monitor-de-gravata",
-      "description": "Monitor de Gravata — o Pesadelo de Brasília. Portal da Transparência 2.0 open source e comunitário: ficha 360 de políticos, manual do candidato 2026, radar de contratos com red flags, comparador de preços, empresas, catálogo de APIs públicas.",
-      "url": "https://github.com/steinhauserhzs/monitor-de-gravata",
-      "stargazerCount": 8,
-      "forkCount": 0,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "steinhauserhzs",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/131223735?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-18T07:28:16Z",
-      "updatedAt": "2026-08-20T16:18:59Z",
-      "licenseName": "MIT",
-      "topics": [
-        "anticorrupcao",
-        "brasil",
-        "camara-dos-deputados",
-        "civic-tech",
-        "dados-abertos",
-        "nextjs",
-        "open-data",
-        "pncp",
-        "transparencia",
-        "tse"
-      ],
-      "openIssuesCount": 14,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1341856070",
       "name": "coding-plan-index",
       "nameWithOwner": "pingfanfan/coding-plan-index",
@@ -262,7 +207,7 @@
         "open-data",
         "pricing"
       ],
-      "openIssuesCount": 2,
+      "openIssuesCount": 3,
       "closedIssuesCount": 0
     },
     {
@@ -308,7 +253,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/225383465?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-21T07:05:26Z",
-      "updatedAt": "2026-08-22T02:45:03Z",
+      "updatedAt": "2026-08-24T18:31:10Z",
       "licenseName": "MIT",
       "topics": [
         "ai-chatbot",
@@ -352,6 +297,37 @@
         "portfolio-website",
         "react",
         "tailwindcss"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1344047658",
+      "name": "ai-github-repository-assistant",
+      "nameWithOwner": "Wadan3/ai-github-repository-assistant",
+      "description": "AI-powered GitHub repository assistant with local Ollama models, repository analysis, grounded chat, and GitHub OAuth.",
+      "url": "https://github.com/Wadan3/ai-github-repository-assistant",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "Wadan3",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/160777411?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-23T17:43:06Z",
+      "updatedAt": "2026-08-24T08:12:15Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ai",
+        "developer-tools",
+        "github",
+        "github-api",
+        "github-oauth",
+        "local-ai",
+        "nextjs",
+        "ollama",
+        "repository-analysis",
+        "typescript"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
