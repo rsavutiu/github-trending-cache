@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T04:52:17Z",
+  "generatedAt": "2026-08-26T04:54:40Z",
   "topic": "kotlin",
-  "totalCount": 6,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1341997485",
@@ -9,7 +9,7 @@
       "nameWithOwner": "Mahmud0808/TeleDrive",
       "description": "Android app that turns a private Telegram channel into personal cloud storage. Automatic photo backup, optional end-to-end encryption, and a full file manager.",
       "url": "https://github.com/Mahmud0808/TeleDrive",
-      "stargazerCount": 34,
+      "stargazerCount": 37,
       "forkCount": 2,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/29881338?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-21T16:10:36Z",
-      "updatedAt": "2026-08-25T04:29:58Z",
+      "updatedAt": "2026-08-25T19:02:56Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "android",
@@ -30,37 +30,6 @@
         "material-you",
         "tdlib",
         "telegram"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1340113964",
-      "name": "expanda",
-      "nameWithOwner": "diegomarzaa/expanda",
-      "description": "Free and open-source Android text expander with offline snippets, dynamic templates and no Internet permission.",
-      "url": "https://github.com/diegomarzaa/expanda",
-      "stargazerCount": 22,
-      "forkCount": 2,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "diegomarzaa",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108425111?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-19T23:43:09Z",
-      "updatedAt": "2026-08-23T23:44:32Z",
-      "licenseName": "MIT",
-      "topics": [
-        "accessibility-service",
-        "android",
-        "jetpack-compose",
-        "kotlin",
-        "material3",
-        "open-source",
-        "privacy",
-        "productivity",
-        "snippets",
-        "text-expander"
       ],
       "openIssuesCount": 1,
       "closedIssuesCount": 0
@@ -95,64 +64,6 @@
         "wear-os"
       ],
       "openIssuesCount": 10,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1339321403",
-      "name": "Photon_Gallery",
-      "nameWithOwner": "Bn5prS/Photon_Gallery",
-      "description": "An open-source Android gallery app built with Material 3 Expressive design.",
-      "url": "https://github.com/Bn5prS/Photon_Gallery",
-      "stargazerCount": 9,
-      "forkCount": 0,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "Bn5prS",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/42484692?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-19T08:44:22Z",
-      "updatedAt": "2026-08-23T15:24:13Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "android",
-        "foss",
-        "gallery",
-        "jetpack-compose",
-        "kotlin",
-        "material3-expressive"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1339133040",
-      "name": "Modex",
-      "nameWithOwner": "NikhilKain/Modex",
-      "description": "Every Magisk, Zygisk, LSPosed and KernelSU module, from every repo, in one searchable catalog - with a watchlist that tells you when they update. Android, Kotlin, Compose.",
-      "url": "https://github.com/NikhilKain/Modex",
-      "stargazerCount": 8,
-      "forkCount": 0,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "NikhilKain",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/106899229?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-19T05:37:20Z",
-      "updatedAt": "2026-08-25T00:59:14Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "android",
-        "jetpack-compose",
-        "kernelsu",
-        "kotlin",
-        "lsposed",
-        "magisk",
-        "magisk-module",
-        "material-design",
-        "root",
-        "zygisk"
-      ],
-      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {

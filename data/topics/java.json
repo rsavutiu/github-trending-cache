@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-08-25T04:52:17Z",
+  "generatedAt": "2026-08-26T04:54:40Z",
   "topic": "java",
-  "totalCount": 3,
+  "totalCount": 4,
   "repos": [
+    {
+      "id": "1342060453",
+      "name": "mytunes",
+      "nameWithOwner": "patbaumgartner/mytunes",
+      "description": "DevTunes FM inspired radio player — Spring Boot compiled to WebAssembly by GraalVM Web Image, running entirely in the browser. No server, no hand-written JavaScript.",
+      "url": "https://github.com/patbaumgartner/mytunes",
+      "stargazerCount": 20,
+      "forkCount": 2,
+      "languageName": "Java",
+      "languageColor": null,
+      "ownerLogin": "patbaumgartner",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/406780?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-21T17:24:10Z",
+      "updatedAt": "2026-08-26T04:07:40Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "docker",
+        "graalvm",
+        "internet-radio",
+        "java",
+        "music-player",
+        "native-image",
+        "nginx",
+        "playwright",
+        "radio-player",
+        "spring-boot",
+        "spring-modulith",
+        "wasm",
+        "web-image",
+        "webassembly",
+        "zero-javascript"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1344590699",
       "name": "nova-trade-ai",
@@ -34,6 +70,32 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1344776528",
+      "name": "paper-in-browser",
+      "nameWithOwner": "Lodeway/paper-in-browser",
+      "description": "Uses a WASM Java VM (CheerpJ) to run a back-ported version of Paper Minecraft server software in the browser",
+      "url": "https://github.com/Lodeway/paper-in-browser",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": "Java",
+      "languageColor": null,
+      "ownerLogin": "Lodeway",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/320504238?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-08-24T09:30:57Z",
+      "updatedAt": "2026-08-25T10:35:28Z",
+      "licenseName": "MIT",
+      "topics": [
+        "cheerpj",
+        "emulation",
+        "java",
+        "minecraft",
+        "papermc"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1340529602",
       "name": "openjdk-25-windows-xp-x64",
       "nameWithOwner": "Somehowfreename/openjdk-25-windows-xp-x64",
@@ -47,7 +109,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/318812932?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-20T09:38:48Z",
-      "updatedAt": "2026-08-24T17:57:18Z",
+      "updatedAt": "2026-08-25T19:44:30Z",
       "licenseName": "GPL-2.0",
       "topics": [
         "java",
@@ -55,32 +117,6 @@
         "minecraft",
         "openjdk",
         "windows-xp"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1344776528",
-      "name": "paper-in-browser",
-      "nameWithOwner": "Lodeway/paper-in-browser",
-      "description": "Uses a WASM Java VM (CheerpJ) to run a back-ported version of Paper Minecraft server software in the browser",
-      "url": "https://github.com/Lodeway/paper-in-browser",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Java",
-      "languageColor": null,
-      "ownerLogin": "Lodeway",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/320504238?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-08-24T09:30:57Z",
-      "updatedAt": "2026-08-24T21:32:08Z",
-      "licenseName": "MIT",
-      "topics": [
-        "cheerpj",
-        "emulation",
-        "java",
-        "minecraft",
-        "papermc"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
