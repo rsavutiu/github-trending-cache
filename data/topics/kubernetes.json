@@ -1,6 +1,67 @@
 {
-  "generatedAt": "2026-08-26T04:54:40Z",
+  "generatedAt": "2026-08-27T15:14:10Z",
   "topic": "kubernetes",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 2,
+  "repos": [
+    {
+      "id": "1343698202",
+      "name": "drain-check",
+      "nameWithOwner": "mjavedali/drain-check",
+      "description": "PDB / drain-check before node maintenance  ",
+      "url": "https://github.com/mjavedali/drain-check",
+      "stargazerCount": 17,
+      "forkCount": 1,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "mjavedali",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/30997178?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-23T11:33:04Z",
+      "updatedAt": "2026-08-27T11:59:27Z",
+      "licenseName": "MIT",
+      "topics": [
+        "cli-tool",
+        "devops",
+        "kubectl-plugins",
+        "kubernetes",
+        "sre"
+      ],
+      "openIssuesCount": 3,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1346757509",
+      "name": "antifailure",
+      "nameWithOwner": "antifailure/antifailure",
+      "description": "Disposable copies of your production stack for every pull request: masked Postgres branches, sandboxed third-party APIs, AI agents that run real user flows, and load replay.",
+      "url": "https://github.com/antifailure/antifailure",
+      "stargazerCount": 10,
+      "forkCount": 2,
+      "languageName": "HTML",
+      "languageColor": null,
+      "ownerLogin": "antifailure",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/321004801?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-08-26T00:44:09Z",
+      "updatedAt": "2026-08-27T13:36:40Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "ai-agents",
+        "data-masking",
+        "database-branching",
+        "developer-tools",
+        "devops",
+        "kubernetes",
+        "load-testing",
+        "neon",
+        "playwright",
+        "postgres",
+        "preview-environments",
+        "qa-automation",
+        "supabase"
+      ],
+      "openIssuesCount": 10,
+      "closedIssuesCount": 0
+    }
+  ]
 }

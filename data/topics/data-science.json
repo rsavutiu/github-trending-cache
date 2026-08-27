@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T04:54:40Z",
+  "generatedAt": "2026-08-27T15:14:10Z",
   "topic": "data-science",
   "totalCount": 1,
   "repos": [
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/97649782?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-23T13:35:39Z",
-      "updatedAt": "2026-08-25T12:59:43Z",
+      "updatedAt": "2026-08-27T15:10:16Z",
       "licenseName": "MIT",
       "topics": [
         "agent-skills",

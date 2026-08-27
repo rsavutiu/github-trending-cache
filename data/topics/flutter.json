@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-26T04:54:40Z",
+  "generatedAt": "2026-08-27T15:14:10Z",
   "topic": "flutter",
-  "totalCount": 6,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1341873752",
@@ -9,7 +9,7 @@
       "nameWithOwner": "khydrogenous/lightspeed",
       "description": "Light Speed is a cross-platform, peer-to-peer, end-to-end encrypted social app for text and media. Messages are encrypted on-device, relayed directly between peers, and deleted after a single view. No moderation, no accounts, no server-side content.",
       "url": "https://github.com/khydrogenous/lightspeed",
-      "stargazerCount": 66,
+      "stargazerCount": 62,
       "forkCount": 5,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/97297306?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-21T14:02:24Z",
-      "updatedAt": "2026-08-25T19:02:18Z",
+      "updatedAt": "2026-08-27T09:38:25Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "encryption",
@@ -33,39 +33,12 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1340266652",
-      "name": "proxypin-mcp-workbench",
-      "nameWithOwner": "sinyu1012/proxypin-mcp-workbench",
-      "description": "基于 ProxyPin 与 MCP 的自动化抓包、API 分析、Mock 场景和数据归档工作台，支持 移动端/Mac端 抓包并通过 MCP 让 AI 自动分析获取内容 / Mock 一系列接口。",
-      "url": "https://github.com/sinyu1012/proxypin-mcp-workbench",
-      "stargazerCount": 40,
-      "forkCount": 2,
-      "languageName": "Dart",
-      "languageColor": null,
-      "ownerLogin": "sinyu1012",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/11555978?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-20T04:07:43Z",
-      "updatedAt": "2026-08-24T18:23:41Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "flutter",
-        "http-proxy",
-        "mcp",
-        "mock-server",
-        "proxypin",
-        "traffic-analysis"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1343299521",
       "name": "hermes-console",
       "nameWithOwner": "xP3ta/hermes-console",
       "description": "Android-first Flutter client for self-hosted Hermes Agent — chat, Bots, Voice and private remote control.",
       "url": "https://github.com/xP3ta/hermes-console",
-      "stargazerCount": 25,
+      "stargazerCount": 28,
       "forkCount": 2,
       "languageName": "Dart",
       "languageColor": null,
@@ -73,7 +46,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/278794522?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-23T02:06:01Z",
-      "updatedAt": "2026-08-25T19:56:36Z",
+      "updatedAt": "2026-08-27T12:14:07Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "ai-agent",
@@ -85,7 +58,7 @@
         "privacy",
         "self-hosted"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 4,
       "closedIssuesCount": 0
     },
     {
@@ -94,7 +67,7 @@
       "nameWithOwner": "RandalSchwartz/dart-sdk-skills",
       "description": "Agent skills for Dart & Flutter SDK versioning, language features, widget migrations, and minSdk lookups",
       "url": "https://github.com/RandalSchwartz/dart-sdk-skills",
-      "stargazerCount": 17,
+      "stargazerCount": 18,
       "forkCount": 1,
       "languageName": "Dart",
       "languageColor": null,
@@ -102,7 +75,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6342?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-22T20:14:12Z",
-      "updatedAt": "2026-08-25T05:44:52Z",
+      "updatedAt": "2026-08-26T07:28:17Z",
       "licenseName": "MIT",
       "topics": [
         "agent-skills",
