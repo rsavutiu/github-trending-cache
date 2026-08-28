@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T15:14:10Z",
+  "generatedAt": "2026-08-28T16:37:10Z",
   "topic": "vue",
   "totalCount": 4,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "countradooku/gpui-vue",
       "description": "Native GPU-accelerated Vue 3 renderer for Zed's GPUI",
       "url": "https://github.com/countradooku/gpui-vue",
-      "stargazerCount": 24,
+      "stargazerCount": 28,
       "forkCount": 0,
       "languageName": "Rust",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/52667211?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-24T07:13:35Z",
-      "updatedAt": "2026-08-27T14:32:58Z",
+      "updatedAt": "2026-08-28T10:41:31Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "bun",
@@ -37,7 +37,7 @@
       "nameWithOwner": "kvnkld/aicss",
       "description": "AICSS React components and CLI. Website: aicss.dev",
       "url": "https://github.com/kvnkld/aicss",
-      "stargazerCount": 18,
+      "stargazerCount": 20,
       "forkCount": 1,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -45,7 +45,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/208671746?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-24T07:40:18Z",
-      "updatedAt": "2026-08-27T11:11:42Z",
+      "updatedAt": "2026-08-28T11:48:49Z",
       "licenseName": "MIT",
       "topics": [
         "ai-agents",

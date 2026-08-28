@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T15:14:10Z",
+  "generatedAt": "2026-08-28T16:37:10Z",
   "topic": "kubernetes",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "mjavedali/drain-check",
       "description": "PDB / drain-check before node maintenance  ",
       "url": "https://github.com/mjavedali/drain-check",
-      "stargazerCount": 17,
+      "stargazerCount": 18,
       "forkCount": 1,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/30997178?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-23T11:33:04Z",
-      "updatedAt": "2026-08-27T11:59:27Z",
+      "updatedAt": "2026-08-28T08:39:39Z",
       "licenseName": "MIT",
       "topics": [
         "cli-tool",
@@ -37,13 +37,13 @@
       "url": "https://github.com/antifailure/antifailure",
       "stargazerCount": 10,
       "forkCount": 2,
-      "languageName": "HTML",
+      "languageName": "Go",
       "languageColor": null,
       "ownerLogin": "antifailure",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/321004801?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-08-26T00:44:09Z",
-      "updatedAt": "2026-08-27T13:36:40Z",
+      "updatedAt": "2026-08-28T16:27:04Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "ai-agents",
@@ -60,7 +60,7 @@
         "qa-automation",
         "supabase"
       ],
-      "openIssuesCount": 10,
+      "openIssuesCount": 9,
       "closedIssuesCount": 0
     }
   ]

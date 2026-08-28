@@ -1,47 +1,15 @@
 {
-  "generatedAt": "2026-08-27T15:14:10Z",
+  "generatedAt": "2026-08-28T16:37:10Z",
   "topic": "devops",
-  "totalCount": 11,
+  "totalCount": 8,
   "repos": [
-    {
-      "id": "1341363831",
-      "name": "ansible-static-lint",
-      "nameWithOwner": "arhuman/ansible-static-lint",
-      "description": "Static Ansible linting in Go: the 38 ansible-lint rules decidable from YAML alone, byte-for-byte pep8 output, no Ansible runtime.",
-      "url": "https://github.com/arhuman/ansible-static-lint",
-      "stargazerCount": 18,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "arhuman",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/283991?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-21T03:35:17Z",
-      "updatedAt": "2026-08-27T14:18:36Z",
-      "licenseName": "MIT",
-      "topics": [
-        "ansible",
-        "ansible-lint",
-        "ci",
-        "devops",
-        "devops-tools",
-        "github-actions",
-        "golang",
-        "linter",
-        "pre-commit",
-        "sarif",
-        "static-analysis"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1343698202",
       "name": "drain-check",
       "nameWithOwner": "mjavedali/drain-check",
       "description": "PDB / drain-check before node maintenance  ",
       "url": "https://github.com/mjavedali/drain-check",
-      "stargazerCount": 17,
+      "stargazerCount": 18,
       "forkCount": 1,
       "languageName": "Go",
       "languageColor": null,
@@ -49,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/30997178?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-23T11:33:04Z",
-      "updatedAt": "2026-08-27T11:59:27Z",
+      "updatedAt": "2026-08-28T08:39:39Z",
       "licenseName": "MIT",
       "topics": [
         "cli-tool",
@@ -105,13 +73,13 @@
       "url": "https://github.com/antifailure/antifailure",
       "stargazerCount": 10,
       "forkCount": 2,
-      "languageName": "HTML",
+      "languageName": "Go",
       "languageColor": null,
       "ownerLogin": "antifailure",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/321004801?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-08-26T00:44:09Z",
-      "updatedAt": "2026-08-27T13:36:40Z",
+      "updatedAt": "2026-08-28T16:27:04Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "ai-agents",
@@ -128,7 +96,7 @@
         "qa-automation",
         "supabase"
       ],
-      "openIssuesCount": 10,
+      "openIssuesCount": 9,
       "closedIssuesCount": 0
     },
     {
@@ -199,33 +167,6 @@
         "version-control"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1341276826",
-      "name": "exevra",
-      "nameWithOwner": "Exevra/exevra",
-      "description": "Check that your JUnit tests run in CI. Flag missing suites, reduced counts, and test-set drift.",
-      "url": "https://github.com/Exevra/exevra",
-      "stargazerCount": 8,
-      "forkCount": 0,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "Exevra",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/316692905?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-08-21T01:12:50Z",
-      "updatedAt": "2026-08-27T11:42:05Z",
-      "licenseName": "MIT",
-      "topics": [
-        "ci",
-        "devops",
-        "github-actions",
-        "junit",
-        "maven",
-        "testing-tools"
-      ],
-      "openIssuesCount": 3,
       "closedIssuesCount": 0
     },
     {
@@ -332,37 +273,6 @@
         "software-engineering"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1341332728",
-      "name": "IotaPanel",
-      "nameWithOwner": "plainfate/IotaPanel",
-      "description": "极简微内核 Linux 服务器面板：核心只做认证/反向代理/插件进程调度，功能全由独立进程插件提供（任意语言），按需冷启动、空闲自动退出、崩溃隔离。qq群:801389996",
-      "url": "https://github.com/plainfate/IotaPanel",
-      "stargazerCount": 6,
-      "forkCount": 4,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "plainfate",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/207346610?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-21T02:44:46Z",
-      "updatedAt": "2026-08-27T14:43:54Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "devops",
-        "go",
-        "golang",
-        "linux",
-        "mcp-server",
-        "microkernel",
-        "plugin",
-        "reverse-proxy",
-        "self-hosted",
-        "server-panel"
-      ],
-      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]

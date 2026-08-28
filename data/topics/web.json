@@ -1,6 +1,63 @@
 {
-  "generatedAt": "2026-08-27T15:14:10Z",
+  "generatedAt": "2026-08-28T16:37:10Z",
   "topic": "web",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 2,
+  "repos": [
+    {
+      "id": "1346645880",
+      "name": "needle",
+      "nameWithOwner": "keenableai/needle",
+      "description": "NEEDLE. A live search and retrieval benchmark from Keenable.ai",
+      "url": "https://github.com/keenableai/needle",
+      "stargazerCount": 11,
+      "forkCount": 4,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "keenableai",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/236486265?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-08-25T21:28:54Z",
+      "updatedAt": "2026-08-28T14:56:11Z",
+      "licenseName": "MIT",
+      "topics": [
+        "agent",
+        "ai",
+        "benchmark",
+        "search",
+        "web"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1344665966",
+      "name": "ngx-offline-sync",
+      "nameWithOwner": "itsisoev/ngx-offline-sync",
+      "description": "Angular library for queuing requests offline and syncing them automatically when the connection is restored",
+      "url": "https://github.com/itsisoev/ngx-offline-sync",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "itsisoev",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/100797336?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-24T07:27:53Z",
+      "updatedAt": "2026-08-28T14:07:21Z",
+      "licenseName": "MIT",
+      "topics": [
+        "angular",
+        "angular2",
+        "http",
+        "indexeddb",
+        "network",
+        "offline-first",
+        "offline-first-webapp",
+        "typescript",
+        "web"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T15:14:10Z",
+  "generatedAt": "2026-08-28T16:37:10Z",
   "topic": "deep-learning",
   "totalCount": 3,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "kamalesh404/VisionCraft",
       "description": "Multi-modal AI workspace — image generation, analysis, OCR, and style transfer in one platform",
       "url": "https://github.com/kamalesh404/VisionCraft",
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/228681348?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-23T14:10:35Z",
-      "updatedAt": "2026-08-26T16:29:37Z",
+      "updatedAt": "2026-08-28T05:52:06Z",
       "licenseName": "MIT",
       "topics": [
         "ai",
@@ -40,7 +40,7 @@
       "nameWithOwner": "kamalesh404/NeuralForge",
       "description": "AI model training platform — train, fine-tune, deploy ML models in browser with WebGPU acceleration",
       "url": "https://github.com/kamalesh404/NeuralForge",
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -48,7 +48,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/228681348?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-23T14:10:31Z",
-      "updatedAt": "2026-08-26T16:29:19Z",
+      "updatedAt": "2026-08-28T05:52:09Z",
       "licenseName": "MIT",
       "topics": [
         "deep-learning",
@@ -71,7 +71,7 @@
       "nameWithOwner": "kamalesh404/SynthVoice",
       "description": "Real-time voice cloning & text-to-speech — speak in any voice with AI",
       "url": "https://github.com/kamalesh404/SynthVoice",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -79,7 +79,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/228681348?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-23T14:10:33Z",
-      "updatedAt": "2026-08-26T16:29:23Z",
+      "updatedAt": "2026-08-28T05:52:07Z",
       "licenseName": "MIT",
       "topics": [
         "ai-audio",

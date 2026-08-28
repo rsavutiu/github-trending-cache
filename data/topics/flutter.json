@@ -1,52 +1,23 @@
 {
-  "generatedAt": "2026-08-27T15:14:10Z",
+  "generatedAt": "2026-08-28T16:37:10Z",
   "topic": "flutter",
   "totalCount": 5,
   "repos": [
-    {
-      "id": "1341873752",
-      "name": "lightspeed",
-      "nameWithOwner": "khydrogenous/lightspeed",
-      "description": "Light Speed is a cross-platform, peer-to-peer, end-to-end encrypted social app for text and media. Messages are encrypted on-device, relayed directly between peers, and deleted after a single view. No moderation, no accounts, no server-side content.",
-      "url": "https://github.com/khydrogenous/lightspeed",
-      "stargazerCount": 62,
-      "forkCount": 5,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "khydrogenous",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/97297306?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-21T14:02:24Z",
-      "updatedAt": "2026-08-27T09:38:25Z",
-      "licenseName": "AGPL-3.0",
-      "topics": [
-        "encryption",
-        "flutter",
-        "p2p",
-        "p2p-chat",
-        "p2p-network",
-        "privacy",
-        "social-media",
-        "social-network"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1343299521",
       "name": "hermes-console",
       "nameWithOwner": "xP3ta/hermes-console",
       "description": "Android-first Flutter client for self-hosted Hermes Agent — chat, Bots, Voice and private remote control.",
       "url": "https://github.com/xP3ta/hermes-console",
-      "stargazerCount": 28,
-      "forkCount": 2,
+      "stargazerCount": 34,
+      "forkCount": 3,
       "languageName": "Dart",
       "languageColor": null,
       "ownerLogin": "xP3ta",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/278794522?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-23T02:06:01Z",
-      "updatedAt": "2026-08-27T12:14:07Z",
+      "updatedAt": "2026-08-28T15:49:19Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "ai-agent",
@@ -58,7 +29,7 @@
         "privacy",
         "self-hosted"
       ],
-      "openIssuesCount": 4,
+      "openIssuesCount": 3,
       "closedIssuesCount": 0
     },
     {
@@ -101,7 +72,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/97649782?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-23T15:24:42Z",
-      "updatedAt": "2026-08-25T12:51:43Z",
+      "updatedAt": "2026-08-27T15:26:46Z",
       "licenseName": "MIT",
       "topics": [
         "agent-skills",
@@ -146,6 +117,35 @@
         "ride-hailing",
         "uber",
         "uber-clone"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1343962798",
+      "name": "SideDeck",
+      "nameWithOwner": "manueljpy/SideDeck",
+      "description": "Open-source Flutter DJ App with Subsonic support",
+      "url": "https://github.com/manueljpy/SideDeck",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Dart",
+      "languageColor": null,
+      "ownerLogin": "manueljpy",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/26967676?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-23T16:17:25Z",
+      "updatedAt": "2026-08-28T05:55:10Z",
+      "licenseName": "GPL-3.0",
+      "topics": [
+        "android",
+        "dj",
+        "flutter",
+        "foss",
+        "gplv3",
+        "music",
+        "open-source",
+        "subsonic"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

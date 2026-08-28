@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-27T15:14:10Z",
+  "generatedAt": "2026-08-28T16:37:10Z",
   "topic": "data-science",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1343806150",
@@ -42,6 +42,37 @@
         "statistics"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1342568508",
+      "name": "edaprep",
+      "nameWithOwner": "bijay-odyssey/edaprep",
+      "description": "Transparent, leakage-safe EDA and ML preprocessing for pandas, with an explainable planner that shows its reasoning.",
+      "url": "https://github.com/bijay-odyssey/edaprep",
+      "stargazerCount": 7,
+      "forkCount": 12,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "bijay-odyssey",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/204723244?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-22T07:48:31Z",
+      "updatedAt": "2026-08-28T14:33:35Z",
+      "licenseName": "MIT",
+      "topics": [
+        "data-cleaning",
+        "data-quality",
+        "data-science",
+        "eda",
+        "exploratory-data-analysis",
+        "feature-engineering",
+        "machine-learning",
+        "pandas",
+        "preprocessing",
+        "python"
+      ],
+      "openIssuesCount": 12,
       "closedIssuesCount": 0
     }
   ]
