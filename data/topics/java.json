@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T16:37:10Z",
+  "generatedAt": "2026-08-29T11:04:06Z",
   "topic": "java",
   "totalCount": 4,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "dinosn/log4j-4255",
       "description": "End-to-end Docker lab reproducing Apache log4j2 #4255 — FilteredObjectInputStream allowlist bypass via java.rmi.MarshalledObject (unfiltered deserialization → RCE) on Log4j 2.26.1 / JDK 17.",
       "url": "https://github.com/dinosn/log4j-4255",
-      "stargazerCount": 22,
+      "stargazerCount": 25,
       "forkCount": 14,
       "languageName": "Java",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/3851678?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-26T09:26:32Z",
-      "updatedAt": "2026-08-28T00:20:45Z",
+      "updatedAt": "2026-08-29T08:58:15Z",
       "licenseName": "MIT",
       "topics": [
         "cwe-502",
@@ -69,7 +69,7 @@
       "nameWithOwner": "Lodeway/paper-in-browser",
       "description": "Uses a WASM Java VM (CheerpJ) to run a back-ported version of Paper Minecraft server software in the browser",
       "url": "https://github.com/Lodeway/paper-in-browser",
-      "stargazerCount": 10,
+      "stargazerCount": 11,
       "forkCount": 0,
       "languageName": "Java",
       "languageColor": null,
@@ -77,7 +77,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/320504238?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-08-24T09:30:57Z",
-      "updatedAt": "2026-08-26T18:29:34Z",
+      "updatedAt": "2026-08-28T23:55:48Z",
       "licenseName": "MIT",
       "topics": [
         "cheerpj",
