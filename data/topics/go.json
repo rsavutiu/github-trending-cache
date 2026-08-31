@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T09:56:03Z",
+  "generatedAt": "2026-08-31T10:50:06Z",
   "topic": "go",
   "totalCount": 3,
   "repos": [
@@ -65,19 +65,19 @@
     },
     {
       "id": "1349787726",
-      "name": "girder",
-      "nameWithOwner": "IQAIcom/girder",
+      "name": "ISO-tride",
+      "nameWithOwner": "proofofbeauty/ISO-tride",
       "description": "Core services layer: identity, config, transport, storage. Go, zero external deps.",
-      "url": "https://github.com/IQAIcom/girder",
+      "url": "https://github.com/proofofbeauty/ISO-tride",
       "stargazerCount": 21,
       "forkCount": 0,
       "languageName": "Go",
       "languageColor": null,
-      "ownerLogin": "IQAIcom",
+      "ownerLogin": "proofofbeauty",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/322159604?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-08-28T16:02:26Z",
-      "updatedAt": "2026-08-28T17:10:41Z",
+      "updatedAt": "2026-08-30T18:46:29Z",
       "licenseName": "MIT",
       "topics": [
         "distributed-systems",
