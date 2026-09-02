@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-01T09:23:57Z",
+  "generatedAt": "2026-09-02T08:46:12Z",
   "topic": "kotlin",
-  "totalCount": 5,
+  "totalCount": 7,
   "repos": [
     {
       "id": "1350506796",
@@ -35,7 +35,7 @@
       "nameWithOwner": "ottersuite/Currents",
       "description": "A polished, gesture-first open-source Reddit client for Android. Bring your own Client ID.",
       "url": "https://github.com/ottersuite/Currents",
-      "stargazerCount": 16,
+      "stargazerCount": 17,
       "forkCount": 0,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -43,7 +43,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/322662777?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-31T21:43:37Z",
-      "updatedAt": "2026-09-01T07:15:39Z",
+      "updatedAt": "2026-09-02T01:04:02Z",
       "licenseName": "MIT",
       "topics": [
         "android",
@@ -57,35 +57,6 @@
         "reddit-client"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1347599898",
-      "name": "ArasClient",
-      "nameWithOwner": "ArasTey/ArasClient",
-      "description": "⚡ A modern, fast Android VPN client — encrypted .arasc config sharing, Smart Connect, subscription traffic & announcements",
-      "url": "https://github.com/ArasTey/ArasClient",
-      "stargazerCount": 16,
-      "forkCount": 3,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "ArasTey",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/308009703?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-26T17:16:16Z",
-      "updatedAt": "2026-09-01T08:13:28Z",
-      "licenseName": "GPL-3.0",
-      "topics": [
-        "android",
-        "jetpack-compose",
-        "kotlin",
-        "trojan",
-        "v2ray",
-        "vless",
-        "vpn",
-        "xray"
-      ],
-      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -127,7 +98,7 @@
       "nameWithOwner": "FedeFluork/multistore",
       "description": "A native Android app that aggregates third-party app stores into one catalogue. Search across all of them at once, compare what each publishes for the same app, download and install APKs from the store you pick, and keep what you installed up to date.",
       "url": "https://github.com/FedeFluork/multistore",
-      "stargazerCount": 12,
+      "stargazerCount": 13,
       "forkCount": 0,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -135,7 +106,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/58691996?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-28T10:23:52Z",
-      "updatedAt": "2026-08-31T08:08:49Z",
+      "updatedAt": "2026-09-02T04:25:46Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "android",
@@ -159,7 +130,91 @@
         "sideloading",
         "web-scraping"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 2,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1351230263",
+      "name": "XmaxSDK-Android",
+      "nameWithOwner": "XingMai/XmaxSDK-Android",
+      "description": "Native Android SDK for real-time interactive video generation with Xmax AI",
+      "url": "https://github.com/XingMai/XmaxSDK-Android",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "XingMai",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/144527303?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-08-30T08:30:20Z",
+      "updatedAt": "2026-09-01T16:29:14Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ai",
+        "android",
+        "kotlin",
+        "realtime",
+        "sdk",
+        "xmax"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1349167584",
+      "name": "reverb",
+      "nameWithOwner": "SmallThingz/reverb",
+      "description": "Privacy-focused rolling audio buffer recorder for Android",
+      "url": "https://github.com/SmallThingz/reverb",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "SmallThingz",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/248370375?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-08-28T03:38:14Z",
+      "updatedAt": "2026-09-02T06:34:45Z",
+      "licenseName": "GPL-3.0",
+      "topics": [
+        "android",
+        "audio-recorder",
+        "fdroid",
+        "jetpack-compose",
+        "kotlin",
+        "material3",
+        "open-source",
+        "privacy",
+        "rolling-buffer",
+        "wav"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1348424272",
+      "name": "JumpClean",
+      "nameWithOwner": "Yilink1/JumpClean",
+      "description": "Jump 社区净化与体验增强模块，基于 Xposed / LSPosed 框架",
+      "url": "https://github.com/Yilink1/JumpClean",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "Yilink1",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/87064016?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-27T11:45:21Z",
+      "updatedAt": "2026-09-02T08:18:37Z",
+      "licenseName": "GPL-3.0",
+      "topics": [
+        "jump",
+        "kotlin",
+        "lsposed",
+        "lsposed-module",
+        "xposed"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

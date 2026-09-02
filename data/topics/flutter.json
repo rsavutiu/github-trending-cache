@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-01T09:23:57Z",
+  "generatedAt": "2026-09-02T08:46:12Z",
   "topic": "flutter",
-  "totalCount": 2,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1351541049",
@@ -9,7 +9,7 @@
       "nameWithOwner": "getpoka/poka-ce",
       "description": "Simple. Offline. Yours. — Personal finance management, no cloud required.",
       "url": "https://github.com/getpoka/poka-ce",
-      "stargazerCount": 31,
+      "stargazerCount": 32,
       "forkCount": 11,
       "languageName": "Dart",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/308239017?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-08-30T16:08:26Z",
-      "updatedAt": "2026-09-01T08:36:09Z",
+      "updatedAt": "2026-09-02T06:34:07Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "budget-tracker",
@@ -30,7 +30,7 @@
         "privacy",
         "sqlite"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -47,7 +47,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/249546925?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-08-28T16:30:26Z",
-      "updatedAt": "2026-09-01T08:37:59Z",
+      "updatedAt": "2026-09-02T03:46:07Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "ade",
@@ -70,6 +70,76 @@
         "vibe-coding",
         "vicoa",
         "windows"
+      ],
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1349688269",
+      "name": "flutter-production-starter",
+      "nameWithOwner": "Ali-El-Khatib/flutter-production-starter",
+      "description": "🚀 Production-ready Flutter Monorepo Starter Architecture featuring LEGO modular boundaries, Melos, Pragmatic Clean Architecture, Kaisel routing, and bloc_signals.",
+      "url": "https://github.com/Ali-El-Khatib/flutter-production-starter",
+      "stargazerCount": 9,
+      "forkCount": 1,
+      "languageName": "Dart",
+      "languageColor": null,
+      "ownerLogin": "Ali-El-Khatib",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/252188812?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-28T14:22:29Z",
+      "updatedAt": "2026-09-01T17:53:32Z",
+      "licenseName": "MIT",
+      "topics": [
+        "bloc-signals",
+        "clean-architecture",
+        "dart",
+        "dependency-injection",
+        "dio",
+        "feature-first",
+        "flutter",
+        "flutter-boilerplate",
+        "flutter-starter",
+        "flutter-template",
+        "github-actions",
+        "kaisel",
+        "melos",
+        "modular-architecture",
+        "monorepo",
+        "production-ready",
+        "pub-workspace",
+        "routing",
+        "signals",
+        "state-management"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1348042015",
+      "name": "kalasetu",
+      "nameWithOwner": "kan9667/kalasetu",
+      "description": "Offline-first AI mobile app that turns artisans' phone photos and voice notes into professional, priced, bilingual (EN/HI) product listings — connecting them to B2B buyers, GeM, and ONGC. Built for SIH 2026 (PS-90).",
+      "url": "https://github.com/kan9667/kalasetu",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Dart",
+      "languageColor": null,
+      "ownerLogin": "kan9667",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/249719819?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-27T03:51:40Z",
+      "updatedAt": "2026-09-01T17:34:33Z",
+      "licenseName": null,
+      "topics": [
+        "computer-vision",
+        "dynamic-pricing",
+        "fastapi",
+        "flutter",
+        "multilingual",
+        "nlp",
+        "offline-first",
+        "social-impact"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

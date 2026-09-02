@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-01T09:23:57Z",
+  "generatedAt": "2026-09-02T08:46:12Z",
   "topic": "machine-learning",
-  "totalCount": 7,
+  "totalCount": 9,
   "repos": [
     {
       "id": "1351204776",
@@ -10,7 +10,7 @@
       "description": "Generate a YC startup name before someone else does.",
       "url": "https://github.com/aadithyanr/yname",
       "stargazerCount": 51,
-      "forkCount": 6,
+      "forkCount": 7,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "aadithyanr",
@@ -27,6 +27,37 @@
         "y-combinator"
       ],
       "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1353960300",
+      "name": "NeSLE",
+      "nameWithOwner": "hbofz/NeSLE",
+      "description": "GPU-native NES emulator + RL stack: thousands of parallel NES envs on one CUDA GPU, training PPO agents on Super Mario Bros.",
+      "url": "https://github.com/hbofz/NeSLE",
+      "stargazerCount": 17,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "hbofz",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/199298065?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-01T19:38:21Z",
+      "updatedAt": "2026-09-02T07:35:00Z",
+      "licenseName": "MIT",
+      "topics": [
+        "cuda",
+        "emulator",
+        "gpu",
+        "gymnasium",
+        "machine-learning",
+        "nes",
+        "ppo",
+        "pybind11",
+        "reinforcement-learning",
+        "super-mario-bros"
+      ],
+      "openIssuesCount": 9,
       "closedIssuesCount": 0
     },
     {
@@ -71,40 +102,6 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1346919628",
-      "name": "open-source-ai-models",
-      "nameWithOwner": "zidniryi/open-source-ai-models",
-      "description": "A curated directory of open-source & open-weight AI models — compare params, VRAM, context length, and license before picking a model for coding, OCR, vision, image generation, speech, reasoning, and RAG.",
-      "url": "https://github.com/zidniryi/open-source-ai-models",
-      "stargazerCount": 14,
-      "forkCount": 3,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "zidniryi",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/19811857?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-26T05:00:24Z",
-      "updatedAt": "2026-08-28T04:32:25Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "ai-models",
-        "artificial-intelligence",
-        "artificial-neural-networks",
-        "awesome-list",
-        "background-removal",
-        "huggingface",
-        "llm",
-        "llms",
-        "local-llm",
-        "machine-learning",
-        "model-directory",
-        "ocr",
-        "open-source-ai"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1348859674",
       "name": "memaudit",
       "nameWithOwner": "mem-audit/memaudit",
@@ -138,6 +135,30 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1353199358",
+      "name": "forecasting-crude-oil-option-prices",
+      "nameWithOwner": "keke-star19/forecasting-crude-oil-option-prices",
+      "description": "Published in Communications in Nonlinear Science and Numerical Simulation.",
+      "url": "https://github.com/keke-star19/forecasting-crude-oil-option-prices",
+      "stargazerCount": 10,
+      "forkCount": 0,
+      "languageName": "Jupyter Notebook",
+      "languageColor": null,
+      "ownerLogin": "keke-star19",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/318211757?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-01T06:08:27Z",
+      "updatedAt": "2026-09-02T08:20:18Z",
+      "licenseName": null,
+      "topics": [
+        "deep-learning",
+        "machine-learning",
+        "option-pricing"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1352030743",
       "name": "Ball-On",
       "nameWithOwner": "MohammadAsheel/Ball-On",
@@ -151,7 +172,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/182617814?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-31T05:28:29Z",
-      "updatedAt": "2026-09-01T06:08:00Z",
+      "updatedAt": "2026-09-02T06:30:07Z",
       "licenseName": null,
       "topics": [
         "football",
@@ -241,6 +262,34 @@
         "vla",
         "vlm",
         "world-models"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1353758318",
+      "name": "The-AI-Engineer-s-Playbook",
+      "nameWithOwner": "Laleeth/The-AI-Engineer-s-Playbook",
+      "description": "Practical engineering knowledge for building and operating production AI systems — LLMs, RAG, agents, inference, evaluation, system design, and AI infrastructure.",
+      "url": "https://github.com/Laleeth/The-AI-Engineer-s-Playbook",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "Laleeth",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14369362?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-01T15:57:00Z",
+      "updatedAt": "2026-09-02T08:35:33Z",
+      "licenseName": "MIT",
+      "topics": [
+        "agents",
+        "ai-engineering",
+        "interview-preparation",
+        "llm",
+        "machine-learning",
+        "rag",
+        "system-design"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
