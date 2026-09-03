@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T08:46:12Z",
+  "generatedAt": "2026-09-03T08:55:17Z",
   "topic": "flutter",
   "totalCount": 4,
   "repos": [
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/308239017?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-08-30T16:08:26Z",
-      "updatedAt": "2026-09-02T06:34:07Z",
+      "updatedAt": "2026-09-02T20:49:44Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "budget-tracker",
@@ -39,15 +39,15 @@
       "nameWithOwner": "vicoa-ai/vicoa",
       "description": "Vicoa is the ADE for running a team of coding agents from any device. Desktop, mobile, VPS, open-source, self-hostable.",
       "url": "https://github.com/vicoa-ai/vicoa",
-      "stargazerCount": 30,
-      "forkCount": 6,
+      "stargazerCount": 31,
+      "forkCount": 7,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "vicoa-ai",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/249546925?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-08-28T16:30:26Z",
-      "updatedAt": "2026-09-02T03:46:07Z",
+      "updatedAt": "2026-09-03T08:39:54Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "ade",
@@ -71,7 +71,7 @@
         "vicoa",
         "windows"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -88,7 +88,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/252188812?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-28T14:22:29Z",
-      "updatedAt": "2026-09-01T17:53:32Z",
+      "updatedAt": "2026-09-02T22:50:43Z",
       "licenseName": "MIT",
       "topics": [
         "bloc-signals",
@@ -116,32 +116,37 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1348042015",
-      "name": "kalasetu",
-      "nameWithOwner": "kan9667/kalasetu",
-      "description": "Offline-first AI mobile app that turns artisans' phone photos and voice notes into professional, priced, bilingual (EN/HI) product listings — connecting them to B2B buyers, GeM, and ONGC. Built for SIH 2026 (PS-90).",
-      "url": "https://github.com/kan9667/kalasetu",
-      "stargazerCount": 6,
+      "id": "1350080987",
+      "name": "TetoTV-Beta",
+      "nameWithOwner": "LindersOSX/TetoTV-Beta",
+      "description": "Open-source TV-first media library, tracking, and playback client for Android TV, Google TV, Fire TV, and Android. Beta channel.",
+      "url": "https://github.com/LindersOSX/TetoTV-Beta",
+      "stargazerCount": 7,
       "forkCount": 0,
       "languageName": "Dart",
       "languageColor": null,
-      "ownerLogin": "kan9667",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/249719819?v=4",
+      "ownerLogin": "LindersOSX",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/207355039?v=4",
       "ownerType": "User",
-      "createdAt": "2026-08-27T03:51:40Z",
-      "updatedAt": "2026-09-01T17:34:33Z",
-      "licenseName": null,
+      "createdAt": "2026-08-28T22:23:35Z",
+      "updatedAt": "2026-09-03T00:19:42Z",
+      "licenseName": "MIT",
       "topics": [
-        "computer-vision",
-        "dynamic-pricing",
-        "fastapi",
+        "android",
+        "android-tv",
+        "anilist",
+        "anime",
+        "fire-tv",
         "flutter",
-        "multilingual",
-        "nlp",
-        "offline-first",
-        "social-impact"
+        "google-tv",
+        "media-center",
+        "media-player",
+        "mpv",
+        "myanimelist",
+        "open-source",
+        "television"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 13,
       "closedIssuesCount": 0
     }
   ]

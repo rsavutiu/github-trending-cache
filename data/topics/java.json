@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T08:46:12Z",
+  "generatedAt": "2026-09-03T08:55:17Z",
   "topic": "java",
   "totalCount": 1,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "hyundaimotorgroup/hmg-ipmap",
       "description": "Open-source IP geolocation platform that resolves IPv4 addresses to city, country, and continent",
       "url": "https://github.com/hyundaimotorgroup/hmg-ipmap",
-      "stargazerCount": 31,
+      "stargazerCount": 33,
       "forkCount": 0,
       "languageName": "Java",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/318932829?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-08-31T04:48:24Z",
-      "updatedAt": "2026-09-02T04:57:16Z",
+      "updatedAt": "2026-09-03T08:17:28Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "geoip",
