@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-03T08:55:17Z",
+  "generatedAt": "2026-09-04T08:50:21Z",
   "topic": "devops",
-  "totalCount": 3,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1350830809",
@@ -9,7 +9,7 @@
       "nameWithOwner": "OthmaneBlial/MobaRust",
       "description": "Free, open-source MobaXterm alternative built with Rust: SSH, SFTP, SCP, terminals, tunnels, serial, Telnet, diagnostics, and remote administration.",
       "url": "https://github.com/OthmaneBlial/MobaRust",
-      "stargazerCount": 87,
+      "stargazerCount": 92,
       "forkCount": 7,
       "languageName": "Rust",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/26414042?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-29T18:43:07Z",
-      "updatedAt": "2026-09-02T22:42:19Z",
+      "updatedAt": "2026-09-04T06:43:47Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "devops",
@@ -45,12 +45,45 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1352527683",
+      "name": "FaultLens",
+      "nameWithOwner": "MangoGreenTeaz/FaultLens",
+      "description": "Local-first, explainable log incident diagnosis for developers and CI/CD.",
+      "url": "https://github.com/MangoGreenTeaz/FaultLens",
+      "stargazerCount": 23,
+      "forkCount": 1,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "MangoGreenTeaz",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/61741618?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-08-31T14:47:08Z",
+      "updatedAt": "2026-09-04T07:54:57Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ci-cd",
+        "cli",
+        "devops",
+        "github-actions",
+        "go",
+        "golang",
+        "incident-response",
+        "log-analysis",
+        "log-analyzer",
+        "observability",
+        "root-cause-analysis",
+        "sre"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1350143069",
       "name": "jump-skills",
       "nameWithOwner": "fabricioctelles/jump-skills",
       "description": "Jump Skill Ninjas are intelligent meta-skills — master orchestrators that route your requests to the most appropriate specialized skill from a curated library. Instead of manually searching through hundreds of individual skills, you simply describe your task and the Ninja Identifies specialized skills and Loads the full skill in context",
       "url": "https://github.com/fabricioctelles/jump-skills",
-      "stargazerCount": 21,
+      "stargazerCount": 23,
       "forkCount": 1,
       "languageName": "Shell",
       "languageColor": null,
@@ -58,7 +91,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/219920630?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-29T00:23:45Z",
-      "updatedAt": "2026-09-03T04:10:36Z",
+      "updatedAt": "2026-09-04T03:55:22Z",
       "licenseName": "MIT",
       "topics": [
         "agent-skills",
@@ -97,7 +130,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/102741679?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-02T08:17:43Z",
-      "updatedAt": "2026-09-03T06:26:45Z",
+      "updatedAt": "2026-09-04T08:35:53Z",
       "licenseName": "Unlicense",
       "topics": [
         "ai",

@@ -1,8 +1,34 @@
 {
-  "generatedAt": "2026-09-03T08:55:17Z",
+  "generatedAt": "2026-09-04T08:50:21Z",
   "topic": "kubernetes",
   "totalCount": 4,
   "repos": [
+    {
+      "id": "1354173782",
+      "name": "kubernetes-the-hard-way-epub-builder",
+      "nameWithOwner": "terrytrent/kubernetes-the-hard-way-epub-builder",
+      "description": "Build a secure, reader-friendly EPUB from the current Kubernetes The Hard Way default branch",
+      "url": "https://github.com/terrytrent/kubernetes-the-hard-way-epub-builder",
+      "stargazerCount": 10,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "terrytrent",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/13694731?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-02T01:04:05Z",
+      "updatedAt": "2026-09-04T04:08:29Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "automation",
+        "ebook",
+        "epub",
+        "kubernetes",
+        "security"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1350972589",
       "name": "phippy-i18n",
@@ -33,38 +59,12 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1354173782",
-      "name": "kubernetes-the-hard-way-epub-builder",
-      "nameWithOwner": "terrytrent/kubernetes-the-hard-way-epub-builder",
-      "description": "Build a secure, reader-friendly EPUB from the current Kubernetes The Hard Way default branch",
-      "url": "https://github.com/terrytrent/kubernetes-the-hard-way-epub-builder",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "terrytrent",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/13694731?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-09-02T01:04:05Z",
-      "updatedAt": "2026-09-03T06:26:38Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "automation",
-        "ebook",
-        "epub",
-        "kubernetes",
-        "security"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1354156002",
-      "name": "kubectl-labels",
-      "nameWithOwner": "ahmetb/kubectl-labels",
+      "name": "kubectl-drill",
+      "nameWithOwner": "ahmetb/kubectl-drill",
       "description": "kubectl plugin to explore and pivot resource labels interactively",
-      "url": "https://github.com/ahmetb/kubectl-labels",
-      "stargazerCount": 6,
+      "url": "https://github.com/ahmetb/kubectl-drill",
+      "stargazerCount": 7,
       "forkCount": 0,
       "languageName": "Go",
       "languageColor": null,
@@ -72,7 +72,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/159209?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-02T00:37:07Z",
-      "updatedAt": "2026-09-03T07:36:29Z",
+      "updatedAt": "2026-09-04T04:25:00Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "krew",

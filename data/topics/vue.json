@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-03T08:55:17Z",
+  "generatedAt": "2026-09-04T08:50:21Z",
   "topic": "vue",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1352055302",
@@ -9,7 +9,7 @@
       "nameWithOwner": "setube/yunyin-xiuxian",
       "description": "《云隐修仙录》是一款文字修仙放置游戏 ",
       "url": "https://github.com/setube/yunyin-xiuxian",
-      "stargazerCount": 10,
+      "stargazerCount": 12,
       "forkCount": 5,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/73606411?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-31T06:02:34Z",
-      "updatedAt": "2026-09-03T07:25:06Z",
+      "updatedAt": "2026-09-04T03:20:51Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "browser-game",
@@ -31,6 +31,44 @@
         "vue3",
         "xianxia",
         "xiuxian"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1354517933",
+      "name": "CodingPlanQuota",
+      "nameWithOwner": "MeIotCOM/CodingPlanQuota",
+      "description": "Check AI coding-plan quotas (5h / weekly / monthly) on the go — Zhipu GLM, Kimi, MiniMax, ZenMux, OpenCode Go, Volcengine Ark, DeepSeek & custom relays. No backend; keys never leave your device. Android / iOS / HarmonyOS NEXT, built with uni-app x.",
+      "url": "https://github.com/MeIotCOM/CodingPlanQuota",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "MeIotCOM",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/57650051?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-09-02T08:26:21Z",
+      "updatedAt": "2026-09-04T08:23:38Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "android",
+        "claude-code",
+        "coding-plan",
+        "deepseek",
+        "harmonyos",
+        "ios",
+        "kimi",
+        "minimax",
+        "mobile-app",
+        "offline-first",
+        "quota-monitor",
+        "quota-tracker",
+        "uni-app-x",
+        "uts",
+        "volcengine",
+        "vue",
+        "zhipu"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

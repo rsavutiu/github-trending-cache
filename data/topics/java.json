@@ -1,15 +1,37 @@
 {
-  "generatedAt": "2026-09-03T08:55:17Z",
+  "generatedAt": "2026-09-04T08:50:21Z",
   "topic": "java",
-  "totalCount": 1,
+  "totalCount": 3,
   "repos": [
+    {
+      "id": "1353060457",
+      "name": "BarberShopSchedule",
+      "nameWithOwner": "Gerato25/BarberShopSchedule",
+      "description": "Android app to manage a barber shop schedule and their customers",
+      "url": "https://github.com/Gerato25/BarberShopSchedule",
+      "stargazerCount": 60,
+      "forkCount": 0,
+      "languageName": "Java",
+      "languageColor": null,
+      "ownerLogin": "Gerato25",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/11531936?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-01T02:43:17Z",
+      "updatedAt": "2026-09-04T01:04:43Z",
+      "licenseName": null,
+      "topics": [
+        "java"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1352001946",
       "name": "hmg-ipmap",
       "nameWithOwner": "hyundaimotorgroup/hmg-ipmap",
       "description": "Open-source IP geolocation platform that resolves IPv4 addresses to city, country, and continent",
       "url": "https://github.com/hyundaimotorgroup/hmg-ipmap",
-      "stargazerCount": 33,
+      "stargazerCount": 34,
       "forkCount": 0,
       "languageName": "Java",
       "languageColor": null,
@@ -17,7 +39,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/318932829?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-08-31T04:48:24Z",
-      "updatedAt": "2026-09-03T08:17:28Z",
+      "updatedAt": "2026-09-03T23:47:14Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "geoip",
@@ -27,6 +49,40 @@
         "spring-boot"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1354228702",
+      "name": "sentinel-auth-api",
+      "nameWithOwner": "LuisCarlos01/sentinel-auth-api",
+      "description": "Production-inspired authentication API with Spring Boot, JWT, Refresh Tokens, RBAC, PostgreSQL, Docker, tests and CI/CD.",
+      "url": "https://github.com/LuisCarlos01/sentinel-auth-api",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": "Java",
+      "languageColor": null,
+      "ownerLogin": "LuisCarlos01",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/179360506?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-02T02:33:28Z",
+      "updatedAt": "2026-09-03T22:36:42Z",
+      "licenseName": "MIT",
+      "topics": [
+        "authentication",
+        "authorization",
+        "docker",
+        "flyway",
+        "github-actions",
+        "java",
+        "junit",
+        "jwt",
+        "postgresql",
+        "rest-api",
+        "spring-boot",
+        "spring-security",
+        "testcontainers"
+      ],
+      "openIssuesCount": 3,
       "closedIssuesCount": 0
     }
   ]

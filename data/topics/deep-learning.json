@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-03T08:55:17Z",
+  "generatedAt": "2026-09-04T08:50:21Z",
   "topic": "deep-learning",
-  "totalCount": 6,
+  "totalCount": 8,
   "repos": [
     {
       "id": "1354582706",
@@ -36,7 +36,7 @@
       "nameWithOwner": "Yuchen-zh/Multimodal-Fake-News-Datasets",
       "description": "A collection and analysis of multimodal fake news datasets across languages, domains, platforms, and modalities.",
       "url": "https://github.com/Yuchen-zh/Multimodal-Fake-News-Datasets",
-      "stargazerCount": 28,
+      "stargazerCount": 39,
       "forkCount": 3,
       "languageName": "Python",
       "languageColor": null,
@@ -44,7 +44,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/149571889?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-30T07:04:50Z",
-      "updatedAt": "2026-09-03T08:28:07Z",
+      "updatedAt": "2026-09-04T07:57:37Z",
       "licenseName": null,
       "topics": [
         "datasets",
@@ -64,7 +64,7 @@
       "nameWithOwner": "keke-star19/forecasting-crude-oil-option-prices",
       "description": "Published in Communications in Nonlinear Science and Numerical Simulation.",
       "url": "https://github.com/keke-star19/forecasting-crude-oil-option-prices",
-      "stargazerCount": 15,
+      "stargazerCount": 21,
       "forkCount": 0,
       "languageName": "Jupyter Notebook",
       "languageColor": null,
@@ -72,7 +72,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/318211757?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-01T06:08:27Z",
-      "updatedAt": "2026-09-02T19:17:40Z",
+      "updatedAt": "2026-09-04T05:53:22Z",
       "licenseName": null,
       "topics": [
         "deep-learning",
@@ -88,7 +88,7 @@
       "nameWithOwner": "HKUST-Aerial-Robotics/FC-Family",
       "description": "A Series of Research on Advancing Aerial Robots Beyond Mobility",
       "url": "https://github.com/HKUST-Aerial-Robotics/FC-Family",
-      "stargazerCount": 11,
+      "stargazerCount": 12,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -96,7 +96,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/28489597?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-08-29T12:43:30Z",
-      "updatedAt": "2026-09-02T12:07:59Z",
+      "updatedAt": "2026-09-04T03:08:47Z",
       "licenseName": null,
       "topics": [
         "active-perception",
@@ -107,6 +107,31 @@
         "perception",
         "planning",
         "reinfrocement-learning"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1355933553",
+      "name": "ccbp-pytorch",
+      "nameWithOwner": "lucidrains/ccbp-pytorch",
+      "description": "Implementation of the proposed CCBP (Continuous Continual BackProp) in Pytorch",
+      "url": "https://github.com/lucidrains/ccbp-pytorch",
+      "stargazerCount": 10,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "lucidrains",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-03T12:09:22Z",
+      "updatedAt": "2026-09-04T07:47:40Z",
+      "licenseName": "MIT",
+      "topics": [
+        "artificial-intelligence",
+        "continual-learning",
+        "deep-learning",
+        "plasticity"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -132,6 +157,37 @@
         "deep-learning",
         "gradient-conflict",
         "physics-informed-neural-networks"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1356341544",
+      "name": "Satelite-Imagery-Deep-Learning",
+      "nameWithOwner": "Adilmunawar/Satelite-Imagery-Deep-Learning",
+      "description": "A comprehensive, curated collection of deep learning models, architectures, and algorithms for Earth observation and satellite imagery analysis.",
+      "url": "https://github.com/Adilmunawar/Satelite-Imagery-Deep-Learning",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "Adilmunawar",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127094634?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-03T19:11:34Z",
+      "updatedAt": "2026-09-03T21:16:55Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "classification-algorithm",
+        "classification-model",
+        "deep-learning",
+        "deep-learning-algorithms",
+        "deep-neural-networks",
+        "deep-research",
+        "satellite-data",
+        "satellite-imagery",
+        "satellite-prediction",
+        "satellite-tracking"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-03T08:55:17Z",
+  "generatedAt": "2026-09-04T08:50:21Z",
   "topic": "docker",
-  "totalCount": 3,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1350187482",
@@ -9,7 +9,7 @@
       "nameWithOwner": "pictaria-ai/pictaria-server",
       "description": "Self-hosted companion server for Pictaria Frame, powered by your Immich library.",
       "url": "https://github.com/pictaria-ai/pictaria-server",
-      "stargazerCount": 110,
+      "stargazerCount": 112,
       "forkCount": 1,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/300579506?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-08-29T01:54:02Z",
-      "updatedAt": "2026-09-03T06:07:06Z",
+      "updatedAt": "2026-09-04T08:40:43Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "digital-photo-frame",
@@ -28,7 +28,41 @@
         "pictaria",
         "self-hosted"
       ],
-      "openIssuesCount": 5,
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1354228702",
+      "name": "sentinel-auth-api",
+      "nameWithOwner": "LuisCarlos01/sentinel-auth-api",
+      "description": "Production-inspired authentication API with Spring Boot, JWT, Refresh Tokens, RBAC, PostgreSQL, Docker, tests and CI/CD.",
+      "url": "https://github.com/LuisCarlos01/sentinel-auth-api",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": "Java",
+      "languageColor": null,
+      "ownerLogin": "LuisCarlos01",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/179360506?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-02T02:33:28Z",
+      "updatedAt": "2026-09-03T22:36:42Z",
+      "licenseName": "MIT",
+      "topics": [
+        "authentication",
+        "authorization",
+        "docker",
+        "flyway",
+        "github-actions",
+        "java",
+        "junit",
+        "jwt",
+        "postgresql",
+        "rest-api",
+        "spring-boot",
+        "spring-security",
+        "testcontainers"
+      ],
+      "openIssuesCount": 3,
       "closedIssuesCount": 0
     },
     {
@@ -45,7 +79,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/102741679?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-02T08:17:43Z",
-      "updatedAt": "2026-09-03T06:26:45Z",
+      "updatedAt": "2026-09-04T08:35:53Z",
       "licenseName": "Unlicense",
       "topics": [
         "ai",
@@ -72,7 +106,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/68621927?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-30T05:28:31Z",
-      "updatedAt": "2026-08-31T23:13:48Z",
+      "updatedAt": "2026-09-03T19:59:56Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "ai-agents",
