@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-04T08:50:21Z",
+  "generatedAt": "2026-09-05T08:20:43Z",
   "topic": "deep-learning",
-  "totalCount": 8,
+  "totalCount": 7,
   "repos": [
     {
       "id": "1354582706",
@@ -36,7 +36,7 @@
       "nameWithOwner": "Yuchen-zh/Multimodal-Fake-News-Datasets",
       "description": "A collection and analysis of multimodal fake news datasets across languages, domains, platforms, and modalities.",
       "url": "https://github.com/Yuchen-zh/Multimodal-Fake-News-Datasets",
-      "stargazerCount": 39,
+      "stargazerCount": 41,
       "forkCount": 3,
       "languageName": "Python",
       "languageColor": null,
@@ -44,7 +44,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/149571889?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-30T07:04:50Z",
-      "updatedAt": "2026-09-04T07:57:37Z",
+      "updatedAt": "2026-09-05T04:36:12Z",
       "licenseName": null,
       "topics": [
         "datasets",
@@ -64,7 +64,7 @@
       "nameWithOwner": "keke-star19/forecasting-crude-oil-option-prices",
       "description": "Published in Communications in Nonlinear Science and Numerical Simulation.",
       "url": "https://github.com/keke-star19/forecasting-crude-oil-option-prices",
-      "stargazerCount": 21,
+      "stargazerCount": 22,
       "forkCount": 0,
       "languageName": "Jupyter Notebook",
       "languageColor": null,
@@ -72,41 +72,12 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/318211757?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-01T06:08:27Z",
-      "updatedAt": "2026-09-04T05:53:22Z",
+      "updatedAt": "2026-09-04T13:24:50Z",
       "licenseName": null,
       "topics": [
         "deep-learning",
         "machine-learning",
         "option-pricing"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1350575388",
-      "name": "FC-Family",
-      "nameWithOwner": "HKUST-Aerial-Robotics/FC-Family",
-      "description": "A Series of Research on Advancing Aerial Robots Beyond Mobility",
-      "url": "https://github.com/HKUST-Aerial-Robotics/FC-Family",
-      "stargazerCount": 12,
-      "forkCount": 0,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "HKUST-Aerial-Robotics",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/28489597?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-08-29T12:43:30Z",
-      "updatedAt": "2026-09-04T03:08:47Z",
-      "licenseName": null,
-      "topics": [
-        "active-perception",
-        "aerial-manipulation",
-        "aerial-robotics",
-        "deep-learning",
-        "optimization",
-        "perception",
-        "planning",
-        "reinfrocement-learning"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
