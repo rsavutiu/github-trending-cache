@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T08:20:43Z",
+  "generatedAt": "2026-09-06T08:39:15Z",
   "topic": "java",
   "totalCount": 3,
   "repos": [
@@ -57,7 +57,7 @@
       "nameWithOwner": "LuisCarlos01/sentinel-auth-api",
       "description": "Production-inspired authentication API with Spring Boot, JWT, Refresh Tokens, RBAC, PostgreSQL, Docker, tests and CI/CD.",
       "url": "https://github.com/LuisCarlos01/sentinel-auth-api",
-      "stargazerCount": 8,
+      "stargazerCount": 9,
       "forkCount": 0,
       "languageName": "Java",
       "languageColor": null,
@@ -65,7 +65,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/179360506?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-02T02:33:28Z",
-      "updatedAt": "2026-09-03T22:36:42Z",
+      "updatedAt": "2026-09-06T06:57:15Z",
       "licenseName": "MIT",
       "topics": [
         "authentication",
@@ -82,7 +82,7 @@
         "spring-security",
         "testcontainers"
       ],
-      "openIssuesCount": 6,
+      "openIssuesCount": 3,
       "closedIssuesCount": 0
     }
   ]

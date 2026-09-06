@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T08:20:43Z",
+  "generatedAt": "2026-09-06T08:39:15Z",
   "topic": "kotlin",
   "totalCount": 5,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "michailfragkiskos/EdgeMosaic",
       "description": "Rapid on-device AI evaluation lab: manifest validation, benchmark plans, latency/memory/thermal aggregation, JSON+Markdown reports.",
       "url": "https://github.com/michailfragkiskos/EdgeMosaic",
-      "stargazerCount": 26,
+      "stargazerCount": 28,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/24504460?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-04T16:55:00Z",
-      "updatedAt": "2026-09-04T17:56:03Z",
+      "updatedAt": "2026-09-05T10:56:47Z",
       "licenseName": "MIT",
       "topics": [
         "ai",
@@ -78,7 +78,7 @@
       "nameWithOwner": "kurixutian/OreoTunes",
       "description": "A modern Android music player with immersive album-art backgrounds, dynamic colors, mood playlists, and a glass-inspired Jetpack Compose UI.",
       "url": "https://github.com/kurixutian/OreoTunes",
-      "stargazerCount": 10,
+      "stargazerCount": 11,
       "forkCount": 0,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -86,7 +86,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/191008608?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-01T18:40:57Z",
-      "updatedAt": "2026-09-05T06:28:23Z",
+      "updatedAt": "2026-09-06T05:44:48Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "android",
@@ -111,39 +111,12 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1351230263",
-      "name": "XmaxSDK-Android",
-      "nameWithOwner": "XingMai/XmaxSDK-Android",
-      "description": "Native Android SDK for real-time interactive video generation with Xmax AI",
-      "url": "https://github.com/XingMai/XmaxSDK-Android",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "XingMai",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/144527303?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-08-30T08:30:20Z",
-      "updatedAt": "2026-09-02T12:05:49Z",
-      "licenseName": "MIT",
-      "topics": [
-        "ai",
-        "android",
-        "kotlin",
-        "realtime",
-        "sdk",
-        "xmax"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1352232599",
       "name": "LinkDeck",
       "nameWithOwner": "kaunik-chakraborty/LinkDeck",
       "description": "Privacy-first Android default browser proxy. Unfurl redirects, strip tracking parameters, inspect TLS certificates, detect phishing on-device, and automate custom app routing with zero telemetry.",
       "url": "https://github.com/kaunik-chakraborty/LinkDeck",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 0,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -151,7 +124,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/124282212?v=4",
       "ownerType": "User",
       "createdAt": "2026-08-31T09:32:50Z",
-      "updatedAt": "2026-09-03T14:47:24Z",
+      "updatedAt": "2026-09-05T16:55:01Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "android",
@@ -167,6 +140,31 @@
         "privacy-tools",
         "tracking-protection",
         "url-cleaner"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1354888242",
+      "name": "MJ",
+      "nameWithOwner": "woods-marshes/MJ",
+      "description": "全宇宙最爽的MJ，现已登录Android，可以随时随地弹出mj动画（蜘蛛侠动画）",
+      "url": "https://github.com/woods-marshes/MJ",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "woods-marshes",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/96222396?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-02T14:49:39Z",
+      "updatedAt": "2026-09-06T03:59:12Z",
+      "licenseName": "MIT",
+      "topics": [
+        "android",
+        "kotlin",
+        "kotlin-android",
+        "mj"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

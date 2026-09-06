@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-05T08:20:43Z",
+  "generatedAt": "2026-09-06T08:39:15Z",
   "topic": "deep-learning",
-  "totalCount": 7,
+  "totalCount": 6,
   "repos": [
     {
       "id": "1354582706",
@@ -28,34 +28,6 @@
         "structural-biology"
       ],
       "openIssuesCount": 2,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1351179451",
-      "name": "Multimodal-Fake-News-Datasets",
-      "nameWithOwner": "Yuchen-zh/Multimodal-Fake-News-Datasets",
-      "description": "A collection and analysis of multimodal fake news datasets across languages, domains, platforms, and modalities.",
-      "url": "https://github.com/Yuchen-zh/Multimodal-Fake-News-Datasets",
-      "stargazerCount": 41,
-      "forkCount": 3,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "Yuchen-zh",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/149571889?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-30T07:04:50Z",
-      "updatedAt": "2026-09-05T04:36:12Z",
-      "licenseName": null,
-      "topics": [
-        "datasets",
-        "deep-learning",
-        "fake-news",
-        "fake-news-detection",
-        "multimodal",
-        "multimodal-learning",
-        "natural-language-processing"
-      ],
-      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -89,7 +61,7 @@
       "description": "Implementation of the proposed CCBP (Continuous Continual BackProp) in Pytorch",
       "url": "https://github.com/lucidrains/ccbp-pytorch",
       "stargazerCount": 10,
-      "forkCount": 0,
+      "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "lucidrains",

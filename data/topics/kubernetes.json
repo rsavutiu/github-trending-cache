@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-05T08:20:43Z",
+  "generatedAt": "2026-09-06T08:39:15Z",
   "topic": "kubernetes",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1354173782",
@@ -9,7 +9,7 @@
       "nameWithOwner": "terrytrent/kubernetes-the-hard-way-epub-builder",
       "description": "Build a secure, reader-friendly EPUB from the current Kubernetes The Hard Way default branch",
       "url": "https://github.com/terrytrent/kubernetes-the-hard-way-epub-builder",
-      "stargazerCount": 11,
+      "stargazerCount": 12,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/13694731?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-02T01:04:05Z",
-      "updatedAt": "2026-09-04T11:43:13Z",
+      "updatedAt": "2026-09-05T20:25:29Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "automation",
@@ -35,7 +35,7 @@
       "nameWithOwner": "Wyrcan-io/roadmap",
       "description": "A text-first, 12-stage engineering curriculum for AI/ML × Cloud × DevOps × MLOps (12–24 months). Canonical books & official docs only.",
       "url": "https://github.com/Wyrcan-io/roadmap",
-      "stargazerCount": 11,
+      "stargazerCount": 10,
       "forkCount": 0,
       "languageName": "HTML",
       "languageColor": null,
@@ -43,7 +43,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/310505266?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-09-02T11:15:27Z",
-      "updatedAt": "2026-09-05T08:13:17Z",
+      "updatedAt": "2026-09-05T17:02:17Z",
       "licenseName": null,
       "topics": [
         "ai",
@@ -93,32 +93,6 @@
         "tui"
       ],
       "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1351449289",
-      "name": "k8s-image-tag-lint",
-      "nameWithOwner": "moveeeax/k8s-image-tag-lint",
-      "description": "Flag Kubernetes workloads using mutable image tags (:latest, no tag, or non-digest) and fail CI before an unpinned image ships.",
-      "url": "https://github.com/moveeeax/k8s-image-tag-lint",
-      "stargazerCount": 6,
-      "forkCount": 5,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "moveeeax",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/51535296?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-30T14:08:44Z",
-      "updatedAt": "2026-08-31T05:20:52Z",
-      "licenseName": "MIT",
-      "topics": [
-        "ci",
-        "cli",
-        "kubernetes",
-        "security",
-        "supply-chain"
-      ],
-      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]
