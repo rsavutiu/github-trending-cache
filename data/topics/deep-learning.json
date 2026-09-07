@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-06T08:39:15Z",
+  "generatedAt": "2026-09-07T09:19:01Z",
   "topic": "deep-learning",
-  "totalCount": 6,
+  "totalCount": 7,
   "repos": [
     {
       "id": "1354582706",
@@ -9,7 +9,7 @@
       "nameWithOwner": "ZekunCheng/novoweave",
       "description": "NovoWeave — a conceptual generative protein-design framework (non-functional pseudocode).",
       "url": "https://github.com/ZekunCheng/novoweave",
-      "stargazerCount": 101,
+      "stargazerCount": 102,
       "forkCount": 2,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/264151735?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-02T09:36:42Z",
-      "updatedAt": "2026-09-03T03:04:53Z",
+      "updatedAt": "2026-09-07T08:45:38Z",
       "licenseName": "MIT",
       "topics": [
         "deep-learning",
@@ -55,6 +55,39 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1358679908",
+      "name": "FirstLight_CR",
+      "nameWithOwner": "Jaasssoooonnnnn/FirstLight_CR",
+      "description": "Offline Clash Royale AI research: native simulation, imitation learning, PPO, and interactive evaluation. 离线对局模拟、模仿学习、强化学习与交互评测。",
+      "url": "https://github.com/Jaasssoooonnnnn/FirstLight_CR",
+      "stargazerCount": 17,
+      "forkCount": 6,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "Jaasssoooonnnnn",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/176039635?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-06T01:07:06Z",
+      "updatedAt": "2026-09-07T08:40:46Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "artificial-intelligence",
+        "clash-royale",
+        "deep-learning",
+        "deep-reinforcement-learning",
+        "distributed-training",
+        "game-ai",
+        "imitation-learning",
+        "multi-agent",
+        "ppo",
+        "pytorch",
+        "reinforcement-learning",
+        "self-play"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1355933553",
       "name": "ccbp-pytorch",
       "nameWithOwner": "lucidrains/ccbp-pytorch",
@@ -75,6 +108,30 @@
         "continual-learning",
         "deep-learning",
         "plasticity"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1359187566",
+      "name": "system2-attention",
+      "nameWithOwner": "lucidrains/system2-attention",
+      "description": "Implementation of the procedure in Language Models Can Control Their Own Attention, from Namgyu Ho et al. of KAIST AI",
+      "url": "https://github.com/lucidrains/system2-attention",
+      "stargazerCount": 10,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "lucidrains",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-06T13:52:58Z",
+      "updatedAt": "2026-09-07T06:41:33Z",
+      "licenseName": "MIT",
+      "topics": [
+        "artificial-intelligence",
+        "attention-mechanism",
+        "deep-learning"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -131,33 +188,6 @@
         "satellite-imagery",
         "satellite-prediction",
         "satellite-tracking"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1352399075",
-      "name": "damped-oscillator-pinn",
-      "nameWithOwner": "azizi-zahra/damped-oscillator-pinn",
-      "description": "Physics-Informed Neural Network for a damped mass-spring oscillator. Includes ablation experiments on IC enforcement, loss weighting, and sampling strategy, with a hard constraint repair and three-seed evaluation.",
-      "url": "https://github.com/azizi-zahra/damped-oscillator-pinn",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "azizi-zahra",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/148708816?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-08-31T12:41:28Z",
-      "updatedAt": "2026-09-02T07:21:00Z",
-      "licenseName": null,
-      "topics": [
-        "damped-oscillator",
-        "deep-learning",
-        "physics-informed-neural-networks",
-        "pinn",
-        "pytorch",
-        "scientific-machine-learning"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

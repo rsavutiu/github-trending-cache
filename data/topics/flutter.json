@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-09-06T08:39:15Z",
+  "generatedAt": "2026-09-07T09:19:01Z",
   "topic": "flutter",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 1,
+  "repos": [
+    {
+      "id": "1359030869",
+      "name": "Jadart",
+      "nameWithOwner": "IR0NBYTE/Jadart",
+      "description": "Decompiler for Flutter and Dart AOT snapshots. Recovers the class tree, method bodies, strings and const tables from a stripped libapp.so.",
+      "url": "https://github.com/IR0NBYTE/Jadart",
+      "stargazerCount": 7,
+      "forkCount": 1,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "IR0NBYTE",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/36360218?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-06T10:21:20Z",
+      "updatedAt": "2026-09-07T07:04:21Z",
+      "licenseName": "MIT",
+      "topics": [
+        "android",
+        "android-security",
+        "apk-analysis",
+        "binary-analysis",
+        "bugbounty",
+        "ctf-tools",
+        "dart",
+        "dart-aot",
+        "decompiler",
+        "disassembler",
+        "flutter",
+        "flutter-reverse-engineering",
+        "ios",
+        "ios-security",
+        "malware-analysis",
+        "mobile-security",
+        "pentesting",
+        "reverse-engineering",
+        "security-tools",
+        "static-analysis"
+      ],
+      "openIssuesCount": 2,
+      "closedIssuesCount": 0
+    }
+  ]
 }
