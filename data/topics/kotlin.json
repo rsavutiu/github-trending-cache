@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-07T09:19:01Z",
+  "generatedAt": "2026-09-08T08:51:32Z",
   "topic": "kotlin",
-  "totalCount": 5,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1357390407",
@@ -9,7 +9,7 @@
       "nameWithOwner": "michailfragkiskos/EdgeMosaic",
       "description": "Rapid on-device AI evaluation lab: manifest validation, benchmark plans, latency/memory/thermal aggregation, JSON+Markdown reports.",
       "url": "https://github.com/michailfragkiskos/EdgeMosaic",
-      "stargazerCount": 28,
+      "stargazerCount": 27,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/24504460?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-04T16:55:00Z",
-      "updatedAt": "2026-09-05T10:56:47Z",
+      "updatedAt": "2026-09-08T08:43:09Z",
       "licenseName": "MIT",
       "topics": [
         "ai",
@@ -38,69 +38,6 @@
         "reporting",
         "tflite",
         "thermal"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1353912449",
-      "name": "OreoTunes",
-      "nameWithOwner": "kurixutian/OreoTunes",
-      "description": "A modern Android music player with immersive album-art backgrounds, dynamic colors, mood playlists, and a glass-inspired Jetpack Compose UI.",
-      "url": "https://github.com/kurixutian/OreoTunes",
-      "stargazerCount": 12,
-      "forkCount": 0,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "kurixutian",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/191008608?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-09-01T18:40:57Z",
-      "updatedAt": "2026-09-06T23:32:41Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "android",
-        "android-app",
-        "android-application",
-        "android-music",
-        "android-music-app",
-        "android-music-player",
-        "audio-player",
-        "jetpack-compose",
-        "kotlin",
-        "local-music",
-        "local-music-player",
-        "material-ui",
-        "material3",
-        "music",
-        "music-player",
-        "offline-music",
-        "open-source"
-      ],
-      "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1354888242",
-      "name": "MJ",
-      "nameWithOwner": "woods-marshes/MJ",
-      "description": "全宇宙最爽的MJ，现已登录Android，可以随时随地弹出mj动画（蜘蛛侠动画）",
-      "url": "https://github.com/woods-marshes/MJ",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "woods-marshes",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/96222396?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-09-02T14:49:39Z",
-      "updatedAt": "2026-09-06T14:51:43Z",
-      "licenseName": "MIT",
-      "topics": [
-        "android",
-        "kotlin",
-        "kotlin-android",
-        "mj"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -146,7 +83,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/16792527?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-05T18:58:28Z",
-      "updatedAt": "2026-09-07T08:29:30Z",
+      "updatedAt": "2026-09-08T04:32:18Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "android",
@@ -160,7 +97,32 @@
         "privacy",
         "sqlcipher"
       ],
-      "openIssuesCount": 7,
+      "openIssuesCount": 12,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1354888242",
+      "name": "MJ",
+      "nameWithOwner": "woods-marshes/MJ",
+      "description": "全宇宙最爽的MJ，现已登录Android，可以随时随地弹出mj动画（蜘蛛侠动画）",
+      "url": "https://github.com/woods-marshes/MJ",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "woods-marshes",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/96222396?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-02T14:49:39Z",
+      "updatedAt": "2026-09-06T14:51:43Z",
+      "licenseName": "MIT",
+      "topics": [
+        "android",
+        "kotlin",
+        "kotlin-android",
+        "mj"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

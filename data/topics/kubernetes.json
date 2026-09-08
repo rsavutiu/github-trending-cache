@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-07T09:19:01Z",
+  "generatedAt": "2026-09-08T08:51:32Z",
   "topic": "kubernetes",
-  "totalCount": 5,
+  "totalCount": 7,
   "repos": [
     {
       "id": "1358168557",
@@ -49,7 +49,7 @@
       "nameWithOwner": "terrytrent/kubernetes-the-hard-way-epub-builder",
       "description": "Build a secure, reader-friendly EPUB from the current Kubernetes The Hard Way default branch",
       "url": "https://github.com/terrytrent/kubernetes-the-hard-way-epub-builder",
-      "stargazerCount": 12,
+      "stargazerCount": 13,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -57,7 +57,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/13694731?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-02T01:04:05Z",
-      "updatedAt": "2026-09-06T15:24:56Z",
+      "updatedAt": "2026-09-07T22:43:08Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "automation",
@@ -75,7 +75,7 @@
       "nameWithOwner": "Wyrcan-io/roadmap",
       "description": "A text-first, 12-stage engineering curriculum for AI/ML × Cloud × DevOps × MLOps (12–24 months). Canonical books & official docs only.",
       "url": "https://github.com/Wyrcan-io/roadmap",
-      "stargazerCount": 12,
+      "stargazerCount": 13,
       "forkCount": 0,
       "languageName": "HTML",
       "languageColor": null,
@@ -83,7 +83,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/310505266?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-09-02T11:15:27Z",
-      "updatedAt": "2026-09-06T17:54:33Z",
+      "updatedAt": "2026-09-08T06:45:34Z",
       "licenseName": null,
       "topics": [
         "ai",
@@ -106,6 +106,39 @@
         "roadmap",
         "self-taught",
         "terraform"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1359950131",
+      "name": "argo9s",
+      "nameWithOwner": "vvrnv/argo9s",
+      "description": "A K9s-inspired terminal UI for monitoring Argo CD resources in real-time",
+      "url": "https://github.com/vvrnv/argo9s",
+      "stargazerCount": 12,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "vvrnv",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/40491079?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-07T08:11:20Z",
+      "updatedAt": "2026-09-08T08:37:09Z",
+      "licenseName": "MIT",
+      "topics": [
+        "argo",
+        "argo-cd",
+        "argocd",
+        "cli",
+        "gitops",
+        "go",
+        "golang",
+        "k8s",
+        "k8s-cluster",
+        "kubernetes",
+        "kubernetes-clusters",
+        "tui"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -141,7 +174,7 @@
       "nameWithOwner": "kuttidb/kuttidb",
       "description": "Lightweight, crash-recoverable event cache with durable queues, exchanges, streams, and atomic cache-plus-event commits—all in one C binary.",
       "url": "https://github.com/kuttidb/kuttidb",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 0,
       "languageName": "C",
       "languageColor": null,
@@ -149,7 +182,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/324911780?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-09-04T12:55:56Z",
-      "updatedAt": "2026-09-06T14:34:08Z",
+      "updatedAt": "2026-09-07T20:30:17Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "background-jobs",
@@ -168,6 +201,32 @@
         "single-binary",
         "streams",
         "work-queue"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1358380498",
+      "name": "cka-pass-lab",
+      "nameWithOwner": "Hondanx/cka-pass-lab",
+      "description": "Self-hosted, auto-graded CKA practice labs (sets A–D + 72-task ultimate bank). Passed at 88%.",
+      "url": "https://github.com/Hondanx/cka-pass-lab",
+      "stargazerCount": 6,
+      "forkCount": 4,
+      "languageName": "Shell",
+      "languageColor": null,
+      "ownerLogin": "Hondanx",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/177209035?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-05T16:48:31Z",
+      "updatedAt": "2026-09-08T06:11:29Z",
+      "licenseName": "MIT",
+      "topics": [
+        "certification",
+        "cka",
+        "killer-sh",
+        "kubeadm",
+        "kubernetes"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

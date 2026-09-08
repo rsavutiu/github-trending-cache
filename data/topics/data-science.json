@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T09:19:01Z",
+  "generatedAt": "2026-09-08T08:51:32Z",
   "topic": "data-science",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "nahrek/polyledger",
       "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
       "url": "https://github.com/nahrek/polyledger",
-      "stargazerCount": 620,
+      "stargazerCount": 621,
       "forkCount": 109,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-02T17:00:13Z",
-      "updatedAt": "2026-09-06T00:03:52Z",
+      "updatedAt": "2026-09-07T19:57:44Z",
       "licenseName": "MIT",
       "topics": [
         "data-science",
@@ -43,7 +43,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/199974622?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-09-03T00:55:18Z",
-      "updatedAt": "2026-09-04T21:51:41Z",
+      "updatedAt": "2026-09-07T21:03:41Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ai-agents",

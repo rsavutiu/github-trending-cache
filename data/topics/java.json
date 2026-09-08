@@ -1,45 +1,23 @@
 {
-  "generatedAt": "2026-09-07T09:19:01Z",
+  "generatedAt": "2026-09-08T08:51:32Z",
   "topic": "java",
   "totalCount": 2,
   "repos": [
-    {
-      "id": "1353060457",
-      "name": "BarberShopSchedule",
-      "nameWithOwner": "Gerato25/BarberShopSchedule",
-      "description": "Android app to manage a barber shop schedule and their customers",
-      "url": "https://github.com/Gerato25/BarberShopSchedule",
-      "stargazerCount": 60,
-      "forkCount": 0,
-      "languageName": "Java",
-      "languageColor": null,
-      "ownerLogin": "Gerato25",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/11531936?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-09-01T02:43:17Z",
-      "updatedAt": "2026-09-04T01:04:43Z",
-      "licenseName": null,
-      "topics": [
-        "java"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1354228702",
       "name": "sentinel-auth-api",
       "nameWithOwner": "LuisCarlos01/sentinel-auth-api",
       "description": "Production-inspired authentication API with Spring Boot, JWT, Refresh Tokens, RBAC, PostgreSQL, Docker, tests and CI/CD.",
       "url": "https://github.com/LuisCarlos01/sentinel-auth-api",
-      "stargazerCount": 9,
-      "forkCount": 0,
+      "stargazerCount": 11,
+      "forkCount": 1,
       "languageName": "Java",
       "languageColor": null,
       "ownerLogin": "LuisCarlos01",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/179360506?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-02T02:33:28Z",
-      "updatedAt": "2026-09-07T07:15:14Z",
+      "updatedAt": "2026-09-08T06:29:45Z",
       "licenseName": "MIT",
       "topics": [
         "authentication",
@@ -55,6 +33,30 @@
         "spring-boot",
         "spring-security",
         "testcontainers"
+      ],
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1358339121",
+      "name": "rangecache",
+      "nameWithOwner": "LiuWei997/rangecache",
+      "description": "A Spring Boot cache library that reuses covered query ranges and fetches only missing intervals for ordered data.",
+      "url": "https://github.com/LiuWei997/rangecache",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Java",
+      "languageColor": null,
+      "ownerLogin": "LiuWei997",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/44751288?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-05T15:53:30Z",
+      "updatedAt": "2026-09-08T02:51:28Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "cache",
+        "java",
+        "spring-boot"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

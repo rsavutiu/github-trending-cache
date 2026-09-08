@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T09:19:01Z",
+  "generatedAt": "2026-09-08T08:51:32Z",
   "topic": "devops",
   "totalCount": 3,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "Wyrcan-io/roadmap",
       "description": "A text-first, 12-stage engineering curriculum for AI/ML × Cloud × DevOps × MLOps (12–24 months). Canonical books & official docs only.",
       "url": "https://github.com/Wyrcan-io/roadmap",
-      "stargazerCount": 12,
+      "stargazerCount": 13,
       "forkCount": 0,
       "languageName": "HTML",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/310505266?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-09-02T11:15:27Z",
-      "updatedAt": "2026-09-06T17:54:33Z",
+      "updatedAt": "2026-09-08T06:45:34Z",
       "licenseName": null,
       "topics": [
         "ai",
@@ -85,7 +85,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127094634?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-05T05:49:00Z",
-      "updatedAt": "2026-09-07T05:08:21Z",
+      "updatedAt": "2026-09-07T12:24:27Z",
       "licenseName": "MIT",
       "topics": [
         "agriculture",
