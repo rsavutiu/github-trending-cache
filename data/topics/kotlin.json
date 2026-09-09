@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T08:51:32Z",
+  "generatedAt": "2026-09-09T08:57:43Z",
   "topic": "kotlin",
   "totalCount": 4,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "michailfragkiskos/EdgeMosaic",
       "description": "Rapid on-device AI evaluation lab: manifest validation, benchmark plans, latency/memory/thermal aggregation, JSON+Markdown reports.",
       "url": "https://github.com/michailfragkiskos/EdgeMosaic",
-      "stargazerCount": 27,
+      "stargazerCount": 25,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/24504460?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-04T16:55:00Z",
-      "updatedAt": "2026-09-08T08:43:09Z",
+      "updatedAt": "2026-09-08T21:56:03Z",
       "licenseName": "MIT",
       "topics": [
         "ai",
@@ -48,7 +48,7 @@
       "nameWithOwner": "FENTAIIII/ArcMenu",
       "description": "Server-driven in-world UI and application framework for Minecraft Paper servers.",
       "url": "https://github.com/FENTAIIII/ArcMenu",
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "forkCount": 6,
       "languageName": "Kotlin",
       "languageColor": null,
@@ -56,7 +56,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/173082190?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-04T08:16:18Z",
-      "updatedAt": "2026-09-07T01:56:00Z",
+      "updatedAt": "2026-09-09T06:54:17Z",
       "licenseName": "MIT",
       "topics": [
         "craftengine",
@@ -65,6 +65,38 @@
         "paper",
         "plugin",
         "ui"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1359808612",
+      "name": "quick-actions-kmp",
+      "nameWithOwner": "AndroidPoet/quick-actions-kmp",
+      "description": "Home-screen quick actions for Kotlin Multiplatform: UIApplicationShortcutItem on iOS, ShortcutManagerCompat dynamic shortcuts on Android, one common API",
+      "url": "https://github.com/AndroidPoet/quick-actions-kmp",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "AndroidPoet",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/13647384?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-07T05:42:25Z",
+      "updatedAt": "2026-09-09T02:09:58Z",
+      "licenseName": "MIT",
+      "topics": [
+        "android",
+        "app-shortcuts",
+        "compose-multiplatform",
+        "ios",
+        "kmp",
+        "kotlin",
+        "kotlin-library",
+        "kotlin-multiplatform",
+        "quick-actions",
+        "shortcutmanager",
+        "uiapplicationshortcutitem"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -97,32 +129,7 @@
         "privacy",
         "sqlcipher"
       ],
-      "openIssuesCount": 12,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1354888242",
-      "name": "MJ",
-      "nameWithOwner": "woods-marshes/MJ",
-      "description": "全宇宙最爽的MJ，现已登录Android，可以随时随地弹出mj动画（蜘蛛侠动画）",
-      "url": "https://github.com/woods-marshes/MJ",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "woods-marshes",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/96222396?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-09-02T14:49:39Z",
-      "updatedAt": "2026-09-06T14:51:43Z",
-      "licenseName": "MIT",
-      "topics": [
-        "android",
-        "kotlin",
-        "kotlin-android",
-        "mj"
-      ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 13,
       "closedIssuesCount": 0
     }
   ]

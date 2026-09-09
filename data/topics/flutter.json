@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T08:51:32Z",
+  "generatedAt": "2026-09-09T08:57:43Z",
   "topic": "flutter",
   "totalCount": 1,
   "repos": [
@@ -10,14 +10,14 @@
       "description": "Decompiler for Flutter and Dart AOT snapshots. Recovers the class tree, method bodies, strings and const tables from a stripped libapp.so.",
       "url": "https://github.com/IR0NBYTE/Jadart",
       "stargazerCount": 10,
-      "forkCount": 1,
+      "forkCount": 2,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "IR0NBYTE",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/36360218?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-06T10:21:20Z",
-      "updatedAt": "2026-09-08T03:59:14Z",
+      "updatedAt": "2026-09-08T16:26:11Z",
       "licenseName": "MIT",
       "topics": [
         "android",
@@ -41,7 +41,7 @@
         "security-tools",
         "static-analysis"
       ],
-      "openIssuesCount": 2,
+      "openIssuesCount": 6,
       "closedIssuesCount": 0
     }
   ]
