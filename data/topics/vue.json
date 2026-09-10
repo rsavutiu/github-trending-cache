@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-09T08:57:43Z",
+  "generatedAt": "2026-09-10T08:56:56Z",
   "topic": "vue",
-  "totalCount": 3,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1357997871",
@@ -9,7 +9,7 @@
       "nameWithOwner": "liupig/xiaokeai",
       "description": "开源免费的本地 3D 陪玩 / 虚拟陪玩：桌面 3D 角色语音聊天、口型表情动作运镜，还能对面抽塔罗。virtual companion",
       "url": "https://github.com/liupig/xiaokeai",
-      "stargazerCount": 33,
+      "stargazerCount": 36,
       "forkCount": 3,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/24448394?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-05T08:51:00Z",
-      "updatedAt": "2026-09-08T06:51:17Z",
+      "updatedAt": "2026-09-10T02:16:35Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ai-companion",
@@ -39,6 +39,62 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1358326505",
+      "name": "workers-personal-agent",
+      "nameWithOwner": "DomWane/workers-personal-agent",
+      "description": "Personal AI agent on Cloudflare Workers: Durable Object per conversation, markdown memory in R2, vector recall in SQLite, fan-out deep research. Free-tier hosting, measured limits.",
+      "url": "https://github.com/DomWane/workers-personal-agent",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "DomWane",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/82064987?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-05T15:36:43Z",
+      "updatedAt": "2026-09-10T03:00:32Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ai-agent",
+        "cloudflare-workers",
+        "deep-research",
+        "durable-objects",
+        "evals",
+        "personal-assistant",
+        "rag",
+        "vue",
+        "workers-ai"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1358835593",
+      "name": "ui",
+      "nameWithOwner": "Hikarinagi/ui",
+      "description": "Hina UI: a Vue 3 component library",
+      "url": "https://github.com/Hikarinagi/ui",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "Hikarinagi",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/214466518?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-09-06T05:59:07Z",
+      "updatedAt": "2026-09-10T07:53:57Z",
+      "licenseName": "MIT",
+      "topics": [
+        "reka-ui",
+        "tailwindcss",
+        "typrescript",
+        "ui-library",
+        "vue"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1358630778",
       "name": "Cascade",
       "nameWithOwner": "alexsoft-hq/Cascade",
@@ -52,7 +108,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/320907586?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-09-05T23:21:58Z",
-      "updatedAt": "2026-09-09T07:05:00Z",
+      "updatedAt": "2026-09-10T08:10:44Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "impact-analysis",
@@ -66,32 +122,6 @@
         "vue"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1358835593",
-      "name": "ui",
-      "nameWithOwner": "Hikarinagi/ui",
-      "description": "Hina UI: a Vue 3 component library",
-      "url": "https://github.com/Hikarinagi/ui",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "Hikarinagi",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/214466518?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-09-06T05:59:07Z",
-      "updatedAt": "2026-09-09T05:59:03Z",
-      "licenseName": "MIT",
-      "topics": [
-        "reka-ui",
-        "tailwindcss",
-        "typrescript",
-        "ui-library",
-        "vue"
-      ],
-      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]

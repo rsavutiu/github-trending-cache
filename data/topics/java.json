@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-09T08:57:43Z",
+  "generatedAt": "2026-09-10T08:56:56Z",
   "topic": "java",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1358339121",
@@ -23,6 +23,34 @@
         "cache",
         "java",
         "spring-boot"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1361082523",
+      "name": "ironwood",
+      "nameWithOwner": "ironwood-lang/ironwood",
+      "description": "Ironwood is an ahead-of-time compiled, object-oriented language for high-performance native applications. It preserves the familiar Java syntax, object model, and everyday APIs that Java developers already know, while producing optimized native executables with no JVM, JIT, or garbage collector.",
+      "url": "https://github.com/ironwood-lang/ironwood",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Java",
+      "languageColor": null,
+      "ownerLogin": "ironwood-lang",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/326394829?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-09-08T07:51:35Z",
+      "updatedAt": "2026-09-10T04:05:01Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "ahead-of-time-compilation",
+        "compiler",
+        "java",
+        "llvm",
+        "native",
+        "programming-language",
+        "systems-programming"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

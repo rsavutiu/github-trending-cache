@@ -1,38 +1,6 @@
 {
-  "generatedAt": "2026-09-09T08:57:43Z",
+  "generatedAt": "2026-09-10T08:56:56Z",
   "topic": "data-science",
-  "totalCount": 1,
-  "repos": [
-    {
-      "id": "1355373585",
-      "name": "elbi",
-      "nameWithOwner": "Intelligible/elbi",
-      "description": "Write a Python function. Elbi serves it to AI agents over the Model Context Protocol as a versioned, cached, verified tool.",
-      "url": "https://github.com/Intelligible/elbi",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "Intelligible",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/199974622?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-09-03T00:55:18Z",
-      "updatedAt": "2026-09-07T21:03:41Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "ai-agents",
-        "analytics",
-        "data-science",
-        "duckdb",
-        "llm-tools",
-        "mcp",
-        "model-context-protocol",
-        "python",
-        "reproducibility",
-        "semantic-layer"
-      ],
-      "openIssuesCount": 9,
-      "closedIssuesCount": 0
-    }
-  ]
+  "totalCount": 0,
+  "repos": []
 }

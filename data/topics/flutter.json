@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-09T08:57:43Z",
+  "generatedAt": "2026-09-10T08:56:56Z",
   "topic": "flutter",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1359030869",
@@ -9,7 +9,7 @@
       "nameWithOwner": "IR0NBYTE/Jadart",
       "description": "Decompiler for Flutter and Dart AOT snapshots. Recovers the class tree, method bodies, strings and const tables from a stripped libapp.so.",
       "url": "https://github.com/IR0NBYTE/Jadart",
-      "stargazerCount": 10,
+      "stargazerCount": 11,
       "forkCount": 2,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/36360218?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-06T10:21:20Z",
-      "updatedAt": "2026-09-08T16:26:11Z",
+      "updatedAt": "2026-09-09T18:46:10Z",
       "licenseName": "MIT",
       "topics": [
         "android",
@@ -42,6 +42,41 @@
         "static-analysis"
       ],
       "openIssuesCount": 6,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1361211094",
+      "name": "tracord_release",
+      "nameWithOwner": "zapsyq/tracord_release",
+      "description": "迹录 Tracord ——基于本地大模型多智能体的智能旅行规划助手 / AI travel planner with local LLM multi-agents — light up visited cities on a map, log expenses with one sentence, and generate executable day-by-day itineraries from plain language.",
+      "url": "https://github.com/zapsyq/tracord_release",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "zapsyq",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/283074340?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-08T10:03:26Z",
+      "updatedAt": "2026-09-10T07:59:43Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "android",
+        "flutter",
+        "langchain",
+        "langgraph",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "python",
+        "qwen",
+        "rag",
+        "travel"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]
