@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T08:56:56Z",
+  "generatedAt": "2026-09-11T08:54:35Z",
   "topic": "flutter",
   "totalCount": 2,
   "repos": [
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/36360218?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-06T10:21:20Z",
-      "updatedAt": "2026-09-09T18:46:10Z",
+      "updatedAt": "2026-09-10T16:35:25Z",
       "licenseName": "MIT",
       "topics": [
         "android",
@@ -41,14 +41,14 @@
         "security-tools",
         "static-analysis"
       ],
-      "openIssuesCount": 6,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
       "id": "1361211094",
       "name": "tracord_release",
       "nameWithOwner": "zapsyq/tracord_release",
-      "description": "迹录 Tracord ——基于本地大模型多智能体的智能旅行规划助手 / AI travel planner with local LLM multi-agents — light up visited cities on a map, log expenses with one sentence, and generate executable day-by-day itineraries from plain language.",
+      "description": "迹录 Tracord ——基于本地小模型多智能体的智能旅行规划助手 / AI travel planner with local SLM multi-agents — light up visited cities on a map, log expenses with one sentence, and generate executable day-by-day itineraries from plain language.",
       "url": "https://github.com/zapsyq/tracord_release",
       "stargazerCount": 8,
       "forkCount": 0,
@@ -58,7 +58,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/283074340?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-08T10:03:26Z",
-      "updatedAt": "2026-09-10T07:59:43Z",
+      "updatedAt": "2026-09-10T14:35:16Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "agent",
@@ -74,6 +74,7 @@
         "python",
         "qwen",
         "rag",
+        "slm",
         "travel"
       ],
       "openIssuesCount": 0,

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-10T08:56:56Z",
+  "generatedAt": "2026-09-11T08:54:35Z",
   "topic": "devops",
-  "totalCount": 2,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1361497109",
@@ -9,15 +9,15 @@
       "nameWithOwner": "fossaryhq/catalog",
       "description": "Public catalog of self-hosted applications with reviewed Docker Compose recipes",
       "url": "https://github.com/fossaryhq/catalog",
-      "stargazerCount": 27,
-      "forkCount": 0,
+      "stargazerCount": 47,
+      "forkCount": 6,
       "languageName": "Shell",
       "languageColor": null,
       "ownerLogin": "fossaryhq",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/324084289?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-09-08T14:30:51Z",
-      "updatedAt": "2026-09-10T08:57:23Z",
+      "updatedAt": "2026-09-11T07:44:25Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "catalog",
@@ -28,6 +28,31 @@
         "homelab",
         "open-source",
         "self-hosted"
+      ],
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1364644814",
+      "name": "DevOps",
+      "nameWithOwner": "Codeprojectingfuture/DevOps",
+      "description": "CI/CD workflow for a Java Spring Boot application with automated testing, code quality analysis, containerization, and deployment automation.",
+      "url": "https://github.com/Codeprojectingfuture/DevOps",
+      "stargazerCount": 10,
+      "forkCount": 0,
+      "languageName": "Java",
+      "languageColor": null,
+      "ownerLogin": "Codeprojectingfuture",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/324982484?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-10T17:30:15Z",
+      "updatedAt": "2026-09-10T18:07:11Z",
+      "licenseName": "MIT",
+      "topics": [
+        "cicd",
+        "devops",
+        "docker",
+        "jenkins"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -66,6 +91,32 @@
         "precision-agriculture",
         "remote-sensing",
         "satellite-imagery"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1362681271",
+      "name": "deploy-pulse",
+      "nameWithOwner": "knownasrazi/deploy-pulse",
+      "description": "Deployment pulse dashboard - mock status, logs, and health for your stack.",
+      "url": "https://github.com/knownasrazi/deploy-pulse",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "knownasrazi",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/175929790?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-09T12:56:27Z",
+      "updatedAt": "2026-09-10T12:36:59Z",
+      "licenseName": "MIT",
+      "topics": [
+        "dashboard",
+        "deploy",
+        "devops",
+        "pulse",
+        "status"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
