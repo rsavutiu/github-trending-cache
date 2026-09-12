@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-11T08:54:35Z",
+  "generatedAt": "2026-09-12T08:38:02Z",
   "topic": "machine-learning",
-  "totalCount": 2,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1360627135",
@@ -9,7 +9,7 @@
       "nameWithOwner": "arnsri33/embedflow",
       "description": "Zero downtime embedding upgrades",
       "url": "https://github.com/arnsri33/embedflow",
-      "stargazerCount": 46,
+      "stargazerCount": 49,
       "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/75869861?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-07T20:10:13Z",
-      "updatedAt": "2026-09-10T22:14:02Z",
+      "updatedAt": "2026-09-11T22:56:45Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "embedding",
@@ -28,6 +28,7 @@
         "information-retrieval",
         "machine-learning",
         "pgvector",
+        "pinecone",
         "qdrant",
         "rag",
         "rag-pipeline",
@@ -69,6 +70,70 @@
         "whisper"
       ],
       "openIssuesCount": 2,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1362781114",
+      "name": "bert-spam-classifier",
+      "nameWithOwner": "arielshakaramiro/bert-spam-classifier",
+      "description": "Fine-tuning BERT (bert-base-uncased) for SMS spam/ham classification, benchmarked against a Naive Bayes baseline and BERT as a frozen feature extractor on the same test set. Includes verified evaluation metrics and confusion matrix.",
+      "url": "https://github.com/arielshakaramiro/bert-spam-classifier",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Jupyter Notebook",
+      "languageColor": null,
+      "ownerLogin": "arielshakaramiro",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/217843780?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-09T14:19:17Z",
+      "updatedAt": "2026-09-12T08:03:20Z",
+      "licenseName": null,
+      "topics": [
+        "bert",
+        "fine-tuning",
+        "huggingface-transformers",
+        "machine-learning",
+        "natural-language-processing",
+        "nlp",
+        "pytorch",
+        "scikit-learn",
+        "spam-detection",
+        "text-classification"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1360344248",
+      "name": "LLM-VLM-Guide",
+      "nameWithOwner": "AhmadJeddi/LLM-VLM-Guide",
+      "description": "A beginner-first guide to how language and multimodal models work — from language models and Transformers to LLMs, VLMs, audio, video, and modern model families.",
+      "url": "https://github.com/AhmadJeddi/LLM-VLM-Guide",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "AhmadJeddi",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76421360?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-07T14:44:38Z",
+      "updatedAt": "2026-09-11T11:14:32Z",
+      "licenseName": "MIT",
+      "topics": [
+        "artificial-intelligence",
+        "attention",
+        "deep-learning",
+        "generative-ai",
+        "guide",
+        "large-language-models",
+        "llm",
+        "machine-learning",
+        "multimodal-ai",
+        "natural-language-processing",
+        "vision-language-models",
+        "vlm"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]
