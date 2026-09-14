@@ -1,6 +1,44 @@
 {
-  "generatedAt": "2026-09-12T08:38:02Z",
+  "generatedAt": "2026-09-14T09:50:03Z",
   "topic": "data-science",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 1,
+  "repos": [
+    {
+      "id": "1368134140",
+      "name": "repro-lens",
+      "nameWithOwner": "00200200/repro-lens",
+      "description": "Reproducibility checks for ML and coding agents. Scan code, replay experiments and compare outputs before and after a change.",
+      "url": "https://github.com/00200200/repro-lens",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "00200200",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/83299832?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-13T07:02:59Z",
+      "updatedAt": "2026-09-13T21:11:32Z",
+      "licenseName": "MIT",
+      "topics": [
+        "agent-skills",
+        "coding-agents",
+        "data-science",
+        "lightgbm",
+        "machine-learning",
+        "mlops",
+        "pre-commit",
+        "python",
+        "pytorch",
+        "pytorch-lightning",
+        "reproducibility",
+        "reproducible-research",
+        "scikit-learn",
+        "static-analysis",
+        "tensorflow",
+        "xgboost"
+      ],
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    }
+  ]
 }
