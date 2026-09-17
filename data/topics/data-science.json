@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T09:17:12Z",
+  "generatedAt": "2026-09-17T09:25:56Z",
   "topic": "data-science",
   "totalCount": 3,
   "repos": [
@@ -38,15 +38,15 @@
       "nameWithOwner": "ruc-datalab/EvoOntology",
       "description": "EvoOntology: A Self-Evolving Ontology Layer for Data Agents ⚙️ EvoOntology插件为Claude Code/Codex 建立&进化本体层",
       "url": "https://github.com/ruc-datalab/EvoOntology",
-      "stargazerCount": 13,
-      "forkCount": 0,
+      "stargazerCount": 45,
+      "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "ruc-datalab",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76154266?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-09-15T01:57:40Z",
-      "updatedAt": "2026-09-16T08:44:36Z",
+      "updatedAt": "2026-09-17T08:59:37Z",
       "licenseName": "MIT",
       "topics": [
         "agent",

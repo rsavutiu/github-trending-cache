@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T09:17:12Z",
+  "generatedAt": "2026-09-17T09:25:56Z",
   "topic": "vue",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "posva/medula",
       "description": "🧬 control your app from inside it",
       "url": "https://github.com/posva/medula",
-      "stargazerCount": 23,
+      "stargazerCount": 24,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/664177?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-14T09:36:29Z",
-      "updatedAt": "2026-09-16T08:52:17Z",
+      "updatedAt": "2026-09-17T01:48:02Z",
       "licenseName": "MIT",
       "topics": [
         "ai",
@@ -38,7 +38,7 @@
       "nameWithOwner": "Zonvoir-technologies/laravel-inertia-table",
       "description": "Expressive Laravel and Inertia Vue tables, keeping query orchestration and presentation tightly integrated.",
       "url": "https://github.com/Zonvoir-technologies/laravel-inertia-table",
-      "stargazerCount": 9,
+      "stargazerCount": 11,
       "forkCount": 0,
       "languageName": "PHP",
       "languageColor": null,
@@ -46,7 +46,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/181952433?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-09-13T12:42:54Z",
-      "updatedAt": "2026-09-15T09:15:16Z",
+      "updatedAt": "2026-09-17T05:14:04Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "actions",

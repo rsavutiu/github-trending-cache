@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T09:17:12Z",
+  "generatedAt": "2026-09-17T09:25:56Z",
   "topic": "java",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "TimechoLab/influxdb2tsfile",
       "description": "Command-line tool to migrate InfluxDB 1.x/2.x and line protocol files to Apache TsFile — auto schema mapping, parallel time-sliced export, resumable and verified.",
       "url": "https://github.com/TimechoLab/influxdb2tsfile",
-      "stargazerCount": 8,
+      "stargazerCount": 9,
       "forkCount": 0,
       "languageName": "Java",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/97999884?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-09-16T01:58:54Z",
-      "updatedAt": "2026-09-16T03:25:18Z",
+      "updatedAt": "2026-09-17T03:37:00Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "apache-tsfile",
