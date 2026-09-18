@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T09:25:56Z",
+  "generatedAt": "2026-09-18T08:59:45Z",
   "topic": "java",
   "totalCount": 2,
   "repos": [
@@ -46,7 +46,7 @@
       "nameWithOwner": "dialYun/inweave",
       "description": "企业级模型驱动低代码平台，支持数据建模、视图、权限、工作流与 Delta 定制。",
       "url": "https://github.com/dialYun/inweave",
-      "stargazerCount": 8,
+      "stargazerCount": 9,
       "forkCount": 0,
       "languageName": "Java",
       "languageColor": null,
@@ -54,7 +54,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/30621321?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-12T11:47:01Z",
-      "updatedAt": "2026-09-15T08:40:20Z",
+      "updatedAt": "2026-09-18T06:17:05Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "apaas",
