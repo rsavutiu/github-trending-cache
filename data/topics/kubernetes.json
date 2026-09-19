@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-18T08:59:45Z",
+  "generatedAt": "2026-09-19T08:47:32Z",
   "topic": "kubernetes",
-  "totalCount": 2,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1370620551",
@@ -45,6 +45,36 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1370097657",
+      "name": "kubermeister",
+      "nameWithOwner": "kubermeister/kubermeister",
+      "description": "A fast, native desktop client for browsing and managing Kubernetes clusters.",
+      "url": "https://github.com/kubermeister/kubermeister",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "kubermeister",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/155806387?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-09-14T15:01:17Z",
+      "updatedAt": "2026-09-18T13:44:26Z",
+      "licenseName": "MIT",
+      "topics": [
+        "desktop-app",
+        "devops",
+        "electron",
+        "k8s",
+        "kubernetes",
+        "kubernetes-client",
+        "kubernetes-dashboard",
+        "react",
+        "typescript"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1371228415",
       "name": "Corium",
       "nameWithOwner": "Corium-OS/Corium",
@@ -58,7 +88,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/329587486?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-09-15T09:49:05Z",
-      "updatedAt": "2026-09-18T08:58:10Z",
+      "updatedAt": "2026-09-19T07:42:22Z",
       "licenseName": "MIT",
       "topics": [
         "bootc",
@@ -71,7 +101,7 @@
         "linux-distribution",
         "ostree"
       ],
-      "openIssuesCount": 7,
+      "openIssuesCount": 6,
       "closedIssuesCount": 0
     }
   ]

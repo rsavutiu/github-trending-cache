@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T08:59:45Z",
+  "generatedAt": "2026-09-19T08:47:32Z",
   "topic": "vue",
   "totalCount": 4,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "posva/medula",
       "description": "🧬 control your app from inside it",
       "url": "https://github.com/posva/medula",
-      "stargazerCount": 29,
+      "stargazerCount": 30,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/664177?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-14T09:36:29Z",
-      "updatedAt": "2026-09-18T06:50:16Z",
+      "updatedAt": "2026-09-18T12:31:12Z",
       "licenseName": "MIT",
       "topics": [
         "ai",
@@ -28,6 +28,37 @@
         "next",
         "react",
         "vue"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1372475183",
+      "name": "xianyu-guanjia",
+      "nameWithOwner": "shudaxiag/xianyu-guanjia",
+      "description": "闲鱼多账号自动回复与经营管理工具 — Electron 桌面端 + FastAPI 后端。扫码登录、关键词/AI 回复、订单发货管理。",
+      "url": "https://github.com/shudaxiag/xianyu-guanjia",
+      "stargazerCount": 17,
+      "forkCount": 6,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "shudaxiag",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/255620113?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-16T03:41:38Z",
+      "updatedAt": "2026-09-19T03:11:47Z",
+      "licenseName": "MIT",
+      "topics": [
+        "ai-reply",
+        "auto-reply",
+        "desktop",
+        "electron",
+        "fastapi",
+        "multi-account",
+        "python",
+        "vue",
+        "windows",
+        "xianyu"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -66,37 +97,6 @@
         "toggle-columns",
         "vue",
         "vue3"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1372475183",
-      "name": "xianyu-guanjia",
-      "nameWithOwner": "shudaxiag/xianyu-guanjia",
-      "description": "闲鱼多账号自动回复与经营管理工具 — Electron 桌面端 + FastAPI 后端。扫码登录、关键词/AI 回复、订单发货管理。",
-      "url": "https://github.com/shudaxiag/xianyu-guanjia",
-      "stargazerCount": 10,
-      "forkCount": 3,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "shudaxiag",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/255620113?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-09-16T03:41:38Z",
-      "updatedAt": "2026-09-18T04:04:59Z",
-      "licenseName": "MIT",
-      "topics": [
-        "ai-reply",
-        "auto-reply",
-        "desktop",
-        "electron",
-        "fastapi",
-        "multi-account",
-        "python",
-        "vue",
-        "windows",
-        "xianyu"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
