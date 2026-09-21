@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T09:16:23Z",
+  "generatedAt": "2026-09-21T09:54:30Z",
   "topic": "java",
   "totalCount": 4,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "kuzia15/iPuzzle",
       "description": "iPuzzle - Android игра-головоломка для детей 5+ с уровнями, вопросами и интерактивными заданиями.",
       "url": "https://github.com/kuzia15/iPuzzle",
-      "stargazerCount": 20,
+      "stargazerCount": 21,
       "forkCount": 0,
       "languageName": "Java",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/196674872?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-16T14:50:10Z",
-      "updatedAt": "2026-09-19T20:27:59Z",
+      "updatedAt": "2026-09-21T05:20:36Z",
       "licenseName": null,
       "topics": [
         "android",
@@ -44,7 +44,7 @@
       "nameWithOwner": "stephanj/parallelConstraintDecoding",
       "description": "Parallel Constraint Decoding using Java and Llama.cpp compared to Python 🔥",
       "url": "https://github.com/stephanj/parallelConstraintDecoding",
-      "stargazerCount": 11,
+      "stargazerCount": 13,
       "forkCount": 1,
       "languageName": "Java",
       "languageColor": null,
@@ -52,7 +52,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/179457?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-17T18:36:22Z",
-      "updatedAt": "2026-09-20T09:13:03Z",
+      "updatedAt": "2026-09-21T05:14:40Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "apple",
@@ -108,7 +108,7 @@
       "nameWithOwner": "HideOnVava/devava-reader",
       "description": "Minimal desktop reader for EPUB novels and PDF manga collections (Windows). Free download, no Java needed.",
       "url": "https://github.com/HideOnVava/devava-reader",
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "forkCount": 0,
       "languageName": "Java",
       "languageColor": null,
@@ -116,7 +116,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/210422458?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-17T06:36:19Z",
-      "updatedAt": "2026-09-20T04:26:03Z",
+      "updatedAt": "2026-09-21T06:04:27Z",
       "licenseName": "MIT",
       "topics": [
         "desktop-app",
