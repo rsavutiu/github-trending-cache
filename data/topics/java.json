@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T09:54:30Z",
+  "generatedAt": "2026-09-22T09:17:39Z",
   "topic": "java",
   "totalCount": 4,
   "repos": [
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/196674872?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-16T14:50:10Z",
-      "updatedAt": "2026-09-21T05:20:36Z",
+      "updatedAt": "2026-09-21T12:44:43Z",
       "licenseName": null,
       "topics": [
         "android",
@@ -66,6 +66,35 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1374038494",
+      "name": "devava-reader",
+      "nameWithOwner": "HideOnVava/devava-reader",
+      "description": "Minimal desktop reader for EPUB novels and PDF manga collections (Windows). Free download, no Java needed.",
+      "url": "https://github.com/HideOnVava/devava-reader",
+      "stargazerCount": 9,
+      "forkCount": 0,
+      "languageName": "Java",
+      "languageColor": null,
+      "ownerLogin": "HideOnVava",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/210422458?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-17T06:36:19Z",
+      "updatedAt": "2026-09-21T18:53:24Z",
+      "licenseName": "MIT",
+      "topics": [
+        "desktop-app",
+        "ebook-reader",
+        "epub",
+        "java",
+        "javafx",
+        "manga",
+        "pdf",
+        "windows"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1372397771",
       "name": "influxdb2tsfile",
       "nameWithOwner": "TimechoLab/influxdb2tsfile",
@@ -98,35 +127,6 @@
         "timecho",
         "timeseries-database",
         "tsfile"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1374038494",
-      "name": "devava-reader",
-      "nameWithOwner": "HideOnVava/devava-reader",
-      "description": "Minimal desktop reader for EPUB novels and PDF manga collections (Windows). Free download, no Java needed.",
-      "url": "https://github.com/HideOnVava/devava-reader",
-      "stargazerCount": 8,
-      "forkCount": 0,
-      "languageName": "Java",
-      "languageColor": null,
-      "ownerLogin": "HideOnVava",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/210422458?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-09-17T06:36:19Z",
-      "updatedAt": "2026-09-21T06:04:27Z",
-      "licenseName": "MIT",
-      "topics": [
-        "desktop-app",
-        "ebook-reader",
-        "epub",
-        "java",
-        "javafx",
-        "manga",
-        "pdf",
-        "windows"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

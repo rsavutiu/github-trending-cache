@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-21T09:54:30Z",
+  "generatedAt": "2026-09-22T09:17:39Z",
   "topic": "kubernetes",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1373457184",
@@ -9,7 +9,7 @@
       "nameWithOwner": "Gihchathur/kubemotion",
       "description": "Interactive Kubernetes & Helm architecture visualizer — turn YAML manifests and Helm charts into an Argo CD-style resource view",
       "url": "https://github.com/Gihchathur/kubemotion",
-      "stargazerCount": 22,
+      "stargazerCount": 27,
       "forkCount": 4,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -17,43 +17,13 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/50062925?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-16T18:02:27Z",
-      "updatedAt": "2026-09-21T09:47:12Z",
+      "updatedAt": "2026-09-22T07:52:32Z",
       "licenseName": null,
       "topics": [
         "helm",
         "kubernetes"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1371228415",
-      "name": "Corium",
-      "nameWithOwner": "Corium-OS/Corium",
-      "description": "An immutable Kubernetes node, built as an OCI image. Fedora bootc, k0s baked into a read-only /usr, configured with cloud-init.",
-      "url": "https://github.com/Corium-OS/Corium",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "Corium-OS",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/329587486?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-09-15T09:49:05Z",
-      "updatedAt": "2026-09-20T20:14:13Z",
-      "licenseName": "MIT",
-      "topics": [
-        "bootc",
-        "cloud-init",
-        "container-native",
-        "fedora",
-        "immutable",
-        "k0s",
-        "kubernetes",
-        "linux-distribution",
-        "ostree"
-      ],
-      "openIssuesCount": 6,
       "closedIssuesCount": 0
     }
   ]
