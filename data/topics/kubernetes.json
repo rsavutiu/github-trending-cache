@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-23T09:17:52Z",
+  "generatedAt": "2026-09-24T09:17:24Z",
   "topic": "kubernetes",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1379494611",
@@ -9,7 +9,7 @@
       "nameWithOwner": "wolfiesch/pi-agent-substrate",
       "description": "Suspendable remote workspaces for the Pi and Oh My Pi coding agents, powered by Agent Substrate",
       "url": "https://github.com/wolfiesch/pi-agent-substrate",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/221313372?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-21T10:13:02Z",
-      "updatedAt": "2026-09-22T14:31:42Z",
+      "updatedAt": "2026-09-24T05:59:46Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "agent-substrate",
@@ -26,36 +26,6 @@
         "oh-my-pi",
         "pi",
         "suspend-resume"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1374561732",
-      "name": "polaris-k8s",
-      "nameWithOwner": "antoniocali/polaris-k8s",
-      "description": "Kubernetes operator that manages Apache Polaris (REST Iceberg catalog) resources as CRDs",
-      "url": "https://github.com/antoniocali/polaris-k8s",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "antoniocali",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/15616093?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-09-17T14:23:19Z",
-      "updatedAt": "2026-09-22T12:01:24Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "apache-iceberg",
-        "apache-polaris",
-        "crd",
-        "custom-resource-definition",
-        "gitops",
-        "golang",
-        "kubebuilder",
-        "kubernetes",
-        "kubernetes-operator"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

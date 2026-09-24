@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T09:17:52Z",
+  "generatedAt": "2026-09-24T09:17:24Z",
   "topic": "data-science",
   "totalCount": 1,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "ktaletsk/jevframe",
       "description": "Semantic AI for pandas and Polars: classify text, analyze sentiment, and score DataFrame rows with natural-language questions and full probabilities using TypeSafe Jev.",
       "url": "https://github.com/ktaletsk/jevframe",
-      "stargazerCount": 13,
+      "stargazerCount": 14,
       "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/8834829?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-18T17:06:56Z",
-      "updatedAt": "2026-09-22T09:18:25Z",
+      "updatedAt": "2026-09-23T23:22:42Z",
       "licenseName": "MIT",
       "topics": [
         "asyncio",
