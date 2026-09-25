@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-24T09:17:24Z",
+  "generatedAt": "2026-09-25T09:35:53Z",
   "topic": "deep-learning",
-  "totalCount": 3,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1377115777",
@@ -9,7 +9,7 @@
       "nameWithOwner": "Heman10x-NGU/openJev-verdict-2.0",
       "description": "Calibrated 151M Non-Autoregressive Decision Engine beating TypeSafe Jev & Laya on LocalLLaMA/typed-decisions (77.10% acc, 0.0636 Brier, 0.0144 ECE)",
       "url": "https://github.com/Heman10x-NGU/openJev-verdict-2.0",
-      "stargazerCount": 282,
+      "stargazerCount": 285,
       "forkCount": 43,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/80228113?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-19T12:14:46Z",
-      "updatedAt": "2026-09-24T08:29:09Z",
+      "updatedAt": "2026-09-25T09:00:14Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "agentic-ai",
@@ -79,6 +79,32 @@
         "neuroimaging",
         "parallel-imaging",
         "quantitative-mri"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1381702970",
+      "name": "Snake-Game-Reinforcement-Project",
+      "nameWithOwner": "mirzayasirabdullahbaig07/Snake-Game-Reinforcement-Project",
+      "description": "A self-taught Snake agent built with Deep Q-Learning, PyTorch, and Pygame. No hand-coded strategy — the snake starts out clueless and learns entirely through trial and error, reward by reward, game by game.",
+      "url": "https://github.com/mirzayasirabdullahbaig07/Snake-Game-Reinforcement-Project",
+      "stargazerCount": 21,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "mirzayasirabdullahbaig07",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/194883236?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-22T14:24:31Z",
+      "updatedAt": "2026-09-24T15:41:23Z",
+      "licenseName": null,
+      "topics": [
+        "ai",
+        "deep-learning",
+        "machine-learning",
+        "snake-game",
+        "system-design"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

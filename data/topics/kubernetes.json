@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-24T09:17:24Z",
+  "generatedAt": "2026-09-25T09:35:53Z",
   "topic": "kubernetes",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1379494611",
@@ -28,6 +28,37 @@
         "suspend-resume"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1378595282",
+      "name": "laya_router",
+      "nameWithOwner": "glukicov/laya_router",
+      "description": "Model routing is a System 1 job: a 421M local decision engine (Laya) against a GPT-5 nano reasoning router. Same accuracy, 35x faster, free.",
+      "url": "https://github.com/glukicov/laya_router",
+      "stargazerCount": 6,
+      "forkCount": 3,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "glukicov",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/8192053?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-20T17:20:59Z",
+      "updatedAt": "2026-09-25T06:00:36Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "calibration",
+        "evaluation",
+        "fastapi",
+        "inference-optimisation",
+        "kubernetes",
+        "laya",
+        "llm-routing",
+        "model-routing",
+        "openai",
+        "small-language-models"
+      ],
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]

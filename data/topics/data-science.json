@@ -1,42 +1,6 @@
 {
-  "generatedAt": "2026-09-24T09:17:24Z",
+  "generatedAt": "2026-09-25T09:35:53Z",
   "topic": "data-science",
-  "totalCount": 1,
-  "repos": [
-    {
-      "id": "1376182232",
-      "name": "jevframe",
-      "nameWithOwner": "ktaletsk/jevframe",
-      "description": "Semantic AI for pandas and Polars: classify text, analyze sentiment, and score DataFrame rows with natural-language questions and full probabilities using TypeSafe Jev.",
-      "url": "https://github.com/ktaletsk/jevframe",
-      "stargazerCount": 14,
-      "forkCount": 1,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "ktaletsk",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/8834829?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-09-18T17:06:56Z",
-      "updatedAt": "2026-09-23T23:22:42Z",
-      "licenseName": "MIT",
-      "topics": [
-        "asyncio",
-        "data-labeling",
-        "data-science",
-        "dataframe",
-        "jev",
-        "marimo",
-        "natural-language-processing",
-        "pandas",
-        "polars",
-        "python",
-        "sentiment-analysis",
-        "structured-output",
-        "text-classification",
-        "typesafe-ai"
-      ],
-      "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    }
-  ]
+  "totalCount": 0,
+  "repos": []
 }

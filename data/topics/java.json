@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-09-24T09:17:24Z",
+  "generatedAt": "2026-09-25T09:35:53Z",
   "topic": "java",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 1,
+  "repos": [
+    {
+      "id": "1377959241",
+      "name": "jev4k",
+      "nameWithOwner": "pambrose/jev4k",
+      "description": "A Kotlin DSL and client for TypeSafe's Jev model",
+      "url": "https://github.com/pambrose/jev4k",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Kotlin",
+      "languageColor": null,
+      "ownerLogin": "pambrose",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/42716?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-20T05:31:59Z",
+      "updatedAt": "2026-09-24T15:33:51Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "dsl",
+        "java",
+        "jev",
+        "jev-api",
+        "kotlin",
+        "ktor",
+        "ktor-client",
+        "llm",
+        "typesafe",
+        "typesafe-ai"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    }
+  ]
 }
