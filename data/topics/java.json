@@ -1,8 +1,57 @@
 {
-  "generatedAt": "2026-09-25T09:35:53Z",
+  "generatedAt": "2026-09-26T09:20:30Z",
   "topic": "java",
-  "totalCount": 1,
+  "totalCount": 3,
   "repos": [
+    {
+      "id": "1386575337",
+      "name": "Java-KIT",
+      "nameWithOwner": "avinash201199/Java-KIT",
+      "description": "A curated collection of resources, frameworks, tools, and roadmaps to help you go from Java beginner to production-ready backend engineer.",
+      "url": "https://github.com/avinash201199/Java-KIT",
+      "stargazerCount": 20,
+      "forkCount": 4,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "avinash201199",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/61057666?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-25T01:49:32Z",
+      "updatedAt": "2026-09-26T08:24:02Z",
+      "licenseName": null,
+      "topics": [
+        "java",
+        "java-developer",
+        "java8"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1387290004",
+      "name": "midden",
+      "nameWithOwner": "NullByte3/midden",
+      "description": "Fast JVM heap dump analyser: retained sizes, owners and leak suspects from .hprof files. One static binary, no JDK needed.",
+      "url": "https://github.com/NullByte3/midden",
+      "stargazerCount": 11,
+      "forkCount": 0,
+      "languageName": "Rust",
+      "languageColor": null,
+      "ownerLogin": "NullByte3",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/122549857?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-25T10:42:44Z",
+      "updatedAt": "2026-09-25T20:21:32Z",
+      "licenseName": "MIT",
+      "topics": [
+        "heapdump",
+        "hprof",
+        "java",
+        "profiler"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1377959241",
       "name": "jev4k",
@@ -17,7 +66,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/42716?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-20T05:31:59Z",
-      "updatedAt": "2026-09-24T15:33:51Z",
+      "updatedAt": "2026-09-25T20:21:47Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "dsl",

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-25T09:35:53Z",
+  "generatedAt": "2026-09-26T09:20:30Z",
   "topic": "kubernetes",
-  "totalCount": 2,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1379494611",
@@ -26,6 +26,41 @@
         "oh-my-pi",
         "pi",
         "suspend-resume"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1382786298",
+      "name": "unclick",
+      "nameWithOwner": "Perruer/unclick",
+      "description": "Turn existing cloud resources into OpenTofu / Terraform code. Continuation of Terraformer: protocol 5 and 6 providers, OpenTofu, import blocks, provider-driven scan.",
+      "url": "https://github.com/Perruer/unclick",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "Perruer",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/198955393?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-23T05:05:20Z",
+      "updatedAt": "2026-09-26T08:29:59Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "aws",
+        "azure",
+        "cli",
+        "devops",
+        "gcp",
+        "golang",
+        "iac",
+        "import",
+        "infrastructure-as-code",
+        "kubernetes",
+        "opentofu",
+        "reverse-terraform",
+        "terraform",
+        "terraformer"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

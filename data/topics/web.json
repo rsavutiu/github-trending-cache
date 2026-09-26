@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-25T09:35:53Z",
+  "generatedAt": "2026-09-26T09:20:30Z",
   "topic": "web",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1379994079",
@@ -24,6 +24,31 @@
         "csharp",
         "dotnet",
         "web"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1379952549",
+      "name": "awesome-web-app",
+      "nameWithOwner": "jaywcjlove/awesome-web-app",
+      "description": "A curated list of open-source web server applications and tools built with web technologies.",
+      "url": "https://github.com/jaywcjlove/awesome-web-app",
+      "stargazerCount": 6,
+      "forkCount": 1,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "jaywcjlove",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1680273?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-21T14:49:27Z",
+      "updatedAt": "2026-09-26T07:52:00Z",
+      "licenseName": "CC0-1.0",
+      "topics": [
+        "web",
+        "web-app",
+        "web-application",
+        "webapp"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
