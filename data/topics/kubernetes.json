@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T09:20:30Z",
+  "generatedAt": "2026-09-27T09:59:37Z",
   "topic": "kubernetes",
   "totalCount": 3,
   "repos": [
@@ -66,34 +66,30 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1378595282",
-      "name": "laya_router",
-      "nameWithOwner": "glukicov/laya_router",
-      "description": "Model routing is a System 1 job: a 421M local decision engine (Laya) against a GPT-5 nano reasoning router. Same accuracy, 35x faster, free.",
-      "url": "https://github.com/glukicov/laya_router",
+      "id": "1388282456",
+      "name": "kubereach",
+      "nameWithOwner": "edereagzi/kubereach",
+      "description": "A Kubernetes desktop app that can connect to clusters through SSH jump hosts",
+      "url": "https://github.com/edereagzi/kubereach",
       "stargazerCount": 6,
-      "forkCount": 3,
-      "languageName": "Python",
+      "forkCount": 0,
+      "languageName": "Go",
       "languageColor": null,
-      "ownerLogin": "glukicov",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/8192053?v=4",
+      "ownerLogin": "edereagzi",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/81780268?v=4",
       "ownerType": "User",
-      "createdAt": "2026-09-20T17:20:59Z",
-      "updatedAt": "2026-09-25T06:00:36Z",
+      "createdAt": "2026-09-25T23:24:00Z",
+      "updatedAt": "2026-09-27T08:47:44Z",
       "licenseName": "Apache-2.0",
       "topics": [
-        "calibration",
-        "evaluation",
-        "fastapi",
-        "inference-optimisation",
+        "desktop-app",
+        "jump-host",
         "kubernetes",
-        "laya",
-        "llm-routing",
-        "model-routing",
-        "openai",
-        "small-language-models"
+        "port-forward",
+        "ssh",
+        "wails"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

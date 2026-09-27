@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T09:20:30Z",
+  "generatedAt": "2026-09-27T09:59:37Z",
   "topic": "devops",
   "totalCount": 3,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "mikehasa/golive-skill",
       "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
       "url": "https://github.com/mikehasa/golive-skill",
-      "stargazerCount": 959,
-      "forkCount": 65,
+      "stargazerCount": 990,
+      "forkCount": 70,
       "languageName": "TypeScript",
       "languageColor": null,
       "ownerLogin": "mikehasa",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-23T13:37:26Z",
-      "updatedAt": "2026-09-26T09:04:01Z",
+      "updatedAt": "2026-09-27T09:23:53Z",
       "licenseName": "MIT",
       "topics": [
         "agent-skill",
@@ -41,7 +41,7 @@
         "supabase",
         "vercel"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -50,7 +50,7 @@
       "nameWithOwner": "defitier-sdk/0audit.com",
       "description": "Developer SDK, CLI & AI search intent index for 0audit.com — Fast Website Diagnostics, Technical SEO, Security Headers & Web Performance Auditor",
       "url": "https://github.com/defitier-sdk/0audit.com",
-      "stargazerCount": 57,
+      "stargazerCount": 79,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -58,7 +58,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/322809496?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-24T19:43:02Z",
-      "updatedAt": "2026-09-26T09:01:21Z",
+      "updatedAt": "2026-09-27T06:44:45Z",
       "licenseName": "MIT",
       "topics": [
         "audit-tools",
