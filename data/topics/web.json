@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-09-28T10:51:43Z",
+  "generatedAt": "2026-09-29T10:39:50Z",
   "topic": "web",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 1,
+  "repos": [
+    {
+      "id": "1387599710",
+      "name": "telegram-web-player",
+      "nameWithOwner": "FallenProjects/telegram-web-player",
+      "description": "A modern Telegram web music player with real-time synchronized playback, personal playlists, and smart recommendations.",
+      "url": "https://github.com/FallenProjects/telegram-web-player",
+      "stargazerCount": 7,
+      "forkCount": 1,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "FallenProjects",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/263037768?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-09-25T13:53:47Z",
+      "updatedAt": "2026-09-29T09:42:47Z",
+      "licenseName": "GPL-3.0",
+      "topics": [
+        "go",
+        "music",
+        "sync-music",
+        "telegram",
+        "tg",
+        "tg-web-player",
+        "web",
+        "web-player"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    }
+  ]
 }

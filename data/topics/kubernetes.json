@@ -1,8 +1,65 @@
 {
-  "generatedAt": "2026-09-28T10:51:43Z",
+  "generatedAt": "2026-09-29T10:39:50Z",
   "topic": "kubernetes",
-  "totalCount": 3,
+  "totalCount": 4,
   "repos": [
+    {
+      "id": "1392435335",
+      "name": "st8ks",
+      "nameWithOwner": "bjarneo/st8ks",
+      "description": "A fast Kubernetes desktop client for Linux, macOS and Windows that finds what is broken and helps you fix it",
+      "url": "https://github.com/bjarneo/st8ks",
+      "stargazerCount": 17,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "bjarneo",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1419214?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-28T10:36:18Z",
+      "updatedAt": "2026-09-29T09:03:48Z",
+      "licenseName": null,
+      "topics": [
+        "desktop-app",
+        "devtools",
+        "golang",
+        "helm",
+        "k8s",
+        "kubernetes",
+        "react",
+        "wails"
+      ],
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1386468019",
+      "name": "kritik",
+      "nameWithOwner": "home-operations/kritik",
+      "description": "Multi-tenant AI pull request reviewer for GitHub organisations, backed by Postgres and per-review Kubernetes Jobs",
+      "url": "https://github.com/home-operations/kritik",
+      "stargazerCount": 9,
+      "forkCount": 1,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "home-operations",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/152294696?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-09-24T23:09:16Z",
+      "updatedAt": "2026-09-29T01:50:55Z",
+      "licenseName": "AGPL-3.0",
+      "topics": [
+        "0ver",
+        "code-review",
+        "github",
+        "kubernetes",
+        "llm",
+        "pgvector",
+        "pull-request"
+      ],
+      "openIssuesCount": 3,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1382786298",
       "name": "unclick",
@@ -36,34 +93,6 @@
         "terraformer"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1386468019",
-      "name": "kritik",
-      "nameWithOwner": "home-operations/kritik",
-      "description": "Multi-tenant AI pull request reviewer for GitHub organisations, backed by Postgres and per-review Kubernetes Jobs",
-      "url": "https://github.com/home-operations/kritik",
-      "stargazerCount": 7,
-      "forkCount": 1,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "home-operations",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/152294696?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-09-24T23:09:16Z",
-      "updatedAt": "2026-09-27T23:24:57Z",
-      "licenseName": "AGPL-3.0",
-      "topics": [
-        "0ver",
-        "code-review",
-        "github",
-        "kubernetes",
-        "llm",
-        "pgvector",
-        "pull-request"
-      ],
-      "openIssuesCount": 2,
       "closedIssuesCount": 0
     },
     {

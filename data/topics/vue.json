@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-09-28T10:51:43Z",
+  "generatedAt": "2026-09-29T10:39:50Z",
   "topic": "vue",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 1,
+  "repos": [
+    {
+      "id": "1391990951",
+      "name": "awesome-copy-paste-ui",
+      "nameWithOwner": "pnnnhan99/awesome-copy-paste-ui",
+      "description": "A curated collection of copy-paste UI components, sections, templates, and snippets for developers and vibe coders.",
+      "url": "https://github.com/pnnnhan99/awesome-copy-paste-ui",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "pnnnhan99",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/72957879?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-28T06:17:55Z",
+      "updatedAt": "2026-09-29T09:18:51Z",
+      "licenseName": null,
+      "topics": [
+        "awesome-list",
+        "copy-paste",
+        "css",
+        "design-system",
+        "framer-motion",
+        "frontend",
+        "html",
+        "html5",
+        "nextjs",
+        "react",
+        "shadcn-ui",
+        "taiwindcss",
+        "ui-components",
+        "ui-kit",
+        "vibe-coding",
+        "vue",
+        "web-design",
+        "web-development"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    }
+  ]
 }

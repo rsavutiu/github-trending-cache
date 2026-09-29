@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T10:51:43Z",
+  "generatedAt": "2026-09-29T10:39:50Z",
   "topic": "java",
   "totalCount": 4,
   "repos": [
@@ -10,7 +10,7 @@
       "description": "A curated collection of resources, frameworks, tools, and roadmaps to help you go from Java beginner to production-ready backend engineer.",
       "url": "https://github.com/avinash201199/Java-KIT",
       "stargazerCount": 57,
-      "forkCount": 8,
+      "forkCount": 9,
       "languageName": null,
       "languageColor": null,
       "ownerLogin": "avinash201199",
@@ -33,7 +33,7 @@
       "nameWithOwner": "NullByte3/midden",
       "description": "Fast JVM heap dump analyser: retained sizes, owners and leak suspects from .hprof files. One static binary, no JDK needed.",
       "url": "https://github.com/NullByte3/midden",
-      "stargazerCount": 14,
+      "stargazerCount": 18,
       "forkCount": 1,
       "languageName": "Rust",
       "languageColor": null,
@@ -41,7 +41,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/122549857?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-25T10:42:44Z",
-      "updatedAt": "2026-09-28T00:09:32Z",
+      "updatedAt": "2026-09-29T03:20:54Z",
       "licenseName": "MIT",
       "topics": [
         "heapdump",
