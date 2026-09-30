@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T10:39:50Z",
+  "generatedAt": "2026-09-30T10:28:39Z",
   "topic": "flutter",
   "totalCount": 5,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "akira399/sakura-read",
       "description": "樱读 · Sakura Read — 二次元风格的 Android 小说阅读器（Flutter）｜TXT/EPUB 阅读 + 阅读3.0书源 + 看板娘桌宠",
       "url": "https://github.com/akira399/sakura-read",
-      "stargazerCount": 20,
+      "stargazerCount": 24,
       "forkCount": 1,
       "languageName": "Dart",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/315272894?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-25T11:55:24Z",
-      "updatedAt": "2026-09-29T08:41:09Z",
+      "updatedAt": "2026-09-30T08:21:18Z",
       "licenseName": "MIT",
       "topics": [
         "android",
@@ -101,32 +101,6 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1385283500",
-      "name": "flutter-ux-master",
-      "nameWithOwner": "EmadBeltaje/flutter-ux-master",
-      "description": "Agent skill for Flutter: audits the tiny UX details that make an app feel native - empty/error states, keyboard, haptics, formatted dates and numbers. Reports first; you pick what to fix.",
-      "url": "https://github.com/EmadBeltaje/flutter-ux-master",
-      "stargazerCount": 9,
-      "forkCount": 0,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "EmadBeltaje",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/64028200?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-09-24T10:54:08Z",
-      "updatedAt": "2026-09-26T18:17:34Z",
-      "licenseName": "MIT",
-      "topics": [
-        "agent-skill",
-        "coding-agents",
-        "dart",
-        "flutter",
-        "ux"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1388946288",
       "name": "depcart",
       "nameWithOwner": "Djain912/depcart",
@@ -163,6 +137,32 @@
         "rust",
         "vscode",
         "vscode-extension"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1385283500",
+      "name": "flutter-ux-master",
+      "nameWithOwner": "EmadBeltaje/flutter-ux-master",
+      "description": "Agent skill for Flutter: audits the tiny UX details that make an app feel native - empty/error states, keyboard, haptics, formatted dates and numbers. Reports first; you pick what to fix.",
+      "url": "https://github.com/EmadBeltaje/flutter-ux-master",
+      "stargazerCount": 9,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "EmadBeltaje",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/64028200?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-09-24T10:54:08Z",
+      "updatedAt": "2026-09-26T18:17:34Z",
+      "licenseName": "MIT",
+      "topics": [
+        "agent-skill",
+        "coding-agents",
+        "dart",
+        "flutter",
+        "ux"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

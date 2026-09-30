@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-29T10:39:50Z",
+  "generatedAt": "2026-09-30T10:28:39Z",
   "topic": "kubernetes",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1392435335",
@@ -36,9 +36,9 @@
       "id": "1386468019",
       "name": "kritik",
       "nameWithOwner": "home-operations/kritik",
-      "description": "Multi-tenant AI pull request reviewer for GitHub organisations, backed by Postgres and per-review Kubernetes Jobs",
+      "description": "Repository-aware AI pull request reviewer for GitHub",
       "url": "https://github.com/home-operations/kritik",
-      "stargazerCount": 9,
+      "stargazerCount": 13,
       "forkCount": 1,
       "languageName": "Go",
       "languageColor": null,
@@ -46,7 +46,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/152294696?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-09-24T23:09:16Z",
-      "updatedAt": "2026-09-29T01:50:55Z",
+      "updatedAt": "2026-09-30T10:26:17Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "0ver",
@@ -54,45 +54,10 @@
         "github",
         "kubernetes",
         "llm",
-        "pgvector",
-        "pull-request"
+        "pull-request",
+        "vectorchord"
       ],
       "openIssuesCount": 3,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1382786298",
-      "name": "unclick",
-      "nameWithOwner": "Perruer/unclick",
-      "description": "Turn existing cloud resources into OpenTofu / Terraform code. Continuation of Terraformer: protocol 5 and 6 providers, OpenTofu, import blocks, provider-driven scan.",
-      "url": "https://github.com/Perruer/unclick",
-      "stargazerCount": 8,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "Perruer",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/198955393?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-09-23T05:05:20Z",
-      "updatedAt": "2026-09-28T04:18:37Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "aws",
-        "azure",
-        "cli",
-        "devops",
-        "gcp",
-        "golang",
-        "iac",
-        "import",
-        "infrastructure-as-code",
-        "kubernetes",
-        "opentofu",
-        "reverse-terraform",
-        "terraform",
-        "terraformer"
-      ],
-      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
