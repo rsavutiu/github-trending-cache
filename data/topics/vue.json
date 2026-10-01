@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T10:28:39Z",
+  "generatedAt": "2026-10-01T10:56:08Z",
   "topic": "vue",
   "totalCount": 2,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "chrysler-stone/awesome-tauri-apps",
       "description": "Curated list of desktop and mobile apps built with Tauri.",
       "url": "https://github.com/chrysler-stone/awesome-tauri-apps",
-      "stargazerCount": 20,
-      "forkCount": 9,
+      "stargazerCount": 24,
+      "forkCount": 11,
       "languageName": null,
       "languageColor": null,
       "ownerLogin": "chrysler-stone",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/318241976?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-29T12:28:07Z",
-      "updatedAt": "2026-09-30T06:27:23Z",
+      "updatedAt": "2026-10-01T09:45:33Z",
       "licenseName": null,
       "topics": [
         "awesome",
@@ -36,7 +36,7 @@
         "web-development",
         "windows"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 2,
       "closedIssuesCount": 0
     },
     {
@@ -53,7 +53,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/72957879?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-28T06:17:55Z",
-      "updatedAt": "2026-09-29T21:06:59Z",
+      "updatedAt": "2026-09-30T21:04:47Z",
       "licenseName": null,
       "topics": [
         "awesome-list",

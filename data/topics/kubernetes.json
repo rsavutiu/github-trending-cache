@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-30T10:28:39Z",
+  "generatedAt": "2026-10-01T10:56:08Z",
   "topic": "kubernetes",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1392435335",
@@ -9,7 +9,7 @@
       "nameWithOwner": "bjarneo/st8ks",
       "description": "A fast Kubernetes desktop client for Linux, macOS and Windows that finds what is broken and helps you fix it",
       "url": "https://github.com/bjarneo/st8ks",
-      "stargazerCount": 17,
+      "stargazerCount": 18,
       "forkCount": 0,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-28T10:36:18Z",
-      "updatedAt": "2026-09-29T09:03:48Z",
+      "updatedAt": "2026-10-01T04:33:27Z",
       "licenseName": null,
       "topics": [
         "desktop-app",
@@ -30,34 +30,6 @@
         "wails"
       ],
       "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1386468019",
-      "name": "kritik",
-      "nameWithOwner": "home-operations/kritik",
-      "description": "Repository-aware AI pull request reviewer for GitHub",
-      "url": "https://github.com/home-operations/kritik",
-      "stargazerCount": 13,
-      "forkCount": 1,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "home-operations",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/152294696?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-09-24T23:09:16Z",
-      "updatedAt": "2026-09-30T10:26:17Z",
-      "licenseName": "AGPL-3.0",
-      "topics": [
-        "0ver",
-        "code-review",
-        "github",
-        "kubernetes",
-        "llm",
-        "pull-request",
-        "vectorchord"
-      ],
-      "openIssuesCount": 3,
       "closedIssuesCount": 0
     },
     {
