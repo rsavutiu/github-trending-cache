@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-01T10:56:08Z",
+  "generatedAt": "2026-10-02T10:29:29Z",
   "topic": "go",
-  "totalCount": 7,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1392973435",
@@ -83,42 +83,13 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1387599710",
-      "name": "telegram-web-player",
-      "nameWithOwner": "FallenProjects/telegram-web-player",
-      "description": "A modern Telegram web music player with real-time synchronized playback, personal playlists, and smart recommendations. (YouTube, Spotify, Apple Music, SoundCloud, Deezer, Twitch, JioSaavn, Gaana, MXPlayer, Kick)",
-      "url": "https://github.com/FallenProjects/telegram-web-player",
-      "stargazerCount": 9,
-      "forkCount": 1,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "FallenProjects",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/263037768?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-09-25T13:53:47Z",
-      "updatedAt": "2026-10-01T04:45:56Z",
-      "licenseName": "GPL-3.0",
-      "topics": [
-        "go",
-        "music",
-        "sync-music",
-        "telegram",
-        "tg",
-        "tg-web-player",
-        "web",
-        "web-player"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1392523857",
       "name": "go-acs",
       "nameWithOwner": "hakureiyuyuko/go-acs",
       "description": "单二进制、零外部中间件的 TR-069/CWMP ACS（Go + SQLite）：纳管光猫与 FTTR 主机，看信息、改配置、诊断、管子设备与终端",
       "url": "https://github.com/hakureiyuyuko/go-acs",
       "stargazerCount": 9,
-      "forkCount": 1,
+      "forkCount": 2,
       "languageName": "Go",
       "languageColor": null,
       "ownerLogin": "hakureiyuyuko",
@@ -143,7 +114,7 @@
         "sqlite",
         "tr-069"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -180,47 +151,6 @@
         "windows-tools"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1387196059",
-      "name": "mongorescue",
-      "nameWithOwner": "YigitCittan/mongorescue",
-      "description": "Self-hosted MongoDB backup and disaster recovery: streaming mongodump to disk or S3, safe-clone restores, encryption, alerts, web dashboard and MCP server. Single Go binary.",
-      "url": "https://github.com/YigitCittan/mongorescue",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "YigitCittan",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/110293872?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-09-25T09:32:48Z",
-      "updatedAt": "2026-10-01T08:58:35Z",
-      "licenseName": "MIT",
-      "topics": [
-        "backup",
-        "backup-tool",
-        "dashboard",
-        "database-backup",
-        "devops",
-        "disaster-recovery",
-        "docker",
-        "encryption",
-        "go",
-        "golang",
-        "mcp",
-        "mcp-server",
-        "minio",
-        "model-context-protocol",
-        "mongodb",
-        "mongodump",
-        "mongorestore",
-        "prometheus",
-        "s3",
-        "self-hosted"
-      ],
-      "openIssuesCount": 2,
       "closedIssuesCount": 0
     }
   ]

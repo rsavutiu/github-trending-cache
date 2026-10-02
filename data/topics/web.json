@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-01T10:56:08Z",
+  "generatedAt": "2026-10-02T10:29:29Z",
   "topic": "web",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1395215215",
@@ -9,15 +9,15 @@
       "nameWithOwner": "chrysler-stone/awesome-tauri-apps",
       "description": "Curated list of desktop and mobile apps built with Tauri.",
       "url": "https://github.com/chrysler-stone/awesome-tauri-apps",
-      "stargazerCount": 24,
-      "forkCount": 11,
+      "stargazerCount": 27,
+      "forkCount": 12,
       "languageName": null,
       "languageColor": null,
       "ownerLogin": "chrysler-stone",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/318241976?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-29T12:28:07Z",
-      "updatedAt": "2026-10-01T09:45:33Z",
+      "updatedAt": "2026-10-02T09:09:31Z",
       "licenseName": null,
       "topics": [
         "awesome",
@@ -36,36 +36,7 @@
         "web-development",
         "windows"
       ],
-      "openIssuesCount": 2,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1387599710",
-      "name": "telegram-web-player",
-      "nameWithOwner": "FallenProjects/telegram-web-player",
-      "description": "A modern Telegram web music player with real-time synchronized playback, personal playlists, and smart recommendations. (YouTube, Spotify, Apple Music, SoundCloud, Deezer, Twitch, JioSaavn, Gaana, MXPlayer, Kick)",
-      "url": "https://github.com/FallenProjects/telegram-web-player",
-      "stargazerCount": 9,
-      "forkCount": 1,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "FallenProjects",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/263037768?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-09-25T13:53:47Z",
-      "updatedAt": "2026-10-01T04:45:56Z",
-      "licenseName": "GPL-3.0",
-      "topics": [
-        "go",
-        "music",
-        "sync-music",
-        "telegram",
-        "tg",
-        "tg-web-player",
-        "web",
-        "web-player"
-      ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 3,
       "closedIssuesCount": 0
     }
   ]
