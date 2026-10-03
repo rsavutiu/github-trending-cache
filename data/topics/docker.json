@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T10:29:29Z",
+  "generatedAt": "2026-10-03T09:51:12Z",
   "topic": "docker",
   "totalCount": 10,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "devilcoolyue/agentbox",
       "description": "Self-hosted browser workspace for Claude Code and Codex CLI, with Docker sessions, terminal, files, Git, and usage tracking.",
       "url": "https://github.com/devilcoolyue/agentbox",
-      "stargazerCount": 49,
+      "stargazerCount": 60,
       "forkCount": 5,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/15119216?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-28T03:32:41Z",
-      "updatedAt": "2026-10-02T09:31:29Z",
+      "updatedAt": "2026-10-03T08:23:22Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ai-coding",
@@ -26,6 +26,34 @@
         "docker",
         "golang",
         "self-hosted"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1399378829",
+      "name": "proxy-farm",
+      "nameWithOwner": "huuhoa143/proxy-farm",
+      "description": "Turn your VPN account into dozens of local SOCKS5/HTTP proxy ports — one exit location per port, with kill-switch, self-healing tunnels and a web UI.",
+      "url": "https://github.com/huuhoa143/proxy-farm",
+      "stargazerCount": 31,
+      "forkCount": 27,
+      "languageName": "HTML",
+      "languageColor": null,
+      "ownerLogin": "huuhoa143",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/39357066?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-01T07:10:36Z",
+      "updatedAt": "2026-10-03T08:28:47Z",
+      "licenseName": "MIT",
+      "topics": [
+        "docker",
+        "hma",
+        "ipsec",
+        "proxy",
+        "socks5",
+        "vpn",
+        "wireguard"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -68,7 +96,7 @@
         "windows",
         "winrm"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -77,7 +105,7 @@
       "nameWithOwner": "Fade97/satisfactory-logistics-map",
       "description": "Web map for Satisfactory dedicated servers: live map, production, power, logistics, history and a production planner — self-hosted with Docker in 5 minutes",
       "url": "https://github.com/Fade97/satisfactory-logistics-map",
-      "stargazerCount": 18,
+      "stargazerCount": 21,
       "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
@@ -85,7 +113,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/24256873?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-30T21:22:49Z",
-      "updatedAt": "2026-10-02T07:26:00Z",
+      "updatedAt": "2026-10-03T08:14:16Z",
       "licenseName": "MIT",
       "topics": [
         "docker",
@@ -98,34 +126,6 @@
         "self-hosted",
         "svelte"
       ],
-      "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1399378829",
-      "name": "proxy-farm",
-      "nameWithOwner": "huuhoa143/proxy-farm",
-      "description": "Turn your VPN account into dozens of local SOCKS5/HTTP proxy ports — one exit location per port, with kill-switch, self-healing tunnels and a web UI.",
-      "url": "https://github.com/huuhoa143/proxy-farm",
-      "stargazerCount": 16,
-      "forkCount": 13,
-      "languageName": "HTML",
-      "languageColor": null,
-      "ownerLogin": "huuhoa143",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/39357066?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-10-01T07:10:36Z",
-      "updatedAt": "2026-10-02T10:11:42Z",
-      "licenseName": "MIT",
-      "topics": [
-        "docker",
-        "hma",
-        "ipsec",
-        "proxy",
-        "socks5",
-        "vpn",
-        "wireguard"
-      ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
@@ -135,7 +135,7 @@
       "nameWithOwner": "quisbaum-prog/occam",
       "description": "Occam's razor for Claude Code and Codex: a 30-line rule set. Benchmarks vs base: 51-55% lower estimated task cost on Opus/Sonnet 5.5 max with more tests passed. 8.3% fewer tokens in a Sol 6.1 max pilot. Raw data, Docker setup and comparison video included.",
       "url": "https://github.com/quisbaum-prog/occam",
-      "stargazerCount": 15,
+      "stargazerCount": 16,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -143,7 +143,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/234927556?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-27T08:36:55Z",
-      "updatedAt": "2026-10-01T19:58:45Z",
+      "updatedAt": "2026-10-02T21:41:26Z",
       "licenseName": "MIT",
       "topics": [
         "ai-agents",
@@ -179,7 +179,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/10423502?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-28T05:11:58Z",
-      "updatedAt": "2026-10-02T00:48:33Z",
+      "updatedAt": "2026-10-03T09:27:36Z",
       "licenseName": "MIT",
       "topics": [
         "arcade",
@@ -236,7 +236,7 @@
       "id": "1394652830",
       "name": "manga-colorizer",
       "nameWithOwner": "FlamboyantEntertainment/manga-colorizer",
-      "description": "Self-hosted AI colorizer for whole manga books (PDF, EPUB, CBZ) with a drag-and-drop web UI. One-line Docker install.",
+      "description": "Self-hosted AI colorizer for manga: color whole books (PDF, EPUB, CBZ) in a drag-and-drop web UI, or pages in place as you read online with the browser extension. One-line Docker install.",
       "url": "https://github.com/FlamboyantEntertainment/manga-colorizer",
       "stargazerCount": 6,
       "forkCount": 0,
@@ -246,7 +246,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/50521300?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-29T07:46:41Z",
-      "updatedAt": "2026-09-29T20:06:23Z",
+      "updatedAt": "2026-10-02T21:13:07Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "cbz",

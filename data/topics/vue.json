@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T10:29:29Z",
+  "generatedAt": "2026-10-03T09:51:12Z",
   "topic": "vue",
   "totalCount": 2,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "chrysler-stone/awesome-tauri-apps",
       "description": "Curated list of desktop and mobile apps built with Tauri.",
       "url": "https://github.com/chrysler-stone/awesome-tauri-apps",
-      "stargazerCount": 27,
-      "forkCount": 12,
+      "stargazerCount": 30,
+      "forkCount": 14,
       "languageName": null,
       "languageColor": null,
       "ownerLogin": "chrysler-stone",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/318241976?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-29T12:28:07Z",
-      "updatedAt": "2026-10-02T09:09:31Z",
+      "updatedAt": "2026-10-03T03:46:23Z",
       "licenseName": null,
       "topics": [
         "awesome",
@@ -36,7 +36,7 @@
         "web-development",
         "windows"
       ],
-      "openIssuesCount": 3,
+      "openIssuesCount": 5,
       "closedIssuesCount": 0
     },
     {
@@ -45,7 +45,7 @@
       "nameWithOwner": "pnnnhan99/awesome-copy-paste-ui",
       "description": "A curated collection of copy-paste UI components, sections, templates, and snippets for developers and vibe coders.",
       "url": "https://github.com/pnnnhan99/awesome-copy-paste-ui",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 0,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -53,7 +53,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/72957879?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-28T06:17:55Z",
-      "updatedAt": "2026-10-01T21:27:39Z",
+      "updatedAt": "2026-10-02T21:04:42Z",
       "licenseName": null,
       "topics": [
         "awesome-list",

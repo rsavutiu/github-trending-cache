@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T10:29:29Z",
+  "generatedAt": "2026-10-03T09:51:12Z",
   "topic": "java",
   "totalCount": 3,
   "repos": [
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/164733623?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-28T23:05:08Z",
-      "updatedAt": "2026-09-30T17:22:41Z",
+      "updatedAt": "2026-10-02T19:39:02Z",
       "licenseName": "MIT",
       "topics": [
         "aws",
@@ -30,7 +30,7 @@
         "sqs",
         "testcontainers"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
