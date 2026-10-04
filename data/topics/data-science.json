@@ -1,34 +1,8 @@
 {
-  "generatedAt": "2026-10-03T09:51:12Z",
+  "generatedAt": "2026-10-04T10:33:59Z",
   "topic": "data-science",
-  "totalCount": 13,
+  "totalCount": 12,
   "repos": [
-    {
-      "id": "1391232833",
-      "name": "ou-learning-analytics",
-      "nameWithOwner": "aghaabdullah/ou-learning-analytics",
-      "description": "Machine learning pipeline analyzing Open University educational data to predict student outcomes and model VLE engagement.",
-      "url": "https://github.com/aghaabdullah/ou-learning-analytics",
-      "stargazerCount": 8,
-      "forkCount": 0,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "aghaabdullah",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/174826577?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-09-27T17:48:47Z",
-      "updatedAt": "2026-09-27T18:41:44Z",
-      "licenseName": "MIT",
-      "topics": [
-        "data-science",
-        "educational-data",
-        "machine-learning",
-        "predictive-modeling",
-        "xgboost"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1391683363",
       "name": "genpark-statistical-zscore-iqr-anomaly-detector-skill",

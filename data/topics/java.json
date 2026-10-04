@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-03T09:51:12Z",
+  "generatedAt": "2026-10-04T10:33:59Z",
   "topic": "java",
-  "totalCount": 3,
+  "totalCount": 1,
   "repos": [
     {
       "id": "1393941555",
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/164733623?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-28T23:05:08Z",
-      "updatedAt": "2026-10-02T19:39:02Z",
+      "updatedAt": "2026-10-03T22:41:37Z",
       "licenseName": "MIT",
       "topics": [
         "aws",
@@ -29,59 +29,6 @@
         "spring-boot",
         "sqs",
         "testcontainers"
-      ],
-      "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1391192697",
-      "name": "android-student-management",
-      "nameWithOwner": "aghaabdullah/android-student-management",
-      "description": "Architectural reference repository detailing the core logic and algorithmic requirements for an Android Student Management app.",
-      "url": "https://github.com/aghaabdullah/android-student-management",
-      "stargazerCount": 8,
-      "forkCount": 0,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "aghaabdullah",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/174826577?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-09-27T17:15:12Z",
-      "updatedAt": "2026-09-27T18:41:45Z",
-      "licenseName": "MIT",
-      "topics": [
-        "android",
-        "architecture",
-        "java",
-        "mobile-app-development",
-        "requirements"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1390935033",
-      "name": "ARIADNE",
-      "nameWithOwner": "AfonsoPaiva/ARIADNE",
-      "description": "JVM Java Agent that reconstructs asynchronous causal stack traces across thread boundaries.",
-      "url": "https://github.com/AfonsoPaiva/ARIADNE",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Java",
-      "languageColor": null,
-      "ownerLogin": "AfonsoPaiva",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/81976887?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-09-27T14:08:01Z",
-      "updatedAt": "2026-10-01T18:06:13Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "buddy",
-        "byte",
-        "java",
-        "jvm",
-        "rxjava",
-        "slf4j"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

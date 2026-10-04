@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T09:51:12Z",
+  "generatedAt": "2026-10-04T10:33:59Z",
   "topic": "web",
   "totalCount": 1,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "chrysler-stone/awesome-tauri-apps",
       "description": "Curated list of desktop and mobile apps built with Tauri.",
       "url": "https://github.com/chrysler-stone/awesome-tauri-apps",
-      "stargazerCount": 30,
-      "forkCount": 14,
+      "stargazerCount": 33,
+      "forkCount": 15,
       "languageName": null,
       "languageColor": null,
       "ownerLogin": "chrysler-stone",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/318241976?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-29T12:28:07Z",
-      "updatedAt": "2026-10-03T03:46:23Z",
+      "updatedAt": "2026-10-04T08:48:43Z",
       "licenseName": null,
       "topics": [
         "awesome",
@@ -36,7 +36,7 @@
         "web-development",
         "windows"
       ],
-      "openIssuesCount": 5,
+      "openIssuesCount": 3,
       "closedIssuesCount": 0
     }
   ]

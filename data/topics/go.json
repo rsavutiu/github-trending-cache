@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-03T09:51:12Z",
+  "generatedAt": "2026-10-04T10:33:59Z",
   "topic": "go",
-  "totalCount": 6,
+  "totalCount": 7,
   "repos": [
     {
       "id": "1392973435",
@@ -9,7 +9,7 @@
       "nameWithOwner": "kofiadeyemiq/byterange",
       "description": "RFC 9110 HTTP Range parsing and serving for Go, with limits on range count and multipart amplification.",
       "url": "https://github.com/kofiadeyemiq/byterange",
-      "stargazerCount": 31,
+      "stargazerCount": 49,
       "forkCount": 10,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/334555386?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-28T14:44:22Z",
-      "updatedAt": "2026-09-29T12:55:31Z",
+      "updatedAt": "2026-10-04T10:25:27Z",
       "licenseName": "MIT",
       "topics": [
         "go",
@@ -35,7 +35,7 @@
       "nameWithOwner": "kofiadeyemiq/iterleak",
       "description": "Go analyzer that reports iter.Pull and iter.Pull2 calls whose stop function can go uncalled and leak a goroutine.",
       "url": "https://github.com/kofiadeyemiq/iterleak",
-      "stargazerCount": 30,
+      "stargazerCount": 48,
       "forkCount": 10,
       "languageName": "Go",
       "languageColor": null,
@@ -43,7 +43,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/334555386?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-28T14:44:14Z",
-      "updatedAt": "2026-09-29T12:55:38Z",
+      "updatedAt": "2026-10-04T10:25:33Z",
       "licenseName": "MIT",
       "topics": [
         "go",
@@ -62,7 +62,7 @@
       "nameWithOwner": "kofiadeyemiq/shellstrict",
       "description": "Lint shell scripts for missing strict mode and for mktemp files with no trap cleanup, complementing ShellCheck.",
       "url": "https://github.com/kofiadeyemiq/shellstrict",
-      "stargazerCount": 30,
+      "stargazerCount": 48,
       "forkCount": 10,
       "languageName": "Go",
       "languageColor": null,
@@ -70,7 +70,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/334555386?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-28T14:44:03Z",
-      "updatedAt": "2026-09-29T12:55:45Z",
+      "updatedAt": "2026-10-04T10:25:39Z",
       "licenseName": "MIT",
       "topics": [
         "bash",
@@ -118,33 +118,6 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1399911772",
-      "name": "putnami",
-      "nameWithOwner": "Putnami/putnami",
-      "description": "Putnami: a deterministic, observable workspace toolchain and application framework for Go, TypeScript and Python.",
-      "url": "https://github.com/Putnami/putnami",
-      "stargazerCount": 6,
-      "forkCount": 1,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "Putnami",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/7409358?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-10-01T12:14:57Z",
-      "updatedAt": "2026-10-02T21:19:46Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "build-system",
-        "developer-tools",
-        "go",
-        "monorepo",
-        "observability",
-        "typescript"
-      ],
-      "openIssuesCount": 5,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1396528409",
       "name": "claude-starred",
       "nameWithOwner": "artengin/claude-starred",
@@ -169,6 +142,62 @@
         "tui"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1399911772",
+      "name": "putnami",
+      "nameWithOwner": "Putnami/putnami",
+      "description": "Putnami: a deterministic, observable workspace toolchain and application framework for Go, TypeScript and Python.",
+      "url": "https://github.com/Putnami/putnami",
+      "stargazerCount": 6,
+      "forkCount": 1,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "Putnami",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/7409358?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-10-01T12:14:57Z",
+      "updatedAt": "2026-10-04T06:29:40Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "build-system",
+        "developer-tools",
+        "go",
+        "monorepo",
+        "observability",
+        "typescript"
+      ],
+      "openIssuesCount": 8,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1402338852",
+      "name": "GhostCam",
+      "nameWithOwner": "p3374/GhostCam",
+      "description": "Stream your phone camera to your own PC from anywhere (4G/5G) and write it to disk in real time. Nothing stored on the phone. End-to-end encrypted, single Windows exe.",
+      "url": "https://github.com/p3374/GhostCam",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "p3374",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/33072645?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-02T20:45:40Z",
+      "updatedAt": "2026-10-04T10:20:37Z",
+      "licenseName": "AGPL-3.0",
+      "topics": [
+        "camera",
+        "cloudflare-tunnel",
+        "evidence",
+        "go",
+        "pion",
+        "privacy",
+        "webrtc",
+        "windows"
+      ],
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]
