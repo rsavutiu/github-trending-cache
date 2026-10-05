@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-04T10:33:59Z",
+  "generatedAt": "2026-10-05T11:25:56Z",
   "topic": "web",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1395215215",
@@ -9,15 +9,15 @@
       "nameWithOwner": "chrysler-stone/awesome-tauri-apps",
       "description": "Curated list of desktop and mobile apps built with Tauri.",
       "url": "https://github.com/chrysler-stone/awesome-tauri-apps",
-      "stargazerCount": 33,
-      "forkCount": 15,
+      "stargazerCount": 36,
+      "forkCount": 16,
       "languageName": null,
       "languageColor": null,
       "ownerLogin": "chrysler-stone",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/318241976?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-29T12:28:07Z",
-      "updatedAt": "2026-10-04T08:48:43Z",
+      "updatedAt": "2026-10-04T21:10:41Z",
       "licenseName": null,
       "topics": [
         "awesome",
@@ -36,7 +36,33 @@
         "web-development",
         "windows"
       ],
-      "openIssuesCount": 3,
+      "openIssuesCount": 4,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1403383395",
+      "name": "Furnish",
+      "nameWithOwner": "oxomkbk/Furnish",
+      "description": "Web装修设计工具，集 2D 平面布置与 three.js 3D 漫游于一体，内置 12 套户型、多方案管理与自定义家具库，支持多选编辑、对齐吸附、碰撞检查及三语暗色模式。",
+      "url": "https://github.com/oxomkbk/Furnish",
+      "stargazerCount": 7,
+      "forkCount": 4,
+      "languageName": "HTML",
+      "languageColor": null,
+      "ownerLogin": "oxomkbk",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/308944081?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-03T16:07:34Z",
+      "updatedAt": "2026-10-05T08:07:10Z",
+      "licenseName": "MIT",
+      "topics": [
+        "3d",
+        "design",
+        "html5",
+        "threejs",
+        "web"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

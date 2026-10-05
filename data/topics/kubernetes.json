@@ -1,36 +1,6 @@
 {
-  "generatedAt": "2026-10-04T10:33:59Z",
+  "generatedAt": "2026-10-05T11:25:56Z",
   "topic": "kubernetes",
-  "totalCount": 1,
-  "repos": [
-    {
-      "id": "1392435335",
-      "name": "st8ks",
-      "nameWithOwner": "bjarneo/st8ks",
-      "description": "A fast Kubernetes desktop client for Linux, macOS and Windows that finds what is broken and helps you fix it",
-      "url": "https://github.com/bjarneo/st8ks",
-      "stargazerCount": 18,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "bjarneo",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1419214?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-09-28T10:36:18Z",
-      "updatedAt": "2026-10-01T04:33:27Z",
-      "licenseName": null,
-      "topics": [
-        "desktop-app",
-        "devtools",
-        "golang",
-        "helm",
-        "k8s",
-        "kubernetes",
-        "react",
-        "wails"
-      ],
-      "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    }
-  ]
+  "totalCount": 0,
+  "repos": []
 }
