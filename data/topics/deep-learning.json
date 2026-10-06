@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T11:25:56Z",
+  "generatedAt": "2026-10-06T11:15:10Z",
   "topic": "deep-learning",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "zermello/awesome-robotics",
       "description": "Free Robotics & AI learning resources, including courses, books, lectures, research papers, tutorials, projects, and more.",
       "url": "https://github.com/zermello/awesome-robotics",
-      "stargazerCount": 15,
+      "stargazerCount": 14,
       "forkCount": 1,
       "languageName": null,
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/296903246?v=4",
       "ownerType": "User",
       "createdAt": "2026-09-30T14:06:16Z",
-      "updatedAt": "2026-10-03T19:53:03Z",
+      "updatedAt": "2026-10-05T13:04:12Z",
       "licenseName": "MIT",
       "topics": [
         "ai",

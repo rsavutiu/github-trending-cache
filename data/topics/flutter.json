@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-05T11:25:56Z",
+  "generatedAt": "2026-10-06T11:15:10Z",
   "topic": "flutter",
-  "totalCount": 4,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1399724602",
@@ -9,15 +9,15 @@
       "nameWithOwner": "daveragos/gramx",
       "description": "Your Telegram channels as one timeline. An Android client built on TDLib.",
       "url": "https://github.com/daveragos/gramx",
-      "stargazerCount": 52,
-      "forkCount": 3,
+      "stargazerCount": 54,
+      "forkCount": 4,
       "languageName": "Dart",
       "languageColor": null,
       "ownerLogin": "daveragos",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/96292329?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-01T10:14:29Z",
-      "updatedAt": "2026-10-05T09:22:09Z",
+      "updatedAt": "2026-10-05T19:34:15Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "android",
@@ -36,7 +36,7 @@
       "nameWithOwner": "dev4harmony/PiliNara",
       "description": "PiliNara ported to HarmonyOS (ohos-Flutter). PiliPlus-based ohos platform layer merged into the PiliNara product codebase.",
       "url": "https://github.com/dev4harmony/PiliNara",
-      "stargazerCount": 23,
+      "stargazerCount": 24,
       "forkCount": 1,
       "languageName": "Dart",
       "languageColor": null,
@@ -44,7 +44,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/306683358?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-10-01T14:23:41Z",
-      "updatedAt": "2026-10-05T10:06:30Z",
+      "updatedAt": "2026-10-06T06:27:22Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "flutter",
@@ -60,15 +60,15 @@
       "nameWithOwner": "PlugFox/g1455",
       "description": "Liquid Glass for Flutter: refraction, blur and rim over the live backdrop, built for cost first.",
       "url": "https://github.com/PlugFox/g1455",
-      "stargazerCount": 10,
-      "forkCount": 0,
+      "stargazerCount": 18,
+      "forkCount": 2,
       "languageName": "Dart",
       "languageColor": null,
       "ownerLogin": "PlugFox",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/7805176?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-03T09:50:31Z",
-      "updatedAt": "2026-10-05T11:19:49Z",
+      "updatedAt": "2026-10-06T09:29:17Z",
       "licenseName": "MIT",
       "topics": [
         "dart",
@@ -78,7 +78,7 @@
         "liquid-glass",
         "shaders"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -87,7 +87,7 @@
       "nameWithOwner": "Ethiel97/flutter-clean-riverpod-skills",
       "description": "Agent skills for Flutter: feature-first Clean Architecture, Riverpod 3 (no codegen), Result-based errors, SDK contracts, UI side effects and testing.",
       "url": "https://github.com/Ethiel97/flutter-clean-riverpod-skills",
-      "stargazerCount": 7,
+      "stargazerCount": 10,
       "forkCount": 1,
       "languageName": "Dart",
       "languageColor": null,
@@ -95,7 +95,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/16937757?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-02T14:52:55Z",
-      "updatedAt": "2026-10-05T08:53:25Z",
+      "updatedAt": "2026-10-06T11:11:58Z",
       "licenseName": "MIT",
       "topics": [
         "agent-skills",
@@ -104,6 +104,34 @@
         "dart",
         "flutter",
         "riverpod"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1400055555",
+      "name": "squid",
+      "nameWithOwner": "PlugFox/squid",
+      "description": "A simple, reliable and extensible declarative navigator for Flutter. The whole navigation is a plain list of routes you can rewrite at any moment.",
+      "url": "https://github.com/PlugFox/squid",
+      "stargazerCount": 9,
+      "forkCount": 1,
+      "languageName": "Dart",
+      "languageColor": null,
+      "ownerLogin": "PlugFox",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/7805176?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-01T13:37:48Z",
+      "updatedAt": "2026-10-05T13:11:13Z",
+      "licenseName": "MIT",
+      "topics": [
+        "dart",
+        "declarative",
+        "flutter",
+        "guards",
+        "navigation",
+        "navigator",
+        "router"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
