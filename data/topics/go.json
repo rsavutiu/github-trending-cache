@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-06T11:15:10Z",
+  "generatedAt": "2026-10-07T11:03:00Z",
   "topic": "go",
-  "totalCount": 8,
+  "totalCount": 10,
   "repos": [
     {
       "id": "1404078662",
@@ -9,15 +9,15 @@
       "nameWithOwner": "LAGcomcom/zen-gate",
       "description": "把 OpenCode Zen 免费模型装进你所有的 AI Agent —— Windows 托盘网关，OpenAI/Anthropic 兼容，自动适配 10+ Agent，限流自动切换",
       "url": "https://github.com/LAGcomcom/zen-gate",
-      "stargazerCount": 25,
-      "forkCount": 2,
+      "stargazerCount": 53,
+      "forkCount": 9,
       "languageName": "Go",
       "languageColor": null,
       "ownerLogin": "LAGcomcom",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/104992779?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-04T07:32:31Z",
-      "updatedAt": "2026-10-06T10:56:56Z",
+      "updatedAt": "2026-10-07T10:05:09Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "anthropic",
@@ -30,7 +30,7 @@
         "windows",
         "zen"
       ],
-      "openIssuesCount": 4,
+      "openIssuesCount": 9,
       "closedIssuesCount": 0
     },
     {
@@ -39,7 +39,7 @@
       "nameWithOwner": "Perpeer/lazychat",
       "description": "One terminal for all your AI coding agents. Run Claude Code and Codex side by side, see which one needs you, with Git and a shell one key away. ",
       "url": "https://github.com/Perpeer/lazychat",
-      "stargazerCount": 21,
+      "stargazerCount": 25,
       "forkCount": 1,
       "languageName": "Go",
       "languageColor": null,
@@ -47,8 +47,8 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/182153219?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-10-02T07:31:53Z",
-      "updatedAt": "2026-10-06T07:33:50Z",
-      "licenseName": "AGPL-3.0",
+      "updatedAt": "2026-10-07T10:35:47Z",
+      "licenseName": "NOASSERTION",
       "topics": [
         "ai-agents",
         "ai-coding",
@@ -72,7 +72,7 @@
       "nameWithOwner": "pinkpixel-dev/skyline",
       "description": "Your GitHub contribution graph as an ASCII city, in the terminal or as an animated SVG for your profile README.",
       "url": "https://github.com/pinkpixel-dev/skyline",
-      "stargazerCount": 12,
+      "stargazerCount": 16,
       "forkCount": 2,
       "languageName": "Go",
       "languageColor": null,
@@ -80,7 +80,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/195895956?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-10-03T15:03:31Z",
-      "updatedAt": "2026-10-06T07:08:36Z",
+      "updatedAt": "2026-10-07T07:48:19Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ascii-art",
@@ -154,7 +154,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/7409358?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-10-01T12:14:57Z",
-      "updatedAt": "2026-10-06T10:14:47Z",
+      "updatedAt": "2026-10-06T19:36:24Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "build-system",
@@ -164,7 +164,67 @@
         "observability",
         "typescript"
       ],
-      "openIssuesCount": 7,
+      "openIssuesCount": 10,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1405942706",
+      "name": "RapaceGo",
+      "nameWithOwner": "Rapace7/RapaceGo",
+      "description": "跟 AI 下棋、看客观数据、听本地模型讲棋的围棋工具（Electron + KataGo + LoGos）",
+      "url": "https://github.com/Rapace7/RapaceGo",
+      "stargazerCount": 7,
+      "forkCount": 1,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "Rapace7",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/323879439?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-05T14:58:39Z",
+      "updatedAt": "2026-10-07T11:00:02Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "ai",
+        "baduk",
+        "board-game",
+        "electron",
+        "go",
+        "gogame",
+        "katago",
+        "weiqi",
+        "windows"
+      ],
+      "openIssuesCount": 4,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1402231809",
+      "name": "Corral",
+      "nameWithOwner": "alok-mishra143/Corral",
+      "description": "A firewall between your computer and your AI agent.  Sometimes, an agent can access your files or environment variables without your permission. It might even ask you to run a script that gives it access to your environment.  Corral blocks all those attempts.",
+      "url": "https://github.com/alok-mishra143/Corral",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "alok-mishra143",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/100504874?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-02T18:52:44Z",
+      "updatedAt": "2026-10-07T05:29:22Z",
+      "licenseName": null,
+      "topics": [
+        "agentic-ai",
+        "agents",
+        "bun",
+        "go",
+        "golang",
+        "open-source",
+        "opencode",
+        "opencode-plugin",
+        "rust"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -247,7 +307,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/33072645?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-02T20:45:40Z",
-      "updatedAt": "2026-10-04T10:20:37Z",
+      "updatedAt": "2026-10-07T09:22:02Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "camera",
@@ -259,7 +319,7 @@
         "webrtc",
         "windows"
       ],
-      "openIssuesCount": 2,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]

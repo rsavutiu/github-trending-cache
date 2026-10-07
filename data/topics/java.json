@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-06T11:15:10Z",
+  "generatedAt": "2026-10-07T11:03:00Z",
   "topic": "java",
-  "totalCount": 7,
+  "totalCount": 6,
   "repos": [
     {
       "id": "1403914720",
@@ -9,7 +9,7 @@
       "nameWithOwner": "metacoglabs/hypergraph",
       "description": "A persistent native vector-hypergraph database for higher-order interactions",
       "url": "https://github.com/metacoglabs/hypergraph",
-      "stargazerCount": 20,
+      "stargazerCount": 21,
       "forkCount": 1,
       "languageName": "Java",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/251760266?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-10-04T04:56:21Z",
-      "updatedAt": "2026-10-06T05:24:09Z",
+      "updatedAt": "2026-10-06T16:14:16Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "database",
@@ -27,7 +27,7 @@
         "java",
         "java25"
       ],
-      "openIssuesCount": 23,
+      "openIssuesCount": 26,
       "closedIssuesCount": 0
     },
     {
@@ -36,7 +36,7 @@
       "nameWithOwner": "redouble-ai/nucleo",
       "description": "Nucleo Agentic Runtime",
       "url": "https://github.com/redouble-ai/nucleo",
-      "stargazerCount": 11,
+      "stargazerCount": 14,
       "forkCount": 1,
       "languageName": "Java",
       "languageColor": null,
@@ -44,7 +44,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/331887976?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-10-01T21:35:07Z",
-      "updatedAt": "2026-10-06T09:16:42Z",
+      "updatedAt": "2026-10-07T07:35:15Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "agent-runtime",
@@ -54,6 +54,33 @@
         "quarkus",
         "spring-boot",
         "virtual-threads"
+      ],
+      "openIssuesCount": 2,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1403545649",
+      "name": "sphinx-vscode",
+      "nameWithOwner": "lleonardogr/sphinx-vscode",
+      "description": "LeetCode/HackerRank-style coding challenges inside VS Code — starting with beginner Java (variables, conditionals, loops, arrays, strings, methods).",
+      "url": "https://github.com/lleonardogr/sphinx-vscode",
+      "stargazerCount": 8,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "lleonardogr",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5585956?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-03T18:58:42Z",
+      "updatedAt": "2026-10-07T06:57:47Z",
+      "licenseName": "MIT",
+      "topics": [
+        "coding-challenges",
+        "education",
+        "java",
+        "programming-exercises",
+        "students",
+        "vscode-extension"
       ],
       "openIssuesCount": 2,
       "closedIssuesCount": 0
@@ -101,7 +128,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/203015339?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-02T20:47:17Z",
-      "updatedAt": "2026-10-05T20:28:50Z",
+      "updatedAt": "2026-10-06T16:46:29Z",
       "licenseName": null,
       "topics": [
         "dcoker",
@@ -112,33 +139,6 @@
         "ubuntu"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1403545649",
-      "name": "sphynx-vscode",
-      "nameWithOwner": "lleonardogr/sphynx-vscode",
-      "description": "LeetCode/HackerRank-style coding challenges inside VS Code — starting with beginner Java (variables, conditionals, loops, arrays, strings, methods).",
-      "url": "https://github.com/lleonardogr/sphynx-vscode",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "Java",
-      "languageColor": null,
-      "ownerLogin": "lleonardogr",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5585956?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-10-03T18:58:42Z",
-      "updatedAt": "2026-10-06T02:50:37Z",
-      "licenseName": "MIT",
-      "topics": [
-        "coding-challenges",
-        "education",
-        "java",
-        "programming-exercises",
-        "students",
-        "vscode-extension"
-      ],
-      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -166,32 +166,6 @@
         "enjarify",
         "java",
         "jvm"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1397506794",
-      "name": "errorprone-idea",
-      "nameWithOwner": "salatmaster/errorprone-idea",
-      "description": "IntelliJ IDEA plugin that shows Error Prone and NullAway findings from your Gradle build right in the editor, and applies their fixes.",
-      "url": "https://github.com/salatmaster/errorprone-idea",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Kotlin",
-      "languageColor": null,
-      "ownerLogin": "salatmaster",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/38766980?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-09-30T09:33:05Z",
-      "updatedAt": "2026-10-05T09:35:32Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "code-quality",
-        "errorprone",
-        "java",
-        "linter",
-        "null-away"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

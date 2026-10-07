@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T11:15:10Z",
+  "generatedAt": "2026-10-07T11:03:00Z",
   "topic": "web",
   "totalCount": 1,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "oxomkbk/Furnish",
       "description": "Web装修设计工具，集 2D 平面布置与 three.js 3D 漫游于一体，内置 12 套户型、多方案管理与自定义家具库，支持多选编辑、对齐吸附、碰撞检查及三语暗色模式。",
       "url": "https://github.com/oxomkbk/Furnish",
-      "stargazerCount": 11,
-      "forkCount": 6,
+      "stargazerCount": 15,
+      "forkCount": 7,
       "languageName": "HTML",
       "languageColor": null,
       "ownerLogin": "oxomkbk",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/308944081?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-03T16:07:34Z",
-      "updatedAt": "2026-10-06T07:08:06Z",
+      "updatedAt": "2026-10-07T09:35:15Z",
       "licenseName": "MIT",
       "topics": [
         "3d",

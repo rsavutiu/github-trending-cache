@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-06T11:15:10Z",
+  "generatedAt": "2026-10-07T11:03:00Z",
   "topic": "devops",
-  "totalCount": 3,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1401057712",
@@ -9,15 +9,15 @@
       "nameWithOwner": "TrainWithShubham/tws-labs",
       "description": "Learn DevOps, Cloud and AI by doing: a real terminal, tasks graded on real machine state. Runs on Windows, macOS and Linux.",
       "url": "https://github.com/TrainWithShubham/tws-labs",
-      "stargazerCount": 9,
-      "forkCount": 23,
+      "stargazerCount": 14,
+      "forkCount": 26,
       "languageName": "JavaScript",
       "languageColor": null,
       "ownerLogin": "TrainWithShubham",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/121760796?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-10-02T04:21:15Z",
-      "updatedAt": "2026-10-06T10:45:37Z",
+      "updatedAt": "2026-10-07T07:55:50Z",
       "licenseName": "MIT",
       "topics": [
         "aws",
@@ -34,7 +34,7 @@
         "linux",
         "terminal"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -99,6 +99,37 @@
         "sre-agent"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1404460902",
+      "name": "k10s",
+      "nameWithOwner": "dumkin/k10s",
+      "description": "A fast desktop client for fleets of Kubernetes clusters.",
+      "url": "https://github.com/dumkin/k10s",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "dumkin",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/31487230?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-04T13:46:23Z",
+      "updatedAt": "2026-10-07T08:56:45Z",
+      "licenseName": "AGPL-3.0",
+      "topics": [
+        "desktop-app",
+        "devops",
+        "kubeconfig",
+        "kubernetes",
+        "kubernetes-dashboard",
+        "kubernetes-gui",
+        "multi-cluster",
+        "rust",
+        "sre",
+        "tauri"
+      ],
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]
