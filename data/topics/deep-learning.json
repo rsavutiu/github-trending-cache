@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-08T11:20:45Z",
+  "generatedAt": "2026-10-09T11:18:50Z",
   "topic": "deep-learning",
-  "totalCount": 6,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1408120545",
@@ -9,15 +9,15 @@
       "nameWithOwner": "datologyai/zephon",
       "description": "Fast, flexible, elastically deterministic data loading for foundation model training",
       "url": "https://github.com/datologyai/zephon",
-      "stargazerCount": 55,
-      "forkCount": 1,
+      "stargazerCount": 62,
+      "forkCount": 2,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "datologyai",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/146795414?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-10-07T01:59:41Z",
-      "updatedAt": "2026-10-08T09:58:05Z",
+      "updatedAt": "2026-10-09T11:08:25Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "data-loader",
@@ -25,40 +25,7 @@
         "distributed-training",
         "pytorch"
       ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1402344315",
-      "name": "genaiguide",
-      "nameWithOwner": "juanjo-barrientos/genaiguide",
-      "description": "Guía gratuita de IA generativa avanzada en español (311 págs.): Transformer, post-entrenamiento, inferencia, GPU, difusión, agentes, seguridad. Free advanced generative AI guide in Spanish. CC0.",
-      "url": "https://github.com/juanjo-barrientos/genaiguide",
-      "stargazerCount": 12,
-      "forkCount": 5,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "juanjo-barrientos",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/147687566?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-10-02T20:51:54Z",
-      "updatedAt": "2026-10-04T02:59:09Z",
-      "licenseName": "CC0-1.0",
-      "topics": [
-        "ai-agents",
-        "deep-learning",
-        "diffusion-models",
-        "espanol",
-        "free-book",
-        "generative-ai",
-        "inference",
-        "llm",
-        "machine-learning",
-        "reinforcement-learning",
-        "spanish",
-        "transformers"
-      ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 3,
       "closedIssuesCount": 0
     },
     {
@@ -67,7 +34,7 @@
       "nameWithOwner": "wrab12/awesome-spatial-transcriptomics",
       "description": "A curated list of tools, foundation models, datasets and tutorials for spatial transcriptomics and single-cell analysis, ordered the way an analysis goes.",
       "url": "https://github.com/wrab12/awesome-spatial-transcriptomics",
-      "stargazerCount": 10,
+      "stargazerCount": 34,
       "forkCount": 1,
       "languageName": null,
       "languageColor": null,
@@ -75,7 +42,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/109090911?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-06T16:37:52Z",
-      "updatedAt": "2026-10-08T10:52:07Z",
+      "updatedAt": "2026-10-09T08:47:43Z",
       "licenseName": "CC0-1.0",
       "topics": [
         "awesome",
@@ -94,7 +61,7 @@
         "visium",
         "xenium"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -103,7 +70,7 @@
       "nameWithOwner": "PkLavc/Autotrader",
       "description": "Autonomous AI trading system powered by Kronos. Forecasts markets, builds portfolios and paper-trades automatically with GitHub Actions.",
       "url": "https://github.com/PkLavc/Autotrader",
-      "stargazerCount": 7,
+      "stargazerCount": 23,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -111,7 +78,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/163757335?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-07T02:43:14Z",
-      "updatedAt": "2026-10-08T02:02:46Z",
+      "updatedAt": "2026-10-09T02:29:28Z",
       "licenseName": "MIT",
       "topics": [
         "ai-trading-system",
@@ -139,47 +106,20 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1402264326",
-      "name": "self-play-pretrain-zero-data",
-      "nameWithOwner": "lucidrains/self-play-pretrain-zero-data",
-      "description": "Implementation of Self-Play Pretraining with Zero Data",
-      "url": "https://github.com/lucidrains/self-play-pretrain-zero-data",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "lucidrains",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108653?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-10-02T19:25:21Z",
-      "updatedAt": "2026-10-08T06:59:42Z",
-      "licenseName": "MIT",
-      "topics": [
-        "artificial-intelligence",
-        "deep-learning",
-        "pretraining",
-        "self-play",
-        "solomonoff-induction",
-        "synthetic-data"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1405933934",
       "name": "HeroFig",
       "nameWithOwner": "matteodisalvo/HeroFig",
       "description": "A visual desktop editor for creating publication-ready scientific figures, with domain-specific libraries, real-time collaboration, and export to PDF, SVG, PNG, and LaTeX/TikZ.",
       "url": "https://github.com/matteodisalvo/HeroFig",
-      "stargazerCount": 6,
-      "forkCount": 0,
+      "stargazerCount": 9,
+      "forkCount": 1,
       "languageName": "TypeScript",
       "languageColor": null,
       "ownerLogin": "matteodisalvo",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/116663822?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-05T14:52:12Z",
-      "updatedAt": "2026-10-08T02:09:30Z",
+      "updatedAt": "2026-10-09T07:02:36Z",
       "licenseName": "MIT",
       "topics": [
         "academic-papers",
@@ -196,7 +136,7 @@
         "tikz",
         "windows"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]

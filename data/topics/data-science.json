@@ -1,6 +1,37 @@
 {
-  "generatedAt": "2026-10-08T11:20:45Z",
+  "generatedAt": "2026-10-09T11:18:50Z",
   "topic": "data-science",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 1,
+  "repos": [
+    {
+      "id": "1407699696",
+      "name": "termr",
+      "nameWithOwner": "41929424/termr",
+      "description": "A reactive terminal UI framework for R. Build interactive data explorers, dashboards and SQL tools",
+      "url": "https://github.com/41929424/termr",
+      "stargazerCount": 9,
+      "forkCount": 1,
+      "languageName": "R",
+      "languageColor": null,
+      "ownerLogin": "41929424",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/162325320?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-06T17:31:18Z",
+      "updatedAt": "2026-10-09T09:39:33Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "cli",
+        "dashboard",
+        "data-analysis",
+        "data-science",
+        "r",
+        "reactive",
+        "stats",
+        "terminal-ui",
+        "tui"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T11:20:45Z",
+  "generatedAt": "2026-10-09T11:18:50Z",
   "topic": "kubernetes",
   "totalCount": 3,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "aireet/kube-bmc",
       "description": "Your servers' BMCs as Kubernetes resources: zero-config in-band discovery, hardware health, Prometheus metrics, a slick dashboard and out-of-band power control. IPMI & Redfish.",
       "url": "https://github.com/aireet/kube-bmc",
-      "stargazerCount": 38,
+      "stargazerCount": 47,
       "forkCount": 0,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/12189040?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-05T10:45:02Z",
-      "updatedAt": "2026-10-08T10:58:37Z",
+      "updatedAt": "2026-10-09T08:18:41Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "baremetal",
@@ -37,37 +37,38 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1401057712",
-      "name": "tws-labs",
-      "nameWithOwner": "TrainWithShubham/tws-labs",
-      "description": "Learn DevOps, Cloud and AI by doing: a real terminal, tasks graded on real machine state. Runs on Windows, macOS and Linux.",
-      "url": "https://github.com/TrainWithShubham/tws-labs",
-      "stargazerCount": 14,
-      "forkCount": 28,
-      "languageName": "JavaScript",
+      "id": "1405521452",
+      "name": "temsai-asr-server",
+      "nameWithOwner": "tems-ai/temsai-asr-server",
+      "description": "Self-hosted, OpenAI/Whisper-compatible speech-to-text server for NVIDIA Parakeet-TDT. CPU and GPU, amd64 and arm64, Docker and Kubernetes, air-gap ready, with denoising for noisy industrial audio.",
+      "url": "https://github.com/tems-ai/temsai-asr-server",
+      "stargazerCount": 10,
+      "forkCount": 0,
+      "languageName": "Python",
       "languageColor": null,
-      "ownerLogin": "TrainWithShubham",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/121760796?v=4",
+      "ownerLogin": "tems-ai",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/191117534?v=4",
       "ownerType": "Organization",
-      "createdAt": "2026-10-02T04:21:15Z",
-      "updatedAt": "2026-10-07T18:01:20Z",
-      "licenseName": "MIT",
+      "createdAt": "2026-10-05T09:47:38Z",
+      "updatedAt": "2026-10-09T09:03:48Z",
+      "licenseName": "Apache-2.0",
       "topics": [
-        "aws",
-        "devops",
+        "asr",
         "docker",
-        "education",
-        "elastic-beanstalk",
-        "git",
-        "github-actions",
-        "hands-on",
+        "gpu",
+        "helm",
+        "industrial",
         "kubernetes",
-        "learn-to-code",
-        "learning",
-        "linux",
-        "terminal"
+        "nvidia-nemo",
+        "on-premise",
+        "openai-api",
+        "parakeet",
+        "self-hosted",
+        "speech-to-text",
+        "transcription",
+        "whisper"
       ],
-      "openIssuesCount": 4,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -84,7 +85,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/31487230?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-04T13:46:23Z",
-      "updatedAt": "2026-10-07T19:12:59Z",
+      "updatedAt": "2026-10-08T12:37:15Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "desktop-app",
@@ -98,7 +99,7 @@
         "sre",
         "tauri"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]
