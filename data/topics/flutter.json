@@ -1,66 +1,6 @@
 {
-  "generatedAt": "2026-10-09T11:18:50Z",
+  "generatedAt": "2026-10-10T10:35:35Z",
   "topic": "flutter",
-  "totalCount": 2,
-  "repos": [
-    {
-      "id": "1402969172",
-      "name": "g1455",
-      "nameWithOwner": "PlugFox/g1455",
-      "description": "Liquid Glass for Flutter: refraction, blur and rim over the live backdrop, built for cost first.",
-      "url": "https://github.com/PlugFox/g1455",
-      "stargazerCount": 26,
-      "forkCount": 2,
-      "languageName": "Dart",
-      "languageColor": null,
-      "ownerLogin": "PlugFox",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/7805176?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-10-03T09:50:31Z",
-      "updatedAt": "2026-10-09T08:45:35Z",
-      "licenseName": "MIT",
-      "topics": [
-        "dart",
-        "flutter",
-        "glassmorphism",
-        "impeller",
-        "liquid-glass",
-        "shaders"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1402847574",
-      "name": "herdr-mobile",
-      "nameWithOwner": "tuan3w/herdr-mobile",
-      "description": "Your coding agents, in your pocket. See every agent on every machine, answer the moment one needs you. Android client for herdr, over SSH.",
-      "url": "https://github.com/tuan3w/herdr-mobile",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "Dart",
-      "languageColor": null,
-      "ownerLogin": "tuan3w",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/2762678?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-10-03T07:53:49Z",
-      "updatedAt": "2026-10-09T02:56:44Z",
-      "licenseName": "GPL-3.0",
-      "topics": [
-        "agent-client-protocol",
-        "ai-agents",
-        "android",
-        "claude-code",
-        "codex",
-        "coding-agents",
-        "flutter",
-        "herdr",
-        "mobile",
-        "ssh",
-        "terminal"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    }
-  ]
+  "totalCount": 0,
+  "repos": []
 }

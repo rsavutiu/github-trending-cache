@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-09T11:18:50Z",
+  "generatedAt": "2026-10-10T10:35:35Z",
   "topic": "vue",
-  "totalCount": 6,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1405115700",
@@ -9,15 +9,15 @@
       "nameWithOwner": "rumoii/streamfirefly",
       "description": "网页媒体嗅探与下载工具，包含浏览器扩展和 Windows 本地助手。Web media detection and download tool with a browser extension and a Windows native helper.",
       "url": "https://github.com/rumoii/streamfirefly",
-      "stargazerCount": 141,
-      "forkCount": 6,
+      "stargazerCount": 175,
+      "forkCount": 10,
       "languageName": "JavaScript",
       "languageColor": null,
       "ownerLogin": "rumoii",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/123233666?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-05T04:26:14Z",
-      "updatedAt": "2026-10-09T11:15:05Z",
+      "updatedAt": "2026-10-10T09:44:15Z",
       "licenseName": "MIT",
       "topics": [
         "browser-extension",
@@ -38,7 +38,7 @@
         "webextension",
         "windows"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 5,
       "closedIssuesCount": 0
     },
     {
@@ -47,7 +47,7 @@
       "nameWithOwner": "kkjiangk/agent-py",
       "description": "Personal AIOps engineering project with durable workflows, scoped hybrid retrieval, reliable event delivery, and verified API/browser contracts.",
       "url": "https://github.com/kkjiangk/agent-py",
-      "stargazerCount": 44,
+      "stargazerCount": 52,
       "forkCount": 4,
       "languageName": "Python",
       "languageColor": null,
@@ -55,7 +55,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/93652737?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-04T08:35:08Z",
-      "updatedAt": "2026-10-09T08:47:06Z",
+      "updatedAt": "2026-10-10T09:15:22Z",
       "licenseName": null,
       "topics": [
         "aiops",
@@ -91,34 +91,6 @@
         "portfolio",
         "redis",
         "spring-boot",
-        "vue"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1402996831",
-      "name": "ffclip-plugins",
-      "nameWithOwner": "425776024/ffclip-plugins",
-      "description": "Render video. Chat cut video editing with live previews.",
-      "url": "https://github.com/425776024/ffclip-plugins",
-      "stargazerCount": 8,
-      "forkCount": 1,
-      "languageName": "JavaScript",
-      "languageColor": null,
-      "ownerLogin": "425776024",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14906671?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-10-03T10:18:49Z",
-      "updatedAt": "2026-10-09T04:44:50Z",
-      "licenseName": "MIT",
-      "topics": [
-        "ai",
-        "animation",
-        "mcp",
-        "video",
-        "video-editing",
-        "video-editor",
         "vue"
       ],
       "openIssuesCount": 0,

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-09T11:18:50Z",
+  "generatedAt": "2026-10-10T10:35:35Z",
   "topic": "kubernetes",
-  "totalCount": 3,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1405585060",
@@ -9,7 +9,7 @@
       "nameWithOwner": "aireet/kube-bmc",
       "description": "Your servers' BMCs as Kubernetes resources: zero-config in-band discovery, hardware health, Prometheus metrics, a slick dashboard and out-of-band power control. IPMI & Redfish.",
       "url": "https://github.com/aireet/kube-bmc",
-      "stargazerCount": 47,
+      "stargazerCount": 54,
       "forkCount": 0,
       "languageName": "Go",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/12189040?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-05T10:45:02Z",
-      "updatedAt": "2026-10-09T08:18:41Z",
+      "updatedAt": "2026-10-10T10:32:58Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "baremetal",
@@ -77,15 +77,15 @@
       "nameWithOwner": "dumkin/k10s",
       "description": "A fast desktop client for fleets of Kubernetes clusters.",
       "url": "https://github.com/dumkin/k10s",
-      "stargazerCount": 7,
-      "forkCount": 0,
+      "stargazerCount": 8,
+      "forkCount": 1,
       "languageName": "TypeScript",
       "languageColor": null,
       "ownerLogin": "dumkin",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/31487230?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-04T13:46:23Z",
-      "updatedAt": "2026-10-08T12:37:15Z",
+      "updatedAt": "2026-10-09T17:59:35Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "desktop-app",
@@ -100,6 +100,39 @@
         "tauri"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1408611332",
+      "name": "vates-kube-os",
+      "nameWithOwner": "vatesfr/vates-kube-os",
+      "description": "Experimental, immutable Kubernetes node OS built from source — the Xen Orchestra / XCP-ng node image used by the Vates Cluster API providers.",
+      "url": "https://github.com/vatesfr/vates-kube-os",
+      "stargazerCount": 7,
+      "forkCount": 2,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "vatesfr",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/2064170?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-10-07T10:23:58Z",
+      "updatedAt": "2026-10-10T07:42:39Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "capi",
+        "cluster-api",
+        "containerd",
+        "from-scratch",
+        "immutable-os",
+        "kubeadm",
+        "kubernetes",
+        "linux",
+        "operating-system",
+        "vates",
+        "xcp-ng",
+        "xen-orchestra"
+      ],
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]
