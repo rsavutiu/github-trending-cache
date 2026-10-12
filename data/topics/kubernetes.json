@@ -1,76 +1,8 @@
 {
-  "generatedAt": "2026-10-11T10:48:09Z",
+  "generatedAt": "2026-10-12T11:55:22Z",
   "topic": "kubernetes",
-  "totalCount": 3,
+  "totalCount": 1,
   "repos": [
-    {
-      "id": "1405585060",
-      "name": "kube-bmc",
-      "nameWithOwner": "aireet/kube-bmc",
-      "description": "Your servers' BMCs as Kubernetes resources: zero-config in-band discovery, hardware health, Prometheus metrics, a slick dashboard and out-of-band power control. IPMI & Redfish.",
-      "url": "https://github.com/aireet/kube-bmc",
-      "stargazerCount": 56,
-      "forkCount": 0,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "aireet",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/12189040?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-10-05T10:45:02Z",
-      "updatedAt": "2026-10-11T03:28:14Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "baremetal",
-        "bmc",
-        "daemonset",
-        "golang",
-        "gpu",
-        "hardware-monitoring",
-        "ipmi",
-        "kubernetes",
-        "naive-ui",
-        "prometheus",
-        "redfish",
-        "vue3"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1405521452",
-      "name": "temsai-asr-server",
-      "nameWithOwner": "tems-ai/temsai-asr-server",
-      "description": "Self-hosted, OpenAI/Whisper-compatible speech-to-text server for NVIDIA Parakeet-TDT. CPU and GPU, amd64 and arm64, Docker and Kubernetes, air-gap ready, with denoising for noisy industrial audio.",
-      "url": "https://github.com/tems-ai/temsai-asr-server",
-      "stargazerCount": 10,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "tems-ai",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/191117534?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-10-05T09:47:38Z",
-      "updatedAt": "2026-10-09T09:03:48Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "asr",
-        "docker",
-        "gpu",
-        "helm",
-        "industrial",
-        "kubernetes",
-        "nvidia-nemo",
-        "on-premise",
-        "openai-api",
-        "parakeet",
-        "self-hosted",
-        "speech-to-text",
-        "transcription",
-        "whisper"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1408611332",
       "name": "vates-kube-os",
@@ -101,7 +33,7 @@
         "xcp-ng",
         "xen-orchestra"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 2,
       "closedIssuesCount": 0
     }
   ]

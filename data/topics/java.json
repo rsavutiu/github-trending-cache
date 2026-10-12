@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T10:48:09Z",
+  "generatedAt": "2026-10-12T11:55:22Z",
   "topic": "java",
   "totalCount": 1,
   "repos": [
@@ -7,17 +7,17 @@
       "id": "1411240586",
       "name": "agenteam",
       "nameWithOwner": "Stonewuu/agenteam",
-      "description": "【群策】 - 开源企业级多智能体协作 OPC 平台，组建你的专属 AI 团队 - Java & AgentScope 2.0 |  [AgenTeam] Open-source, enterprise-grade OPC (One Person Company) platform for building collaborative AI teams – built on Java & AgentScope 2.0.",
+      "description": "【群策】 - 开源企业级云端多智能体协作 OPC 平台，组建你的专属 AI 团队 - Java & AgentScope 2.0 |  [AgenTeam] Open-source, enterprise-grade OPC (One Person Company) platform for building collaborative AI teams – built on Java & AgentScope 2.0.",
       "url": "https://github.com/Stonewuu/agenteam",
-      "stargazerCount": 19,
-      "forkCount": 5,
+      "stargazerCount": 24,
+      "forkCount": 7,
       "languageName": "Java",
       "languageColor": null,
       "ownerLogin": "Stonewuu",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/25025423?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-09T03:39:07Z",
-      "updatedAt": "2026-10-11T08:11:02Z",
+      "updatedAt": "2026-10-12T09:05:00Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "agent",
