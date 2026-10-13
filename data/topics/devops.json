@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-12T11:55:22Z",
+  "generatedAt": "2026-10-13T11:44:23Z",
   "topic": "devops",
-  "totalCount": 2,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1410043496",
@@ -9,7 +9,7 @@
       "nameWithOwner": "ivankupach/fullstack-interview-questions",
       "description": "800+ fullstack interview questions & answers with code and diagrams: JavaScript, TypeScript, React, Next.js, React Native, Node.js, NestJS, SQL/PostgreSQL, System Design, AWS, DevOps, Web Security. Junior → Senior.",
       "url": "https://github.com/ivankupach/fullstack-interview-questions",
-      "stargazerCount": 11,
+      "stargazerCount": 14,
       "forkCount": 0,
       "languageName": "Mermaid",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/74314908?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-08T09:09:49Z",
-      "updatedAt": "2026-10-11T22:06:49Z",
+      "updatedAt": "2026-10-13T01:12:01Z",
       "licenseName": "MIT",
       "topics": [
         "aws",
@@ -42,6 +42,46 @@
         "typescript"
       ],
       "openIssuesCount": 4,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1415812425",
+      "name": "Seo-Guard",
+      "nameWithOwner": "SerfDiscriminate/Seo-Guard",
+      "description": "Automated technical SEO auditing tool to detect website issues and prevent SEO regressions.",
+      "url": "https://github.com/SerfDiscriminate/Seo-Guard",
+      "stargazerCount": 12,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "SerfDiscriminate",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/334869599?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-12T15:50:15Z",
+      "updatedAt": "2026-10-12T18:59:22Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "automation",
+        "cli-tool",
+        "developer-tools",
+        "devops",
+        "open-source",
+        "python",
+        "python3",
+        "seo",
+        "seo-analyzer",
+        "seo-audit",
+        "seo-checker",
+        "seo-tools",
+        "site-audit",
+        "technical-seo",
+        "web-crawler",
+        "web-scraping",
+        "website-analyzer",
+        "website-audit",
+        "website-monitoring"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {

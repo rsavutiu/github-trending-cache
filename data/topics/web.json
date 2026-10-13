@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T11:55:22Z",
+  "generatedAt": "2026-10-13T11:44:23Z",
   "topic": "web",
   "totalCount": 1,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "cribest7890/NOAPI",
       "description": "Use web ai models as your agent in opencode",
       "url": "https://github.com/cribest7890/NOAPI",
-      "stargazerCount": 8,
-      "forkCount": 1,
+      "stargazerCount": 11,
+      "forkCount": 2,
       "languageName": "JavaScript",
       "languageColor": null,
       "ownerLogin": "cribest7890",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/216222748?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-10T21:20:13Z",
-      "updatedAt": "2026-10-12T10:05:52Z",
+      "updatedAt": "2026-10-13T08:46:15Z",
       "licenseName": "MIT",
       "topics": [
         "ai",
@@ -30,7 +30,7 @@
         "opencode",
         "web"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]

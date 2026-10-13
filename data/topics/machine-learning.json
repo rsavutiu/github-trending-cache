@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-12T11:55:22Z",
+  "generatedAt": "2026-10-13T11:44:23Z",
   "topic": "machine-learning",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1408152368",
@@ -9,7 +9,7 @@
       "nameWithOwner": "PkLavc/Autotrader",
       "description": "Autonomous AI trading system powered by Kronos. Forecasts markets, builds portfolios and paper-trades automatically with GitHub Actions.",
       "url": "https://github.com/PkLavc/Autotrader",
-      "stargazerCount": 24,
+      "stargazerCount": 27,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/163757335?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-07T02:43:14Z",
-      "updatedAt": "2026-10-12T07:16:46Z",
+      "updatedAt": "2026-10-13T05:51:07Z",
       "licenseName": "MIT",
       "topics": [
         "ai-trading-system",
@@ -70,35 +70,6 @@
         "transformer"
       ],
       "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1407351933",
-      "name": "neurips-explorer",
-      "nameWithOwner": "flecomet/neurips-explorer",
-      "description": "Interactive semantic map of all 9,110 accepted NeurIPS 2026 papers using SPECTER2, UMAP and HDBSCAN.",
-      "url": "https://github.com/flecomet/neurips-explorer",
-      "stargazerCount": 8,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "flecomet",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/39215145?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-10-06T13:26:32Z",
-      "updatedAt": "2026-10-12T07:33:41Z",
-      "licenseName": "MIT",
-      "topics": [
-        "machine-learning",
-        "neurips",
-        "neurips2026",
-        "paper-explorer",
-        "research-tools",
-        "scientific-visualization",
-        "specter2",
-        "umap"
-      ],
-      "openIssuesCount": 6,
       "closedIssuesCount": 0
     },
     {
