@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-13T11:44:23Z",
+  "generatedAt": "2026-10-14T09:29:51Z",
   "topic": "flutter",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1410169535",
@@ -9,7 +9,7 @@
       "nameWithOwner": "BitYoungjae/i18n-inline.nvim",
       "description": "Neovim plugin that shows translation values next to i18n calls and flags where code defaults and translation files disagree",
       "url": "https://github.com/BitYoungjae/i18n-inline.nvim",
-      "stargazerCount": 9,
+      "stargazerCount": 10,
       "forkCount": 1,
       "languageName": "Lua",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/3115669?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-08T10:53:02Z",
-      "updatedAt": "2026-10-13T06:29:22Z",
+      "updatedAt": "2026-10-13T15:54:21Z",
       "licenseName": "MIT",
       "topics": [
         "flutter",
@@ -33,32 +33,6 @@
         "nvim",
         "translation",
         "vue-i18n"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1408521658",
-      "name": "Nikon-SnapLink",
-      "nameWithOwner": "lyb82ndkf-lab/Nikon-SnapLink",
-      "description": "SnapLink 是一款使用 Flutter 编写的开源摄影助手应用，解决：快速把片子相机传手机、手机监看取景遥控拍摄、快速加水印、添加滤镜预设等",
-      "url": "https://github.com/lyb82ndkf-lab/Nikon-SnapLink",
-      "stargazerCount": 6,
-      "forkCount": 1,
-      "languageName": "Dart",
-      "languageColor": null,
-      "ownerLogin": "lyb82ndkf-lab",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/247783139?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-10-07T09:01:09Z",
-      "updatedAt": "2026-10-13T02:58:21Z",
-      "licenseName": "MIT",
-      "topics": [
-        "colorgrading",
-        "flutter",
-        "flutter-app",
-        "nikon",
-        "watermark"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

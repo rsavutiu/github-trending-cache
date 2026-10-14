@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T11:44:23Z",
+  "generatedAt": "2026-10-14T09:29:51Z",
   "topic": "java",
   "totalCount": 2,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "Stonewuu/agenteam",
       "description": "【群策】 - 开源企业级云端多智能体协作 OPC 平台，组建你的专属 AI 团队 - Java & AgentScope 2.0 |  [AgenTeam] Open-source, enterprise-grade OPC (One Person Company) platform for building collaborative AI teams – built on Java & AgentScope 2.0.",
       "url": "https://github.com/Stonewuu/agenteam",
-      "stargazerCount": 26,
-      "forkCount": 7,
+      "stargazerCount": 27,
+      "forkCount": 8,
       "languageName": "Java",
       "languageColor": null,
       "ownerLogin": "Stonewuu",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/25025423?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-09T03:39:07Z",
-      "updatedAt": "2026-10-13T10:42:38Z",
+      "updatedAt": "2026-10-14T07:34:28Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "agent",
@@ -38,7 +38,7 @@
       "nameWithOwner": "ybak/agentscope-2.0-tutorial",
       "description": " 一本开源的 AgentScope Java 中文教程：7 篇 44 章、839 页成书体量的完整 Markdown 源稿，由浅入深覆盖从第一个 Agent 到生产级 Agent 平台的全部主题。",
       "url": "https://github.com/ybak/agentscope-2.0-tutorial",
-      "stargazerCount": 7,
+      "stargazerCount": 9,
       "forkCount": 0,
       "languageName": "JavaScript",
       "languageColor": null,
@@ -46,7 +46,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/487202?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-11T15:17:27Z",
-      "updatedAt": "2026-10-13T10:23:09Z",
+      "updatedAt": "2026-10-14T07:43:52Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "agent-framework",
