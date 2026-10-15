@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T09:29:51Z",
+  "generatedAt": "2026-10-15T09:08:01Z",
   "topic": "vue",
   "totalCount": 6,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "LovelyTeams/LovelyCarve",
       "description": "a forensic carver with a soft heart · 基于 Rust、Tauri 2 与 Vue 3 的桌面磁盘取证与数据恢复工具：只读解析镜像、文件系统与加密卷，提供原类型预览、全局搜索、时间线、文件雕刻与插件分析",
       "url": "https://github.com/LovelyTeams/LovelyCarve",
-      "stargazerCount": 30,
+      "stargazerCount": 40,
       "forkCount": 7,
       "languageName": "Rust",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/341289578?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-10-12T13:38:35Z",
-      "updatedAt": "2026-10-14T09:15:01Z",
+      "updatedAt": "2026-10-15T05:01:27Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "bitlocker",
@@ -33,7 +33,38 @@
         "tauri",
         "vue"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1417741278",
+      "name": "orchestra",
+      "nameWithOwner": "theorchestradev/orchestra",
+      "description": "A desktop app for running coding agents side by side in project-based terminal sessions.",
+      "url": "https://github.com/theorchestradev/orchestra",
+      "stargazerCount": 13,
+      "forkCount": 1,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "theorchestradev",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/342007606?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-10-13T18:41:11Z",
+      "updatedAt": "2026-10-15T02:02:56Z",
+      "licenseName": "MIT",
+      "topics": [
+        "agent-development-environment",
+        "agent-orchestration",
+        "agents",
+        "claude-code",
+        "codex",
+        "coding-agents",
+        "go",
+        "terminal",
+        "vue",
+        "wails"
+      ],
+      "openIssuesCount": 3,
       "closedIssuesCount": 0
     },
     {
@@ -42,7 +73,7 @@
       "nameWithOwner": "sellrika/sellrika",
       "description": "Point of sale and online store in one app, for shops, cafés and restaurants. Source-available, self-hostable.",
       "url": "https://github.com/sellrika/sellrika",
-      "stargazerCount": 11,
+      "stargazerCount": 12,
       "forkCount": 1,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -50,7 +81,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/340465811?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-10-10T06:34:24Z",
-      "updatedAt": "2026-10-14T04:11:36Z",
+      "updatedAt": "2026-10-15T06:45:57Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "bun",
@@ -66,7 +97,7 @@
         "typescript",
         "vue"
       ],
-      "openIssuesCount": 4,
+      "openIssuesCount": 5,
       "closedIssuesCount": 0
     },
     {
@@ -93,77 +124,7 @@
         "vue",
         "windows"
       ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1409989110",
-      "name": "tinkerbox",
-      "nameWithOwner": "theharisshah/tinkerbox",
-      "description": "Open-source desktop scratchpad for PHP & Laravel: run code in your project's context with magic comments, SQL inspection, rich dumps and Laravel-aware autocomplete. Electron + Vue + Monaco.",
-      "url": "https://github.com/theharisshah/tinkerbox",
-      "stargazerCount": 10,
-      "forkCount": 1,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "theharisshah",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/21083491?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-10-08T08:27:25Z",
-      "updatedAt": "2026-10-12T18:31:03Z",
-      "licenseName": "MIT",
-      "topics": [
-        "code-runner",
-        "desktop-app",
-        "developer-tools",
-        "electron",
-        "eloquent",
-        "laravel",
-        "macos",
-        "monaco-editor",
-        "php",
-        "php-repl",
-        "repl",
-        "scratchpad",
-        "symfony",
-        "tailwindcss",
-        "tinker",
-        "typescript",
-        "vue",
-        "wordpress"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1417741278",
-      "name": "orchestra",
-      "nameWithOwner": "theorchestradev/orchestra",
-      "description": "A desktop app for running coding agents side by side in project-based terminal sessions.",
-      "url": "https://github.com/theorchestradev/orchestra",
-      "stargazerCount": 10,
-      "forkCount": 1,
-      "languageName": "Go",
-      "languageColor": null,
-      "ownerLogin": "theorchestradev",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/342007606?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-10-13T18:41:11Z",
-      "updatedAt": "2026-10-14T09:08:57Z",
-      "licenseName": "MIT",
-      "topics": [
-        "agent-development-environment",
-        "agent-orchestration",
-        "agents",
-        "claude-code",
-        "codex",
-        "coding-agents",
-        "go",
-        "terminal",
-        "vue",
-        "wails"
-      ],
-      "openIssuesCount": 3,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -172,7 +133,7 @@
       "nameWithOwner": "YuxForge/hermes-prd-workbench",
       "description": "Self-hosted AI workbench that turns requirements into PRDs, technical specs, test cases, estimates, and interactive prototypes with Hermes Agent.",
       "url": "https://github.com/YuxForge/hermes-prd-workbench",
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "forkCount": 0,
       "languageName": "Java",
       "languageColor": null,
@@ -180,7 +141,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/32887220?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-13T03:00:37Z",
-      "updatedAt": "2026-10-14T03:23:09Z",
+      "updatedAt": "2026-10-14T12:15:15Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ai-agent",
@@ -203,6 +164,36 @@
         "vue3"
       ],
       "openIssuesCount": 5,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1411356942",
+      "name": "CmdPalm",
+      "nameWithOwner": "rahatsagor/CmdPalm",
+      "description": "Use your phone as a trackpad, keyboard and button deck for your Mac",
+      "url": "https://github.com/rahatsagor/CmdPalm",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Rust",
+      "languageColor": null,
+      "ownerLogin": "rahatsagor",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/78367084?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-09T05:51:01Z",
+      "updatedAt": "2026-10-14T21:28:01Z",
+      "licenseName": "AGPL-3.0",
+      "topics": [
+        "keyboard",
+        "macos",
+        "menu-bar-app",
+        "remote-control",
+        "rust",
+        "stream-deck",
+        "swift",
+        "trackpad",
+        "vue"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

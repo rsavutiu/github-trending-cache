@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-14T09:29:51Z",
+  "generatedAt": "2026-10-15T09:08:01Z",
   "topic": "kubernetes",
-  "totalCount": 1,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1415116034",
@@ -9,15 +9,15 @@
       "nameWithOwner": "ahmadjawad533/90-days-of-cloud-engineering",
       "description": "Free 90-day cloud engineering roadmap: Linux, Python, AWS, Docker, Kubernetes, Terraform, CI/CD and security, with hands-on labs and a capstone project. Go from zero to job-ready. AWS free-tier friendly.",
       "url": "https://github.com/ahmadjawad533/90-days-of-cloud-engineering",
-      "stargazerCount": 24,
-      "forkCount": 0,
+      "stargazerCount": 29,
+      "forkCount": 7,
       "languageName": "TypeScript",
       "languageColor": null,
       "ownerLogin": "ahmadjawad533",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/177847797?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-12T05:33:03Z",
-      "updatedAt": "2026-10-14T09:01:53Z",
+      "updatedAt": "2026-10-14T13:39:05Z",
       "licenseName": "MIT",
       "topics": [
         "aws",
@@ -42,6 +42,35 @@
         "terraform"
       ],
       "openIssuesCount": 13,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1415615010",
+      "name": "LogDeck",
+      "nameWithOwner": "wisecort/LogDeck",
+      "description": "Read-only Kubernetes log explorer for macOS, Linux and Windows: colored levels, grouped errors, previous-container view.",
+      "url": "https://github.com/wisecort/LogDeck",
+      "stargazerCount": 27,
+      "forkCount": 2,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "wisecort",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/61605704?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-12T13:05:32Z",
+      "updatedAt": "2026-10-15T08:51:17Z",
+      "licenseName": "MIT",
+      "topics": [
+        "desktop-app",
+        "devops",
+        "electron",
+        "kubectl",
+        "kubernetes",
+        "log-viewer",
+        "logs",
+        "sre"
+      ],
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]

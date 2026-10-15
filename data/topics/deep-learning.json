@@ -1,39 +1,6 @@
 {
-  "generatedAt": "2026-10-14T09:29:51Z",
+  "generatedAt": "2026-10-15T09:08:01Z",
   "topic": "deep-learning",
-  "totalCount": 1,
-  "repos": [
-    {
-      "id": "1410911488",
-      "name": "Adaptive-Learnable-Hierarchical-Routing-",
-      "nameWithOwner": "vdev-ctrl/Adaptive-Learnable-Hierarchical-Routing-",
-      "description": "This repo is a alternative solution for standard self-attention. It uses tree routing with learnable functions for cheaper self-attention while not compromising accuracy.",
-      "url": "https://github.com/vdev-ctrl/Adaptive-Learnable-Hierarchical-Routing-",
-      "stargazerCount": 37,
-      "forkCount": 4,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "vdev-ctrl",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/339790151?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-10-08T20:18:52Z",
-      "updatedAt": "2026-10-13T23:20:20Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "attention-mechanism",
-        "deep-learning",
-        "efficient-inference",
-        "efficient-transformers",
-        "llm",
-        "long-context",
-        "pytorch",
-        "sparse-attention",
-        "sub-quadratic-attention",
-        "transformer",
-        "tree-attention"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    }
-  ]
+  "totalCount": 0,
+  "repos": []
 }
