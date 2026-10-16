@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T09:08:01Z",
+  "generatedAt": "2026-10-16T09:00:27Z",
   "topic": "devops",
   "totalCount": 4,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "ahmadjawad533/90-days-of-cloud-engineering",
       "description": "Free 90-day cloud engineering roadmap: Linux, Python, AWS, Docker, Kubernetes, Terraform, CI/CD and security, with hands-on labs and a capstone project. Go from zero to job-ready. AWS free-tier friendly.",
       "url": "https://github.com/ahmadjawad533/90-days-of-cloud-engineering",
-      "stargazerCount": 29,
+      "stargazerCount": 30,
       "forkCount": 7,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/177847797?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-12T05:33:03Z",
-      "updatedAt": "2026-10-14T13:39:05Z",
+      "updatedAt": "2026-10-16T04:14:37Z",
       "licenseName": "MIT",
       "topics": [
         "aws",
@@ -74,46 +74,6 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1415812425",
-      "name": "Seo-Guard",
-      "nameWithOwner": "SerfDiscriminate/Seo-Guard",
-      "description": "Automated technical SEO auditing tool to detect website issues and prevent SEO regressions.",
-      "url": "https://github.com/SerfDiscriminate/Seo-Guard",
-      "stargazerCount": 12,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "SerfDiscriminate",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/334869599?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-10-12T15:50:15Z",
-      "updatedAt": "2026-10-14T11:51:44Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "automation",
-        "cli-tool",
-        "developer-tools",
-        "devops",
-        "open-source",
-        "python",
-        "python3",
-        "seo",
-        "seo-analyzer",
-        "seo-audit",
-        "seo-checker",
-        "seo-tools",
-        "site-audit",
-        "technical-seo",
-        "web-crawler",
-        "web-scraping",
-        "website-analyzer",
-        "website-audit",
-        "website-monitoring"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1417829540",
       "name": "ARGUS",
       "nameWithOwner": "Adilmunawar/ARGUS",
@@ -152,6 +112,38 @@
         "zero-trust"
       ],
       "openIssuesCount": 4,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1416013932",
+      "name": "gardenctl-tui",
+      "nameWithOwner": "jastBytes/gardenctl-tui",
+      "description": "gtui - a terminal UI for Gardener: browse gardens, projects, seeds and shoots and start a shell, k9s or kubectl targeted at the selected cluster via gardenctl",
+      "url": "https://github.com/jastBytes/gardenctl-tui",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "jastBytes",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/7187563?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-12T18:56:47Z",
+      "updatedAt": "2026-10-16T07:56:17Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "bubbletea",
+        "cli",
+        "devops",
+        "gardenctl",
+        "gardener",
+        "golang",
+        "k9s",
+        "kubectl",
+        "kubernetes",
+        "terminal-ui",
+        "tui"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]
