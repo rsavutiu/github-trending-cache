@@ -1,37 +1,6 @@
 {
-  "generatedAt": "2026-10-16T09:00:27Z",
+  "generatedAt": "2026-10-17T08:32:17Z",
   "topic": "web",
-  "totalCount": 1,
-  "repos": [
-    {
-      "id": "1413676047",
-      "name": "NOAPI",
-      "nameWithOwner": "cribest7890/NOAPI",
-      "description": "Use web ai models as your agent in opencode",
-      "url": "https://github.com/cribest7890/NOAPI",
-      "stargazerCount": 12,
-      "forkCount": 2,
-      "languageName": "JavaScript",
-      "languageColor": null,
-      "ownerLogin": "cribest7890",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/216222748?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-10-10T21:20:13Z",
-      "updatedAt": "2026-10-16T03:54:59Z",
-      "licenseName": "MIT",
-      "topics": [
-        "ai",
-        "ai-assisted-development",
-        "bridge",
-        "browser",
-        "extension",
-        "modelcontextprotocol",
-        "nodejs",
-        "opencode",
-        "web"
-      ],
-      "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    }
-  ]
+  "totalCount": 0,
+  "repos": []
 }

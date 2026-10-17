@@ -1,8 +1,34 @@
 {
-  "generatedAt": "2026-10-16T09:00:27Z",
+  "generatedAt": "2026-10-17T08:32:17Z",
   "topic": "devops",
-  "totalCount": 4,
+  "totalCount": 6,
   "repos": [
+    {
+      "id": "1414884982",
+      "name": "forkiq",
+      "nameWithOwner": "zzusec/forkiq",
+      "description": "GitHub fork 同步面板：自动发现、安全合并、版本对比与事件追踪",
+      "url": "https://github.com/zzusec/forkiq",
+      "stargazerCount": 85,
+      "forkCount": 31,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "zzusec",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/55314093?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-12T00:23:51Z",
+      "updatedAt": "2026-10-17T08:30:05Z",
+      "licenseName": "MIT",
+      "topics": [
+        "devops",
+        "fastapi",
+        "fork-sync",
+        "github",
+        "self-hosted"
+      ],
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1415116034",
       "name": "90-days-of-cloud-engineering",
@@ -58,7 +84,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/61605704?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-12T13:05:32Z",
-      "updatedAt": "2026-10-15T08:51:17Z",
+      "updatedAt": "2026-10-17T00:20:35Z",
       "licenseName": "MIT",
       "topics": [
         "desktop-app",
@@ -70,7 +96,7 @@
         "logs",
         "sre"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -128,7 +154,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/7187563?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-12T18:56:47Z",
-      "updatedAt": "2026-10-16T07:56:17Z",
+      "updatedAt": "2026-10-17T07:21:54Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "bubbletea",
@@ -144,6 +170,37 @@
         "tui"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1414332418",
+      "name": "cto-powersuit",
+      "nameWithOwner": "uncovertechtalent/cto-powersuit",
+      "description": "The CTO powersuit is a set of agent skills, one module per CTO function from the deploy gate to the hand-over, that one person uses to run a company's whole engineering platform.",
+      "url": "https://github.com/uncovertechtalent/cto-powersuit",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "uncovertechtalent",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/255549064?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-11T12:48:53Z",
+      "updatedAt": "2026-10-16T20:29:29Z",
+      "licenseName": "MIT",
+      "topics": [
+        "agent-skills",
+        "ai-ops",
+        "claude-code",
+        "compliance",
+        "cto",
+        "devops",
+        "finops",
+        "platform-engineering",
+        "sdlc",
+        "sre"
+      ],
+      "openIssuesCount": 2,
       "closedIssuesCount": 0
     }
   ]

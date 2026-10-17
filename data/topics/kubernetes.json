@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-16T09:00:27Z",
+  "generatedAt": "2026-10-17T08:32:17Z",
   "topic": "kubernetes",
-  "totalCount": 3,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1415116034",
@@ -58,7 +58,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/61605704?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-12T13:05:32Z",
-      "updatedAt": "2026-10-15T08:51:17Z",
+      "updatedAt": "2026-10-17T00:20:35Z",
       "licenseName": "MIT",
       "topics": [
         "desktop-app",
@@ -70,7 +70,35 @@
         "logs",
         "sre"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1419762072",
+      "name": "Pickle",
+      "nameWithOwner": "hatam-abolghasemi/Pickle",
+      "description": "Your cluster, preserved in a jar. Reverse GitOps: every Kubernetes object, kept in Git.",
+      "url": "https://github.com/hatam-abolghasemi/Pickle",
+      "stargazerCount": 12,
+      "forkCount": 0,
+      "languageName": "Go",
+      "languageColor": null,
+      "ownerLogin": "hatam-abolghasemi",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/112386512?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-14T19:46:44Z",
+      "updatedAt": "2026-10-17T04:48:29Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "audit",
+        "backup",
+        "disaster-recovery",
+        "gitops",
+        "golang",
+        "helm",
+        "kubernetes"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -87,7 +115,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/7187563?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-12T18:56:47Z",
-      "updatedAt": "2026-10-16T07:56:17Z",
+      "updatedAt": "2026-10-17T07:21:54Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "bubbletea",
