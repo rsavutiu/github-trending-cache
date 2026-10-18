@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T08:32:17Z",
+  "generatedAt": "2026-10-18T08:50:07Z",
   "topic": "deep-learning",
   "totalCount": 2,
   "repos": [
@@ -33,15 +33,15 @@
       "nameWithOwner": "aalbata/machine-learning-for-cybersecurity",
       "description": "A free course on machine learning for cybersecurity and the security of machine learning, with lessons, runnable labs, exercises and quizzes. By Dr. Ali Al Bataineh, Higher Colleges of Technology.",
       "url": "https://github.com/aalbata/machine-learning-for-cybersecurity",
-      "stargazerCount": 19,
-      "forkCount": 2,
+      "stargazerCount": 20,
+      "forkCount": 3,
       "languageName": "Jupyter Notebook",
       "languageColor": null,
       "ownerLogin": "aalbata",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/96637359?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-15T02:01:22Z",
-      "updatedAt": "2026-10-17T04:45:35Z",
+      "updatedAt": "2026-10-18T08:32:34Z",
       "licenseName": "MIT",
       "topics": [
         "adversarial-machine-learning",

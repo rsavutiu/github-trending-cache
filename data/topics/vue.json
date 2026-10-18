@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T08:32:17Z",
+  "generatedAt": "2026-10-18T08:50:07Z",
   "topic": "vue",
   "totalCount": 4,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "LovelyTeams/LovelyCarve",
       "description": "a forensic carver with a soft heart · 基于 Rust、Tauri 2 与 Vue 3 的桌面磁盘取证与数据恢复工具：只读解析镜像、文件系统与加密卷，提供原类型预览、全局搜索、时间线、文件雕刻与插件分析",
       "url": "https://github.com/LovelyTeams/LovelyCarve",
-      "stargazerCount": 43,
+      "stargazerCount": 45,
       "forkCount": 9,
       "languageName": "Rust",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/341289578?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-10-12T13:38:35Z",
-      "updatedAt": "2026-10-17T06:17:13Z",
+      "updatedAt": "2026-10-18T07:30:26Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "bitlocker",
@@ -42,7 +42,7 @@
       "nameWithOwner": "theorchestradev/orchestra",
       "description": "A desktop app for running coding agents side by side in project-based terminal sessions.",
       "url": "https://github.com/theorchestradev/orchestra",
-      "stargazerCount": 14,
+      "stargazerCount": 16,
       "forkCount": 2,
       "languageName": "Go",
       "languageColor": null,
@@ -50,7 +50,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/342007606?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-10-13T18:41:11Z",
-      "updatedAt": "2026-10-16T00:53:07Z",
+      "updatedAt": "2026-10-17T23:39:39Z",
       "licenseName": "MIT",
       "topics": [
         "agent-development-environment",
@@ -112,7 +112,7 @@
       "nameWithOwner": "leoaliperti/LocalLeaf",
       "description": "Local-first LaTeX editor with an Overleaf-style interface. Native Rust + Tauri, uses your installed TeX, built-in MCP server for AI agents.",
       "url": "https://github.com/leoaliperti/LocalLeaf",
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "forkCount": 1,
       "languageName": "Rust",
       "languageColor": null,
@@ -120,7 +120,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/170821476?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-13T19:26:45Z",
-      "updatedAt": "2026-10-16T15:54:21Z",
+      "updatedAt": "2026-10-17T20:54:34Z",
       "licenseName": "MIT",
       "topics": [
         "latex",
