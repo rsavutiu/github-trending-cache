@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T08:50:07Z",
+  "generatedAt": "2026-10-19T09:51:17Z",
   "topic": "flutter",
-  "totalCount": 3,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1420296553",
@@ -9,7 +9,7 @@
       "nameWithOwner": "AqibJavedZeepalm/stackyard",
       "description": "Free, open-source app for Windows and macOS that finds every SDK and toolchain on your machine (Flutter, Node.js, Android SDK, Xcode simulators, Java, Python, .NET, Gradle), shows which projects use each version, fixes broken setups in one click and frees disk space.",
       "url": "https://github.com/AqibJavedZeepalm/stackyard",
-      "stargazerCount": 26,
+      "stargazerCount": 39,
       "forkCount": 2,
       "languageName": "Dart",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/105939393?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-15T06:44:35Z",
-      "updatedAt": "2026-10-18T08:03:01Z",
+      "updatedAt": "2026-10-19T03:46:06Z",
       "licenseName": "MIT",
       "topics": [
         "android-emulator",
@@ -50,7 +50,7 @@
       "nameWithOwner": "lemonteaau/smartisan-ui-skill",
       "description": "用于构建Smartisan OS风格UI的Agent Skill",
       "url": "https://github.com/lemonteaau/smartisan-ui-skill",
-      "stargazerCount": 18,
+      "stargazerCount": 22,
       "forkCount": 1,
       "languageName": "Dart",
       "languageColor": null,
@@ -58,7 +58,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/104964583?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-15T10:30:57Z",
-      "updatedAt": "2026-10-18T05:43:13Z",
+      "updatedAt": "2026-10-19T06:44:43Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "agent-skill",
@@ -69,6 +69,34 @@
         "flutter",
         "smartisan",
         "ui-kit"
+      ],
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1418341501",
+      "name": "AstroSophy",
+      "nameWithOwner": "Eddie-Duan/AstroSophy",
+      "description": "Local-first astrophotography companion for Android",
+      "url": "https://github.com/Eddie-Duan/AstroSophy",
+      "stargazerCount": 12,
+      "forkCount": 1,
+      "languageName": "Dart",
+      "languageColor": null,
+      "ownerLogin": "Eddie-Duan",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/219374466?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-14T04:06:29Z",
+      "updatedAt": "2026-10-19T08:28:05Z",
+      "licenseName": "AGPL-3.0",
+      "topics": [
+        "android",
+        "android-app",
+        "astronomy",
+        "astrophotography",
+        "flutter",
+        "local-first",
+        "starter-project"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
