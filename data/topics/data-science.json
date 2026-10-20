@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-10-19T09:51:17Z",
+  "generatedAt": "2026-10-20T09:24:18Z",
   "topic": "data-science",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 1,
+  "repos": [
+    {
+      "id": "1425498245",
+      "name": "python-for-ml-researchers",
+      "nameWithOwner": "mahfuzswe/python-for-ml-researchers",
+      "description": "🐍 Learn every core Python concept for Machine Learning & Deep Learning in 2–3 hours. Hands-on Jupyter notebook with ML examples, practice tasks & solutions.",
+      "url": "https://github.com/mahfuzswe/python-for-ml-researchers",
+      "stargazerCount": 6,
+      "forkCount": 1,
+      "languageName": "Jupyter Notebook",
+      "languageColor": null,
+      "ownerLogin": "mahfuzswe",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/95442955?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-19T11:14:21Z",
+      "updatedAt": "2026-10-20T08:06:07Z",
+      "licenseName": "MIT",
+      "topics": [
+        "begineer-friendly",
+        "data-science",
+        "deep-learning",
+        "jupyter-notebook",
+        "machine-learning",
+        "ml-research",
+        "numpy",
+        "pandas",
+        "python",
+        "python-tutorial"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    }
+  ]
 }
