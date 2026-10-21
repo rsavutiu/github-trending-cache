@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-20T09:24:18Z",
+  "generatedAt": "2026-10-21T09:21:05Z",
   "topic": "flutter",
-  "totalCount": 5,
+  "totalCount": 6,
   "repos": [
     {
       "id": "1420296553",
@@ -9,7 +9,7 @@
       "nameWithOwner": "AqibJavedZeepalm/stackyard",
       "description": "Free, open-source app for Windows and macOS that finds every SDK and toolchain on your machine (Flutter, Node.js, Android SDK, Xcode simulators, Java, Python, .NET, Gradle), shows which projects use each version, fixes broken setups in one click and frees disk space.",
       "url": "https://github.com/AqibJavedZeepalm/stackyard",
-      "stargazerCount": 44,
+      "stargazerCount": 57,
       "forkCount": 3,
       "languageName": "Dart",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/105939393?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-15T06:44:35Z",
-      "updatedAt": "2026-10-20T01:23:25Z",
+      "updatedAt": "2026-10-21T08:59:52Z",
       "licenseName": "MIT",
       "topics": [
         "android-emulator",
@@ -50,7 +50,7 @@
       "nameWithOwner": "lemonteaau/smartisan-ui-skill",
       "description": "用于构建Smartisan OS风格UI的Agent Skill",
       "url": "https://github.com/lemonteaau/smartisan-ui-skill",
-      "stargazerCount": 24,
+      "stargazerCount": 25,
       "forkCount": 1,
       "languageName": "Dart",
       "languageColor": null,
@@ -58,7 +58,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/104964583?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-15T10:30:57Z",
-      "updatedAt": "2026-10-20T09:03:06Z",
+      "updatedAt": "2026-10-21T08:51:38Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "agent-skill",
@@ -74,48 +74,20 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1418341501",
-      "name": "AstroSophy",
-      "nameWithOwner": "Eddie-Duan/AstroSophy",
-      "description": "Local-first astrophotography companion for Android",
-      "url": "https://github.com/Eddie-Duan/AstroSophy",
-      "stargazerCount": 13,
-      "forkCount": 1,
-      "languageName": "Dart",
-      "languageColor": null,
-      "ownerLogin": "Eddie-Duan",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/219374466?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-10-14T04:06:29Z",
-      "updatedAt": "2026-10-20T07:53:46Z",
-      "licenseName": "AGPL-3.0",
-      "topics": [
-        "android",
-        "android-app",
-        "astronomy",
-        "astrophotography",
-        "flutter",
-        "local-first",
-        "starter-project"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1421508400",
       "name": "vibevalley",
       "nameWithOwner": "vibevalleyhq/vibevalley",
       "description": "码农场物语 · A team of coding agents you direct by voice or chat, drawn as a pixel farm. Runs on your own machine.",
       "url": "https://github.com/vibevalleyhq/vibevalley",
       "stargazerCount": 8,
-      "forkCount": 0,
-      "languageName": "Go",
+      "forkCount": 1,
+      "languageName": "TypeScript",
       "languageColor": null,
       "ownerLogin": "vibevalleyhq",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/342833653?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-10-16T01:33:19Z",
-      "updatedAt": "2026-10-19T23:24:44Z",
+      "updatedAt": "2026-10-21T04:20:15Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ai-agents",
@@ -146,7 +118,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/33636762?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-10-16T09:28:08Z",
-      "updatedAt": "2026-10-19T14:02:11Z",
+      "updatedAt": "2026-10-21T08:49:58Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ag-ui",
@@ -158,7 +130,57 @@
         "human-in-the-loop",
         "llm"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 2,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1426925311",
+      "name": "Todorbit",
+      "nameWithOwner": "2HIK4/Todorbit",
+      "description": "An open-source Windows productivity app for tasks, calendars, habits, goals, and focus sessions, built with Flutter.",
+      "url": "https://github.com/2HIK4/Todorbit",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Dart",
+      "languageColor": null,
+      "ownerLogin": "2HIK4",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/75182070?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-20T11:25:56Z",
+      "updatedAt": "2026-10-20T19:43:02Z",
+      "licenseName": "MIT",
+      "topics": [
+        "flutter",
+        "offline-first",
+        "productivity",
+        "sqlite",
+        "windows"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1424000697",
+      "name": "KazumiWeb",
+      "nameWithOwner": "0Chencc/KazumiWeb",
+      "description": "kazumi web",
+      "url": "https://github.com/0Chencc/KazumiWeb",
+      "stargazerCount": 6,
+      "forkCount": 1,
+      "languageName": "Dart",
+      "languageColor": null,
+      "ownerLogin": "0Chencc",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/19362246?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-18T04:51:26Z",
+      "updatedAt": "2026-10-20T20:09:06Z",
+      "licenseName": "GPL-3.0",
+      "topics": [
+        "dart",
+        "flutter",
+        "kazumi"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

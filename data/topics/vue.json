@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-20T09:24:18Z",
+  "generatedAt": "2026-10-21T09:21:05Z",
   "topic": "vue",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1423011533",
@@ -9,15 +9,15 @@
       "nameWithOwner": "Fomovet/clipkeep",
       "description": "Windows 剪贴板历史工具：单个 exe，不限条数，搜索、分组、编辑，局域网加密互传。Rust + Tauri 2 + Vue 3。",
       "url": "https://github.com/Fomovet/clipkeep",
-      "stargazerCount": 30,
-      "forkCount": 2,
+      "stargazerCount": 43,
+      "forkCount": 6,
       "languageName": "Rust",
       "languageColor": null,
       "ownerLogin": "Fomovet",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/16652067?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-17T06:10:08Z",
-      "updatedAt": "2026-10-20T08:46:11Z",
+      "updatedAt": "2026-10-21T09:06:13Z",
       "licenseName": "MIT",
       "topics": [
         "clipboard",
@@ -27,7 +27,7 @@
         "vue",
         "windows"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -36,7 +36,7 @@
       "nameWithOwner": "9und30/glassy-liquid",
       "description": "Apple-style Liquid Glass for the web: real refraction and iOS 26 controls as Web Components + React",
       "url": "https://github.com/9und30/glassy-liquid",
-      "stargazerCount": 13,
+      "stargazerCount": 16,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -44,7 +44,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/97327625?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-17T07:28:44Z",
-      "updatedAt": "2026-10-20T07:17:01Z",
+      "updatedAt": "2026-10-21T00:45:06Z",
       "licenseName": "MIT",
       "topics": [
         "custom-elements",
@@ -60,37 +60,6 @@
         "webgl"
       ],
       "openIssuesCount": 7,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1419924877",
-      "name": "nubicta",
-      "nameWithOwner": "bvr218/nubicta",
-      "description": "Nubicta: ERP contable libre para Colombia. Facturación electrónica DIAN como software propio, nómina electrónica, inventario y contabilidad. Licencia MIT.",
-      "url": "https://github.com/bvr218/nubicta",
-      "stargazerCount": 12,
-      "forkCount": 9,
-      "languageName": "PHP",
-      "languageColor": null,
-      "ownerLogin": "bvr218",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/106783311?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-10-14T22:45:22Z",
-      "updatedAt": "2026-10-20T06:45:17Z",
-      "licenseName": "MIT",
-      "topics": [
-        "colombia",
-        "contabilidad",
-        "dian",
-        "erp",
-        "facturacion-electronica",
-        "inertiajs",
-        "laravel",
-        "nomina-electronica",
-        "open-source",
-        "vue"
-      ],
-      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
