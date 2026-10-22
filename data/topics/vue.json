@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T09:21:05Z",
+  "generatedAt": "2026-10-22T09:23:37Z",
   "topic": "vue",
   "totalCount": 3,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "Fomovet/clipkeep",
       "description": "Windows 剪贴板历史工具：单个 exe，不限条数，搜索、分组、编辑，局域网加密互传。Rust + Tauri 2 + Vue 3。",
       "url": "https://github.com/Fomovet/clipkeep",
-      "stargazerCount": 43,
+      "stargazerCount": 51,
       "forkCount": 6,
       "languageName": "Rust",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/16652067?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-17T06:10:08Z",
-      "updatedAt": "2026-10-21T09:06:13Z",
+      "updatedAt": "2026-10-22T08:20:16Z",
       "licenseName": "MIT",
       "topics": [
         "clipboard",
@@ -27,7 +27,7 @@
         "vue",
         "windows"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
