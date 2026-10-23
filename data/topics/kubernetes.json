@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T09:23:37Z",
+  "generatedAt": "2026-10-23T09:19:45Z",
   "topic": "kubernetes",
   "totalCount": 4,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "Rocky-true/vmware-to-kubernetes",
       "description": "Kubernetes 自动化运维与迁移工具：阿里云 3 主 HA、Compose→K8s、Terraform、Kubekey、部署验证与故障排查。Kubernetes automation, migration and ops toolkit.",
       "url": "https://github.com/Rocky-true/vmware-to-kubernetes",
-      "stargazerCount": 32,
-      "forkCount": 3,
+      "stargazerCount": 48,
+      "forkCount": 5,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "Rocky-true",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/182965362?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-18T13:24:31Z",
-      "updatedAt": "2026-10-22T07:58:18Z",
+      "updatedAt": "2026-10-23T08:02:23Z",
       "licenseName": null,
       "topics": [
         "aliyun",

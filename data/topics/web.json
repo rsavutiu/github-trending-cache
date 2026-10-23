@@ -1,35 +1,6 @@
 {
-  "generatedAt": "2026-10-22T09:23:37Z",
+  "generatedAt": "2026-10-23T09:19:45Z",
   "topic": "web",
-  "totalCount": 1,
-  "repos": [
-    {
-      "id": "1422325831",
-      "name": "xwright",
-      "nameWithOwner": "siketyan/xwright",
-      "description": "Xwright is an E2E testing framework that drives the web, mobile and other devices from a single test.",
-      "url": "https://github.com/siketyan/xwright",
-      "stargazerCount": 22,
-      "forkCount": 0,
-      "languageName": "TypeScript",
-      "languageColor": null,
-      "ownerLogin": "siketyan",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/12772118?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-10-16T15:17:55Z",
-      "updatedAt": "2026-10-20T08:13:27Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "e2e-testing",
-        "mobile",
-        "mobilewright",
-        "playwright",
-        "test-automation",
-        "testing",
-        "web"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    }
-  ]
+  "totalCount": 0,
+  "repos": []
 }

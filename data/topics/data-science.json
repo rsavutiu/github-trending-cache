@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T09:23:37Z",
+  "generatedAt": "2026-10-23T09:19:45Z",
   "topic": "data-science",
   "totalCount": 2,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "talharaziq/Advanced-Bioinformatics",
       "description": "A free, hands-on bioinformatics roadmap from Linux, Python & R to RNA-seq, genomics, Bioconductor, and advanced transcriptomics. Curated English tutorials, YouTube playlists, practical exercises, and research tools.",
       "url": "https://github.com/talharaziq/Advanced-Bioinformatics",
-      "stargazerCount": 15,
-      "forkCount": 2,
+      "stargazerCount": 66,
+      "forkCount": 16,
       "languageName": null,
       "languageColor": null,
       "ownerLogin": "talharaziq",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/317331910?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-21T20:10:17Z",
-      "updatedAt": "2026-10-22T09:17:20Z",
+      "updatedAt": "2026-10-23T08:16:27Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "bioconductor",
