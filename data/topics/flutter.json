@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-23T09:19:45Z",
+  "generatedAt": "2026-10-24T08:51:45Z",
   "topic": "flutter",
-  "totalCount": 5,
+  "totalCount": 7,
   "repos": [
     {
       "id": "1427550791",
@@ -9,7 +9,7 @@
       "nameWithOwner": "mornyeapp/Mornye-Desktop",
       "description": "Desktop music player for your personal library on macOS, Windows and Linux. Built with Flutter and Rust. Open source, no ads, no subscription.",
       "url": "https://github.com/mornyeapp/Mornye-Desktop",
-      "stargazerCount": 113,
+      "stargazerCount": 141,
       "forkCount": 2,
       "languageName": null,
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/275997661?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-10-20T20:50:25Z",
-      "updatedAt": "2026-10-23T09:12:31Z",
+      "updatedAt": "2026-10-24T08:07:45Z",
       "licenseName": null,
       "topics": [
         "desktop",
@@ -37,7 +37,7 @@
         "rust-lang",
         "windows"
       ],
-      "openIssuesCount": 4,
+      "openIssuesCount": 6,
       "closedIssuesCount": 0
     },
     {
@@ -46,15 +46,15 @@
       "nameWithOwner": "MultiX0/ip-nas",
       "description": "Raspberry Pi 5 home NAS: CasaOS apps, Nur Hub and the Nur app (local AI, Fish Audio voice), a 3D-printed case and an ESP32-S3 touch screen",
       "url": "https://github.com/MultiX0/ip-nas",
-      "stargazerCount": 16,
-      "forkCount": 2,
+      "stargazerCount": 26,
+      "forkCount": 3,
       "languageName": "Dart",
       "languageColor": null,
       "ownerLogin": "MultiX0",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/103523240?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-22T14:29:54Z",
-      "updatedAt": "2026-10-23T09:18:03Z",
+      "updatedAt": "2026-10-24T07:52:38Z",
       "licenseName": "MIT",
       "topics": [
         "3d-printing",
@@ -87,7 +87,7 @@
       "nameWithOwner": "IILLUMINATION/meander-public",
       "description": "Meander — открытый кроссплатформенный движок и редактор текстовых квестов",
       "url": "https://github.com/IILLUMINATION/meander-public",
-      "stargazerCount": 11,
+      "stargazerCount": 12,
       "forkCount": 1,
       "languageName": "Dart",
       "languageColor": null,
@@ -95,7 +95,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/197430084?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-22T21:24:10Z",
-      "updatedAt": "2026-10-23T08:32:44Z",
+      "updatedAt": "2026-10-23T17:04:01Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "dart",
@@ -111,7 +111,7 @@
       "nameWithOwner": "0Chencc/KazumiWeb",
       "description": "kazumi web",
       "url": "https://github.com/0Chencc/KazumiWeb",
-      "stargazerCount": 9,
+      "stargazerCount": 11,
       "forkCount": 1,
       "languageName": "Dart",
       "languageColor": null,
@@ -119,7 +119,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/19362246?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-18T04:51:26Z",
-      "updatedAt": "2026-10-22T18:37:27Z",
+      "updatedAt": "2026-10-23T14:30:26Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "dart",
@@ -127,6 +127,32 @@
         "kazumi"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1431329072",
+      "name": "YetEaseMusic",
+      "nameWithOwner": "Gloridust/YetEaseMusic",
+      "description": "快速、干净、好看的网易云音乐第三方客户端：Rust 原生内核 × Flutter 界面，Linux 优先 / A fast, clean NetEase Cloud Music client — Rust core × Flutter UI",
+      "url": "https://github.com/Gloridust/YetEaseMusic",
+      "stargazerCount": 7,
+      "forkCount": 1,
+      "languageName": "Dart",
+      "languageColor": null,
+      "ownerLogin": "Gloridust",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/88082356?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-23T17:07:31Z",
+      "updatedAt": "2026-10-24T07:41:02Z",
+      "licenseName": "MIT",
+      "topics": [
+        "flutter",
+        "linux",
+        "music-player",
+        "netease-cloud-music",
+        "rust"
+      ],
+      "openIssuesCount": 2,
       "closedIssuesCount": 0
     },
     {
@@ -143,7 +169,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/75182070?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-20T11:25:56Z",
-      "updatedAt": "2026-10-21T19:13:35Z",
+      "updatedAt": "2026-10-23T22:28:38Z",
       "licenseName": "MIT",
       "topics": [
         "flutter",
@@ -151,6 +177,30 @@
         "productivity",
         "sqlite",
         "windows"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1427681391",
+      "name": "Zic",
+      "nameWithOwner": "VickyTaiziyi/Zic",
+      "description": "非官方的 ZCode 安卓远程客户端。",
+      "url": "https://github.com/VickyTaiziyi/Zic",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Dart",
+      "languageColor": null,
+      "ownerLogin": "VickyTaiziyi",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/114289378?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-20T23:51:58Z",
+      "updatedAt": "2026-10-23T15:30:02Z",
+      "licenseName": "MIT",
+      "topics": [
+        "android",
+        "dart",
+        "flutter"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
