@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T08:51:45Z",
+  "generatedAt": "2026-10-25T09:08:04Z",
   "topic": "data-science",
   "totalCount": 2,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "talharaziq/Advanced-Bioinformatics",
       "description": "A free, hands-on bioinformatics roadmap from Linux, Python & R to RNA-seq, genomics, Bioconductor, and advanced transcriptomics. Curated English tutorials, YouTube playlists, practical exercises, and research tools.",
       "url": "https://github.com/talharaziq/Advanced-Bioinformatics",
-      "stargazerCount": 76,
-      "forkCount": 18,
+      "stargazerCount": 80,
+      "forkCount": 19,
       "languageName": null,
       "languageColor": null,
       "ownerLogin": "talharaziq",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/317331910?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-21T20:10:17Z",
-      "updatedAt": "2026-10-24T04:10:01Z",
+      "updatedAt": "2026-10-24T20:55:16Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "bioconductor",
@@ -44,7 +44,7 @@
       "nameWithOwner": "mahfuzswe/python-for-ml-researchers",
       "description": "🐍 Learn every core Python concept for Machine Learning & Deep Learning in 2–3 hours. Hands-on Jupyter notebook with ML examples, practice tasks & solutions.",
       "url": "https://github.com/mahfuzswe/python-for-ml-researchers",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 1,
       "languageName": "Jupyter Notebook",
       "languageColor": null,
@@ -52,7 +52,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/95442955?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-19T11:14:21Z",
-      "updatedAt": "2026-10-20T08:06:07Z",
+      "updatedAt": "2026-10-24T10:00:35Z",
       "licenseName": "MIT",
       "topics": [
         "begineer-friendly",
