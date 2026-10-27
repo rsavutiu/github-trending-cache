@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T10:04:21Z",
+  "generatedAt": "2026-10-27T09:47:41Z",
   "topic": "vue",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "ariedotme/vasta",
       "description": "Open-source, self-hosted alternative to Capacities and Notion: notes, tasks and daily notes as typed objects. Local-first, works offline, MCP for your agents.",
       "url": "https://github.com/ariedotme/vasta",
-      "stargazerCount": 28,
+      "stargazerCount": 32,
       "forkCount": 3,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/105331534?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-22T18:44:07Z",
-      "updatedAt": "2026-10-26T08:14:15Z",
+      "updatedAt": "2026-10-27T06:45:11Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "capacities",
@@ -41,7 +41,7 @@
         "vue",
         "yjs"
       ],
-      "openIssuesCount": 32,
+      "openIssuesCount": 34,
       "closedIssuesCount": 0
     },
     {
