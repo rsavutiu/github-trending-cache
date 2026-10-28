@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-27T09:47:41Z",
+  "generatedAt": "2026-10-28T10:32:36Z",
   "topic": "vue",
-  "totalCount": 2,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1430142712",
@@ -9,7 +9,7 @@
       "nameWithOwner": "ariedotme/vasta",
       "description": "Open-source, self-hosted alternative to Capacities and Notion: notes, tasks and daily notes as typed objects. Local-first, works offline, MCP for your agents.",
       "url": "https://github.com/ariedotme/vasta",
-      "stargazerCount": 32,
+      "stargazerCount": 38,
       "forkCount": 3,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/105331534?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-22T18:44:07Z",
-      "updatedAt": "2026-10-27T06:45:11Z",
+      "updatedAt": "2026-10-28T08:56:31Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "capacities",
@@ -41,7 +41,7 @@
         "vue",
         "yjs"
       ],
-      "openIssuesCount": 34,
+      "openIssuesCount": 38,
       "closedIssuesCount": 0
     },
     {
@@ -74,6 +74,47 @@
         "tauri2",
         "vector-database",
         "vue"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1430214685",
+      "name": "fonts.mv",
+      "nameWithOwner": "yashau/fonts.mv",
+      "description": "Open Dhivehi (Thaana) fonts for the web: a Google-Fonts-style CSS API and downloads, plus agent-ready @yashau/thaana packages for React, Svelte, Vue and plain JS (phonetic keyboard, bidi toolkit, llms.txt).",
+      "url": "https://github.com/yashau/fonts.mv",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Svelte",
+      "languageColor": null,
+      "ownerLogin": "yashau",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/2152657?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-22T19:58:03Z",
+      "updatedAt": "2026-10-27T17:19:33Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "bidi",
+        "cloudflare-workers",
+        "dhivehi",
+        "font-library",
+        "fonts",
+        "fonttools",
+        "keyboard",
+        "llms-txt",
+        "maldives",
+        "npm-package",
+        "react",
+        "rtl",
+        "svelte",
+        "sveltekit",
+        "thaana",
+        "typography",
+        "unicode",
+        "vue",
+        "webfonts",
+        "woff2"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
