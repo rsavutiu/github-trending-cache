@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2026-10-28T10:32:36Z",
+  "generatedAt": "2026-10-29T10:52:55Z",
   "topic": "web",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 1,
+  "repos": [
+    {
+      "id": "1434039104",
+      "name": "isadev.in",
+      "nameWithOwner": "intentfreedomain/isadev.in",
+      "description": "Free yourname.isadev.in Domain For Everyone.",
+      "url": "https://github.com/intentfreedomain/isadev.in",
+      "stargazerCount": 6,
+      "forkCount": 2,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "intentfreedomain",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/237416964?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-10-26T07:22:30Z",
+      "updatedAt": "2026-10-29T09:24:43Z",
+      "licenseName": null,
+      "topics": [
+        "dns",
+        "dns-server",
+        "domain",
+        "domains",
+        "free",
+        "free-domain",
+        "free-domains",
+        "free-for-dev",
+        "free-for-developers",
+        "free-for-everyone",
+        "free-for-u",
+        "free-forever",
+        "freedomain",
+        "freedomains",
+        "freesubdomain",
+        "web",
+        "website"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    }
+  ]
 }
