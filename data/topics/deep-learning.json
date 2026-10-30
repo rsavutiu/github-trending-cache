@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T10:52:55Z",
+  "generatedAt": "2026-10-30T10:51:18Z",
   "topic": "deep-learning",
   "totalCount": 4,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "aa1143/NamiGPT",
       "description": "零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step",
       "url": "https://github.com/aa1143/NamiGPT",
-      "stargazerCount": 123,
-      "forkCount": 9,
+      "stargazerCount": 135,
+      "forkCount": 12,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "aa1143",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5190483?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-28T00:57:01Z",
-      "updatedAt": "2026-10-29T09:01:53Z",
+      "updatedAt": "2026-10-30T04:08:12Z",
       "licenseName": "MIT",
       "topics": [
         "attention",
@@ -93,7 +93,7 @@
       "id": "1435865431",
       "name": "diff-soup",
       "nameWithOwner": "stmorgenstern/diff-soup",
-      "description": "a general-purpose, differentiable scientific software for simulating IBVP and BVP PD(A)Es + ODEs + DAEs",
+      "description": "Multiphysics modeling, differentiable simulation, and physically-constrained machine learning in JAX using GPU-accelerated stiff solvers with sparse numerical methods ",
       "url": "https://github.com/stmorgenstern/diff-soup",
       "stargazerCount": 6,
       "forkCount": 0,
@@ -103,7 +103,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/63276909?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-27T14:46:18Z",
-      "updatedAt": "2026-10-29T05:03:17Z",
+      "updatedAt": "2026-10-29T18:12:47Z",
       "licenseName": "BSD-3-Clause",
       "topics": [
         "deep-learning",

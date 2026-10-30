@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-29T10:52:55Z",
+  "generatedAt": "2026-10-30T10:51:18Z",
   "topic": "machine-learning",
-  "totalCount": 2,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1431903389",
@@ -34,12 +34,45 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1435528433",
+      "name": "mls-network-plugin-rpocket-team",
+      "nameWithOwner": "VikingAtKhan/mls-network-plugin-rpocket-team",
+      "description": "AI anticheat for Minecraft servers: neural networks catch KillAura, aim assist, triggerbot and reach. Paper, Spigot, Folia 1.16.5–1.21.",
+      "url": "https://github.com/VikingAtKhan/mls-network-plugin-rpocket-team",
+      "stargazerCount": 32,
+      "forkCount": 0,
+      "languageName": "HTML",
+      "languageColor": null,
+      "ownerLogin": "VikingAtKhan",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/341272475?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-27T09:41:55Z",
+      "updatedAt": "2026-10-29T15:49:14Z",
+      "licenseName": null,
+      "topics": [
+        "amongus",
+        "anti-exploit",
+        "bepinex",
+        "il2cpp",
+        "killaura-detection",
+        "lobby-moderation",
+        "machine-learning",
+        "minecraft-plugin-kotlin",
+        "ml",
+        "mlsac",
+        "neural-network",
+        "purpur"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1437404645",
       "name": "Selenequant",
       "nameWithOwner": "papisoV/Selenequant",
       "description": "A local-first AI quant research platform: questions are persistent, conclusions are versioned, and prior findings are recalled into the next call. Python + Next.js, AGPL-3.0-only.",
       "url": "https://github.com/papisoV/Selenequant",
-      "stargazerCount": 9,
+      "stargazerCount": 27,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -47,7 +80,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/159538286?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-28T17:20:43Z",
-      "updatedAt": "2026-10-29T10:36:56Z",
+      "updatedAt": "2026-10-30T10:10:41Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "ai-agents",
@@ -65,6 +98,36 @@
         "quantitative-trading",
         "trading-platform",
         "typescript"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1435623213",
+      "name": "AModel",
+      "nameWithOwner": "st1vms/AModel",
+      "description": "Advanced machine learning and data-driven football (soccer) prediction engine designed to forecast match outcomes, analyze team performance, and process sports data seamlessly through automated setup and execution pipelines.",
+      "url": "https://github.com/st1vms/AModel",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "st1vms",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/96783398?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-27T11:15:19Z",
+      "updatedAt": "2026-10-30T09:23:47Z",
+      "licenseName": null,
+      "topics": [
+        "ai-model",
+        "data-pipeline",
+        "machine-learning",
+        "prediction-model",
+        "python",
+        "soccer",
+        "soccer-analytics",
+        "soccer-data",
+        "soccer-prediction"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
