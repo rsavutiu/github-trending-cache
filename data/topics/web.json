@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-30T10:51:18Z",
+  "generatedAt": "2026-10-31T10:21:53Z",
   "topic": "web",
-  "totalCount": 2,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1437332619",
@@ -50,15 +50,15 @@
       "nameWithOwner": "intentfreedomain/isadev.in",
       "description": "Free yourname.isadev.in Domain For Everyone.",
       "url": "https://github.com/intentfreedomain/isadev.in",
-      "stargazerCount": 12,
-      "forkCount": 2,
+      "stargazerCount": 16,
+      "forkCount": 3,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "intentfreedomain",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/237416964?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-10-26T07:22:30Z",
-      "updatedAt": "2026-10-29T21:51:29Z",
+      "updatedAt": "2026-10-31T09:39:13Z",
       "licenseName": null,
       "topics": [
         "dns",
@@ -78,6 +78,33 @@
         "freesubdomain",
         "web",
         "website"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1437744512",
+      "name": "Aether-Browser-Win",
+      "nameWithOwner": "for-tristan/Aether-Browser-Win",
+      "description": "Aether is a Lightweight browser that feels alive. small in size, quick and low in ram usage.",
+      "url": "https://github.com/for-tristan/Aether-Browser-Win",
+      "stargazerCount": 16,
+      "forkCount": 0,
+      "languageName": "HTML",
+      "languageColor": null,
+      "ownerLogin": "for-tristan",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/231790139?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-10-28T23:39:19Z",
+      "updatedAt": "2026-10-31T03:07:34Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "browser",
+        "chromium",
+        "electron",
+        "lightweight",
+        "web",
+        "web-development"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
