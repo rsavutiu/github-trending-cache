@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T10:21:53Z",
+  "generatedAt": "2026-11-01T11:15:00Z",
   "topic": "web",
   "totalCount": 3,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "Vandal238angel/oh-i-see-resocket",
       "description": "Evidence-backed visual regression audits for web apps with Playwright: responsive UI checks, accessibility signals, screenshots, measurements, and reproducible findings.",
       "url": "https://github.com/Vandal238angel/oh-i-see-resocket",
-      "stargazerCount": 32,
+      "stargazerCount": 64,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/345280473?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-28T16:18:12Z",
-      "updatedAt": "2026-10-29T15:36:39Z",
+      "updatedAt": "2026-11-01T10:19:06Z",
       "licenseName": null,
       "topics": [
         "ai-computer-control",
@@ -50,7 +50,7 @@
       "nameWithOwner": "intentfreedomain/isadev.in",
       "description": "Free yourname.isadev.in Domain For Everyone.",
       "url": "https://github.com/intentfreedomain/isadev.in",
-      "stargazerCount": 16,
+      "stargazerCount": 23,
       "forkCount": 3,
       "languageName": "Python",
       "languageColor": null,
@@ -58,7 +58,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/237416964?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-10-26T07:22:30Z",
-      "updatedAt": "2026-10-31T09:39:13Z",
+      "updatedAt": "2026-11-01T06:12:38Z",
       "licenseName": null,
       "topics": [
         "dns",
@@ -88,7 +88,7 @@
       "nameWithOwner": "for-tristan/Aether-Browser-Win",
       "description": "Aether is a Lightweight browser that feels alive. small in size, quick and low in ram usage.",
       "url": "https://github.com/for-tristan/Aether-Browser-Win",
-      "stargazerCount": 16,
+      "stargazerCount": 18,
       "forkCount": 0,
       "languageName": "HTML",
       "languageColor": null,
@@ -96,7 +96,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/231790139?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-28T23:39:19Z",
-      "updatedAt": "2026-10-31T03:07:34Z",
+      "updatedAt": "2026-10-31T21:11:09Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "browser",
