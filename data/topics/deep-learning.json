@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-01T11:15:00Z",
+  "generatedAt": "2026-11-02T12:19:46Z",
   "topic": "deep-learning",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1436445831",
@@ -9,15 +9,15 @@
       "nameWithOwner": "aa1143/NamiGPT",
       "description": "零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step",
       "url": "https://github.com/aa1143/NamiGPT",
-      "stargazerCount": 157,
-      "forkCount": 14,
+      "stargazerCount": 165,
+      "forkCount": 15,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "aa1143",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5190483?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-28T00:57:01Z",
-      "updatedAt": "2026-11-01T09:31:38Z",
+      "updatedAt": "2026-11-02T12:13:41Z",
       "licenseName": "MIT",
       "topics": [
         "attention",
@@ -40,15 +40,15 @@
       "nameWithOwner": "Interactive-Active-AI/NextTransformer",
       "description": ":sunrise: A comprehensive, cutting-edge open-source framework for next-generation Transformers, with compute-matched benchmarking and a platform for autonomous architecture research.",
       "url": "https://github.com/Interactive-Active-AI/NextTransformer",
-      "stargazerCount": 47,
-      "forkCount": 5,
+      "stargazerCount": 154,
+      "forkCount": 8,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "Interactive-Active-AI",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/312139052?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-10-31T07:46:13Z",
-      "updatedAt": "2026-11-01T11:08:36Z",
+      "updatedAt": "2026-11-02T10:40:27Z",
       "licenseName": "MIT",
       "topics": [
         "auto-research",
@@ -93,39 +93,7 @@
         "simulation",
         "stiff-ode"
       ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1434829926",
-      "name": "tt-rl",
-      "nameWithOwner": "scaleresearch/tt-rl",
-      "description": "Reinforcement learning on Tenstorrent hardware: DQN, PPO and SAC trained natively on TT-NN",
-      "url": "https://github.com/scaleresearch/tt-rl",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "scaleresearch",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/304091625?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-10-26T19:18:24Z",
-      "updatedAt": "2026-10-30T22:41:15Z",
-      "licenseName": "MIT",
-      "topics": [
-        "atari",
-        "deep-learning",
-        "dqn",
-        "mujoco",
-        "onnx",
-        "ppo",
-        "python",
-        "reinforcement-learning",
-        "sac",
-        "tenstorrent",
-        "ttnn"
-      ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     }
   ]
