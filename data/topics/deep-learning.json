@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-04T12:04:30Z",
+  "generatedAt": "2026-11-05T12:16:13Z",
   "topic": "deep-learning",
-  "totalCount": 4,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1440630308",
       "name": "NextTransformer",
       "nameWithOwner": "Interactive-Active-AI/NextTransformer",
-      "description": ":sunrise: A comprehensive, cutting-edge open-source framework for next-generation Transformers, with compute-matched benchmarking and a platform for autonomous architecture research.",
+      "description": ":sunrise: A comprehensive, cutting-edge open-source framework for next-generation Transformers/LLM, with compute-matched benchmarking and a platform for autonomous architecture research.",
       "url": "https://github.com/Interactive-Active-AI/NextTransformer",
-      "stargazerCount": 254,
-      "forkCount": 16,
+      "stargazerCount": 306,
+      "forkCount": 24,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "Interactive-Active-AI",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/312139052?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-10-31T07:46:13Z",
-      "updatedAt": "2026-11-04T11:02:25Z",
+      "updatedAt": "2026-11-05T11:38:45Z",
       "licenseName": "MIT",
       "topics": [
         "auto-research",
@@ -32,7 +32,7 @@
         "sparse-attention",
         "transformer"
       ],
-      "openIssuesCount": 4,
+      "openIssuesCount": 6,
       "closedIssuesCount": 0
     },
     {
@@ -41,7 +41,7 @@
       "nameWithOwner": "Zguoxu/tiny-transformer-from-scratch",
       "description": "A tiny Transformer built from scratch in PyTorch, with an English-to-Chinese translation demo | 用 PyTorch 从零实现的小型 Transformer，附英译中演示，帮助理解模型原理",
       "url": "https://github.com/Zguoxu/tiny-transformer-from-scratch",
-      "stargazerCount": 53,
+      "stargazerCount": 95,
       "forkCount": 3,
       "languageName": "Jupyter Notebook",
       "languageColor": null,
@@ -49,7 +49,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/232210633?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-02T03:08:59Z",
-      "updatedAt": "2026-11-04T11:37:05Z",
+      "updatedAt": "2026-11-05T08:27:32Z",
       "licenseName": "MIT",
       "topics": [
         "attention-mechanism",
@@ -96,12 +96,39 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1445228828",
+      "name": "FirstLight-Zero",
+      "nameWithOwner": "Jaasssoooonnnnn/FirstLight-Zero",
+      "description": "AlphaZero-style self-play Clash Royale. It beats a human-data imitation model",
+      "url": "https://github.com/Jaasssoooonnnnn/FirstLight-Zero",
+      "stargazerCount": 7,
+      "forkCount": 1,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "Jaasssoooonnnnn",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/176039635?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-11-04T06:03:46Z",
+      "updatedAt": "2026-11-05T08:44:10Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "alphazero",
+        "clash-royale",
+        "deep-learning",
+        "game-ai",
+        "reinforcement-learning",
+        "self-play"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1439393442",
       "name": "SmartPlant-AI",
       "nameWithOwner": "KarthikJ-2008/SmartPlant-AI",
       "description": "End-to-end deep learning web application for real-time agricultural crop disease classification deployed on Render.",
       "url": "https://github.com/KarthikJ-2008/SmartPlant-AI",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 0,
       "languageName": "Jupyter Notebook",
       "languageColor": null,
@@ -109,7 +136,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/251614660?v=4",
       "ownerType": "User",
       "createdAt": "2026-10-30T07:06:35Z",
-      "updatedAt": "2026-11-04T05:06:42Z",
+      "updatedAt": "2026-11-05T03:34:39Z",
       "licenseName": null,
       "topics": [
         "agricultural-ai",

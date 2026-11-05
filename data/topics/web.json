@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-04T12:04:30Z",
+  "generatedAt": "2026-11-05T12:16:13Z",
   "topic": "web",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 1,
+  "repos": [
+    {
+      "id": "1445538679",
+      "name": "Calendar-CE",
+      "nameWithOwner": "sysoppl/Calendar-CE",
+      "description": "Calendar CE: Private calendar and task manager for the web and Android. Your events stay on your device or your own CalDAV server. Self-host with Docker or use end-to-end encrypted hosted version.",
+      "url": "https://github.com/sysoppl/Calendar-CE",
+      "stargazerCount": 12,
+      "forkCount": 0,
+      "languageName": "TypeScript",
+      "languageColor": null,
+      "ownerLogin": "sysoppl",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/30871217?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-11-04T11:04:01Z",
+      "updatedAt": "2026-11-05T11:19:14Z",
+      "licenseName": "AGPL-3.0",
+      "topics": [
+        "agpl",
+        "android",
+        "caldav",
+        "calendar",
+        "calendar-app",
+        "calendars",
+        "docker",
+        "e2ee",
+        "end-to-end-encryption",
+        "react",
+        "self-hosted",
+        "selfhosted",
+        "tasks",
+        "web"
+      ],
+      "openIssuesCount": 1,
+      "closedIssuesCount": 0
+    }
+  ]
 }
