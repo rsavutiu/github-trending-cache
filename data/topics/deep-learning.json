@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-07T11:01:36Z",
+  "generatedAt": "2026-11-08T11:15:41Z",
   "topic": "deep-learning",
-  "totalCount": 7,
+  "totalCount": 6,
   "repos": [
     {
       "id": "1442451472",
@@ -117,44 +117,12 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1441971743",
-      "name": "cs2-resp-wallhack-2026",
-      "nameWithOwner": "RainariesFire54079/cs2-resp-wallhack-2026",
-      "description": "Reveal every enemy position in CS2 with real-time ESP wallhack and 2D radar, showing health, armor, C4, and dropped weapons.",
-      "url": "https://github.com/RainariesFire54079/cs2-resp-wallhack-2026",
-      "stargazerCount": 33,
-      "forkCount": 0,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "RainariesFire54079",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/351092204?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-11-01T15:44:20Z",
-      "updatedAt": "2026-11-05T14:37:17Z",
-      "licenseName": null,
-      "topics": [
-        "cs2-aim-v2",
-        "cs2-aimbot-v2-2026",
-        "cs2-silent-aimbot",
-        "cs2-skin-changer-2026",
-        "cs2-skins-free",
-        "cs2-wall-hack-2026",
-        "cs2-walls",
-        "deep-learning",
-        "machine-learning",
-        "vac-bypass-2026",
-        "wifi"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
       "id": "1445228828",
       "name": "FirstLight-Zero",
       "nameWithOwner": "Jaasssoooonnnnn/FirstLight-Zero",
       "description": "AlphaZero-style self-play Clash Royale. It beats a human-data imitation model",
       "url": "https://github.com/Jaasssoooonnnnn/FirstLight-Zero",
-      "stargazerCount": 12,
+      "stargazerCount": 14,
       "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
@@ -162,7 +130,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/176039635?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-04T06:03:46Z",
-      "updatedAt": "2026-11-07T06:56:37Z",
+      "updatedAt": "2026-11-07T15:39:00Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "alphazero",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T11:01:36Z",
+  "generatedAt": "2026-11-08T11:15:41Z",
   "topic": "kubernetes",
   "totalCount": 3,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "AgainstPegasus/cmangos-rpocket-helm",
       "description": "Helm chart and images for CMaNGOS: WoW Classic (1.12.1), TBC (2.4.3) and WotLK (3.3.5a)",
       "url": "https://github.com/AgainstPegasus/cmangos-rpocket-helm",
-      "stargazerCount": 40,
+      "stargazerCount": 69,
       "forkCount": 0,
       "languageName": "HTML",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/351039566?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-05T11:54:19Z",
-      "updatedAt": "2026-11-05T13:52:59Z",
+      "updatedAt": "2026-11-07T17:45:00Z",
       "licenseName": null,
       "topics": [
         "game-server",
@@ -40,7 +40,7 @@
       "nameWithOwner": "ryph-hq/ryph",
       "description": "🤖 Self-hosted coding agents for your team: on call for your incidents, in your chat, on your forge.",
       "url": "https://github.com/ryph-hq/ryph",
-      "stargazerCount": 14,
+      "stargazerCount": 16,
       "forkCount": 1,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -48,7 +48,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/339071776?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-11-04T15:21:24Z",
-      "updatedAt": "2026-11-07T10:34:35Z",
+      "updatedAt": "2026-11-08T07:06:12Z",
       "licenseName": "MIT",
       "topics": [
         "agent-orchestration",

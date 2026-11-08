@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-07T11:01:36Z",
+  "generatedAt": "2026-11-08T11:15:41Z",
   "topic": "devops",
-  "totalCount": 9,
+  "totalCount": 10,
   "repos": [
     {
       "id": "1446941098",
@@ -9,7 +9,7 @@
       "nameWithOwner": "Darktotemport/Microsoft-rpocket-PowerPoint-2026",
       "description": "Standardize your Microsoft PowerPoint 2026 setup and project workflow on Windows with these design, organization, and export best practices.",
       "url": "https://github.com/Darktotemport/Microsoft-rpocket-PowerPoint-2026",
-      "stargazerCount": 38,
+      "stargazerCount": 67,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/351013410?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-05T11:57:33Z",
-      "updatedAt": "2026-11-05T14:04:02Z",
+      "updatedAt": "2026-11-07T17:53:08Z",
       "licenseName": null,
       "topics": [
         "color-picker",
@@ -43,12 +43,43 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1449671412",
+      "name": "cifuse",
+      "nameWithOwner": "brunnojob/cifuse",
+      "description": "Turn noisy CI logs into grouped failures, exact evidence and investigation steps. Offline CLI, reusable GitHub Action and bilingual browser workbench. No API keys.",
+      "url": "https://github.com/brunnojob/cifuse",
+      "stargazerCount": 25,
+      "forkCount": 0,
+      "languageName": "JavaScript",
+      "languageColor": null,
+      "ownerLogin": "brunnojob",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/169157603?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-11-07T19:24:34Z",
+      "updatedAt": "2026-11-08T09:31:27Z",
+      "licenseName": "MIT",
+      "topics": [
+        "automation",
+        "ci",
+        "cli",
+        "developer-tools",
+        "devops",
+        "github-actions",
+        "github-pages",
+        "javascript",
+        "log-analysis",
+        "offline"
+      ],
+      "openIssuesCount": 3,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1445834532",
       "name": "ryph",
       "nameWithOwner": "ryph-hq/ryph",
       "description": "🤖 Self-hosted coding agents for your team: on call for your incidents, in your chat, on your forge.",
       "url": "https://github.com/ryph-hq/ryph",
-      "stargazerCount": 14,
+      "stargazerCount": 16,
       "forkCount": 1,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -56,7 +87,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/339071776?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-11-04T15:21:24Z",
-      "updatedAt": "2026-11-07T10:34:35Z",
+      "updatedAt": "2026-11-08T07:06:12Z",
       "licenseName": "MIT",
       "topics": [
         "agent-orchestration",
@@ -193,15 +224,15 @@
       "nameWithOwner": "Nandkishorrr/unit7",
       "description": "The backend developer your AI coding agent never had. Self-hosted control room for servers, Coolify, domains, databases and backups, with MCP.",
       "url": "https://github.com/Nandkishorrr/unit7",
-      "stargazerCount": 8,
-      "forkCount": 0,
+      "stargazerCount": 9,
+      "forkCount": 1,
       "languageName": "TypeScript",
       "languageColor": null,
       "ownerLogin": "Nandkishorrr",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/193479824?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-06T10:22:34Z",
-      "updatedAt": "2026-11-07T08:30:16Z",
+      "updatedAt": "2026-11-07T21:36:27Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ai-agents",
@@ -266,7 +297,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/45848139?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-04T17:28:59Z",
-      "updatedAt": "2026-11-07T07:49:57Z",
+      "updatedAt": "2026-11-08T07:20:42Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "agent-governance",
@@ -288,7 +319,7 @@
         "sre",
         "supply-chain-security"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {

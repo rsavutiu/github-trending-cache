@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T11:01:36Z",
+  "generatedAt": "2026-11-08T11:15:41Z",
   "topic": "data-science",
   "totalCount": 2,
   "repos": [
@@ -41,7 +41,7 @@
       "nameWithOwner": "Burakkylmz/ml-labs",
       "description": "A hands-on Machine Learning laboratory built with Python, Scikit-learn, Pandas, NumPy, JupyterLab, Docker, and uv. Features reproducible, step-by-step labs covering data analysis, statistics, EDA, preprocessing, model training, evaluation, and forecasting.",
       "url": "https://github.com/Burakkylmz/ml-labs",
-      "stargazerCount": 13,
+      "stargazerCount": 14,
       "forkCount": 5,
       "languageName": "Jupyter Notebook",
       "languageColor": null,
@@ -49,7 +49,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/29861339?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-03T11:59:55Z",
-      "updatedAt": "2026-11-06T09:48:38Z",
+      "updatedAt": "2026-11-07T16:30:38Z",
       "licenseName": null,
       "topics": [
         "data-preprocessing",
