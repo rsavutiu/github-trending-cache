@@ -1,40 +1,8 @@
 {
-  "generatedAt": "2026-11-08T11:15:41Z",
+  "generatedAt": "2026-11-09T12:48:25Z",
   "topic": "data-science",
-  "totalCount": 2,
+  "totalCount": 1,
   "repos": [
-    {
-      "id": "1443018818",
-      "name": "interactive-ai-ml-tools",
-      "nameWithOwner": "Future-Proof-DS/interactive-ai-ml-tools",
-      "description": "Free interactive tools for data scientists to learn MLOps, ML system design and agentic analytics: a production ML system map, ML project structure, data drift simulator, agentic analytics system map and AI evals.",
-      "url": "https://github.com/Future-Proof-DS/interactive-ai-ml-tools",
-      "stargazerCount": 28,
-      "forkCount": 2,
-      "languageName": null,
-      "languageColor": null,
-      "ownerLogin": "Future-Proof-DS",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/232044963?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-11-02T13:44:28Z",
-      "updatedAt": "2026-11-07T01:29:34Z",
-      "licenseName": null,
-      "topics": [
-        "agentic-ai",
-        "ai-agents",
-        "data-drift",
-        "data-science",
-        "interactive-learning",
-        "llm-evaluation",
-        "machine-learning",
-        "ml-system-design",
-        "mlops",
-        "model-monitoring",
-        "text-to-sql"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1444229625",
       "name": "ml-labs",

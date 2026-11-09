@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T11:15:41Z",
+  "generatedAt": "2026-11-09T12:48:25Z",
   "topic": "web",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "BeforeSamurai/oh-i-see-resocket",
       "description": "Evidence-backed visual regression audits for web apps with Playwright: responsive UI checks, accessibility signals, screenshots, measurements, and reproducible findings.",
       "url": "https://github.com/BeforeSamurai/oh-i-see-resocket",
-      "stargazerCount": 67,
+      "stargazerCount": 59,
       "forkCount": 0,
       "languageName": "HTML",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/351013926?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-05T11:58:02Z",
-      "updatedAt": "2026-11-07T17:53:39Z",
+      "updatedAt": "2026-11-09T12:36:04Z",
       "licenseName": null,
       "topics": [
         "antislop",
@@ -39,15 +39,15 @@
       "nameWithOwner": "sysoppl/Calendar-CE",
       "description": "Calendar CE: Private calendar and task manager for the web and Android. Your events stay on your device or your own CalDAV server. Self-host with Docker or use end-to-end encrypted hosted version.",
       "url": "https://github.com/sysoppl/Calendar-CE",
-      "stargazerCount": 30,
-      "forkCount": 1,
+      "stargazerCount": 37,
+      "forkCount": 3,
       "languageName": "TypeScript",
       "languageColor": null,
       "ownerLogin": "sysoppl",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/30871217?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-04T11:04:01Z",
-      "updatedAt": "2026-11-08T02:55:07Z",
+      "updatedAt": "2026-11-09T11:56:32Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "agpl",

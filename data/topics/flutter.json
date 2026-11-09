@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-08T11:15:41Z",
+  "generatedAt": "2026-11-09T12:48:25Z",
   "topic": "flutter",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1445321678",
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/124241833?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-04T07:47:47Z",
-      "updatedAt": "2026-11-08T11:14:51Z",
+      "updatedAt": "2026-11-08T19:34:20Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "android",
@@ -34,28 +34,28 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1443150730",
-      "name": "dongle-me",
-      "nameWithOwner": "Hawever-renbo/dongle-me",
-      "description": "Information bottleneck: X–T–Y and multi-T research, applied to care for older adults living alone. Synthetic bilingual demo.",
-      "url": "https://github.com/Hawever-renbo/dongle-me",
-      "stargazerCount": 11,
-      "forkCount": 0,
+      "id": "1449913208",
+      "name": "vhsfin",
+      "nameWithOwner": "markdid/vhsfin",
+      "description": "A small Jellyfin client with a VHS player interface.",
+      "url": "https://github.com/markdid/vhsfin",
+      "stargazerCount": 20,
+      "forkCount": 2,
       "languageName": "Dart",
       "languageColor": null,
-      "ownerLogin": "Hawever-renbo",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/220888416?v=4",
+      "ownerLogin": "markdid",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14829066?v=4",
       "ownerType": "User",
-      "createdAt": "2026-11-02T15:40:01Z",
-      "updatedAt": "2026-11-07T13:25:49Z",
-      "licenseName": null,
+      "createdAt": "2026-11-08T02:36:47Z",
+      "updatedAt": "2026-11-09T10:57:53Z",
+      "licenseName": "GPL-3.0",
       "topics": [
-        "elder-care",
         "flutter",
-        "information-bottleneck",
-        "prototype"
+        "jellyfin",
+        "self-hosted",
+        "vhs"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 3,
       "closedIssuesCount": 0
     },
     {
@@ -91,31 +91,6 @@
         "locketwidget",
         "macos",
         "windows"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1449913208",
-      "name": "vhsfin",
-      "nameWithOwner": "markdid/vhsfin",
-      "description": "A small Jellyfin client with a VHS player interface.",
-      "url": "https://github.com/markdid/vhsfin",
-      "stargazerCount": 8,
-      "forkCount": 0,
-      "languageName": "Dart",
-      "languageColor": null,
-      "ownerLogin": "markdid",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14829066?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-11-08T02:36:47Z",
-      "updatedAt": "2026-11-08T08:14:10Z",
-      "licenseName": "GPL-3.0",
-      "topics": [
-        "flutter",
-        "jellyfin",
-        "self-hosted",
-        "vhs"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
