@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-09T12:48:25Z",
+  "generatedAt": "2026-11-10T12:35:17Z",
   "topic": "deep-learning",
-  "totalCount": 4,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1446965145",
@@ -111,6 +111,47 @@
         "game-ai",
         "reinforcement-learning",
         "self-play"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1445952008",
+      "name": "PulmoScope",
+      "nameWithOwner": "ali-119/PulmoScope",
+      "description": "   An end-to-end AI pipeline that screens lung CT slices for nodules and localizes them, using patient risk factors, a CNN classifier, and U-Net segmentation.",
+      "url": "https://github.com/ali-119/PulmoScope",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Jupyter Notebook",
+      "languageColor": null,
+      "ownerLogin": "ali-119",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/192454166?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-11-04T17:01:26Z",
+      "updatedAt": "2026-11-09T14:55:02Z",
+      "licenseName": "MIT",
+      "topics": [
+        "algorithms",
+        "classification",
+        "ct-scan",
+        "ct-segmentation",
+        "deep-learning",
+        "disease-detection",
+        "fastapi",
+        "fine-tuning",
+        "health",
+        "image-classification",
+        "image-processing",
+        "image-segmentation",
+        "machine-learning",
+        "medical-imaging",
+        "neural-networks",
+        "python",
+        "segmentation",
+        "tensorflow",
+        "transfer-learning",
+        "u-net"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

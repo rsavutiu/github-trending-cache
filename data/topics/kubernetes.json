@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-09T12:48:25Z",
+  "generatedAt": "2026-11-10T12:35:17Z",
   "topic": "kubernetes",
-  "totalCount": 3,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1446937747",
@@ -9,7 +9,7 @@
       "nameWithOwner": "AgainstPegasus/cmangos-rpocket-helm",
       "description": "Helm chart and images for CMaNGOS: WoW Classic (1.12.1), TBC (2.4.3) and WotLK (3.3.5a)",
       "url": "https://github.com/AgainstPegasus/cmangos-rpocket-helm",
-      "stargazerCount": 61,
+      "stargazerCount": 59,
       "forkCount": 0,
       "languageName": "HTML",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/351039566?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-05T11:54:19Z",
-      "updatedAt": "2026-11-09T12:19:32Z",
+      "updatedAt": "2026-11-09T22:48:36Z",
       "licenseName": null,
       "topics": [
         "game-server",
@@ -30,6 +30,41 @@
         "vanilla-wow",
         "wow-emulator",
         "wrath-of-the-lich-king"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1450660323",
+      "name": "DevOps-Cloud-Interview-Preparation-by-DevOps-Shack",
+      "nameWithOwner": "jaiswaladi246/DevOps-Cloud-Interview-Preparation-by-DevOps-Shack",
+      "description": "13,200 DevOps & Cloud interview Q&As + 20 hands-on labs + 500 assignments. Linux, Docker, K8s, CI/CD, Terraform, AWS, Azure, DevSecOps, SRE & more. By DevOps Shack (youtube.com/@devopsshack)",
+      "url": "https://github.com/jaiswaladi246/DevOps-Cloud-Interview-Preparation-by-DevOps-Shack",
+      "stargazerCount": 18,
+      "forkCount": 27,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "jaiswaladi246",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/32607172?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-11-08T21:01:55Z",
+      "updatedAt": "2026-11-10T11:15:29Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "ansible",
+        "aws",
+        "azure",
+        "cicd",
+        "devops",
+        "devops-shack",
+        "devsecops",
+        "docker",
+        "interview-preparation",
+        "interview-questions",
+        "kubernetes",
+        "linux",
+        "sre",
+        "terraform"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -48,7 +83,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/339071776?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-11-04T15:21:24Z",
-      "updatedAt": "2026-11-09T12:45:22Z",
+      "updatedAt": "2026-11-09T13:04:00Z",
       "licenseName": "MIT",
       "topics": [
         "agent-orchestration",
@@ -67,7 +102,36 @@
         "self-hosted",
         "sre"
       ],
-      "openIssuesCount": 1,
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1449557622",
+      "name": "AI_Engineer_Roadmap_2027",
+      "nameWithOwner": "simranjeet97/AI_Engineer_Roadmap_2027",
+      "description": "A 10-week, staff-level curriculum and engineering roadmap focused on LLM inference systems, serving physics, custom kernels, disaggregated architectures, and production optimization.",
+      "url": "https://github.com/simranjeet97/AI_Engineer_Roadmap_2027",
+      "stargazerCount": 6,
+      "forkCount": 1,
+      "languageName": "Jupyter Notebook",
+      "languageColor": null,
+      "ownerLogin": "simranjeet97",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/38141273?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-11-07T16:56:59Z",
+      "updatedAt": "2026-11-10T09:13:51Z",
+      "licenseName": "Apache-2.0",
+      "topics": [
+        "ai-engineering",
+        "distributed-systems",
+        "kubernetes",
+        "llm-inference",
+        "ml-systems",
+        "pagedattention",
+        "sglang",
+        "vllm"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
