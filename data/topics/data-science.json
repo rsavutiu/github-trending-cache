@@ -1,6 +1,73 @@
 {
-  "generatedAt": "2026-11-10T12:35:17Z",
+  "generatedAt": "2026-11-11T11:51:32Z",
   "topic": "data-science",
-  "totalCount": 0,
-  "repos": []
+  "totalCount": 2,
+  "repos": [
+    {
+      "id": "1448750170",
+      "name": "ride-demand-forecaster",
+      "nameWithOwner": "hexsyro/ride-demand-forecaster",
+      "description": "Bike-share demand forecasting: RMSE compared across raw, encoded, scaled and engineered features.",
+      "url": "https://github.com/hexsyro/ride-demand-forecaster",
+      "stargazerCount": 8,
+      "forkCount": 1,
+      "languageName": "Jupyter Notebook",
+      "languageColor": null,
+      "ownerLogin": "hexsyro",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/205477897?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-11-06T21:08:20Z",
+      "updatedAt": "2026-11-11T10:42:45Z",
+      "licenseName": null,
+      "topics": [
+        "bike-sharing",
+        "data-preprocessing",
+        "data-science",
+        "demand-forecasting",
+        "feature-engineering",
+        "machine-learning",
+        "random-forest",
+        "regression",
+        "rmse",
+        "scikit-learn",
+        "time-series"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1453043890",
+      "name": "ml4sci",
+      "nameWithOwner": "pjmbatman/ml4sci",
+      "description": "Interactive lessons, graded Python labs and quizzes for researchers bringing machine learning into science, all in a learning desktop in your browser. 216 chapters · English · 한국어",
+      "url": "https://github.com/pjmbatman/ml4sci",
+      "stargazerCount": 7,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "pjmbatman",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/178534001?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-11-10T18:31:24Z",
+      "updatedAt": "2026-11-11T11:43:44Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "ai-for-science",
+        "data-science",
+        "deep-learning",
+        "education",
+        "interactive-learning",
+        "machine-learning",
+        "online-course",
+        "physics-informed-machine-learning",
+        "pyodide",
+        "python",
+        "research",
+        "scientific-machine-learning",
+        "textbook"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    }
+  ]
 }
