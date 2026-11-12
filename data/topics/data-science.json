@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T11:51:32Z",
+  "generatedAt": "2026-11-12T12:38:59Z",
   "topic": "data-science",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "hexsyro/ride-demand-forecaster",
       "description": "Bike-share demand forecasting: RMSE compared across raw, encoded, scaled and engineered features.",
       "url": "https://github.com/hexsyro/ride-demand-forecaster",
-      "stargazerCount": 8,
+      "stargazerCount": 36,
       "forkCount": 1,
       "languageName": "Jupyter Notebook",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/205477897?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-06T21:08:20Z",
-      "updatedAt": "2026-11-11T10:42:45Z",
+      "updatedAt": "2026-11-12T03:25:39Z",
       "licenseName": null,
       "topics": [
         "bike-sharing",
@@ -41,7 +41,7 @@
       "nameWithOwner": "pjmbatman/ml4sci",
       "description": "Interactive lessons, graded Python labs and quizzes for researchers bringing machine learning into science, all in a learning desktop in your browser. 216 chapters · English · 한국어",
       "url": "https://github.com/pjmbatman/ml4sci",
-      "stargazerCount": 7,
+      "stargazerCount": 13,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -49,7 +49,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/178534001?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-10T18:31:24Z",
-      "updatedAt": "2026-11-11T11:43:44Z",
+      "updatedAt": "2026-11-12T12:38:45Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "ai-for-science",
