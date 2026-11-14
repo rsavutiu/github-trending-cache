@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T12:09:04Z",
+  "generatedAt": "2026-11-14T11:26:29Z",
   "topic": "flutter",
   "totalCount": 5,
   "repos": [
@@ -68,7 +68,7 @@
       "nameWithOwner": "Mods-Center/HyperOS-Rust-Launcher-Mod",
       "description": "Mods the new HyperOS 4 Rust/Flutter launcher: dock background, soft-glass tuning, pick any search app, -1 screen choice, hide apps, free widget resizing, plus the HyperLauncherExt settings app. Magisk / KernelSU / APatch module.",
       "url": "https://github.com/Mods-Center/HyperOS-Rust-Launcher-Mod",
-      "stargazerCount": 12,
+      "stargazerCount": 13,
       "forkCount": 0,
       "languageName": "Shell",
       "languageColor": null,
@@ -76,7 +76,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/119596471?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-11-10T15:27:51Z",
-      "updatedAt": "2026-11-13T09:37:21Z",
+      "updatedAt": "2026-11-13T17:39:39Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "android",
@@ -92,37 +92,6 @@
         "root",
         "rust",
         "xiaomi"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1449033752",
-      "name": "kuangshuati",
-      "nameWithOwner": "xinghe-labs/kuangshuati",
-      "description": "把行测真题装进手机，断网也能刷。不注册、不登录、不埋点，作答记录只留在这台设备上。",
-      "url": "https://github.com/xinghe-labs/kuangshuati",
-      "stargazerCount": 11,
-      "forkCount": 2,
-      "languageName": "Dart",
-      "languageColor": null,
-      "ownerLogin": "xinghe-labs",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/139060321?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-11-07T04:46:34Z",
-      "updatedAt": "2026-11-12T16:18:48Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "android",
-        "civil-service",
-        "exam-prep",
-        "flutter",
-        "gongkao",
-        "offline-first",
-        "quiz-app",
-        "sqlite",
-        "web",
-        "xingce"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
@@ -151,6 +120,32 @@
         "morphing",
         "text",
         "typography"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1456731774",
+      "name": "nepal-kit",
+      "nameWithOwner": "lohanidamodar/nepal-kit",
+      "description": "Dart & Flutter toolkit for Nepal apps: Bikram Sambat dates, NPR money, amount in words, VAT, phone numbers, address data, Devanagari receipt PDFs, SMS reminders.",
+      "url": "https://github.com/lohanidamodar/nepal-kit",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Dart",
+      "languageColor": null,
+      "ownerLogin": "lohanidamodar",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6360216?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-11-13T14:57:04Z",
+      "updatedAt": "2026-11-14T09:37:59Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "bikram-sambat",
+        "dart",
+        "flutter",
+        "nepal",
+        "nepali"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

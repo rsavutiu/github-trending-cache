@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T12:09:04Z",
+  "generatedAt": "2026-11-14T11:26:29Z",
   "topic": "data-science",
   "totalCount": 4,
   "repos": [
@@ -107,7 +107,7 @@
       "nameWithOwner": "joedejesus/JJ_ML_DL_BOOK",
       "description": "Recurso educativo en español sobre Data Science, Machine Learning, Deep Learning, NLP y Transformers con Python, PyTorch y Jupyter.",
       "url": "https://github.com/joedejesus/JJ_ML_DL_BOOK",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 0,
       "languageName": "Jupyter Notebook",
       "languageColor": null,
@@ -115,7 +115,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/200772327?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-09T10:21:51Z",
-      "updatedAt": "2026-11-12T13:05:08Z",
+      "updatedAt": "2026-11-13T12:43:33Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "artificial-intelligence",
