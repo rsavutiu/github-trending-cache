@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-15T11:55:51Z",
+  "generatedAt": "2026-11-16T12:41:44Z",
   "topic": "data-science",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1453043890",
@@ -61,41 +61,6 @@
         "python",
         "scikit",
         "scikit-learn"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1451218506",
-      "name": "JJ_ML_DL_BOOK",
-      "nameWithOwner": "joedejesus/JJ_ML_DL_BOOK",
-      "description": "Recurso educativo en español sobre Data Science, Machine Learning, Deep Learning, NLP y Transformers con Python, PyTorch y Jupyter.",
-      "url": "https://github.com/joedejesus/JJ_ML_DL_BOOK",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "Jupyter Notebook",
-      "languageColor": null,
-      "ownerLogin": "joedejesus",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/200772327?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-11-09T10:21:51Z",
-      "updatedAt": "2026-11-13T12:43:33Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "artificial-intelligence",
-        "data-science",
-        "deep-learning",
-        "education",
-        "huggingface",
-        "jupyter-notebook",
-        "machine-learning",
-        "nlp",
-        "numpy",
-        "pandas",
-        "python",
-        "pytorch",
-        "scikit-learn",
-        "transformers"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

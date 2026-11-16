@@ -1,38 +1,8 @@
 {
-  "generatedAt": "2026-11-15T11:55:51Z",
+  "generatedAt": "2026-11-16T12:41:44Z",
   "topic": "devops",
   "totalCount": 7,
   "repos": [
-    {
-      "id": "1450792839",
-      "name": "panel",
-      "nameWithOwner": "serveroshq/panel",
-      "description": "The open source ServerOS panel: one place to run the Linux servers you already own.",
-      "url": "https://github.com/serveroshq/panel",
-      "stargazerCount": 827,
-      "forkCount": 65,
-      "languageName": "PHP",
-      "languageColor": null,
-      "ownerLogin": "serveroshq",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/300786045?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-11-09T00:47:33Z",
-      "updatedAt": "2026-11-15T11:57:03Z",
-      "licenseName": "AGPL-3.0",
-      "topics": [
-        "agpl",
-        "control-panel",
-        "devops",
-        "laravel",
-        "open-source",
-        "self-hosted",
-        "server-management",
-        "serveros",
-        "vps"
-      ],
-      "openIssuesCount": 20,
-      "closedIssuesCount": 0
-    },
     {
       "id": "1452864416",
       "name": "solana-vigil",
@@ -80,7 +50,7 @@
       "nameWithOwner": "spacesky-cell/TwinFix",
       "description": "TwinFix — AI agent that diagnoses, reproduces and fixes bugs in a disposable twin environment. 在一次性孪生环境中自动诊断、复现并修复故障的 AI Agent。",
       "url": "https://github.com/spacesky-cell/TwinFix",
-      "stargazerCount": 89,
+      "stargazerCount": 124,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -88,7 +58,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/168260973?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-13T08:02:56Z",
-      "updatedAt": "2026-11-15T11:57:12Z",
+      "updatedAt": "2026-11-16T10:54:12Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "ai-agent",
@@ -107,6 +77,32 @@
         "sre"
       ],
       "openIssuesCount": 2,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1459013836",
+      "name": "k8s-homelab-sailor",
+      "nameWithOwner": "ConvergeNode/k8s-homelab-sailor",
+      "description": "Homelab k8s sailor log — ingress, storage classes and upgrades.",
+      "url": "https://github.com/ConvergeNode/k8s-homelab-sailor",
+      "stargazerCount": 98,
+      "forkCount": 0,
+      "languageName": null,
+      "languageColor": null,
+      "ownerLogin": "ConvergeNode",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/350981617?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-11-15T16:41:29Z",
+      "updatedAt": "2026-11-15T22:56:00Z",
+      "licenseName": "MIT",
+      "topics": [
+        "devops",
+        "homelab",
+        "infra",
+        "kubernetes",
+        "self-hosted"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -187,7 +183,7 @@
       "nameWithOwner": "DasCondor/kubefactory",
       "description": "A first-person factory game that views and manages your Kubernetes clusters and Docker containers",
       "url": "https://github.com/DasCondor/kubefactory",
-      "stargazerCount": 34,
+      "stargazerCount": 39,
       "forkCount": 1,
       "languageName": "GDScript",
       "languageColor": null,
@@ -195,7 +191,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9624591?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-13T21:01:23Z",
-      "updatedAt": "2026-11-15T09:50:16Z",
+      "updatedAt": "2026-11-16T10:03:09Z",
       "licenseName": "MIT",
       "topics": [
         "cluster-management",
@@ -216,7 +212,7 @@
       "nameWithOwner": "jhermesn/easyreview",
       "description": "Free study notes for AWS Certification exams, written from the AWS documentation: sections, diagrams and spaced-repetition flashcards.",
       "url": "https://github.com/jhermesn/easyreview",
-      "stargazerCount": 8,
+      "stargazerCount": 11,
       "forkCount": 2,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -224,7 +220,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/91022739?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-13T20:57:10Z",
-      "updatedAt": "2026-11-15T02:29:49Z",
+      "updatedAt": "2026-11-16T11:35:18Z",
       "licenseName": "MIT",
       "topics": [
         "astro",
