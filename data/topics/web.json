@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T13:18:14Z",
+  "generatedAt": "2026-11-18T13:00:26Z",
   "topic": "web",
   "totalCount": 1,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "DearLicy/guomu",
       "description": "果幕 - 黄果短剧第三方 Flutter 客户端，支持 Android、iOS、离线缓存与网页预览",
       "url": "https://github.com/DearLicy/guomu",
-      "stargazerCount": 16,
+      "stargazerCount": 24,
       "forkCount": 12,
       "languageName": "Dart",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/113395685?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-16T12:03:13Z",
-      "updatedAt": "2026-11-17T13:01:39Z",
+      "updatedAt": "2026-11-18T11:55:10Z",
       "licenseName": "GPL-3.0",
       "topics": [
         "android",
