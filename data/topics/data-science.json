@@ -1,37 +1,6 @@
 {
-  "generatedAt": "2026-11-18T13:00:26Z",
+  "generatedAt": "2026-11-19T12:58:46Z",
   "topic": "data-science",
-  "totalCount": 1,
-  "repos": [
-    {
-      "id": "1455496156",
-      "name": "Oribi",
-      "nameWithOwner": "samhoon000/Oribi",
-      "description": "Python library for generating AI-ready data context without sharing raw data.",
-      "url": "https://github.com/samhoon000/Oribi",
-      "stargazerCount": 13,
-      "forkCount": 1,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "samhoon000",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/186294900?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-11-12T15:39:07Z",
-      "updatedAt": "2026-11-17T17:23:08Z",
-      "licenseName": "MIT",
-      "topics": [
-        "artificial-intelligence",
-        "data-analysis",
-        "data-science",
-        "dataset",
-        "generative-ai",
-        "llm",
-        "pandas",
-        "privacy",
-        "python"
-      ],
-      "openIssuesCount": 25,
-      "closedIssuesCount": 0
-    }
-  ]
+  "totalCount": 0,
+  "repos": []
 }

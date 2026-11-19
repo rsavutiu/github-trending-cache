@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-18T13:00:26Z",
+  "generatedAt": "2026-11-19T12:58:46Z",
   "topic": "machine-learning",
-  "totalCount": 4,
+  "totalCount": 3,
   "repos": [
     {
       "id": "1457897892",
@@ -77,7 +77,7 @@
       "nameWithOwner": "di37/animated-machine-learning-algorithm",
       "description": "Watch scikit-learn models learn and predict: live training and inference animations, narrated lessons and Manim videos for California Housing (regression) and Titanic (classification)",
       "url": "https://github.com/di37/animated-machine-learning-algorithm",
-      "stargazerCount": 17,
+      "stargazerCount": 20,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -85,7 +85,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/20547074?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-17T10:01:32Z",
-      "updatedAt": "2026-11-18T10:57:09Z",
+      "updatedAt": "2026-11-19T12:03:53Z",
       "licenseName": null,
       "topics": [
         "animation",
@@ -108,34 +108,6 @@
         "scikit-learn",
         "titanic",
         "xai"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1455265196",
-      "name": "ZehenSync",
-      "nameWithOwner": "Hamzaviour/ZehenSync",
-      "description": "ZehenSync: a multimodal screening-support platform for mental health, built for patients, psychologists and psychology students. It screens and never diagnoses — a licensed psychologist makes every call.",
-      "url": "https://github.com/Hamzaviour/ZehenSync",
-      "stargazerCount": 15,
-      "forkCount": 0,
-      "languageName": "HTML",
-      "languageColor": null,
-      "ownerLogin": "Hamzaviour",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/188789572?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-11-12T12:22:46Z",
-      "updatedAt": "2026-11-18T09:48:33Z",
-      "licenseName": null,
-      "topics": [
-        "ai",
-        "final-year-project",
-        "healthcare",
-        "machine-learning",
-        "mental-health",
-        "multimodal",
-        "screening"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
