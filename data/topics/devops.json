@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-20T12:50:41Z",
+  "generatedAt": "2026-11-21T12:35:47Z",
   "topic": "devops",
-  "totalCount": 5,
+  "totalCount": 6,
   "repos": [
     {
       "id": "1459205029",
@@ -126,7 +126,7 @@
       "nameWithOwner": "gengwg/g5a",
       "description": "Read-only Grafana dashboard TUI with responsive grids, variables, transformations, and live queries",
       "url": "https://github.com/gengwg/g5a",
-      "stargazerCount": 19,
+      "stargazerCount": 22,
       "forkCount": 0,
       "languageName": "Go",
       "languageColor": null,
@@ -134,7 +134,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/3356786?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-15T16:29:02Z",
-      "updatedAt": "2026-11-20T03:39:25Z",
+      "updatedAt": "2026-11-21T03:04:29Z",
       "licenseName": "MIT",
       "topics": [
         "cli",
@@ -150,6 +150,38 @@
         "tui"
       ],
       "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1462437978",
+      "name": "black-friday-deals",
+      "nameWithOwner": "techiescamp/black-friday-deals",
+      "description": "Black Friday & Cyber Monday 2026 Deals Tracker for DevOps engineers by DevOpsCube. Coupon codes for Kubernetes certifications (CKA, CKAD, CKS), Linux Foundation, courses, tech books and web hosting.",
+      "url": "https://github.com/techiescamp/black-friday-deals",
+      "stargazerCount": 7,
+      "forkCount": 5,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "techiescamp",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/106984297?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-11-18T07:01:39Z",
+      "updatedAt": "2026-11-21T07:24:05Z",
+      "licenseName": null,
+      "topics": [
+        "black-friday",
+        "black-friday-2026",
+        "black-friday-deals",
+        "cka",
+        "coupon-codes",
+        "cyber-monday",
+        "devops",
+        "kubernetes",
+        "kubernetes-certification",
+        "linux-foundation",
+        "web-hosting"
+      ],
+      "openIssuesCount": 9,
       "closedIssuesCount": 0
     }
   ]

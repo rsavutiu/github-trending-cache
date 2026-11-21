@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-20T12:50:41Z",
+  "generatedAt": "2026-11-21T12:35:47Z",
   "topic": "kubernetes",
-  "totalCount": 5,
+  "totalCount": 6,
   "repos": [
     {
       "id": "1459174292",
@@ -40,15 +40,15 @@
       "nameWithOwner": "hackclub/orchard",
       "description": "Open-source, self-hosted Deployment Platform. Deploy from Git to your own server with one command.",
       "url": "https://github.com/hackclub/orchard",
-      "stargazerCount": 104,
-      "forkCount": 7,
+      "stargazerCount": 114,
+      "forkCount": 8,
       "languageName": "TypeScript",
       "languageColor": null,
       "ownerLogin": "hackclub",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5633654?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-11-17T03:13:58Z",
-      "updatedAt": "2026-11-20T11:39:30Z",
+      "updatedAt": "2026-11-21T12:00:49Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "deployment",
@@ -63,7 +63,33 @@
         "self-hosted",
         "selfhosted"
       ],
-      "openIssuesCount": 7,
+      "openIssuesCount": 12,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1463416046",
+      "name": "ai-software-factory",
+      "nameWithOwner": "piomin/ai-software-factory",
+      "description": "AI Software Factory running on Kubernetes / OpenShift with Tekton and vLLM",
+      "url": "https://github.com/piomin/ai-software-factory",
+      "stargazerCount": 109,
+      "forkCount": 21,
+      "languageName": "Dockerfile",
+      "languageColor": null,
+      "ownerLogin": "piomin",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/2892502?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-11-18T22:42:16Z",
+      "updatedAt": "2026-11-21T10:15:39Z",
+      "licenseName": null,
+      "topics": [
+        "claude-code",
+        "kubernetes",
+        "opencode",
+        "tekton",
+        "vllm"
+      ],
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -119,29 +145,35 @@
       "closedIssuesCount": 0
     },
     {
-      "id": "1463416046",
-      "name": "ai-software-factory",
-      "nameWithOwner": "piomin/ai-software-factory",
-      "description": "AI Software Factory running on Kubernetes / OpenShift with Tekton and vLLM",
-      "url": "https://github.com/piomin/ai-software-factory",
-      "stargazerCount": 11,
-      "forkCount": 1,
-      "languageName": "Dockerfile",
+      "id": "1462437978",
+      "name": "black-friday-deals",
+      "nameWithOwner": "techiescamp/black-friday-deals",
+      "description": "Black Friday & Cyber Monday 2026 Deals Tracker for DevOps engineers by DevOpsCube. Coupon codes for Kubernetes certifications (CKA, CKAD, CKS), Linux Foundation, courses, tech books and web hosting.",
+      "url": "https://github.com/techiescamp/black-friday-deals",
+      "stargazerCount": 7,
+      "forkCount": 5,
+      "languageName": "Python",
       "languageColor": null,
-      "ownerLogin": "piomin",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/2892502?v=4",
+      "ownerLogin": "techiescamp",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/106984297?v=4",
       "ownerType": "User",
-      "createdAt": "2026-11-18T22:42:16Z",
-      "updatedAt": "2026-11-20T12:49:18Z",
+      "createdAt": "2026-11-18T07:01:39Z",
+      "updatedAt": "2026-11-21T07:24:05Z",
       "licenseName": null,
       "topics": [
-        "claude-code",
+        "black-friday",
+        "black-friday-2026",
+        "black-friday-deals",
+        "cka",
+        "coupon-codes",
+        "cyber-monday",
+        "devops",
         "kubernetes",
-        "opencode",
-        "tekton",
-        "vllm"
+        "kubernetes-certification",
+        "linux-foundation",
+        "web-hosting"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 9,
       "closedIssuesCount": 0
     }
   ]
