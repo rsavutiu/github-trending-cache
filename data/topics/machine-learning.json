@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-21T12:35:47Z",
+  "generatedAt": "2026-11-22T12:32:52Z",
   "topic": "machine-learning",
-  "totalCount": 8,
+  "totalCount": 7,
   "repos": [
     {
       "id": "1462895937",
@@ -9,7 +9,7 @@
       "nameWithOwner": "pgmergulhao75-dot/openbb-calvona-market-research",
       "description": "Openbb Calvona Market Research delivers structured market data analysis and research workflows.",
       "url": "https://github.com/pgmergulhao75-dot/openbb-calvona-market-research",
-      "stargazerCount": 152,
+      "stargazerCount": 150,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/256686915?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-18T14:17:33Z",
-      "updatedAt": "2026-11-21T01:28:16Z",
+      "updatedAt": "2026-11-21T19:00:20Z",
       "licenseName": null,
       "topics": [
         "backtesting",
@@ -44,7 +44,7 @@
       "nameWithOwner": "hasan6969macho-bit/vectorbt-avoria-analysis",
       "description": "Vectorbt research code for Avoria analysis, built for reproducible strategy experiments.",
       "url": "https://github.com/hasan6969macho-bit/vectorbt-avoria-analysis",
-      "stargazerCount": 152,
+      "stargazerCount": 150,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -52,7 +52,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/299824974?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-18T14:26:25Z",
-      "updatedAt": "2026-11-21T01:28:18Z",
+      "updatedAt": "2026-11-21T19:00:21Z",
       "licenseName": "MIT",
       "topics": [
         "backtesting",
@@ -79,7 +79,7 @@
       "nameWithOwner": "hexsyro/kaggle-dress-rehearsal",
       "description": "Validation discipline for Kaggle: stratified CV, Grid vs Random vs Optuna, and a public/private leaderboard simulation.",
       "url": "https://github.com/hexsyro/kaggle-dress-rehearsal",
-      "stargazerCount": 47,
+      "stargazerCount": 46,
       "forkCount": 0,
       "languageName": "HTML",
       "languageColor": null,
@@ -87,7 +87,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/205477897?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-19T11:18:28Z",
-      "updatedAt": "2026-11-20T15:07:28Z",
+      "updatedAt": "2026-11-21T16:24:55Z",
       "licenseName": "MIT",
       "topics": [
         "churn-prediction",
@@ -155,7 +155,7 @@
       "nameWithOwner": "Genesis-Molecular-AI/genesis-potency-dataset",
       "description": "GenesisPotency is a large public dataset of potency measurements for use in training and evaluating potency prediction models.",
       "url": "https://github.com/Genesis-Molecular-AI/genesis-potency-dataset",
-      "stargazerCount": 10,
+      "stargazerCount": 12,
       "forkCount": 2,
       "languageName": null,
       "languageColor": null,
@@ -163,7 +163,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/359269126?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-11-18T17:04:01Z",
-      "updatedAt": "2026-11-21T11:09:53Z",
+      "updatedAt": "2026-11-22T12:22:54Z",
       "licenseName": "CC-BY-SA-4.0",
       "topics": [
         "binding-affinity",
@@ -203,36 +203,6 @@
         "pgvector",
         "rabbitmq",
         "take-home-assessment"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1459309653",
-      "name": "solarcast-belgium",
-      "nameWithOwner": "Junaid-Bashir/solarcast-belgium",
-      "description": "Python toolkit for benchmarking energy forecasting models, starting with Belgian day-ahead solar PV.",
-      "url": "https://github.com/Junaid-Bashir/solarcast-belgium",
-      "stargazerCount": 7,
-      "forkCount": 0,
-      "languageName": "Python",
-      "languageColor": null,
-      "ownerLogin": "Junaid-Bashir",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/47460568?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-11-15T22:42:38Z",
-      "updatedAt": "2026-11-21T11:42:37Z",
-      "licenseName": "Apache-2.0",
-      "topics": [
-        "belgium",
-        "elia",
-        "energy-forecasting",
-        "lightgbm",
-        "machine-learning",
-        "photovoltaics",
-        "solar",
-        "time-series",
-        "time-series-foundation-models"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

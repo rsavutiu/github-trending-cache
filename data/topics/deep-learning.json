@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-21T12:35:47Z",
+  "generatedAt": "2026-11-22T12:32:52Z",
   "topic": "deep-learning",
-  "totalCount": 3,
+  "totalCount": 4,
   "repos": [
     {
       "id": "1459780170",
@@ -9,15 +9,15 @@
       "nameWithOwner": "kobimusic/dettato",
       "description": "KobiMusic's multi-instrument audio-to-MIDI transcriber: notes, instrument tracks and drums from any recording",
       "url": "https://github.com/kobimusic/dettato",
-      "stargazerCount": 201,
-      "forkCount": 13,
+      "stargazerCount": 250,
+      "forkCount": 17,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "kobimusic",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/333631979?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-11-16T09:06:56Z",
-      "updatedAt": "2026-11-21T12:16:40Z",
+      "updatedAt": "2026-11-22T12:10:10Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "audio-to-midi",
@@ -29,7 +29,7 @@
         "music-transcription",
         "pytorch"
       ],
-      "openIssuesCount": 0,
+      "openIssuesCount": 1,
       "closedIssuesCount": 0
     },
     {
@@ -38,7 +38,7 @@
       "nameWithOwner": "dickoyudha-netizen/adobe-firefly-image-creator",
       "description": "Generate images from text prompts with Adobe Firefly Image Creator.",
       "url": "https://github.com/dickoyudha-netizen/adobe-firefly-image-creator",
-      "stargazerCount": 152,
+      "stargazerCount": 150,
       "forkCount": 0,
       "languageName": "HTML",
       "languageColor": null,
@@ -46,7 +46,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/284888064?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-19T23:40:08Z",
-      "updatedAt": "2026-11-21T01:28:33Z",
+      "updatedAt": "2026-11-21T19:00:50Z",
       "licenseName": "MIT",
       "topics": [
         "adobe",
@@ -85,6 +85,37 @@
         "deepmimic",
         "robotics",
         "world-model"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1464874771",
+      "name": "DOGAN",
+      "nameWithOwner": "Saturn-He/DOGAN",
+      "description": "Official PyTorch implementation of DOGAN: DINO-based optical-prior-driven GAN for SAR-to-optical image translation (IEEE TGRS 2025).",
+      "url": "https://github.com/Saturn-He/DOGAN",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "Saturn-He",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/112156349?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-11-20T02:06:56Z",
+      "updatedAt": "2026-11-21T21:33:24Z",
+      "licenseName": null,
+      "topics": [
+        "deep-learning",
+        "dino",
+        "gan",
+        "ieee-tgrs",
+        "image-to-image-translation",
+        "optical-image-synthesis",
+        "pytorch",
+        "remote-sensing",
+        "sar-to-optical",
+        "synthetic-aperture-radar"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
