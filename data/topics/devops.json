@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T12:32:52Z",
+  "generatedAt": "2026-11-23T14:32:24Z",
   "topic": "devops",
   "totalCount": 1,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "techiescamp/black-friday-deals",
       "description": "Black Friday & Cyber Monday 2026 Deals Tracker for DevOps engineers by DevOpsCube. Coupon codes for Kubernetes certifications (CKA, CKAD, CKS), Linux Foundation, courses, tech books and web hosting.",
       "url": "https://github.com/techiescamp/black-friday-deals",
-      "stargazerCount": 7,
-      "forkCount": 6,
+      "stargazerCount": 9,
+      "forkCount": 7,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "techiescamp",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/106984297?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-18T07:01:39Z",
-      "updatedAt": "2026-11-21T07:24:05Z",
+      "updatedAt": "2026-11-23T05:37:35Z",
       "licenseName": null,
       "topics": [
         "black-friday",
@@ -32,7 +32,7 @@
         "linux-foundation",
         "web-hosting"
       ],
-      "openIssuesCount": 10,
+      "openIssuesCount": 11,
       "closedIssuesCount": 0
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T12:32:52Z",
+  "generatedAt": "2026-11-23T14:32:24Z",
   "topic": "kubernetes",
   "totalCount": 3,
   "repos": [
@@ -9,15 +9,15 @@
       "nameWithOwner": "piomin/ai-software-factory",
       "description": "AI Software Factory running on Kubernetes / OpenShift with Tekton and vLLM",
       "url": "https://github.com/piomin/ai-software-factory",
-      "stargazerCount": 131,
-      "forkCount": 22,
+      "stargazerCount": 139,
+      "forkCount": 24,
       "languageName": "Dockerfile",
       "languageColor": null,
       "ownerLogin": "piomin",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/2892502?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-18T22:42:16Z",
-      "updatedAt": "2026-11-22T10:57:42Z",
+      "updatedAt": "2026-11-23T11:56:10Z",
       "licenseName": null,
       "topics": [
         "claude-code",
@@ -35,15 +35,15 @@
       "nameWithOwner": "hackclub/orchard",
       "description": "Open-source, self-hosted Deployment Platform. Deploy from Git to your own server with one command.",
       "url": "https://github.com/hackclub/orchard",
-      "stargazerCount": 119,
-      "forkCount": 8,
+      "stargazerCount": 131,
+      "forkCount": 11,
       "languageName": "TypeScript",
       "languageColor": null,
       "ownerLogin": "hackclub",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5633654?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-11-17T03:13:58Z",
-      "updatedAt": "2026-11-22T11:38:30Z",
+      "updatedAt": "2026-11-23T10:28:40Z",
       "licenseName": "AGPL-3.0",
       "topics": [
         "deployment",
@@ -58,7 +58,7 @@
         "self-hosted",
         "selfhosted"
       ],
-      "openIssuesCount": 12,
+      "openIssuesCount": 15,
       "closedIssuesCount": 0
     },
     {
@@ -67,15 +67,15 @@
       "nameWithOwner": "techiescamp/black-friday-deals",
       "description": "Black Friday & Cyber Monday 2026 Deals Tracker for DevOps engineers by DevOpsCube. Coupon codes for Kubernetes certifications (CKA, CKAD, CKS), Linux Foundation, courses, tech books and web hosting.",
       "url": "https://github.com/techiescamp/black-friday-deals",
-      "stargazerCount": 7,
-      "forkCount": 6,
+      "stargazerCount": 9,
+      "forkCount": 7,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "techiescamp",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/106984297?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-18T07:01:39Z",
-      "updatedAt": "2026-11-21T07:24:05Z",
+      "updatedAt": "2026-11-23T05:37:35Z",
       "licenseName": null,
       "topics": [
         "black-friday",
@@ -90,7 +90,7 @@
         "linux-foundation",
         "web-hosting"
       ],
-      "openIssuesCount": 10,
+      "openIssuesCount": 11,
       "closedIssuesCount": 0
     }
   ]
