@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-23T14:32:24Z",
+  "generatedAt": "2026-11-24T14:49:54Z",
   "topic": "data-science",
-  "totalCount": 4,
+  "totalCount": 5,
   "repos": [
     {
       "id": "1463287864",
@@ -9,7 +9,7 @@
       "nameWithOwner": "aurahamzzz-cyber/microsoft-excel-alvaora",
       "description": "Automates structured data workflows and spreadsheet task orchestration in Excel.",
       "url": "https://github.com/aurahamzzz-cyber/microsoft-excel-alvaora",
-      "stargazerCount": 144,
+      "stargazerCount": 68,
       "forkCount": 0,
       "languageName": "Python",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/301871031?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-18T20:12:14Z",
-      "updatedAt": "2026-11-23T13:41:55Z",
+      "updatedAt": "2026-11-23T18:24:29Z",
       "licenseName": null,
       "topics": [
         "analytics",
@@ -50,7 +50,7 @@
       "nameWithOwner": "hasan6969macho-bit/vectorbt-avoria-analysis",
       "description": "Vectorbt research code for Avoria analysis, built for reproducible strategy experiments.",
       "url": "https://github.com/hasan6969macho-bit/vectorbt-avoria-analysis",
-      "stargazerCount": 144,
+      "stargazerCount": 68,
       "forkCount": 0,
       "languageName": "TypeScript",
       "languageColor": null,
@@ -58,7 +58,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/299824974?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-18T14:26:25Z",
-      "updatedAt": "2026-11-23T13:41:48Z",
+      "updatedAt": "2026-11-23T18:24:31Z",
       "licenseName": "MIT",
       "topics": [
         "backtesting",
@@ -85,15 +85,15 @@
       "nameWithOwner": "sharukh01621/first-line-to-first-paper",
       "description": "From First Line to First Paper: 860-page open textbook + 182 Google Colab notebooks mastering Python, Biostatistics, ML, and PyTorch Deep Learning.",
       "url": "https://github.com/sharukh01621/first-line-to-first-paper",
-      "stargazerCount": 20,
-      "forkCount": 5,
+      "stargazerCount": 32,
+      "forkCount": 9,
       "languageName": "Jupyter Notebook",
       "languageColor": null,
       "ownerLogin": "sharukh01621",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/89514079?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-21T17:27:37Z",
-      "updatedAt": "2026-11-23T14:21:50Z",
+      "updatedAt": "2026-11-24T12:07:36Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "biostatistics",
@@ -135,6 +135,32 @@
         "record-linkage",
         "splink",
         "tutorial"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1463824139",
+      "name": "ds-take-home",
+      "nameWithOwner": "OneCreditMY/ds-take-home",
+      "description": "Take-home assessment for early-career Data Scientists (0 to 2 years of experience) at OneCredit.",
+      "url": "https://github.com/OneCreditMY/ds-take-home",
+      "stargazerCount": 6,
+      "forkCount": 0,
+      "languageName": "HTML",
+      "languageColor": null,
+      "ownerLogin": "OneCreditMY",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/167088985?v=4",
+      "ownerType": "Organization",
+      "createdAt": "2026-11-19T07:43:50Z",
+      "updatedAt": "2026-11-24T11:18:28Z",
+      "licenseName": null,
+      "topics": [
+        "data-science",
+        "evaluation",
+        "hiring",
+        "llm",
+        "take-home-assessment"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
