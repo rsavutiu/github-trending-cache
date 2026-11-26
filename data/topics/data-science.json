@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T14:16:49Z",
+  "generatedAt": "2026-11-26T13:51:53Z",
   "topic": "data-science",
-  "totalCount": 3,
+  "totalCount": 2,
   "repos": [
     {
       "id": "1466789098",
@@ -9,7 +9,7 @@
       "nameWithOwner": "sharukh01621/first-line-to-first-paper",
       "description": "From First Line to First Paper: 860-page open textbook + 182 Google Colab notebooks mastering Python, Biostatistics, ML, and PyTorch Deep Learning.",
       "url": "https://github.com/sharukh01621/first-line-to-first-paper",
-      "stargazerCount": 34,
+      "stargazerCount": 35,
       "forkCount": 11,
       "languageName": "Jupyter Notebook",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/89514079?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-21T17:27:37Z",
-      "updatedAt": "2026-11-25T02:37:12Z",
+      "updatedAt": "2026-11-26T11:19:04Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "biostatistics",
@@ -59,32 +59,6 @@
         "record-linkage",
         "splink",
         "tutorial"
-      ],
-      "openIssuesCount": 0,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1463824139",
-      "name": "ds-take-home",
-      "nameWithOwner": "OneCreditMY/ds-take-home",
-      "description": "Take-home assessment for early-career Data Scientists (0 to 2 years of experience) at OneCredit.",
-      "url": "https://github.com/OneCreditMY/ds-take-home",
-      "stargazerCount": 6,
-      "forkCount": 0,
-      "languageName": "HTML",
-      "languageColor": null,
-      "ownerLogin": "OneCreditMY",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/167088985?v=4",
-      "ownerType": "Organization",
-      "createdAt": "2026-11-19T07:43:50Z",
-      "updatedAt": "2026-11-24T11:18:28Z",
-      "licenseName": null,
-      "topics": [
-        "data-science",
-        "evaluation",
-        "hiring",
-        "llm",
-        "take-home-assessment"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T14:16:49Z",
+  "generatedAt": "2026-11-26T13:51:53Z",
   "topic": "deep-learning",
-  "totalCount": 5,
+  "totalCount": 6,
   "repos": [
     {
       "id": "1466789098",
@@ -9,7 +9,7 @@
       "nameWithOwner": "sharukh01621/first-line-to-first-paper",
       "description": "From First Line to First Paper: 860-page open textbook + 182 Google Colab notebooks mastering Python, Biostatistics, ML, and PyTorch Deep Learning.",
       "url": "https://github.com/sharukh01621/first-line-to-first-paper",
-      "stargazerCount": 34,
+      "stargazerCount": 35,
       "forkCount": 11,
       "languageName": "Jupyter Notebook",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/89514079?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-21T17:27:37Z",
-      "updatedAt": "2026-11-25T02:37:12Z",
+      "updatedAt": "2026-11-26T11:19:04Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "biostatistics",
@@ -38,15 +38,15 @@
       "nameWithOwner": "viniciusscience/fishid-studio",
       "description": "Open-source Computer Vision & Deep Learning platform for Marine Fish Identification, Fisheries Electronic Monitoring (EM), Video Tracking (ByteTrack + SAM 2) & Biometry | Visão Computacional e Monitoramento Pesqueiro",
       "url": "https://github.com/viniciusscience/fishid-studio",
-      "stargazerCount": 26,
-      "forkCount": 12,
+      "stargazerCount": 30,
+      "forkCount": 14,
       "languageName": "Python",
       "languageColor": null,
       "ownerLogin": "viniciusscience",
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/91754606?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-22T19:41:30Z",
-      "updatedAt": "2026-11-25T12:51:51Z",
+      "updatedAt": "2026-11-26T12:35:58Z",
       "licenseName": "MIT",
       "topics": [
         "bytetrack",
@@ -70,7 +70,7 @@
         "sdg14",
         "streamlit"
       ],
-      "openIssuesCount": 105,
+      "openIssuesCount": 98,
       "closedIssuesCount": 0
     },
     {
@@ -79,7 +79,7 @@
       "nameWithOwner": "lifeiteng/Flash-SoftDTW",
       "description": "⚡ Fast, memory-lean, exact soft-DTW for PyTorch — CUDA & CPU, dense & banded, forward & backward. Up to 365× faster, no length cap.",
       "url": "https://github.com/lifeiteng/Flash-SoftDTW",
-      "stargazerCount": 10,
+      "stargazerCount": 11,
       "forkCount": 1,
       "languageName": "Python",
       "languageColor": null,
@@ -87,7 +87,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/3107839?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-20T15:07:18Z",
-      "updatedAt": "2026-11-24T12:25:38Z",
+      "updatedAt": "2026-11-26T08:17:32Z",
       "licenseName": "Apache-2.0",
       "topics": [
         "cuda",
@@ -174,6 +174,39 @@
         "remote-sensing",
         "sar-to-optical",
         "synthetic-aperture-radar"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
+      "id": "1469361650",
+      "name": "Crear-LLM-desde-cero",
+      "nameWithOwner": "jceronch1/Crear-LLM-desde-cero",
+      "description": "Pasos y tecnologías para crear un LLM desde cero creado con una CPU o GPU.",
+      "url": "https://github.com/jceronch1/Crear-LLM-desde-cero",
+      "stargazerCount": 6,
+      "forkCount": 2,
+      "languageName": "Python",
+      "languageColor": null,
+      "ownerLogin": "jceronch1",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/180856809?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-11-23T22:08:32Z",
+      "updatedAt": "2026-11-26T04:30:14Z",
+      "licenseName": "MIT",
+      "topics": [
+        "attention-is-all-you-need",
+        "chatbot",
+        "curso",
+        "deep-learning",
+        "desde-cero",
+        "educacion",
+        "espanol",
+        "jupyter",
+        "llm",
+        "pytorch",
+        "tinystories",
+        "transformer"
       ],
       "openIssuesCount": 0,
       "closedIssuesCount": 0
