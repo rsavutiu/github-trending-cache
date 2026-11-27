@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T13:51:53Z",
+  "generatedAt": "2026-11-27T13:48:55Z",
   "topic": "vue",
   "totalCount": 5,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "Buggo404/RID-Uninstaller",
       "description": "Open-source Windows uninstaller: removes programs with their leftovers, shows why each leftover was found, and can restore whatever it deleted. Rust + Tauri.",
       "url": "https://github.com/Buggo404/RID-Uninstaller",
-      "stargazerCount": 71,
+      "stargazerCount": 102,
       "forkCount": 1,
       "languageName": "Rust",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/211195115?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-23T02:05:47Z",
-      "updatedAt": "2026-11-26T13:45:34Z",
+      "updatedAt": "2026-11-27T13:15:47Z",
       "licenseName": "MIT",
       "topics": [
         "cleanup-tool",
@@ -50,7 +50,7 @@
       "nameWithOwner": "blanka-alt/-ai-thesis-writing-platform",
       "description": "💥 AI论文生成/写作系统源码：开题报告、文献综述、无限改稿、格式排版、降重降AIGC、答辩PPT、科研工具。Vue+SpringBoot+Django；支持OEM白标/商户加盟，旗舰版与PRO双版本。",
       "url": "https://github.com/blanka-alt/-ai-thesis-writing-platform",
-      "stargazerCount": 52,
+      "stargazerCount": 78,
       "forkCount": 0,
       "languageName": null,
       "languageColor": null,
@@ -58,7 +58,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/361154515?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-25T13:43:01Z",
-      "updatedAt": "2026-11-26T12:00:31Z",
+      "updatedAt": "2026-11-27T13:32:15Z",
       "licenseName": null,
       "topics": [
         "academic-writing",
@@ -77,12 +77,39 @@
       "closedIssuesCount": 0
     },
     {
+      "id": "1471314986",
+      "name": "MIKASA-OPTIMIZER",
+      "nameWithOwner": "guyue1337/MIKASA-OPTIMIZER",
+      "description": "MIKASA OPTIMIZER · 三笠优选 — Windows Cloudflare 多地区 IP 优选工具，支持真实测速、结果导出与 GitHub 订阅上传。",
+      "url": "https://github.com/guyue1337/MIKASA-OPTIMIZER",
+      "stargazerCount": 17,
+      "forkCount": 6,
+      "languageName": "Rust",
+      "languageColor": null,
+      "ownerLogin": "guyue1337",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/359883465?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-11-25T05:43:12Z",
+      "updatedAt": "2026-11-26T23:00:56Z",
+      "licenseName": "NOASSERTION",
+      "topics": [
+        "cloudflare",
+        "mikasa-optimizer",
+        "rust",
+        "tauri",
+        "vue",
+        "windows"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
+    {
       "id": "1469815657",
       "name": "notifications",
       "nameWithOwner": "inertiaui/notifications",
       "description": "Toasts and notifications for Laravel + Inertia.js",
       "url": "https://github.com/inertiaui/notifications",
-      "stargazerCount": 15,
+      "stargazerCount": 17,
       "forkCount": 0,
       "languageName": "PHP",
       "languageColor": null,
@@ -90,7 +117,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/172183131?v=4",
       "ownerType": "Organization",
       "createdAt": "2026-11-24T07:40:34Z",
-      "updatedAt": "2026-11-26T03:28:56Z",
+      "updatedAt": "2026-11-27T07:03:09Z",
       "licenseName": "MIT",
       "topics": [
         "inertiajs",
@@ -103,33 +130,6 @@
         "vue"
       ],
       "openIssuesCount": 1,
-      "closedIssuesCount": 0
-    },
-    {
-      "id": "1471314986",
-      "name": "MIKASA-OPTIMIZER",
-      "nameWithOwner": "guyue1337/MIKASA-OPTIMIZER",
-      "description": "MIKASA OPTIMIZER · 三笠优选 — Windows Cloudflare 多地区 IP 优选工具，支持真实测速、结果导出与 GitHub 订阅上传。",
-      "url": "https://github.com/guyue1337/MIKASA-OPTIMIZER",
-      "stargazerCount": 7,
-      "forkCount": 2,
-      "languageName": "Rust",
-      "languageColor": null,
-      "ownerLogin": "guyue1337",
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/359883465?v=4",
-      "ownerType": "User",
-      "createdAt": "2026-11-25T05:43:12Z",
-      "updatedAt": "2026-11-26T08:12:10Z",
-      "licenseName": "NOASSERTION",
-      "topics": [
-        "cloudflare",
-        "mikasa-optimizer",
-        "rust",
-        "tauri",
-        "vue",
-        "windows"
-      ],
-      "openIssuesCount": 0,
       "closedIssuesCount": 0
     },
     {
@@ -158,7 +158,7 @@
         "port",
         "vue"
       ],
-      "openIssuesCount": 2,
+      "openIssuesCount": 0,
       "closedIssuesCount": 0
     }
   ]

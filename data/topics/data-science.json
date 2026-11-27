@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T13:51:53Z",
+  "generatedAt": "2026-11-27T13:48:55Z",
   "topic": "data-science",
   "totalCount": 2,
   "repos": [
@@ -9,7 +9,7 @@
       "nameWithOwner": "sharukh01621/first-line-to-first-paper",
       "description": "From First Line to First Paper: 860-page open textbook + 182 Google Colab notebooks mastering Python, Biostatistics, ML, and PyTorch Deep Learning.",
       "url": "https://github.com/sharukh01621/first-line-to-first-paper",
-      "stargazerCount": 35,
+      "stargazerCount": 37,
       "forkCount": 11,
       "languageName": "Jupyter Notebook",
       "languageColor": null,
@@ -17,7 +17,7 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/89514079?v=4",
       "ownerType": "User",
       "createdAt": "2026-11-21T17:27:37Z",
-      "updatedAt": "2026-11-26T11:19:04Z",
+      "updatedAt": "2026-11-27T13:22:28Z",
       "licenseName": "NOASSERTION",
       "topics": [
         "biostatistics",
