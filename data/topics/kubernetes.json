@@ -1,8 +1,39 @@
 {
-  "generatedAt": "2026-11-27T13:48:55Z",
+  "generatedAt": "2026-11-28T12:57:16Z",
   "topic": "kubernetes",
-  "totalCount": 2,
+  "totalCount": 3,
   "repos": [
+    {
+      "id": "1473658854",
+      "name": "cmangos-helm-charts",
+      "nameWithOwner": "kimriverogacu15-png/cmangos-helm-charts",
+      "description": "Helm Charts: Deploy WoW Classic, TBC and WotLK Realms",
+      "url": "https://github.com/kimriverogacu15-png/cmangos-helm-charts",
+      "stargazerCount": 177,
+      "forkCount": 0,
+      "languageName": "HTML",
+      "languageColor": null,
+      "ownerLogin": "kimriverogacu15-png",
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/237509713?v=4",
+      "ownerType": "User",
+      "createdAt": "2026-11-26T20:48:51Z",
+      "updatedAt": "2026-11-28T12:51:20Z",
+      "licenseName": "MIT",
+      "topics": [
+        "game-server",
+        "helm",
+        "helm-chart",
+        "homelab",
+        "kubernetes",
+        "mangos",
+        "tbc",
+        "vanilla-wow",
+        "wow-emulator",
+        "wrath-of-the-lich-king"
+      ],
+      "openIssuesCount": 0,
+      "closedIssuesCount": 0
+    },
     {
       "id": "1468975879",
       "name": "kubelearn",
